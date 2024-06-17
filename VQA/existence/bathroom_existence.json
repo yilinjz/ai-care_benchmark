@@ -1,0 +1,345 @@
+[
+    {
+        "scene_id": "bathroom_44",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "query": {
+                    "en-US": "Is there a toothbrush in the scene?",
+                    "zh-HK": "場景中有冇牙刷啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "1",
+                "query": {
+                    "en-US": "Is there a toilet in the scene?",
+                    "zh-HK": "場景中有冇廁所啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "2",
+                "query": {
+                    "en-US": "Is there a toothpaste in the scene?",
+                    "zh-HK": "場景中有冇牙膏啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            },
+            {
+                "qid": "3",
+                "query": {
+                    "en-US": "Is there a phone in the scene?",
+                    "zh-HK": "場景中有冇手機啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_49",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "query": {
+                    "en-US": "Is there a bottle in the scene?",
+                    "zh-HK": "場景中有冇瓶子啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "1",
+                "query": {
+                    "en-US": "Is there a sink in the scene?",
+                    "zh-HK": "場景中有冇水槽啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "2",
+                "query": {
+                    "en-US": "Is there a bucket in the scene?",
+                    "zh-HK": "場景中有冇桶啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            },
+            {
+                "qid": "3",
+                "query": {
+                    "en-US": "Is there a towel in the scene?",
+                    "zh-HK": "場景中有冇毛巾啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_170",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "query": {
+                    "en-US": "Is there a toilet in the scene?",
+                    "zh-HK": "場景中有冇廁所啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "1",
+                "query": {
+                    "en-US": "Is there a sink in the scene?",
+                    "zh-HK": "場景中有冇水槽啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "2",
+                "query": {
+                    "en-US": "Is there a toothbrush in the scene?",
+                    "zh-HK": "場景中有冇牙刷啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            },
+            {
+                "qid": "3",
+                "query": {
+                    "en-US": "Is there a toothpaste in the scene?",
+                    "zh-HK": "場景中有冇牙膏啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_500",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "query": {
+                    "en-US": "Is there a bottle in the scene?",
+                    "zh-HK": "場景中有冇瓶子啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "1",
+                "query": {
+                    "en-US": "Is there a toothbrush in the scene?",
+                    "zh-HK": "場景中有冇牙刷啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "2",
+                "query": {
+                    "en-US": "Is there a hair dryer in the scene?",
+                    "zh-HK": "場景中有冇風筒啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            },
+            {
+                "qid": "3",
+                "query": {
+                    "en-US": "Is there a air conditioner in the scene?",
+                    "zh-HK": "場景中有冇空調啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_505",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "query": {
+                    "en-US": "Is there a toilet in the scene?",
+                    "zh-HK": "場景中有冇廁所啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "1",
+                "query": {
+                    "en-US": "Is there a bottle in the scene?",
+                    "zh-HK": "場景中有冇瓶子啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "2",
+                "query": {
+                    "en-US": "Is there a screwdriver in the scene?",
+                    "zh-HK": "場景中有冇螺絲批啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            },
+            {
+                "qid": "3",
+                "query": {
+                    "en-US": "Is there a soap in the scene?",
+                    "zh-HK": "場景中有冇肥皂啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_509",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "query": {
+                    "en-US": "Is there a cup in the scene?",
+                    "zh-HK": "場景中有冇杯子啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "1",
+                "query": {
+                    "en-US": "Is there a toothbrush in the scene?",
+                    "zh-HK": "場景中有冇牙刷啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "2",
+                "query": {
+                    "en-US": "Is there a mop in the scene?",
+                    "zh-HK": "場景中有冇地拖啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            },
+            {
+                "qid": "3",
+                "query": {
+                    "en-US": "Is there a toilet paper in the scene?",
+                    "zh-HK": "場景中有冇廁紙啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_656",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "query": {
+                    "en-US": "Is there a cup in the scene?",
+                    "zh-HK": "場景中有冇杯子啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "1",
+                "query": {
+                    "en-US": "Is there a sink in the scene?",
+                    "zh-HK": "場景中有冇水槽啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "2",
+                "query": {
+                    "en-US": "Is there a trash can in the scene?",
+                    "zh-HK": "場景中有冇垃圾桶啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            },
+            {
+                "qid": "3",
+                "query": {
+                    "en-US": "Is there a shower head in the scene?",
+                    "zh-HK": "場景中有冇淋浴花灑啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-HK": "冇"
+                }
+            }
+        ]
+    }
+]
