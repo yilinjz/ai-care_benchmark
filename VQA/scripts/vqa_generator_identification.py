@@ -1,5 +1,5 @@
 import json
-from variable_existence import scene_tag, category_tag, scene_ids, item_lists, generate_question, answer_key, ENUS_TO_ZHHK
+from variable_identification import scene_tag, category_tag, scene_ids, question_pool
 
 output = []
 
@@ -10,15 +10,10 @@ for i, scene_id in enumerate(scene_ids):
     qa_pairs = []
 
     # each question
-    item_list = item_lists[i]
-    for j, item in enumerate(item_list):
+    for j, question in enumerate(question_pool):
         qa_object = {}
         qa_object['qid'] = str(j)
-        qa_object['query'] = generate_question(item)
-        qa_object['answer'] = {
-            "en-US": answer_key[i][j],
-            "zh-HK": ENUS_TO_ZHHK[answer_key[i][j]]
-        } 
+        qa_object['query'] = question
         qa_pairs.append(qa_object)
 
     scene_object['qa_pairs'] = qa_pairs

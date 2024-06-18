@@ -2,6 +2,7 @@ import random
 
 # ========== bathroom ==========
 scene_tag = "bathroom"
+category_tag = "existence"
 
 frame_num = [44, 49, 170, 500, 505, 509, 656]
 scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
