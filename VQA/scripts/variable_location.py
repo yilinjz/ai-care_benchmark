@@ -49,15 +49,15 @@ def generate_question(item):
             "zh-HK": f"離我最近嘅{ENUS_TO_ZHHK[item]}喺邊度？"
         },
         {
-            "en-US": f"In which direction is the cup from my current position?",
+            "en-US": f"In which direction is the {item} from my current position?",
             "zh-HK": f"{ENUS_TO_ZHHK[item]}由我而家嘅位置喺邊個方向？"
         },
         {
-            "en-US": f"Find where the item is, please.",
+            "en-US": f"Find where the {item} is, please.",
             "zh-HK": f"請幫我搵吓{ENUS_TO_ZHHK[item]}喺邊。"
         },
         {
-            "en-US": f"Could you guide me to the position of the item?",
+            "en-US": f"Could you guide me to the position of the {item}?",
             "zh-HK": f"你可以引導我去到{ENUS_TO_ZHHK[item]}嘅位置嗎？"
         },
     ]
