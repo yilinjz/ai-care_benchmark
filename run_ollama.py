@@ -4,8 +4,8 @@ import json
 
 import ollama
 
-from utils.const import benchmark_list, language_list, prompt_words
-from utils.helper import process_context, get_instruction_type
+from utils.const import language_list, benchmark_list
+from utils.helper import process_context, get_instruction_type, translate_word
 
 
 ###### MODEL ID #####
@@ -17,8 +17,8 @@ def ai_agent_remote(question, context, system_prompt, language):
     '''
     Client call to ollama
     '''
-    question_prompt = f"# {prompt_words['question'][language]}:\n```{question}```\n\n"
-    context_prompt = f"# {prompt_words['context'][language]}:\n```{context}```\n\n"
+    question_prompt = f"# {translate_word('Question', language)}:\n```{question}```\n\n"
+    context_prompt = f"# {translate_word('Context', language)}:\n```{context}```\n\n"
     messages = [
         {"role": "system", "content": f"{system_prompt}"},
         {"role": "user", "content": f"{question_prompt}{context_prompt}"}
@@ -51,12 +51,12 @@ def cmd_agent():
                 data[i]['qa_pairs'][j]['result'] = {}
                 ### loops through each language (English, Mandarin and Cantonese)
                 for language in language_list:
-                    query = qa_pair['query'][language]
+                    question = qa_pair['question'][language]
                     path_to_instruction = f"benchmark/prompt/{get_instruction_type(benchmark_name)}.json"
                     system_prompt = json.load(open(path_to_instruction, encoding="utf8"))[language]
                     # run inferance
                     data[i]['qa_pairs'][j]['result'][language] = ai_agent_remote(
-                        question=query,
+                        question=question,
                         context=context,
                         system_prompt=system_prompt,
                         language=language,

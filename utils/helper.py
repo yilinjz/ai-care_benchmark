@@ -1,3 +1,5 @@
+from utils.dictionary import WORD_DICTIONARY
+
 def process_context(context_json):
     context = []
     for object in context_json:
@@ -23,3 +25,6 @@ def get_instruction_type(benchmark_name):
     else:
         raise ValueError("Unknown Instruction Type")
     return f"{instruction_type}_instruction"
+
+def translate_word(word, language):
+    return WORD_DICTIONARY[word][language]
