@@ -1,4 +1,3 @@
-import json
 import os
 import sys
 
@@ -8,9 +7,12 @@ parent = os.path.dirname(parent)
 parent = os.path.dirname(parent)
 sys.path.append(parent)
 
-from variable_existence import category_tag, question_pool, scene_tag, scene_ids, item_lists, answer_key, generate_questions
+import json
+
+from variable_existence import category_tag, question_pool, scene_tag, scene_ids, item_lists, answer_keys
 from utils.const import language_list
-from utils.helper import translate_word
+from utils.helper import translate_word, generate_questions
+
 
 output = []
 # loop through each image
@@ -21,19 +23,20 @@ for i, scene_id in enumerate(scene_ids):
 
     # get the items
     item_list = item_lists[i]
-    pool = list(range(0, len(question_pool)))
+    index_pool = list(range(0, len(question_pool)))
     # make a question for each item
     for j, item in enumerate(item_list):
         qa_object = {}
-        qa_object['qid'] = str(j)
 
+        qa_object['qid'] = str(j)
         qa_object['question'] = {}
-        pool, question = generate_questions(pool, item)
+        index_pool, question = generate_questions(index_pool, question_pool, item, language_list)
         for language in language_list:
             qa_object['question'][language.value] = question[language]
         qa_object['answer'] = {}
         for language in language_list:
-            qa_object['answer'][language.value] = translate_word(answer_key[i][j], language)
+            qa_object['answer'][language.value] = translate_word(answer_keys[i][j], language)
+            
         qa_pairs.append(qa_object)
 
     scene_object['qa_pairs'] = qa_pairs

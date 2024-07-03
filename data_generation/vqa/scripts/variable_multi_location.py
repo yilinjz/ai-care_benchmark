@@ -1,8 +1,47 @@
-import random
+from utils.const import LANGUAGE
+
+### ========== CONSTANT ========== ###
+
+category_tag = "multi-location"
+
+question_pool = [
+    {
+        LANGUAGE.EN_US: f"Where is [dt] located relative to [rf]?",
+        LANGUAGE.ZH_CN: f"[dt]是在[rf]的哪边?",
+        LANGUAGE.ZH_HK: f"[dt]喺在[rf]的邊度?",
+    },
+    {
+        LANGUAGE.EN_US: f"How do I reach [dt] from [rf]?",
+        LANGUAGE.ZH_CN: f"我怎样可以从[rf]摸到[dt]?",
+        LANGUAGE.ZH_HK: f"我點樣可以由[rf]揾到[dt]?",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you point me towards [dt] from where [rf] is?",
+        LANGUAGE.ZH_CN: f"你能否指引我怎样从[rf]到[dt]?",
+        LANGUAGE.ZH_HK: f"你可以指俾我睇，由[rf]點樣揾到[dt]?",
+    },
+    {
+        LANGUAGE.EN_US: f"From [rf], which direction should I move to find [dt]?",
+        LANGUAGE.ZH_CN: f"我从[rf]开始往哪个方向移动可以到[dt]?",
+        LANGUAGE.ZH_HK: f"我由[rf]要行邊個方向去揾[dt]?",
+    },
+    {
+        LANGUAGE.EN_US: f"If I'm facing [rf], in which direction is [dt]?",
+        LANGUAGE.ZH_CN: f"我现在正面对[rf], [dt]在哪个方向?",
+        LANGUAGE.ZH_HK: f"我對住[rf], [dt]喺邊個方向？",
+    },
+    {
+        LANGUAGE.EN_US: f"If [rf] is in front of me, where should I look for [dt]?",
+        LANGUAGE.ZH_CN: f"如果[rf]在我正前方，我应该往哪边找[dt]?",
+        LANGUAGE.ZH_HK: f"[rf]喺在我面前，我應該望邊度搵[dt]?",
+    }
+]
+
+### ========== VARIABLE ========== ###
 
 # ========== bathroom ==========
 scene_tag = "bathroom"
-category_tag = "multi-location"
+
 
 frame_num = [44, 49, 170, 500, 505, 509, 656]
 scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
@@ -26,53 +65,3 @@ answer_keys = [
     ['up', 'up/up and right', 'right'],
     ['down and left', 'up', 'up/up and left']
 ]
-
-ENUS_TO_ZHHK = {
-    "person": "人",
-    "toothbrush": "牙刷",
-    "toilet": "廁所",
-    "toothpaste": "牙膏",
-    "phone": "手機",
-    "bottle": "瓶子",
-    "hair dryer": "風筒",
-    "air conditioner": "空調",
-    "screwdriver": "螺絲批",
-    "soap": "肥皂",
-    "cup": "杯子",
-    "mop": "地拖",
-    "toilet paper": "廁紙",
-    "sink": "水槽",
-    "trash can": "垃圾桶",
-    "shower head": "淋浴花灑",
-    "bucket": "桶",
-    "towel": "毛巾",
-}
-
-def generate_question(target, reference):
-    pool = [
-        {
-            "en-US": f"Where is {target} located relative to {reference}?",
-            "zh-HK": f"{ENUS_TO_ZHHK[target]}喺在{ENUS_TO_ZHHK[reference]}的邊度?"
-        },
-        {
-            "en-US": f"How do I reach {target} from {reference}?",
-            "zh-HK": f"我點樣可以由{ENUS_TO_ZHHK[reference]}去到{ENUS_TO_ZHHK[target]}？"
-        },
-        {
-            "en-US": f"Can you point me towards {target} from where {reference} is?",
-            "zh-HK": f"你可以指俾我睇，由{ENUS_TO_ZHHK[reference]}點樣揾到{ENUS_TO_ZHHK[target]}？"
-        },
-        {
-            "en-US": f"From {reference}, which direction should I move to find {target}?",
-            "zh-HK": f"我由{ENUS_TO_ZHHK[reference]}要行邊個方向去揾{ENUS_TO_ZHHK[target]}？"
-        },
-        {
-            "en-US": f"If I'm facing {reference}, in which direction is {target}?",
-            "zh-HK": f"我對住{ENUS_TO_ZHHK[reference]}，{ENUS_TO_ZHHK[target]}喺邊個方向？"
-        },
-        {
-            "en-US": f"If {reference} is in front of me, where should I look for {target}?",
-            "zh-HK": f"{ENUS_TO_ZHHK[reference]}喺在我面前，我應該望邊度搵{ENUS_TO_ZHHK[target]}？"
-        },
-    ]
-    return random.choice(pool)

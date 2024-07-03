@@ -1,23 +1,38 @@
+import os
+import sys
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+parent = os.path.dirname(SCRIPT_DIR)
+parent = os.path.dirname(parent)
+parent = os.path.dirname(parent)
+sys.path.append(parent)
+
 import json
+
 from variable_identification import scene_tag, category_tag, scene_ids, question_pool
+from utils.const import language_list
+
 
 output = []
-
-### each scene
+# loop through each image
 for i, scene_id in enumerate(scene_ids):
     scene_object = {}
     scene_object['scene_id'] = scene_id
     qa_pairs = []
 
-    # each question
+    # loop through all questions for each image
     for j, question in enumerate(question_pool):
         qa_object = {}
+
         qa_object['qid'] = str(j)
-        qa_object['query'] = question
+        qa_object['question'] = {}
+        for language in language_list:
+            qa_object['question'][language.value] = question[language]
+
         qa_pairs.append(qa_object)
 
     scene_object['qa_pairs'] = qa_pairs
     output.append(scene_object)
 
-with open(f'VQA/{category_tag}/{scene_tag}_{category_tag}.json', 'w', encoding='utf-8') as f:
+with open(f'data_generation/vqa/{category_tag}/{scene_tag}_{category_tag}.json', 'w', encoding='utf-8') as f:
     json.dump(output, f, ensure_ascii=False, indent=4)

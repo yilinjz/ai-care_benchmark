@@ -4,22 +4,25 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
+                "question": {
                     "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
                     "zh-HK": "乜嘢物體就喺我面前？"
                 }
             },
             {
                 "qid": "1",
-                "query": {
+                "question": {
                     "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
                     "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
                 }
             },
             {
                 "qid": "2",
-                "query": {
+                "question": {
                     "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
                     "zh-HK": "乜嘢物品離我最近？"
                 }
             }
@@ -30,22 +33,25 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
+                "question": {
                     "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
                     "zh-HK": "乜嘢物體就喺我面前？"
                 }
             },
             {
                 "qid": "1",
-                "query": {
+                "question": {
                     "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
                     "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
                 }
             },
             {
                 "qid": "2",
-                "query": {
+                "question": {
                     "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
                     "zh-HK": "乜嘢物品離我最近？"
                 }
             }
@@ -56,22 +62,25 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
+                "question": {
                     "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
                     "zh-HK": "乜嘢物體就喺我面前？"
                 }
             },
             {
                 "qid": "1",
-                "query": {
+                "question": {
                     "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
                     "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
                 }
             },
             {
                 "qid": "2",
-                "query": {
+                "question": {
                     "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
                     "zh-HK": "乜嘢物品離我最近？"
                 }
             }
@@ -82,22 +91,25 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
+                "question": {
                     "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
                     "zh-HK": "乜嘢物體就喺我面前？"
                 }
             },
             {
                 "qid": "1",
-                "query": {
+                "question": {
                     "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
                     "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
                 }
             },
             {
                 "qid": "2",
-                "query": {
+                "question": {
                     "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
                     "zh-HK": "乜嘢物品離我最近？"
                 }
             }
@@ -108,22 +120,25 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
+                "question": {
                     "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
                     "zh-HK": "乜嘢物體就喺我面前？"
                 }
             },
             {
                 "qid": "1",
-                "query": {
+                "question": {
                     "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
                     "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
                 }
             },
             {
                 "qid": "2",
-                "query": {
+                "question": {
                     "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
                     "zh-HK": "乜嘢物品離我最近？"
                 }
             }
@@ -134,22 +149,25 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
+                "question": {
                     "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
                     "zh-HK": "乜嘢物體就喺我面前？"
                 }
             },
             {
                 "qid": "1",
-                "query": {
+                "question": {
                     "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
                     "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
                 }
             },
             {
                 "qid": "2",
-                "query": {
+                "question": {
                     "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
                     "zh-HK": "乜嘢物品離我最近？"
                 }
             }
@@ -160,22 +178,25 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
+                "question": {
                     "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
                     "zh-HK": "乜嘢物體就喺我面前？"
                 }
             },
             {
                 "qid": "1",
-                "query": {
+                "question": {
                     "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
                     "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
                 }
             },
             {
                 "qid": "2",
-                "query": {
+                "question": {
                     "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
                     "zh-HK": "乜嘢物品離我最近？"
                 }
             }

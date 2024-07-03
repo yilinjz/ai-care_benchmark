@@ -106,4 +106,9 @@ WORD_DICTIONARY = {
         LANGUAGE.ZH_CN: "毛巾",
         LANGUAGE.ZH_HK: "毛巾",
     },
+    "person": {
+        LANGUAGE.EN_US: "person",
+        LANGUAGE.ZH_CN: "人",
+        LANGUAGE.ZH_HK: "人",
+    },
 }

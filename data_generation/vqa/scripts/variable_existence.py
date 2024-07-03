@@ -1,7 +1,4 @@
-import random
-
-from utils.const import LANGUAGE, language_list
-from utils.helper import translate_word
+from utils.const import LANGUAGE
 
 ### ========== CONSTANT ========== ###
 
@@ -40,17 +37,6 @@ question_pool = [
     }
 ]
 
-def generate_questions(pool, item):
-    if not pool:
-        pool = list(range((0, len(question_pool))))
-    else:
-        idx = random.choice(pool)
-        pool.remove(idx)
-        question = question_pool[idx]
-        for language in language_list:
-            question[language] = question[language].replace('[dt]', translate_word(item, language))
-        return pool, question
-
 ### ========== VARIABLE ========== ###
 
 # ========== bathroom ========== #
@@ -70,7 +56,7 @@ item_lists = [
 ]
 
 # change
-answer_key = [
+answer_keys = [
     ['Yes', 'Yes', 'Yes', 'No'],
     ['Yes', 'Yes', 'No', 'No'],
     ['Yes', 'Yes', 'No', 'No'],
