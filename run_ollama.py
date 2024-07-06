@@ -53,9 +53,9 @@ def cmd_agent():
                 for language in language_list:
                     question = qa_pair['question'][language.value]
                     path_to_instruction = f"benchmark/prompt/{get_instruction_type(benchmark_name)}.json"
-                    system_prompt = json.load(open(path_to_instruction, encoding="utf8"))[language]
+                    system_prompt = json.load(open(path_to_instruction, encoding="utf8"))[language.value]
                     # run inferance
-                    data[i]['qa_pairs'][j]['result'][language] = ai_agent_remote(
+                    data[i]['qa_pairs'][j]['result'][language.value] = ai_agent_remote(
                         question=question,
                         context=context,
                         system_prompt=system_prompt,
