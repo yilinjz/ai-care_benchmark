@@ -5,40 +5,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If sink is in front of me, where should I look for toilet?",
-                    "zh-CN": "如果水槽在我正前方，我应该往哪边找厕所?",
-                    "zh-HK": "水槽喺在我面前，我應該望邊度搵廁所?"
-                },
-                "answer": {
-                    "en-US": "down and left",
-                    "zh-CN": "down and left",
-                    "zh-HK": "down and left"
+                    "en-US": "If I'm facing sink, in which direction is toilet?",
+                    "zh-CN": "我现在正面对水槽, 厕所在哪个方向?",
+                    "zh-HK": "我對住水槽, 廁所喺邊個方向？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If I'm facing sink, in which direction is toothbrush?",
-                    "zh-CN": "我现在正面对水槽, 牙刷在哪个方向?",
-                    "zh-HK": "我對住水槽, 牙刷喺邊個方向？"
-                },
-                "answer": {
-                    "en-US": "top/top and left",
-                    "zh-CN": "top/top and left",
-                    "zh-HK": "top/top and left"
+                    "en-US": "From sink, which direction should I move to find toothbrush?",
+                    "zh-CN": "我从水槽开始往哪个方向移动可以到牙刷?",
+                    "zh-HK": "我由水槽要行邊個方向去揾牙刷?"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "How do I reach cup from toothbrush?",
-                    "zh-CN": "我怎样可以从牙刷摸到杯子?",
-                    "zh-HK": "我點樣可以由牙刷揾到杯子?"
-                },
-                "answer": {
-                    "en-US": "right",
-                    "zh-CN": "right",
-                    "zh-HK": "right"
+                    "en-US": "Where is cup located relative to toothbrush?",
+                    "zh-CN": "杯子是在牙刷的哪边?",
+                    "zh-HK": "杯子喺在牙刷的邊度?"
                 }
             }
         ]
@@ -49,40 +34,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If I'm facing sink, in which direction is toothbrush?",
-                    "zh-CN": "我现在正面对水槽, 牙刷在哪个方向?",
-                    "zh-HK": "我對住水槽, 牙刷喺邊個方向？"
-                },
-                "answer": {
-                    "en-US": "down and left",
-                    "zh-CN": "down and left",
-                    "zh-HK": "down and left"
+                    "en-US": "If sink is in front of me, where should I look for toilet?",
+                    "zh-CN": "如果水槽在我正前方，我应该往哪边找厕所?",
+                    "zh-HK": "水槽喺在我面前，我應該望邊度搵廁所?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If sink is in front of me, where should I look for toilet?",
-                    "zh-CN": "如果水槽在我正前方，我应该往哪边找厕所?",
-                    "zh-HK": "水槽喺在我面前，我應該望邊度搵廁所?"
-                },
-                "answer": {
-                    "en-US": "left",
-                    "zh-CN": "left",
-                    "zh-HK": "left"
+                    "en-US": "From sink, which direction should I move to find toothbrush?",
+                    "zh-CN": "我从水槽开始往哪个方向移动可以到牙刷?",
+                    "zh-HK": "我由水槽要行邊個方向去揾牙刷?"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "How do I reach cup from toothbrush?",
-                    "zh-CN": "我怎样可以从牙刷摸到杯子?",
-                    "zh-HK": "我點樣可以由牙刷揾到杯子?"
-                },
-                "answer": {
-                    "en-US": "left",
-                    "zh-CN": "left",
-                    "zh-HK": "left"
+                    "en-US": "How do I reach bottle from toothbrush?",
+                    "zh-CN": "我怎样可以从牙刷摸到瓶子?",
+                    "zh-HK": "我點樣可以由牙刷揾到瓶子?"
                 }
             }
         ]
@@ -93,40 +63,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "How do I reach cup from toothbrush?",
-                    "zh-CN": "我怎样可以从牙刷摸到杯子?",
-                    "zh-HK": "我點樣可以由牙刷揾到杯子?"
-                },
-                "answer": {
-                    "en-US": "down and left",
-                    "zh-CN": "down and left",
-                    "zh-HK": "down and left"
+                    "en-US": "If sink is in front of me, where should I look for toilet?",
+                    "zh-CN": "如果水槽在我正前方，我应该往哪边找厕所?",
+                    "zh-HK": "水槽喺在我面前，我應該望邊度搵廁所?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where is person located relative to sink?",
-                    "zh-CN": "人是在水槽的哪边?",
-                    "zh-HK": "人喺在水槽的邊度?"
-                },
-                "answer": {
-                    "en-US": "up",
-                    "zh-CN": "up",
-                    "zh-HK": "up"
+                    "en-US": "Can you point me towards person from where sink is?",
+                    "zh-CN": "你能否指引我怎样从水槽到人?",
+                    "zh-HK": "你可以指俾我睇，由水槽點樣揾到人?"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If sink is in front of me, where should I look for toilet?",
-                    "zh-CN": "如果水槽在我正前方，我应该往哪边找厕所?",
-                    "zh-HK": "水槽喺在我面前，我應該望邊度搵廁所?"
-                },
-                "answer": {
-                    "en-US": "up and right",
-                    "zh-CN": "up and right",
-                    "zh-HK": "up and right"
+                    "en-US": "If I'm facing sink, in which direction is toilet?",
+                    "zh-CN": "我现在正面对水槽, 厕所在哪个方向?",
+                    "zh-HK": "我對住水槽, 廁所喺邊個方向？"
                 }
             }
         ]
@@ -137,40 +92,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If sink is in front of me, where should I look for toilet?",
-                    "zh-CN": "如果水槽在我正前方，我应该往哪边找厕所?",
-                    "zh-HK": "水槽喺在我面前，我應該望邊度搵廁所?"
-                },
-                "answer": {
-                    "en-US": "down and right",
-                    "zh-CN": "down and right",
-                    "zh-HK": "down and right"
+                    "en-US": "Where is cup located relative to toothbrush?",
+                    "zh-CN": "杯子是在牙刷的哪边?",
+                    "zh-HK": "杯子喺在牙刷的邊度?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From sink, which direction should I move to find toothbrush?",
-                    "zh-CN": "我从水槽开始往哪个方向移动可以到牙刷?",
-                    "zh-HK": "我由水槽要行邊個方向去揾牙刷?"
-                },
-                "answer": {
-                    "en-US": "left",
-                    "zh-CN": "left",
-                    "zh-HK": "left"
+                    "en-US": "How do I reach bottle from toothbrush?",
+                    "zh-CN": "我怎样可以从牙刷摸到瓶子?",
+                    "zh-HK": "我點樣可以由牙刷揾到瓶子?"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If I'm facing sink, in which direction is toothbrush?",
-                    "zh-CN": "我现在正面对水槽, 牙刷在哪个方向?",
-                    "zh-HK": "我對住水槽, 牙刷喺邊個方向？"
-                },
-                "answer": {
-                    "en-US": "up",
-                    "zh-CN": "up",
-                    "zh-HK": "up"
+                    "en-US": "From sink, which direction should I move to find toothbrush?",
+                    "zh-CN": "我从水槽开始往哪个方向移动可以到牙刷?",
+                    "zh-HK": "我由水槽要行邊個方向去揾牙刷?"
                 }
             }
         ]
@@ -181,40 +121,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "From sink, which direction should I move to find toothbrush?",
-                    "zh-CN": "我从水槽开始往哪个方向移动可以到牙刷?",
-                    "zh-HK": "我由水槽要行邊個方向去揾牙刷?"
-                },
-                "answer": {
-                    "en-US": "left/down and left",
-                    "zh-CN": "left/down and left",
-                    "zh-HK": "left/down and left"
+                    "en-US": "Can you point me towards person from where sink is?",
+                    "zh-CN": "你能否指引我怎样从水槽到人?",
+                    "zh-HK": "你可以指俾我睇，由水槽點樣揾到人?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "How do I reach cup from toothbrush?",
-                    "zh-CN": "我怎样可以从牙刷摸到杯子?",
-                    "zh-HK": "我點樣可以由牙刷揾到杯子?"
-                },
-                "answer": {
-                    "en-US": "up/up and left/up and right",
-                    "zh-CN": "up/up and left/up and right",
-                    "zh-HK": "up/up and left/up and right"
+                    "en-US": "From sink, which direction should I move to find toothbrush?",
+                    "zh-CN": "我从水槽开始往哪个方向移动可以到牙刷?",
+                    "zh-HK": "我由水槽要行邊個方向去揾牙刷?"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If I'm facing sink, in which direction is toothbrush?",
-                    "zh-CN": "我现在正面对水槽, 牙刷在哪个方向?",
-                    "zh-HK": "我對住水槽, 牙刷喺邊個方向？"
-                },
-                "answer": {
-                    "en-US": "up and right",
-                    "zh-CN": "up and right",
-                    "zh-HK": "up and right"
+                    "en-US": "How do I reach bottle from toothbrush?",
+                    "zh-CN": "我怎样可以从牙刷摸到瓶子?",
+                    "zh-HK": "我點樣可以由牙刷揾到瓶子?"
                 }
             }
         ]
@@ -225,40 +150,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where is person located relative to sink?",
-                    "zh-CN": "人是在水槽的哪边?",
-                    "zh-HK": "人喺在水槽的邊度?"
-                },
-                "answer": {
-                    "en-US": "up",
-                    "zh-CN": "up",
-                    "zh-HK": "up"
+                    "en-US": "Can you point me towards person from where sink is?",
+                    "zh-CN": "你能否指引我怎样从水槽到人?",
+                    "zh-HK": "你可以指俾我睇，由水槽點樣揾到人?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From sink, which direction should I move to find toothbrush?",
-                    "zh-CN": "我从水槽开始往哪个方向移动可以到牙刷?",
-                    "zh-HK": "我由水槽要行邊個方向去揾牙刷?"
-                },
-                "answer": {
-                    "en-US": "up/up and right",
-                    "zh-CN": "up/up and right",
-                    "zh-HK": "up/up and right"
+                    "en-US": "If I'm facing sink, in which direction is toilet?",
+                    "zh-CN": "我现在正面对水槽, 厕所在哪个方向?",
+                    "zh-HK": "我對住水槽, 廁所喺邊個方向？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you point me towards sink from where bottle is?",
-                    "zh-CN": "你能否指引我怎样从瓶子到水槽?",
-                    "zh-HK": "你可以指俾我睇，由瓶子點樣揾到水槽?"
-                },
-                "answer": {
-                    "en-US": "right",
-                    "zh-CN": "right",
-                    "zh-HK": "right"
+                    "en-US": "How do I reach bottle from toothbrush?",
+                    "zh-CN": "我怎样可以从牙刷摸到瓶子?",
+                    "zh-HK": "我點樣可以由牙刷揾到瓶子?"
                 }
             }
         ]
@@ -269,40 +179,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If I'm facing sink, in which direction is toothbrush?",
-                    "zh-CN": "我现在正面对水槽, 牙刷在哪个方向?",
-                    "zh-HK": "我對住水槽, 牙刷喺邊個方向？"
-                },
-                "answer": {
-                    "en-US": "down and left",
-                    "zh-CN": "down and left",
-                    "zh-HK": "down and left"
+                    "en-US": "Where is cup located relative to toothbrush?",
+                    "zh-CN": "杯子是在牙刷的哪边?",
+                    "zh-HK": "杯子喺在牙刷的邊度?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If sink is in front of me, where should I look for toilet?",
-                    "zh-CN": "如果水槽在我正前方，我应该往哪边找厕所?",
-                    "zh-HK": "水槽喺在我面前，我應該望邊度搵廁所?"
-                },
-                "answer": {
-                    "en-US": "up",
-                    "zh-CN": "up",
-                    "zh-HK": "up"
+                    "en-US": "From sink, which direction should I move to find toothbrush?",
+                    "zh-CN": "我从水槽开始往哪个方向移动可以到牙刷?",
+                    "zh-HK": "我由水槽要行邊個方向去揾牙刷?"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "How do I reach cup from toothbrush?",
-                    "zh-CN": "我怎样可以从牙刷摸到杯子?",
-                    "zh-HK": "我點樣可以由牙刷揾到杯子?"
-                },
-                "answer": {
-                    "en-US": "up/up and left",
-                    "zh-CN": "up/up and left",
-                    "zh-HK": "up/up and left"
+                    "en-US": "If I'm facing sink, in which direction is toilet?",
+                    "zh-CN": "我现在正面对水槽, 厕所在哪个方向?",
+                    "zh-HK": "我對住水槽, 廁所喺邊個方向？"
                 }
             }
         ]

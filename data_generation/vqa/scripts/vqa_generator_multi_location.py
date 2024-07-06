@@ -9,7 +9,7 @@ sys.path.append(parent)
 
 import json
 
-from variable_multi_location import category_tag, question_pool, scene_tag, scene_ids, item_lists, answer_keys
+from variable_multi_location import category_tag, question_pool, scene_tag, scene_ids, item_lists
 from utils.const import language_list
 from utils.helper import translate_word, generate_questions_with_item_pair
 
@@ -33,9 +33,9 @@ for i, scene_id in enumerate(scene_ids):
         index_pool, question = generate_questions_with_item_pair(index_pool, question_pool, item_pair, language_list)
         for language in language_list:
             qa_object['question'][language.value] = question[language]
-        qa_object['answer'] = {}
-        for language in language_list:
-            qa_object['answer'][language.value] = answer_keys[i][j]
+        # qa_object['answer'] = {}
+        # for language in language_list:
+        #     qa_object['answer'][language.value] = answer_keys[i][j]
 
         qa_pairs.append(qa_object)
 

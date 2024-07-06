@@ -56,12 +56,12 @@ item_lists = [
     [['toilet', 'sink'], ['bottle', 'toilet'], ['cup', 'sink']]
 ]
 
-answer_keys = [
-    ['down and left', 'top/top and left', 'right'],
-    ['down and left', 'left', 'left'],
-    ['down and left', 'up', 'up and right'],
-    ['down and right', 'left', 'up'],
-    ['left/down and left', 'up/up and left/up and right', 'up and right'],
-    ['up', 'up/up and right', 'right'],
-    ['down and left', 'up', 'up/up and left']
-]
+# answer_keys = [
+#     ['down and left', 'top/top and left', 'right'],
+#     ['down and left', 'left', 'left'],
+#     ['down and left', 'up', 'up and right'],
+#     ['down and right', 'left', 'up'],
+#     ['left/down and left', 'up/up and left/up and right', 'up and right'],
+#     ['up', 'up/up and right', 'right'],
+#     ['down and left', 'up', 'up/up and left']
+# ]
