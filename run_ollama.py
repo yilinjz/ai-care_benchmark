@@ -9,7 +9,7 @@ from utils.helper import process_context, get_instruction_type, translate_word
 
 
 ###### MODEL ID #####
-model_id = 'llama3'
+model_id = 'qwen2:72b'
 ###### MODEL ID #####
 
 
@@ -65,7 +65,8 @@ def cmd_agent():
         print(benchmark_name)
         print(path_to_instruction)
 
-    with open(f'benchmark/experiment_result/{model_id}-{benchmark_name}-experiment_result.json', 'w', encoding='utf-8') as f:
+    model_name = model_id.replace(':', '_')
+    with open(f'benchmark/experiment_result/{model_name}-{benchmark_name}-experiment_result.json', 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)                 
 
     log.info("SYSTEM: cmd agent end <<<<<")
