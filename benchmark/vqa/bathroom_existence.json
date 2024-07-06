@@ -4,45 +4,53 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Is there a toothbrush in the scene?",
-                    "zh-HK": "場景中有冇牙刷啊?"
+                "question": {
+                    "en-US": "Is a toothbrush visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到牙刷啊？",
+                    "zh-HK": "呢個場景入面有無見到牙刷啊？"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Is there a toilet in the scene?",
-                    "zh-HK": "場景中有冇廁所啊?"
+                "question": {
+                    "en-US": "Am I near a toilet, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在厕所附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺廁所附近？"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "2",
-                "query": {
-                    "en-US": "Can you tell me if a toothpaste is present in the view?",
-                    "zh-HK": "你可唔可以話我畫面中有冇牙膏啊？"
+                "question": {
+                    "en-US": "Could you check if there's a toothpaste in what you can see?",
+                    "zh-CN": "检查一下你看到的内容中是否有牙膏？",
+                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇牙膏啊?"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "3",
-                "query": {
+                "question": {
                     "en-US": "Do you detect a phone in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无手机？",
                     "zh-HK": "你感唔感應到周圍環境有冇手機?"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             }
@@ -53,45 +61,53 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Is a bottle visible in the current scene?",
-                    "zh-HK": "呢個場景入面有無見到瓶子啊？"
+                "question": {
+                    "en-US": "Is there a bottle in the scene?",
+                    "zh-CN": "场景中有瓶子吗？",
+                    "zh-HK": "場景中有冇瓶子啊?"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Am I near a sink, according to the scene captured?",
-                    "zh-HK": "根據攝到嘅畫面，我係咪喺水槽附近？"
+                "question": {
+                    "en-US": "Is a toothbrush visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到牙刷啊？",
+                    "zh-HK": "呢個場景入面有無見到牙刷啊？"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "2",
-                "query": {
-                    "en-US": "Do you detect a bucket in the surroundings?",
-                    "zh-HK": "你感唔感應到周圍環境有冇桶?"
+                "question": {
+                    "en-US": "Can you tell me if a bucket is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有桶？",
+                    "zh-HK": "你可唔可以話我畫面中有冇桶啊？"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             },
             {
                 "qid": "3",
-                "query": {
-                    "en-US": "Am I near a towel, according to the scene captured?",
-                    "zh-HK": "根據攝到嘅畫面，我係咪喺毛巾附近？"
+                "question": {
+                    "en-US": "Am I near a toilet, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在厕所附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺廁所附近？"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             }
@@ -102,45 +118,53 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Can you tell me if a toilet is present in the view?",
-                    "zh-HK": "你可唔可以話我畫面中有冇廁所啊？"
+                "question": {
+                    "en-US": "Can you tell me if a bucket is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有桶？",
+                    "zh-HK": "你可唔可以話我畫面中有冇桶啊？"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Can you tell me if a sink is present in the view?",
-                    "zh-HK": "你可唔可以話我畫面中有冇水槽啊？"
+                "question": {
+                    "en-US": "Is there a bottle in the scene?",
+                    "zh-CN": "场景中有瓶子吗？",
+                    "zh-HK": "場景中有冇瓶子啊?"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "2",
-                "query": {
+                "question": {
                     "en-US": "Is a toothbrush visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到牙刷啊？",
                     "zh-HK": "呢個場景入面有無見到牙刷啊？"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             },
             {
                 "qid": "3",
-                "query": {
-                    "en-US": "Am I near a toothpaste, according to the scene captured?",
-                    "zh-HK": "根據攝到嘅畫面，我係咪喺牙膏附近？"
+                "question": {
+                    "en-US": "Am I near a toilet, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在厕所附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺廁所附近？"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             }
@@ -151,45 +175,53 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Can you tell me if a bottle is present in the view?",
-                    "zh-HK": "你可唔可以話我畫面中有冇瓶子啊？"
+                "question": {
+                    "en-US": "Do you detect a phone in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无手机？",
+                    "zh-HK": "你感唔感應到周圍環境有冇手機?"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Is a toothbrush visible in the current scene?",
-                    "zh-HK": "呢個場景入面有無見到牙刷啊？"
+                "question": {
+                    "en-US": "Am I near a toilet, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在厕所附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺廁所附近？"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "2",
-                "query": {
-                    "en-US": "Is there a hair dryer in the scene?",
-                    "zh-HK": "場景中有冇風筒啊?"
+                "question": {
+                    "en-US": "Is a toothbrush visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到牙刷啊？",
+                    "zh-HK": "呢個場景入面有無見到牙刷啊？"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             },
             {
                 "qid": "3",
-                "query": {
-                    "en-US": "Do you detect a air conditioner in the surroundings?",
-                    "zh-HK": "你感唔感應到周圍環境有冇空調?"
+                "question": {
+                    "en-US": "Is there a bottle in the scene?",
+                    "zh-CN": "场景中有瓶子吗？",
+                    "zh-HK": "場景中有冇瓶子啊?"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             }
@@ -200,45 +232,53 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Can you tell me if a toilet is present in the view?",
-                    "zh-HK": "你可唔可以話我畫面中有冇廁所啊？"
+                "question": {
+                    "en-US": "Do you detect a phone in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无手机？",
+                    "zh-HK": "你感唔感應到周圍環境有冇手機?"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Am I near a bottle, according to the scene captured?",
-                    "zh-HK": "根據攝到嘅畫面，我係咪喺瓶子附近？"
+                "question": {
+                    "en-US": "Is there a bottle in the scene?",
+                    "zh-CN": "场景中有瓶子吗？",
+                    "zh-HK": "場景中有冇瓶子啊?"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "2",
-                "query": {
-                    "en-US": "Can you tell me if a screwdriver is present in the view?",
-                    "zh-HK": "你可唔可以話我畫面中有冇螺絲批啊？"
+                "question": {
+                    "en-US": "Could you check if there's a toothpaste in what you can see?",
+                    "zh-CN": "检查一下你看到的内容中是否有牙膏？",
+                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇牙膏啊?"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             },
             {
                 "qid": "3",
-                "query": {
-                    "en-US": "Do you detect a soap in the surroundings?",
-                    "zh-HK": "你感唔感應到周圍環境有冇肥皂?"
+                "question": {
+                    "en-US": "Is a toothbrush visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到牙刷啊？",
+                    "zh-HK": "呢個場景入面有無見到牙刷啊？"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             }
@@ -249,45 +289,53 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Could you check if there's a cup in what you can see?",
-                    "zh-HK": "你可唔可以檢查下你見到嘅嘢入面有冇杯子啊?"
+                "question": {
+                    "en-US": "Could you check if there's a toothpaste in what you can see?",
+                    "zh-CN": "检查一下你看到的内容中是否有牙膏？",
+                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇牙膏啊?"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Can you tell me if a toothbrush is present in the view?",
-                    "zh-HK": "你可唔可以話我畫面中有冇牙刷啊？"
+                "question": {
+                    "en-US": "Is there a bottle in the scene?",
+                    "zh-CN": "场景中有瓶子吗？",
+                    "zh-HK": "場景中有冇瓶子啊?"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "2",
-                "query": {
-                    "en-US": "Am I near a mop, according to the scene captured?",
-                    "zh-HK": "根據攝到嘅畫面，我係咪喺地拖附近？"
+                "question": {
+                    "en-US": "Do you detect a phone in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无手机？",
+                    "zh-HK": "你感唔感應到周圍環境有冇手機?"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             },
             {
                 "qid": "3",
-                "query": {
-                    "en-US": "Could you check if there's a toilet paper in what you can see?",
-                    "zh-HK": "你可唔可以檢查下你見到嘅嘢入面有冇廁紙啊?"
+                "question": {
+                    "en-US": "Is a toothbrush visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到牙刷啊？",
+                    "zh-HK": "呢個場景入面有無見到牙刷啊？"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             }
@@ -298,45 +346,53 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Am I near a cup, according to the scene captured?",
-                    "zh-HK": "根據攝到嘅畫面，我係咪喺杯子附近？"
+                "question": {
+                    "en-US": "Is a toothbrush visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到牙刷啊？",
+                    "zh-HK": "呢個場景入面有無見到牙刷啊？"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Is a sink visible in the current scene?",
-                    "zh-HK": "呢個場景入面有無見到水槽啊？"
+                "question": {
+                    "en-US": "Can you tell me if a bucket is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有桶？",
+                    "zh-HK": "你可唔可以話我畫面中有冇桶啊？"
                 },
                 "answer": {
                     "en-US": "Yes",
+                    "zh-CN": "是/有",
                     "zh-HK": "係/有"
                 }
             },
             {
                 "qid": "2",
-                "query": {
-                    "en-US": "Could you check if there's a trash can in what you can see?",
-                    "zh-HK": "你可唔可以檢查下你見到嘅嘢入面有冇垃圾桶啊?"
+                "question": {
+                    "en-US": "Is there a bottle in the scene?",
+                    "zh-CN": "场景中有瓶子吗？",
+                    "zh-HK": "場景中有冇瓶子啊?"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             },
             {
                 "qid": "3",
-                "query": {
-                    "en-US": "Could you check if there's a shower head in what you can see?",
-                    "zh-HK": "你可唔可以檢查下你見到嘅嘢入面有冇淋浴花灑啊?"
+                "question": {
+                    "en-US": "Do you detect a phone in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无手机？",
+                    "zh-HK": "你感唔感應到周圍環境有冇手機?"
                 },
                 "answer": {
                     "en-US": "No",
+                    "zh-CN": "不是/没有",
                     "zh-HK": "唔係/冇"
                 }
             }

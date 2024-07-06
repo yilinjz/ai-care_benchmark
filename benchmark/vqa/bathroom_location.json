@@ -4,30 +4,34 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Could you guide me to the position of the toothbrush?",
-                    "zh-HK": "你可以引導我去到牙刷嘅位置嗎？"
+                "question": {
+                    "en-US": "Find where the toothbrush is, please.",
+                    "zh-CN": "请帮我找下牙刷在哪里。",
+                    "zh-HK": "請幫我搵吓牙刷喺邊。"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Could you guide me to the position of the toilet?",
-                    "zh-HK": "你可以引導我去到廁所嘅位置嗎？"
+                "question": {
+                    "en-US": "In which direction is the toilet from my current position?",
+                    "zh-CN": "厕所在我当前位置的什么方向?",
+                    "zh-HK": "廁所由我而家嘅位置喺邊個方向？"
                 }
             },
             {
                 "qid": "2",
-                "query": {
-                    "en-US": "Could you guide me to the position of the sink?",
-                    "zh-HK": "你可以引導我去到水槽嘅位置嗎？"
+                "question": {
+                    "en-US": "Can you locate the sink in the scene?",
+                    "zh-CN": "你能在场景中找到水槽吗？",
+                    "zh-HK": "你可以喺房入面搵到水槽嗎?"
                 }
             },
             {
                 "qid": "3",
-                "query": {
-                    "en-US": "Can you locate the cup in the scene?",
-                    "zh-HK": "你可以喺房入面搵到杯子嗎?"
+                "question": {
+                    "en-US": "Could you guide me to the position of the cup?",
+                    "zh-CN": "你可以引导我去到杯子的位置嗎?",
+                    "zh-HK": "你可以引導我去到杯子嘅位置嗎？"
                 }
             }
         ]
@@ -37,30 +41,34 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Where is the closest toothbrush in relation to me?",
-                    "zh-HK": "離我最近嘅牙刷喺邊度？"
+                "question": {
+                    "en-US": "Could you guide me to the position of the cup?",
+                    "zh-CN": "你可以引导我去到杯子的位置嗎?",
+                    "zh-HK": "你可以引導我去到杯子嘅位置嗎？"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Can you locate the sink in the scene?",
-                    "zh-HK": "你可以喺房入面搵到水槽嗎?"
+                "question": {
+                    "en-US": "Find where the toothbrush is, please.",
+                    "zh-CN": "请帮我找下牙刷在哪里。",
+                    "zh-HK": "請幫我搵吓牙刷喺邊。"
                 }
             },
             {
                 "qid": "2",
-                "query": {
-                    "en-US": "Can you locate the toilet in the scene?",
-                    "zh-HK": "你可以喺房入面搵到廁所嗎?"
+                "question": {
+                    "en-US": "In which direction is the toilet from my current position?",
+                    "zh-CN": "厕所在我当前位置的什么方向?",
+                    "zh-HK": "廁所由我而家嘅位置喺邊個方向？"
                 }
             },
             {
                 "qid": "3",
-                "query": {
-                    "en-US": "Can you locate the toothpaste in the scene?",
-                    "zh-HK": "你可以喺房入面搵到牙膏嗎?"
+                "question": {
+                    "en-US": "Can you locate the sink in the scene?",
+                    "zh-CN": "你能在场景中找到水槽吗？",
+                    "zh-HK": "你可以喺房入面搵到水槽嗎?"
                 }
             }
         ]
@@ -70,30 +78,34 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Can you locate the toilet in the scene?",
-                    "zh-HK": "你可以喺房入面搵到廁所嗎?"
+                "question": {
+                    "en-US": "Find where the toothbrush is, please.",
+                    "zh-CN": "请帮我找下牙刷在哪里。",
+                    "zh-HK": "請幫我搵吓牙刷喺邊。"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Find where the sink is, please.",
-                    "zh-HK": "請幫我搵吓水槽喺邊。"
+                "question": {
+                    "en-US": "Where is the closest sink in relation to me?",
+                    "zh-CN": "离我最近的水槽在哪里?",
+                    "zh-HK": "離我最近嘅水槽喺邊度？"
                 }
             },
             {
                 "qid": "2",
-                "query": {
-                    "en-US": "Could you guide me to the position of the towel?",
-                    "zh-HK": "你可以引導我去到毛巾嘅位置嗎？"
+                "question": {
+                    "en-US": "Could you guide me to the position of the cup?",
+                    "zh-CN": "你可以引导我去到杯子的位置嗎?",
+                    "zh-HK": "你可以引導我去到杯子嘅位置嗎？"
                 }
             },
             {
                 "qid": "3",
-                "query": {
-                    "en-US": "Where is the closest person in relation to me?",
-                    "zh-HK": "離我最近嘅人喺邊度？"
+                "question": {
+                    "en-US": "In which direction is the toilet from my current position?",
+                    "zh-CN": "厕所在我当前位置的什么方向?",
+                    "zh-HK": "廁所由我而家嘅位置喺邊個方向？"
                 }
             }
         ]
@@ -103,30 +115,34 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Where is the closest bottle in relation to me?",
-                    "zh-HK": "離我最近嘅瓶子喺邊度？"
+                "question": {
+                    "en-US": "In which direction is the toilet from my current position?",
+                    "zh-CN": "厕所在我当前位置的什么方向?",
+                    "zh-HK": "廁所由我而家嘅位置喺邊個方向？"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Where is the closest toothbrush in relation to me?",
-                    "zh-HK": "離我最近嘅牙刷喺邊度？"
+                "question": {
+                    "en-US": "Find where the toothbrush is, please.",
+                    "zh-CN": "请帮我找下牙刷在哪里。",
+                    "zh-HK": "請幫我搵吓牙刷喺邊。"
                 }
             },
             {
                 "qid": "2",
-                "query": {
-                    "en-US": "In which direction is the sink from my current position?",
-                    "zh-HK": "水槽由我而家嘅位置喺邊個方向？"
+                "question": {
+                    "en-US": "Could you guide me to the position of the cup?",
+                    "zh-CN": "你可以引导我去到杯子的位置嗎?",
+                    "zh-HK": "你可以引導我去到杯子嘅位置嗎？"
                 }
             },
             {
                 "qid": "3",
-                "query": {
-                    "en-US": "Where is the closest toilet in relation to me?",
-                    "zh-HK": "離我最近嘅廁所喺邊度？"
+                "question": {
+                    "en-US": "Where is the closest sink in relation to me?",
+                    "zh-CN": "离我最近的水槽在哪里?",
+                    "zh-HK": "離我最近嘅水槽喺邊度？"
                 }
             }
         ]
@@ -136,30 +152,34 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "In which direction is the towel from my current position?",
-                    "zh-HK": "毛巾由我而家嘅位置喺邊個方向？"
+                "question": {
+                    "en-US": "Could you guide me to the position of the cup?",
+                    "zh-CN": "你可以引导我去到杯子的位置嗎?",
+                    "zh-HK": "你可以引導我去到杯子嘅位置嗎？"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Where is the closest bottle in relation to me?",
-                    "zh-HK": "離我最近嘅瓶子喺邊度？"
+                "question": {
+                    "en-US": "Find where the toothbrush is, please.",
+                    "zh-CN": "请帮我找下牙刷在哪里。",
+                    "zh-HK": "請幫我搵吓牙刷喺邊。"
                 }
             },
             {
                 "qid": "2",
-                "query": {
-                    "en-US": "Where is the closest sink in relation to me?",
-                    "zh-HK": "離我最近嘅水槽喺邊度？"
+                "question": {
+                    "en-US": "Can you locate the sink in the scene?",
+                    "zh-CN": "你能在场景中找到水槽吗？",
+                    "zh-HK": "你可以喺房入面搵到水槽嗎?"
                 }
             },
             {
                 "qid": "3",
-                "query": {
-                    "en-US": "Could you guide me to the position of the toothbrush?",
-                    "zh-HK": "你可以引導我去到牙刷嘅位置嗎？"
+                "question": {
+                    "en-US": "Where is the closest sink in relation to me?",
+                    "zh-CN": "离我最近的水槽在哪里?",
+                    "zh-HK": "離我最近嘅水槽喺邊度？"
                 }
             }
         ]
@@ -169,30 +189,34 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Where is the closest cup in relation to me?",
-                    "zh-HK": "離我最近嘅杯子喺邊度？"
-                }
-            },
-            {
-                "qid": "1",
-                "query": {
-                    "en-US": "In which direction is the toothbrush from my current position?",
-                    "zh-HK": "牙刷由我而家嘅位置喺邊個方向？"
-                }
-            },
-            {
-                "qid": "2",
-                "query": {
+                "question": {
                     "en-US": "Can you locate the sink in the scene?",
+                    "zh-CN": "你能在场景中找到水槽吗？",
                     "zh-HK": "你可以喺房入面搵到水槽嗎?"
                 }
             },
             {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the toilet from my current position?",
+                    "zh-CN": "厕所在我当前位置的什么方向?",
+                    "zh-HK": "廁所由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you guide me to the position of the cup?",
+                    "zh-CN": "你可以引导我去到杯子的位置嗎?",
+                    "zh-HK": "你可以引導我去到杯子嘅位置嗎？"
+                }
+            },
+            {
                 "qid": "3",
-                "query": {
-                    "en-US": "In which direction is the bottle from my current position?",
-                    "zh-HK": "瓶子由我而家嘅位置喺邊個方向？"
+                "question": {
+                    "en-US": "Find where the toothbrush is, please.",
+                    "zh-CN": "请帮我找下牙刷在哪里。",
+                    "zh-HK": "請幫我搵吓牙刷喺邊。"
                 }
             }
         ]
@@ -202,30 +226,34 @@
         "qa_pairs": [
             {
                 "qid": "0",
-                "query": {
-                    "en-US": "Could you guide me to the position of the cup?",
-                    "zh-HK": "你可以引導我去到杯子嘅位置嗎？"
+                "question": {
+                    "en-US": "Where is the closest sink in relation to me?",
+                    "zh-CN": "离我最近的水槽在哪里?",
+                    "zh-HK": "離我最近嘅水槽喺邊度？"
                 }
             },
             {
                 "qid": "1",
-                "query": {
-                    "en-US": "Find where the sink is, please.",
-                    "zh-HK": "請幫我搵吓水槽喺邊。"
+                "question": {
+                    "en-US": "Could you guide me to the position of the cup?",
+                    "zh-CN": "你可以引导我去到杯子的位置嗎?",
+                    "zh-HK": "你可以引導我去到杯子嘅位置嗎？"
                 }
             },
             {
                 "qid": "2",
-                "query": {
-                    "en-US": "Where is the closest towel in relation to me?",
-                    "zh-HK": "離我最近嘅毛巾喺邊度？"
+                "question": {
+                    "en-US": "Find where the toothbrush is, please.",
+                    "zh-CN": "请帮我找下牙刷在哪里。",
+                    "zh-HK": "請幫我搵吓牙刷喺邊。"
                 }
             },
             {
                 "qid": "3",
-                "query": {
-                    "en-US": "Find where the toilet is, please.",
-                    "zh-HK": "請幫我搵吓廁所喺邊。"
+                "question": {
+                    "en-US": "In which direction is the toilet from my current position?",
+                    "zh-CN": "厕所在我当前位置的什么方向?",
+                    "zh-HK": "廁所由我而家嘅位置喺邊個方向？"
                 }
             }
         ]
