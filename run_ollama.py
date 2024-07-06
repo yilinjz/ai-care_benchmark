@@ -51,7 +51,7 @@ def cmd_agent():
                 data[i]['qa_pairs'][j]['result'] = {}
                 ### loops through each language (English, Mandarin and Cantonese)
                 for language in language_list:
-                    question = qa_pair['question'][language]
+                    question = qa_pair['question'][language.value]
                     path_to_instruction = f"benchmark/prompt/{get_instruction_type(benchmark_name)}.json"
                     system_prompt = json.load(open(path_to_instruction, encoding="utf8"))[language]
                     # run inferance
