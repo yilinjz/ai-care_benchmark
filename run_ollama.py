@@ -9,7 +9,12 @@ from utils.helper import process_context, get_instruction_type, translate_word
 
 
 ###### MODEL ID #####
-model_id = 'qwen2:72b'
+
+model_id = 'llama3'
+# model_id = 'llama3:70b'
+# model_id = 'qwen2:7b'
+# model_id = 'qwen2:72b'
+
 ###### MODEL ID #####
 
 
@@ -44,7 +49,6 @@ def cmd_agent():
         for i, scene in enumerate(data):
             scene_id = scene['scene_id']
             context_json = json.load(open(f'benchmark/context/{scene_id}.json', encoding="utf8"))
-            context = process_context(context_json)
 
             ### loops through each question
             for j, qa_pair in enumerate(scene['qa_pairs']):
@@ -52,6 +56,7 @@ def cmd_agent():
                 ### loops through each language (English, Mandarin and Cantonese)
                 for language in language_list:
                     question = qa_pair['question'][language.value]
+                    context = process_context(context_json, language)
                     path_to_instruction = f"benchmark/prompt/{get_instruction_type(benchmark_name)}.json"
                     system_prompt = json.load(open(path_to_instruction, encoding="utf8"))[language.value]
                     # run inferance

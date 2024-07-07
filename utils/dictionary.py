@@ -1,6 +1,7 @@
 from utils.const import LANGUAGE
 
 WORD_DICTIONARY = {
+    # ===== PROMPT WORD =====
     "Question": {
         LANGUAGE.EN_US: "Question",
         LANGUAGE.ZH_CN: "问题",
@@ -11,6 +12,7 @@ WORD_DICTIONARY = {
         LANGUAGE.ZH_CN: "上下文",
         LANGUAGE.ZH_HK: "上下文",
     },
+    # ===== ANSWER WORD =====
     "Yes": {
         LANGUAGE.EN_US: "Yes",
         LANGUAGE.ZH_CN: "是/有",
@@ -21,6 +23,53 @@ WORD_DICTIONARY = {
         LANGUAGE.ZH_CN: "不是/没有",
         LANGUAGE.ZH_HK: "唔係/冇",
     },
+    "and": {
+        LANGUAGE.EN_US: "and",
+        LANGUAGE.ZH_CN: "和",
+        LANGUAGE.ZH_HK: "和",
+    },
+    # ===== OREINTATION =====
+    "up": {
+        LANGUAGE.EN_US: "up",
+        LANGUAGE.ZH_CN: "上",
+        LANGUAGE.ZH_HK: "上",
+    },
+    "down": {
+        LANGUAGE.EN_US: "down",
+        LANGUAGE.ZH_CN: "下",
+        LANGUAGE.ZH_HK: "下",
+    },
+    "left": {
+        LANGUAGE.EN_US: "left",
+        LANGUAGE.ZH_CN: "左",
+        LANGUAGE.ZH_HK: "左",
+    },
+    "right": {
+        LANGUAGE.EN_US: "right",
+        LANGUAGE.ZH_CN: "右",
+        LANGUAGE.ZH_HK: "右",
+    },
+    "slightly-up": {
+        LANGUAGE.EN_US: "slightly-up",
+        LANGUAGE.ZH_CN: "中间偏上",
+        LANGUAGE.ZH_HK: "中間偏上",
+    },
+    "slightly-down": {
+        LANGUAGE.EN_US: "slightly-down",
+        LANGUAGE.ZH_CN: "中间偏下",
+        LANGUAGE.ZH_HK: "中間偏下",
+    },
+    "slightly-left": {
+        LANGUAGE.EN_US: "slightly-left",
+        LANGUAGE.ZH_CN: "中间偏左",
+        LANGUAGE.ZH_HK: "中間偏左",
+    },
+    "slightly-right": {
+        LANGUAGE.EN_US: "slightly-right",
+        LANGUAGE.ZH_CN: "中间偏右",
+        LANGUAGE.ZH_HK: "中間偏右",
+    },
+    # ===== OBJECT NAME =====
     "toothbrush": {
         LANGUAGE.EN_US: "toothbrush",
         LANGUAGE.ZH_CN: "牙刷",

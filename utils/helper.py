@@ -2,16 +2,21 @@ import random
 
 from utils.dictionary import WORD_DICTIONARY
 
-def process_context(context_json):
+# pre-processing json data
+def process_context(context_json, language):
     context = []
     for object in context_json:
         text = object['TEXT']
-        oritentation = object['ORIENTATION']
+        text = translate_word(text, language)
+        raw_oritentation = object['ORIENTATION'].split()
+        oritentation = [translate_word(word, language) for word in raw_oritentation]
+        oritentation = ' '.join(oritentation)
         depth = object['DEPTH']
         position = object['POSITION']
         context.append(f"({text}, {oritentation}, {depth}, {position})")
     return context
 
+# match benchmark to json
 def get_instruction_type(benchmark_name):
     instruction_type = ""
     if "existence" in benchmark_name:
@@ -28,9 +33,11 @@ def get_instruction_type(benchmark_name):
         raise ValueError("Unknown Instruction Type")
     return f"{instruction_type}_instruction"
 
+# translate
 def translate_word(word, language):
     return WORD_DICTIONARY[word][language]
 
+# pick question from pool
 def generate_questions(index_pool, question_pool, item, language_list):
     if not index_pool:
         index_pool = list(range((0, len(question_pool))))
