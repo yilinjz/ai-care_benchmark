@@ -22,8 +22,8 @@ def ai_agent_remote(question, context, system_prompt, language):
     '''
     Client call to ollama
     '''
-    question_prompt = f"# {translate_word('Question', language)}:\n```{question}```\n\n"
-    context_prompt = f"# {translate_word('Context', language)}:\n```{context}```\n\n"
+    question_prompt = f"# {translate_word('Question', language)}:\n{question}\n\n"
+    context_prompt = f"# {translate_word('Context', language)}:\n{context}\n\n"
     messages = [
         {"role": "system", "content": f"{system_prompt}"},
         {"role": "user", "content": f"{question_prompt}{context_prompt}"}
@@ -31,7 +31,7 @@ def ai_agent_remote(question, context, system_prompt, language):
 
     client = ollama.Client(host = "http://127.0.0.1:11434")
     response = client.chat(model=model_id, messages=messages)
-    # print(response)
+    print(response)
     return response['message']['content']
 
 
@@ -67,8 +67,8 @@ def cmd_agent():
                         language=language,
                     )   
 
-        print(benchmark_name)
-        print(path_to_instruction)
+        # print(benchmark_name)
+        # print(path_to_instruction)
 
     model_name = model_id.replace(':', '_')
     with open(f'benchmark/experiment_result/{model_name}-{benchmark_name}-experiment_result.json', 'w', encoding='utf-8') as f:
