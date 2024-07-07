@@ -77,8 +77,8 @@ WORD_DICTIONARY = {
     },
     "toilet": {
         LANGUAGE.EN_US: "toilet",
-        LANGUAGE.ZH_CN: "厕所",
-        LANGUAGE.ZH_HK: "廁所",
+        LANGUAGE.ZH_CN: "马桶",
+        LANGUAGE.ZH_HK: "馬桶",
     },
     "toothpaste": {
         LANGUAGE.EN_US: "toothpaste",

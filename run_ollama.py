@@ -22,8 +22,8 @@ def ai_agent_remote(question, context, system_prompt, language):
     '''
     Client call to ollama
     '''
-    question_prompt = f"# {translate_word('Question', language)}:\n{question}\n\n"
-    context_prompt = f"# {translate_word('Context', language)}:\n{context}\n\n"
+    question_prompt = f"{translate_word('Question', language)}:\n{question}\n\n"
+    context_prompt = f"{translate_word('Context', language)}:\n{context}\n\n"
     messages = [
         {"role": "system", "content": f"{system_prompt}"},
         {"role": "user", "content": f"{question_prompt}{context_prompt}"}
