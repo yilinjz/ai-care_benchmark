@@ -96,30 +96,63 @@ question_pool = [
 # ]
 
 # ========== dining room ========== #
-scene_tag = "dining_room" # change
-frame_num = [54, 746, 757, 783, 824, 852, 879, 880, 1436] # change
+# scene_tag = "dining_room" # change
+# frame_num = [54, 746, 757, 783, 824, 852, 879, 880, 1436] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+
+# # change
+# item_lists = [
+#     ['laptop', 'chair', 'microwave', 'mouse'], 
+#     ['toaster', 'bottle', 'knife', 'cup'],
+#     ['dining table', 'chair', 'tv', 'window'],
+#     ['backpack', 'lamp', 'refrigerator', 'window'],
+#     ['bowl', 'refrigerator', 'potted plant', 'apple'],
+#     ['banana', 'orange', 'toaster', 'sink'],
+#     ['chair', 'vase', 'laptop', 'couch'],
+#     ['microwave', 'oven', 'carpet', 'keyboard'],
+#     ['dining table', 'lamp', 'trash can', 'phone']
+# ]
+
+# # change
+# answer_keys = [
+#     ['Yes', 'Yes', 'Yes', 'No'],
+#     ['Yes', 'Yes', 'No', 'No'],
+#     ['Yes', 'Yes', 'Yes', 'No'],
+#     ['Yes', 'Yes', 'No', 'Yes'],
+#     ['Yes', 'Yes', 'Yes', 'No'],
+#     ['Yes', 'No', 'No', 'Yes'],
+#     ['Yes', 'Yes', 'No', 'No'],
+#     ['Yes', 'Yes', 'No', 'No'],
+#     ['Yes', 'No', 'No', 'No']
+# ]
+
+# ========== doorway ========== #
+scene_tag = "doorway" # change
+frame_num = [53, 251, 262, 263, 459, 460, 485, 562, 564] # change
 scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
 # change
 item_lists = [
-    ['laptop', 'chair', 'microwave', 'mouse'], #
-    ['toaster', '', '', ''],
-    ['', '', '', ''],
-    ['', '', '', ''],
-    ['', '', '', ''],
-    ['', '', '', ''],
-    ['', '', '', ''],
-    ['', '', '', '']
+    ['bowl', 'wine glass', 'book', 'shoe'], 
+    ['refrigerator', 'person', 'mop', 'trash can'],
+    ['vase', 'tv', 'book', 'lamp'],
+    ['chair', 'microwave', 'tv', 'person'],
+    ['potted plant', 'chair', 'carpet', 'phone'],
+    ['potted plant', 'chair', 'kite', 'sports ball'],
+    ['tv', 'couch', 'keyboard', 'skis'],
+    ['person', 'microwave', 'frisbee', 'snowboard'],
+    ['person', 'dog', 'cat', 'backpack']
 ]
 
 # change
 answer_keys = [
     ['Yes', 'Yes', 'Yes', 'No'],
-    ['', '', '', ''],
-    ['', '', '', ''],
-    ['', '', '', ''],
-    ['', '', '', ''],
-    ['', '', '', ''],
-    ['', '', '', ''],
-    ['', '', '', '']
+    ['Yes', 'No', 'No', 'No'],
+    ['Yes', 'Yes', 'Yes', 'No'],
+    ['Yes', 'Yes', 'No', 'No'],
+    ['Yes', 'Yes', 'No', 'No'],
+    ['Yes', 'Yes', 'No', 'No'],
+    ['Yes', 'Yes', 'Yes', 'No'],
+    ['Yes', 'Yes', 'No', 'No'],
+    ['Yes', 'Yes', 'No', 'No']
 ]

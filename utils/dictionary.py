@@ -110,6 +110,16 @@ WORD_DICTIONARY = {
         LANGUAGE.ZH_CN: "长椅",
         LANGUAGE.ZH_HK: "長椅",
     },
+    "cat": {
+        LANGUAGE.EN_US: "cat",
+        LANGUAGE.ZH_CN: "猫",
+        LANGUAGE.ZH_HK: "貓",
+    },
+    "dog": {
+        LANGUAGE.EN_US: "dog",
+        LANGUAGE.ZH_CN: "狗",
+        LANGUAGE.ZH_HK: "狗",
+    },
     "backpack": {
         LANGUAGE.EN_US: "backpack",
         LANGUAGE.ZH_CN: "背包",
