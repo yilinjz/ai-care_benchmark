@@ -485,5 +485,10 @@ WORD_DICTIONARY = {
         LANGUAGE.EN_US: "map",
         LANGUAGE.ZH_CN: "地图",
         LANGUAGE.ZH_HK: "地圖",
+    },
+    "plate": {
+        LANGUAGE.EN_US: "plate",
+        LANGUAGE.ZH_CN: "盘子",
+        LANGUAGE.ZH_HK: "碟",
     }
 }
