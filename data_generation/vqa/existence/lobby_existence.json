@@ -1,0 +1,344 @@
+[
+    {
+        "scene_id": "lobby_9",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is there a refrigerator in the scene?",
+                    "zh-CN": "场景中有电冰箱吗？",
+                    "zh-HK": "場景中有冇電冰箱啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Could you check if there's a tv in what you can see?",
+                    "zh-CN": "检查一下你看到的内容中是否有电视？",
+                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇電視啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Do you detect a cup in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无杯子？",
+                    "zh-HK": "你感唔感應到周圍環境有冇杯?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you tell me if a suitcase is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有行李箱？",
+                    "zh-HK": "你可唔可以話我畫面中有冇行李箱啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "lobby_36",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me if a suitcase is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有行李箱？",
+                    "zh-HK": "你可唔可以話我畫面中有冇行李箱啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Am I near a clock, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在时钟附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺時鐘附近？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you check if there's a tv in what you can see?",
+                    "zh-CN": "检查一下你看到的内容中是否有电视？",
+                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇電視啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is a window visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到窗户啊？",
+                    "zh-HK": "呢個場景入面有無見到窗戶啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "lobby_619",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you check if there's a tv in what you can see?",
+                    "zh-CN": "检查一下你看到的内容中是否有电视？",
+                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇電視啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me if a suitcase is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有行李箱？",
+                    "zh-HK": "你可唔可以話我畫面中有冇行李箱啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Is a window visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到窗户啊？",
+                    "zh-HK": "呢個場景入面有無見到窗戶啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Do you detect a cup in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无杯子？",
+                    "zh-HK": "你感唔感應到周圍環境有冇杯?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "lobby_625",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me if a suitcase is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有行李箱？",
+                    "zh-HK": "你可唔可以話我畫面中有冇行李箱啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Am I near a clock, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在时钟附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺時鐘附近？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Is there a refrigerator in the scene?",
+                    "zh-CN": "场景中有电冰箱吗？",
+                    "zh-HK": "場景中有冇電冰箱啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is a window visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到窗户啊？",
+                    "zh-HK": "呢個場景入面有無見到窗戶啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "lobby_1251",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is there a refrigerator in the scene?",
+                    "zh-CN": "场景中有电冰箱吗？",
+                    "zh-HK": "場景中有冇電冰箱啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me if a suitcase is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有行李箱？",
+                    "zh-HK": "你可唔可以話我畫面中有冇行李箱啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Am I near a clock, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在时钟附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺時鐘附近？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is a window visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到窗户啊？",
+                    "zh-HK": "呢個場景入面有無見到窗戶啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "lobby_1253",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is a window visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到窗户啊？",
+                    "zh-HK": "呢個場景入面有無見到窗戶啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Do you detect a cup in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无杯子？",
+                    "zh-HK": "你感唔感應到周圍環境有冇杯?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you tell me if a suitcase is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有行李箱？",
+                    "zh-HK": "你可唔可以話我畫面中有冇行李箱啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Am I near a clock, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在时钟附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺時鐘附近？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            }
+        ]
+    }
+]

@@ -406,11 +406,6 @@ WORD_DICTIONARY = {
         LANGUAGE.ZH_CN: "牙膏",
         LANGUAGE.ZH_HK: "牙膏",
     },
-    "phone": {
-        LANGUAGE.EN_US: "phone",
-        LANGUAGE.ZH_CN: "手机",
-        LANGUAGE.ZH_HK: "手機",
-    },
     "air conditioner": {
         LANGUAGE.EN_US: "air conditioner",
         LANGUAGE.ZH_CN: "空调",
