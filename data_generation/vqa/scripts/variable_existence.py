@@ -187,37 +187,37 @@ question_pool = [
 # ]
 
 # ========== living room ========== #
-scene_tag = "living_room" # change
-frame_num = [50, 156, 166, 200, 201, 261, 350, 356, 583, 1304] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "living_room" # change
+# frame_num = [50, 156, 166, 200, 201, 261, 350, 356, 583, 1304] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# change
-item_lists = [
-    ['couch', 'laptop', 'keyboard', 'bed'], 
-    ['tv', 'chair', 'remote', 'person'],
-    ['dining table', 'vase', 'trash can', 'plate'],
-    ['tv', 'bottle', 'backpack', 'cup'],
-    ['sports ball', 'tv', 'lamp', 'book'],
-    ['laptop', 'clock', 'mouse', 'donut'],
-    ['snowboard', 'cell phone', 'bicycle', 'keyboard'],
-    ['couch', 'book', 'oven', 'bicycle'],
-    ['backpack', 'couch', 'remote', 'laptop'],
-    ['tv', 'vase', 'person', 'chair']
-]
+# # change
+# item_lists = [
+#     ['couch', 'laptop', 'keyboard', 'bed'], 
+#     ['tv', 'chair', 'remote', 'person'],
+#     ['dining table', 'vase', 'trash can', 'plate'],
+#     ['tv', 'bottle', 'backpack', 'cup'],
+#     ['sports ball', 'tv', 'lamp', 'book'],
+#     ['laptop', 'clock', 'mouse', 'donut'],
+#     ['snowboard', 'cell phone', 'bicycle', 'keyboard'],
+#     ['couch', 'book', 'oven', 'bicycle'],
+#     ['backpack', 'couch', 'remote', 'laptop'],
+#     ['tv', 'vase', 'person', 'chair']
+# ]
 
-# change
-answer_keys = [
-    ['Yes', 'No', 'No', 'No'],
-    ['Yes', 'Yes', 'Yes', 'No'],
-    ['Yes', 'Yes', 'No', 'No'],
-    ['Yes', 'Yes', 'No', 'Yes'], 
-    ['No', 'Yes', 'No', 'Yes'],
-    ['Yes', 'Yes', 'No', 'No'],
-    ['No', 'No', 'Yes', 'Yes'],
-    ['Yes', 'Yes', 'No', 'No'],
-    ['Yes', 'Yes', 'Yes', 'No'],
-    ['No', 'Yes', 'No', 'Yes']
-]
+# # change
+# answer_keys = [
+#     ['Yes', 'No', 'No', 'No'],
+#     ['Yes', 'Yes', 'Yes', 'No'],
+#     ['Yes', 'Yes', 'No', 'No'],
+#     ['Yes', 'Yes', 'No', 'Yes'], 
+#     ['No', 'Yes', 'No', 'Yes'],
+#     ['Yes', 'Yes', 'No', 'No'],
+#     ['No', 'No', 'Yes', 'Yes'],
+#     ['Yes', 'Yes', 'No', 'No'],
+#     ['Yes', 'Yes', 'Yes', 'No'],
+#     ['No', 'Yes', 'No', 'Yes']
+# ]
 
 # ========== playroom ========== #
 # scene_tag = "playroom" # change
@@ -371,7 +371,7 @@ answer_keys = [
 #     ['Yes', 'No', 'No', 'Yes']
 # ]
 
-# # ========== classroom ========== #
+# ========== classroom ========== #
 # scene_tag = "classroom" # change
 # frame_num = [297, 301, 323, 325, 326] # change
 # scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
@@ -393,3 +393,82 @@ answer_keys = [
 #     ['No', 'Yes', 'No', 'Yes'],
 #     ['Yes', 'Yes', 'Yes', 'Yes']
 # ]
+
+# ========== coffee shop ========== #
+# scene_tag = "coffee_shop" # change
+# frame_num = [120, 122, 123, 223, 225, 228, 238, 244] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+
+# # change
+# item_lists = [
+#     ['potted plant', 'snowboard', 'umbrella', 'bench'],
+#     ['vase', 'bed', 'toaster', 'cell phone'],
+#     ['person', 'toaster', 'scissors', 'hot dog'],
+#     ['chair', 'couch', 'sandwich', 'handbag'],
+#     ['person', 'cup', 'bottle', 'knife'],
+#     ['bowl', 'vase', 'potted plant', 'dining table'],
+#     ['chair', 'bowl', 'person', 'bicycle'],
+#     ['couch', 'laptop', 'trash can', 'bed']
+# ]
+
+# # change
+# answer_keys = [
+#     ['Yes', 'No', 'No', 'Yes'],
+#     ['Yes', 'No', 'Yes', 'No'],
+#     ['Yes', 'Yes', 'No', 'No'],
+#     ['Yes', 'Yes', 'No', 'No'],
+#     ['Yes', 'Yes', 'Yes', 'No'],
+#     ['Yes', 'No', 'No', 'Yes'],
+#     ['Yes', 'Yes', 'Yes', 'No'],
+#     ['Yes', 'Yes', 'No', 'No']
+# ]
+
+# ========== computer lab ========== #
+# scene_tag = "computer lab" # change
+# frame_num = [272, 279, 333, 335, 337, 338] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+
+# # change
+# item_lists = [
+#     ['chair', 'keyboard', 'tv', 'mouse'],
+#     ['tv', 'keyboard', 'mouse', 'remote'],
+#     ['keyboard', 'mouse', 'tv', 'person'],
+#     ['keyboard', 'chair', 'tv', 'shoe'],
+#     ['tv', 'keyboard', 'book', 'backpack'],
+#     ['book', 'keyboard', 'mouse', 'cell phone']
+# ]
+
+# # change
+# answer_keys = [
+#     ['Yes', 'Yes', 'Yes', 'Yes'],
+#     ['Yes', 'Yes', 'No', 'No'],
+#     ['Yes', 'Yes', 'Yes', 'No'],
+#     ['Yes', 'Yes', 'Yes', 'No'],
+#     ['Yes', 'Yes', 'No', 'No'],
+#     ['Yes', 'Yes', 'Yes', 'No']
+# ]
+
+# ========== dorm ========== #
+scene_tag = "dorm" # change
+frame_num = [128, 130, 131, 143, 267, 569] # change
+scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+
+# change
+item_lists = [
+    ['spoon', 'bottle', 'fork', 'knife'],
+    ['soap', 'sink', 'oven', 'refrigerator'],
+    ['microwave', 'toaster', 'knife', 'sandwich'],
+    ['bottle', 'fork', 'sink', 'spoon'],
+    ['person', 'refrigerator', 'wine glass', 'oven'],
+    ['banana', 'orange', 'chair', 'sink']
+]
+
+# change
+answer_keys = [
+    ['Yes', 'Yes', 'No', 'No'],
+    ['No', 'Yes', 'Yes', 'Yes'],
+    ['Yes', 'No', 'Yes', 'No'],
+    ['Yes', 'No', 'Yes', 'Yes'],
+    ['Yes', 'Yes', 'No', 'Yes'],
+    ['Yes', 'No', 'Yes', 'Yes']
+]
