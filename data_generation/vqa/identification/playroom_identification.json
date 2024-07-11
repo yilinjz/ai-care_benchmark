@@ -1,6 +1,6 @@
 [
     {
-        "scene_id": "bathroom_44",
+        "scene_id": "playroom_425",
         "qa_pairs": [
             {
                 "qid": "0",
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "scene_id": "bathroom_49",
+        "scene_id": "playroom_426",
         "qa_pairs": [
             {
                 "qid": "0",
@@ -90,7 +90,7 @@
         ]
     },
     {
-        "scene_id": "bathroom_170",
+        "scene_id": "playroom_428",
         "qa_pairs": [
             {
                 "qid": "0",
@@ -135,7 +135,7 @@
         ]
     },
     {
-        "scene_id": "bathroom_500",
+        "scene_id": "playroom_437",
         "qa_pairs": [
             {
                 "qid": "0",
@@ -180,7 +180,7 @@
         ]
     },
     {
-        "scene_id": "bathroom_505",
+        "scene_id": "playroom_1081",
         "qa_pairs": [
             {
                 "qid": "0",
@@ -225,7 +225,7 @@
         ]
     },
     {
-        "scene_id": "bathroom_509",
+        "scene_id": "playroom_1084",
         "qa_pairs": [
             {
                 "qid": "0",
@@ -270,7 +270,52 @@
         ]
     },
     {
-        "scene_id": "bathroom_656",
+        "scene_id": "playroom_1157",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
+                    "zh-HK": "乜嘢物體就喺我面前？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
+                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you identify the item on my right side?",
+                    "zh-CN": "你能否识别我右边是什么物体？",
+                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
+                    "zh-HK": "乜嘢物品離我最近？"
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the object closest to the center of the frame?",
+                    "zh-CN": "离画面中心最近的物体是什么？",
+                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1203",
         "qa_pairs": [
             {
                 "qid": "0",
