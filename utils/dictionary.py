@@ -461,11 +461,6 @@ WORD_DICTIONARY = {
         LANGUAGE.ZH_CN: "台灯",
         LANGUAGE.ZH_HK: "台灯",
     },
-    "basketball": {
-        LANGUAGE.EN_US: "basketball",
-        LANGUAGE.ZH_CN: "篮球",
-        LANGUAGE.ZH_HK: "籃球",
-    },
     "window": {
         LANGUAGE.EN_US: "window",
         LANGUAGE.ZH_CN: "窗户",
