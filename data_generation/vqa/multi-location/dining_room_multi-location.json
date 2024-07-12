@@ -1,0 +1,263 @@
+[
+    {
+        "scene_id": "dining_room_54",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is laptop located relative to dining table?",
+                    "zh-CN": "笔记本电脑是在餐桌的哪边?",
+                    "zh-HK": "筆記本電腦喺在餐桌的邊度?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is bottle?",
+                    "zh-CN": "我现在正面对笔记本电脑, 瓶子在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 瓶子喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "How do I reach microwave from bowl?",
+                    "zh-CN": "我怎样可以从碗摸到微波炉?",
+                    "zh-HK": "我點樣可以由碗揾到微波爐?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_746",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards microwave from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到微波炉?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到微波爐?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How do I reach microwave from bowl?",
+                    "zh-CN": "我怎样可以从碗摸到微波炉?",
+                    "zh-HK": "我點樣可以由碗揾到微波爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From toaster, which direction should I move to find bottle?",
+                    "zh-CN": "我从烤面包机开始往哪个方向移动可以到瓶子?",
+                    "zh-HK": "我由多士爐要行邊個方向去揾瓶子?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_757",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From toaster, which direction should I move to find bottle?",
+                    "zh-CN": "我从烤面包机开始往哪个方向移动可以到瓶子?",
+                    "zh-HK": "我由多士爐要行邊個方向去揾瓶子?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is bottle?",
+                    "zh-CN": "我现在正面对笔记本电脑, 瓶子在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 瓶子喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is laptop located relative to dining table?",
+                    "zh-CN": "笔记本电脑是在餐桌的哪边?",
+                    "zh-HK": "筆記本電腦喺在餐桌的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_783",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach microwave from bowl?",
+                    "zh-CN": "我怎样可以从碗摸到微波炉?",
+                    "zh-HK": "我點樣可以由碗揾到微波爐?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From toaster, which direction should I move to find bottle?",
+                    "zh-CN": "我从烤面包机开始往哪个方向移动可以到瓶子?",
+                    "zh-HK": "我由多士爐要行邊個方向去揾瓶子?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is bottle?",
+                    "zh-CN": "我现在正面对笔记本电脑, 瓶子在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 瓶子喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_824",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From toaster, which direction should I move to find bottle?",
+                    "zh-CN": "我从烤面包机开始往哪个方向移动可以到瓶子?",
+                    "zh-HK": "我由多士爐要行邊個方向去揾瓶子?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How do I reach microwave from bowl?",
+                    "zh-CN": "我怎样可以从碗摸到微波炉?",
+                    "zh-HK": "我點樣可以由碗揾到微波爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If potted plant is in front of me, where should I look for bowl?",
+                    "zh-CN": "如果盆栽在我正前方，我应该往哪边找碗?",
+                    "zh-HK": "盆栽喺在我面前，我應該望邊度搵碗?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_852",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is bottle?",
+                    "zh-CN": "我现在正面对笔记本电脑, 瓶子在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 瓶子喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From toaster, which direction should I move to find bottle?",
+                    "zh-CN": "我从烤面包机开始往哪个方向移动可以到瓶子?",
+                    "zh-HK": "我由多士爐要行邊個方向去揾瓶子?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is laptop located relative to dining table?",
+                    "zh-CN": "笔记本电脑是在餐桌的哪边?",
+                    "zh-HK": "筆記本電腦喺在餐桌的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_879",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach microwave from bowl?",
+                    "zh-CN": "我怎样可以从碗摸到微波炉?",
+                    "zh-HK": "我點樣可以由碗揾到微波爐?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If potted plant is in front of me, where should I look for bowl?",
+                    "zh-CN": "如果盆栽在我正前方，我应该往哪边找碗?",
+                    "zh-HK": "盆栽喺在我面前，我應該望邊度搵碗?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards microwave from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到微波炉?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到微波爐?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_880",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards microwave from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到微波炉?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到微波爐?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How do I reach microwave from bowl?",
+                    "zh-CN": "我怎样可以从碗摸到微波炉?",
+                    "zh-HK": "我點樣可以由碗揾到微波爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is laptop located relative to dining table?",
+                    "zh-CN": "笔记本电脑是在餐桌的哪边?",
+                    "zh-HK": "筆記本電腦喺在餐桌的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_1436",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is laptop located relative to dining table?",
+                    "zh-CN": "笔记本电脑是在餐桌的哪边?",
+                    "zh-HK": "筆記本電腦喺在餐桌的邊度?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If potted plant is in front of me, where should I look for bowl?",
+                    "zh-CN": "如果盆栽在我正前方，我应该往哪边找碗?",
+                    "zh-HK": "盆栽喺在我面前，我應該望邊度搵碗?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards microwave from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到微波炉?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到微波爐?"
+                }
+            }
+        ]
+    }
+]

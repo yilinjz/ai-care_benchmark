@@ -1,0 +1,226 @@
+[
+    {
+        "scene_id": "bedroom_70",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards vase from where bed is?",
+                    "zh-CN": "你能否指引我怎样从床到花瓶?",
+                    "zh-HK": "你可以指俾我睇，由床點樣揾到花瓶?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If I'm facing vase, in which direction is potted plant?",
+                    "zh-CN": "我现在正面对花瓶, 盆栽在哪个方向?",
+                    "zh-HK": "我對住花瓶, 盆栽喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is dog located relative to potted plant?",
+                    "zh-CN": "狗是在盆栽的哪边?",
+                    "zh-HK": "狗喺在盆栽的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_176",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing vase, in which direction is potted plant?",
+                    "zh-CN": "我现在正面对花瓶, 盆栽在哪个方向?",
+                    "zh-HK": "我對住花瓶, 盆栽喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If book is in front of me, where should I look for handbag?",
+                    "zh-CN": "如果书在我正前方，我应该往哪边找手袋?",
+                    "zh-HK": "書喺在我面前，我應該望邊度搵手袋?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "How do I reach book from bed?",
+                    "zh-CN": "我怎样可以从床摸到书?",
+                    "zh-HK": "我點樣可以由床揾到書?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_178",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing vase, in which direction is potted plant?",
+                    "zh-CN": "我现在正面对花瓶, 盆栽在哪个方向?",
+                    "zh-HK": "我對住花瓶, 盆栽喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards vase from where bed is?",
+                    "zh-CN": "你能否指引我怎样从床到花瓶?",
+                    "zh-HK": "你可以指俾我睇，由床點樣揾到花瓶?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find cup?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到杯子?",
+                    "zh-HK": "我由椅子要行邊個方向去揾杯?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_181",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find cup?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到杯子?",
+                    "zh-HK": "我由椅子要行邊個方向去揾杯?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If I'm facing vase, in which direction is potted plant?",
+                    "zh-CN": "我现在正面对花瓶, 盆栽在哪个方向?",
+                    "zh-HK": "我對住花瓶, 盆栽喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is dog located relative to potted plant?",
+                    "zh-CN": "狗是在盆栽的哪边?",
+                    "zh-HK": "狗喺在盆栽的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_281",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find cup?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到杯子?",
+                    "zh-HK": "我由椅子要行邊個方向去揾杯?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How do I reach book from bed?",
+                    "zh-CN": "我怎样可以从床摸到书?",
+                    "zh-HK": "我點樣可以由床揾到書?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is dog located relative to potted plant?",
+                    "zh-CN": "狗是在盆栽的哪边?",
+                    "zh-HK": "狗喺在盆栽的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_401",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach book from bed?",
+                    "zh-CN": "我怎样可以从床摸到书?",
+                    "zh-HK": "我點樣可以由床揾到書?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If I'm facing vase, in which direction is potted plant?",
+                    "zh-CN": "我现在正面对花瓶, 盆栽在哪个方向?",
+                    "zh-HK": "我對住花瓶, 盆栽喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_525",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach book from bed?",
+                    "zh-CN": "我怎样可以从床摸到书?",
+                    "zh-HK": "我點樣可以由床揾到書?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find cup?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到杯子?",
+                    "zh-HK": "我由椅子要行邊個方向去揾杯?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards vase from where bed is?",
+                    "zh-CN": "你能否指引我怎样从床到花瓶?",
+                    "zh-HK": "你可以指俾我睇，由床點樣揾到花瓶?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_946",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find cup?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到杯子?",
+                    "zh-HK": "我由椅子要行邊個方向去揾杯?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards vase from where bed is?",
+                    "zh-CN": "你能否指引我怎样从床到花瓶?",
+                    "zh-HK": "你可以指俾我睇，由床點樣揾到花瓶?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If book is in front of me, where should I look for handbag?",
+                    "zh-CN": "如果书在我正前方，我应该往哪边找手袋?",
+                    "zh-HK": "書喺在我面前，我應該望邊度搵手袋?"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "scene_id": "playroom_425",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is sports ball located relative to chair?",
+                    "zh-CN": "运动用球是在椅子的哪边?",
+                    "zh-HK": "運動波喺在椅子的邊度?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If I'm facing sports ball, in which direction is backpack?",
+                    "zh-CN": "我现在正面对运动用球, 背包在哪个方向?",
+                    "zh-HK": "我對住運動波, 背囊喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If dining table is in front of me, where should I look for backpack?",
+                    "zh-CN": "如果餐桌在我正前方，我应该往哪边找背包?",
+                    "zh-HK": "餐桌喺在我面前，我應該望邊度搵背囊?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_426",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing sports ball, in which direction is backpack?",
+                    "zh-CN": "我现在正面对运动用球, 背包在哪个方向?",
+                    "zh-HK": "我對住運動波, 背囊喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards couch from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到沙发?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到梳化?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is sports ball located relative to chair?",
+                    "zh-CN": "运动用球是在椅子的哪边?",
+                    "zh-HK": "運動波喺在椅子的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_428",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards couch from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到沙发?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到梳化?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From couch, which direction should I move to find chair?",
+                    "zh-CN": "我从沙发开始往哪个方向移动可以到椅子?",
+                    "zh-HK": "我由梳化要行邊個方向去揾椅子?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is sports ball located relative to chair?",
+                    "zh-CN": "运动用球是在椅子的哪边?",
+                    "zh-HK": "運動波喺在椅子的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_437",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If dining table is in front of me, where should I look for backpack?",
+                    "zh-CN": "如果餐桌在我正前方，我应该往哪边找背包?",
+                    "zh-HK": "餐桌喺在我面前，我應該望邊度搵背囊?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If I'm facing sports ball, in which direction is backpack?",
+                    "zh-CN": "我现在正面对运动用球, 背包在哪个方向?",
+                    "zh-HK": "我對住運動波, 背囊喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From couch, which direction should I move to find chair?",
+                    "zh-CN": "我从沙发开始往哪个方向移动可以到椅子?",
+                    "zh-HK": "我由梳化要行邊個方向去揾椅子?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1081",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing sports ball, in which direction is backpack?",
+                    "zh-CN": "我现在正面对运动用球, 背包在哪个方向?",
+                    "zh-HK": "我對住運動波, 背囊喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How do I reach book from bed?",
+                    "zh-CN": "我怎样可以从床摸到书?",
+                    "zh-HK": "我點樣可以由床揾到書?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is sports ball located relative to chair?",
+                    "zh-CN": "运动用球是在椅子的哪边?",
+                    "zh-HK": "運動波喺在椅子的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1084",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach book from bed?",
+                    "zh-CN": "我怎样可以从床摸到书?",
+                    "zh-HK": "我點樣可以由床揾到書?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is sports ball located relative to chair?",
+                    "zh-CN": "运动用球是在椅子的哪边?",
+                    "zh-HK": "運動波喺在椅子的邊度?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing sports ball, in which direction is backpack?",
+                    "zh-CN": "我现在正面对运动用球, 背包在哪个方向?",
+                    "zh-HK": "我對住運動波, 背囊喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1157",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From couch, which direction should I move to find chair?",
+                    "zh-CN": "我从沙发开始往哪个方向移动可以到椅子?",
+                    "zh-HK": "我由梳化要行邊個方向去揾椅子?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If I'm facing sports ball, in which direction is backpack?",
+                    "zh-CN": "我现在正面对运动用球, 背包在哪个方向?",
+                    "zh-HK": "我對住運動波, 背囊喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards couch from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到沙发?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到梳化?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1203",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If dining table is in front of me, where should I look for backpack?",
+                    "zh-CN": "如果餐桌在我正前方，我应该往哪边找背包?",
+                    "zh-HK": "餐桌喺在我面前，我應該望邊度搵背囊?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From couch, which direction should I move to find chair?",
+                    "zh-CN": "我从沙发开始往哪个方向移动可以到椅子?",
+                    "zh-HK": "我由梳化要行邊個方向去揾椅子?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is sports ball located relative to chair?",
+                    "zh-CN": "运动用球是在椅子的哪边?",
+                    "zh-HK": "運動波喺在椅子的邊度?"
+                }
+            }
+        ]
+    }
+]

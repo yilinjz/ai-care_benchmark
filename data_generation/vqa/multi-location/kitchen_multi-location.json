@@ -1,0 +1,234 @@
+[
+    {
+        "scene_id": "kitchen_138",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach microwave from oven?",
+                    "zh-CN": "我怎样可以从烤箱摸到微波炉?",
+                    "zh-HK": "我點樣可以由焗爐揾到微波爐?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards oven from where bowl is?",
+                    "zh-CN": "你能否指引我怎样从碗到烤箱?",
+                    "zh-HK": "你可以指俾我睇，由碗點樣揾到焗爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If sink is in front of me, where should I look for bowl?",
+                    "zh-CN": "如果水槽在我正前方，我应该往哪边找碗?",
+                    "zh-HK": "水槽喺在我面前，我應該望邊度搵碗?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_139",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing microwave, in which direction is bowl?",
+                    "zh-CN": "我现在正面对微波炉, 碗在哪个方向?",
+                    "zh-HK": "我對住微波爐, 碗喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How do I reach microwave from oven?",
+                    "zh-CN": "我怎样可以从烤箱摸到微波炉?",
+                    "zh-HK": "我點樣可以由焗爐揾到微波爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From oven, which direction should I move to find bottle?",
+                    "zh-CN": "我从烤箱开始往哪个方向移动可以到瓶子?",
+                    "zh-HK": "我由焗爐要行邊個方向去揾瓶子?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_199",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing microwave, in which direction is bowl?",
+                    "zh-CN": "我现在正面对微波炉, 碗在哪个方向?",
+                    "zh-HK": "我對住微波爐, 碗喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How do I reach microwave from oven?",
+                    "zh-CN": "我怎样可以从烤箱摸到微波炉?",
+                    "zh-HK": "我點樣可以由焗爐揾到微波爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is bowl located relative to oven?",
+                    "zh-CN": "碗是在烤箱的哪边?",
+                    "zh-HK": "碗喺在焗爐的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_203",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing microwave, in which direction is bowl?",
+                    "zh-CN": "我现在正面对微波炉, 碗在哪个方向?",
+                    "zh-HK": "我對住微波爐, 碗喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How do I reach microwave from oven?",
+                    "zh-CN": "我怎样可以从烤箱摸到微波炉?",
+                    "zh-HK": "我點樣可以由焗爐揾到微波爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards oven from where bowl is?",
+                    "zh-CN": "你能否指引我怎样从碗到烤箱?",
+                    "zh-HK": "你可以指俾我睇，由碗點樣揾到焗爐?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_204",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If sink is in front of me, where should I look for bowl?",
+                    "zh-CN": "如果水槽在我正前方，我应该往哪边找碗?",
+                    "zh-HK": "水槽喺在我面前，我應該望邊度搵碗?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards oven from where bowl is?",
+                    "zh-CN": "你能否指引我怎样从碗到烤箱?",
+                    "zh-HK": "你可以指俾我睇，由碗點樣揾到焗爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "How do I reach microwave from oven?",
+                    "zh-CN": "我怎样可以从烤箱摸到微波炉?",
+                    "zh-HK": "我點樣可以由焗爐揾到微波爐?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_253",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If sink is in front of me, where should I look for bowl?",
+                    "zh-CN": "如果水槽在我正前方，我应该往哪边找碗?",
+                    "zh-HK": "水槽喺在我面前，我應該望邊度搵碗?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards oven from where bowl is?",
+                    "zh-CN": "你能否指引我怎样从碗到烤箱?",
+                    "zh-HK": "你可以指俾我睇，由碗點樣揾到焗爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing microwave, in which direction is bowl?",
+                    "zh-CN": "我现在正面对微波炉, 碗在哪个方向?",
+                    "zh-HK": "我對住微波爐, 碗喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_560",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If sink is in front of me, where should I look for bowl?",
+                    "zh-CN": "如果水槽在我正前方，我应该往哪边找碗?",
+                    "zh-HK": "水槽喺在我面前，我應該望邊度搵碗?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is bowl located relative to oven?",
+                    "zh-CN": "碗是在烤箱的哪边?",
+                    "zh-HK": "碗喺在焗爐的邊度?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards oven from where bowl is?",
+                    "zh-CN": "你能否指引我怎样从碗到烤箱?",
+                    "zh-HK": "你可以指俾我睇，由碗點樣揾到焗爐?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_849",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is bowl located relative to oven?",
+                    "zh-CN": "碗是在烤箱的哪边?",
+                    "zh-HK": "碗喺在焗爐的邊度?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If sink is in front of me, where should I look for bowl?",
+                    "zh-CN": "如果水槽在我正前方，我应该往哪边找碗?",
+                    "zh-HK": "水槽喺在我面前，我應該望邊度搵碗?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing microwave, in which direction is bowl?",
+                    "zh-CN": "我现在正面对微波炉, 碗在哪个方向?",
+                    "zh-HK": "我對住微波爐, 碗喺邊個方向？"
+                }
+            }
+        ]
+    }
+]
