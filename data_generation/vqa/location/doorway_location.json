@@ -1,0 +1,327 @@
+[
+    {
+        "scene_id": "doorway_53",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you locate the microwave in the scene?",
+                    "zh-CN": "你能在场景中找到微波炉吗？",
+                    "zh-HK": "你可以喺房入面搵到微波爐嗎?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the wine glass from my current position?",
+                    "zh-CN": "酒杯在我当前位置的什么方向?",
+                    "zh-HK": "酒杯由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Find where the book is, please.",
+                    "zh-CN": "请帮我找下书在哪里。",
+                    "zh-HK": "請幫我搵吓書喺邊。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Could you guide me to the position of the bowl?",
+                    "zh-CN": "你可以引导我去到碗的位置嗎?",
+                    "zh-HK": "你可以引導我去到碗嘅位置嗎？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_251",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction is the wine glass from my current position?",
+                    "zh-CN": "酒杯在我当前位置的什么方向?",
+                    "zh-HK": "酒杯由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you locate the microwave in the scene?",
+                    "zh-CN": "你能在场景中找到微波炉吗？",
+                    "zh-HK": "你可以喺房入面搵到微波爐嗎?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you guide me to the position of the bowl?",
+                    "zh-CN": "你可以引导我去到碗的位置嗎?",
+                    "zh-HK": "你可以引導我去到碗嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where is the closest couch in relation to me?",
+                    "zh-CN": "离我最近的沙发在哪里?",
+                    "zh-HK": "離我最近嘅梳化喺邊度？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_262",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest couch in relation to me?",
+                    "zh-CN": "离我最近的沙发在哪里?",
+                    "zh-HK": "離我最近嘅梳化喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the wine glass from my current position?",
+                    "zh-CN": "酒杯在我当前位置的什么方向?",
+                    "zh-HK": "酒杯由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the microwave in the scene?",
+                    "zh-CN": "你能在场景中找到微波炉吗？",
+                    "zh-HK": "你可以喺房入面搵到微波爐嗎?"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Find where the book is, please.",
+                    "zh-CN": "请帮我找下书在哪里。",
+                    "zh-HK": "請幫我搵吓書喺邊。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_263",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the bowl?",
+                    "zh-CN": "你可以引导我去到碗的位置嗎?",
+                    "zh-HK": "你可以引導我去到碗嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the closest couch in relation to me?",
+                    "zh-CN": "离我最近的沙发在哪里?",
+                    "zh-HK": "離我最近嘅梳化喺邊度？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the microwave in the scene?",
+                    "zh-CN": "你能在场景中找到微波炉吗？",
+                    "zh-HK": "你可以喺房入面搵到微波爐嗎?"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "In which direction is the wine glass from my current position?",
+                    "zh-CN": "酒杯在我当前位置的什么方向?",
+                    "zh-HK": "酒杯由我而家嘅位置喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_459",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the bowl?",
+                    "zh-CN": "你可以引导我去到碗的位置嗎?",
+                    "zh-HK": "你可以引導我去到碗嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the wine glass from my current position?",
+                    "zh-CN": "酒杯在我当前位置的什么方向?",
+                    "zh-HK": "酒杯由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Find where the book is, please.",
+                    "zh-CN": "请帮我找下书在哪里。",
+                    "zh-HK": "請幫我搵吓書喺邊。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you locate the microwave in the scene?",
+                    "zh-CN": "你能在场景中找到微波炉吗？",
+                    "zh-HK": "你可以喺房入面搵到微波爐嗎?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_460",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the bowl?",
+                    "zh-CN": "你可以引导我去到碗的位置嗎?",
+                    "zh-HK": "你可以引導我去到碗嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the wine glass from my current position?",
+                    "zh-CN": "酒杯在我当前位置的什么方向?",
+                    "zh-HK": "酒杯由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the microwave in the scene?",
+                    "zh-CN": "你能在场景中找到微波炉吗？",
+                    "zh-HK": "你可以喺房入面搵到微波爐嗎?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_485",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest couch in relation to me?",
+                    "zh-CN": "离我最近的沙发在哪里?",
+                    "zh-HK": "離我最近嘅梳化喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you locate the microwave in the scene?",
+                    "zh-CN": "你能在场景中找到微波炉吗？",
+                    "zh-HK": "你可以喺房入面搵到微波爐嗎?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you guide me to the position of the bowl?",
+                    "zh-CN": "你可以引导我去到碗的位置嗎?",
+                    "zh-HK": "你可以引導我去到碗嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Find where the book is, please.",
+                    "zh-CN": "请帮我找下书在哪里。",
+                    "zh-HK": "請幫我搵吓書喺邊。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_562",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the bowl?",
+                    "zh-CN": "你可以引导我去到碗的位置嗎?",
+                    "zh-HK": "你可以引導我去到碗嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the book is, please.",
+                    "zh-CN": "请帮我找下书在哪里。",
+                    "zh-HK": "請幫我搵吓書喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the microwave in the scene?",
+                    "zh-CN": "你能在场景中找到微波炉吗？",
+                    "zh-HK": "你可以喺房入面搵到微波爐嗎?"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "In which direction is the wine glass from my current position?",
+                    "zh-CN": "酒杯在我当前位置的什么方向?",
+                    "zh-HK": "酒杯由我而家嘅位置喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_564",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Find where the book is, please.",
+                    "zh-CN": "请帮我找下书在哪里。",
+                    "zh-HK": "請幫我搵吓書喺邊。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the wine glass from my current position?",
+                    "zh-CN": "酒杯在我当前位置的什么方向?",
+                    "zh-HK": "酒杯由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the microwave in the scene?",
+                    "zh-CN": "你能在场景中找到微波炉吗？",
+                    "zh-HK": "你可以喺房入面搵到微波爐嗎?"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Could you guide me to the position of the bowl?",
+                    "zh-CN": "你可以引导我去到碗的位置嗎?",
+                    "zh-HK": "你可以引導我去到碗嘅位置嗎？"
+                }
+            }
+        ]
+    }
+]

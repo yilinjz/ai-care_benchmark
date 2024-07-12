@@ -1,0 +1,372 @@
+[
+    {
+        "scene_id": "living_room_50",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction is the couch from my current position?",
+                    "zh-CN": "沙发在我当前位置的什么方向?",
+                    "zh-HK": "梳化由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the potted plant is, please.",
+                    "zh-CN": "请帮我找下盆栽在哪里。",
+                    "zh-HK": "請幫我搵吓盆栽喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you locate the tv in the scene?",
+                    "zh-CN": "你能在场景中找到电视吗？",
+                    "zh-HK": "你可以喺房入面搵到電視嗎?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_156",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you locate the tv in the scene?",
+                    "zh-CN": "你能在场景中找到电视吗？",
+                    "zh-HK": "你可以喺房入面搵到電視嗎?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Find where the potted plant is, please.",
+                    "zh-CN": "请帮我找下盆栽在哪里。",
+                    "zh-HK": "請幫我搵吓盆栽喺邊。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Could you guide me to the position of the couch?",
+                    "zh-CN": "你可以引导我去到沙发的位置嗎?",
+                    "zh-HK": "你可以引導我去到梳化嘅位置嗎？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_166",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you locate the tv in the scene?",
+                    "zh-CN": "你能在场景中找到电视吗？",
+                    "zh-HK": "你可以喺房入面搵到電視嗎?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Find where the potted plant is, please.",
+                    "zh-CN": "请帮我找下盆栽在哪里。",
+                    "zh-HK": "請幫我搵吓盆栽喺邊。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Could you guide me to the position of the couch?",
+                    "zh-CN": "你可以引导我去到沙发的位置嗎?",
+                    "zh-HK": "你可以引導我去到梳化嘅位置嗎？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_200",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the couch?",
+                    "zh-CN": "你可以引导我去到沙发的位置嗎?",
+                    "zh-HK": "你可以引導我去到梳化嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the tv in the scene?",
+                    "zh-CN": "你能在场景中找到电视吗？",
+                    "zh-HK": "你可以喺房入面搵到電視嗎?"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "In which direction is the couch from my current position?",
+                    "zh-CN": "沙发在我当前位置的什么方向?",
+                    "zh-HK": "梳化由我而家嘅位置喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_201",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction is the couch from my current position?",
+                    "zh-CN": "沙发在我当前位置的什么方向?",
+                    "zh-HK": "梳化由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the potted plant is, please.",
+                    "zh-CN": "请帮我找下盆栽在哪里。",
+                    "zh-HK": "請幫我搵吓盆栽喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the tv in the scene?",
+                    "zh-CN": "你能在场景中找到电视吗？",
+                    "zh-HK": "你可以喺房入面搵到電視嗎?"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_261",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you locate the tv in the scene?",
+                    "zh-CN": "你能在场景中找到电视吗？",
+                    "zh-HK": "你可以喺房入面搵到電視嗎?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Could you guide me to the position of the couch?",
+                    "zh-CN": "你可以引导我去到沙发的位置嗎?",
+                    "zh-HK": "你可以引導我去到梳化嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Find where the potted plant is, please.",
+                    "zh-CN": "请帮我找下盆栽在哪里。",
+                    "zh-HK": "請幫我搵吓盆栽喺邊。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_350",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Find where the potted plant is, please.",
+                    "zh-CN": "请帮我找下盆栽在哪里。",
+                    "zh-HK": "請幫我搵吓盆栽喺邊。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the tv in the scene?",
+                    "zh-CN": "你能在场景中找到电视吗？",
+                    "zh-HK": "你可以喺房入面搵到電視嗎?"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Could you guide me to the position of the couch?",
+                    "zh-CN": "你可以引导我去到沙发的位置嗎?",
+                    "zh-HK": "你可以引導我去到梳化嘅位置嗎？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_356",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the potted plant is, please.",
+                    "zh-CN": "请帮我找下盆栽在哪里。",
+                    "zh-HK": "請幫我搵吓盆栽喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you guide me to the position of the couch?",
+                    "zh-CN": "你可以引导我去到沙发的位置嗎?",
+                    "zh-HK": "你可以引導我去到梳化嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you locate the tv in the scene?",
+                    "zh-CN": "你能在场景中找到电视吗？",
+                    "zh-HK": "你可以喺房入面搵到電視嗎?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_583",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you locate the tv in the scene?",
+                    "zh-CN": "你能在场景中找到电视吗？",
+                    "zh-HK": "你可以喺房入面搵到電視嗎?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the couch from my current position?",
+                    "zh-CN": "沙发在我当前位置的什么方向?",
+                    "zh-HK": "梳化由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you guide me to the position of the couch?",
+                    "zh-CN": "你可以引导我去到沙发的位置嗎?",
+                    "zh-HK": "你可以引導我去到梳化嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_1304",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the couch?",
+                    "zh-CN": "你可以引导我去到沙发的位置嗎?",
+                    "zh-HK": "你可以引導我去到梳化嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the tv in the scene?",
+                    "zh-CN": "你能在场景中找到电视吗？",
+                    "zh-HK": "你可以喺房入面搵到電視嗎?"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Find where the potted plant is, please.",
+                    "zh-CN": "请帮我找下盆栽在哪里。",
+                    "zh-HK": "請幫我搵吓盆栽喺邊。"
+                }
+            }
+        ]
+    }
+]

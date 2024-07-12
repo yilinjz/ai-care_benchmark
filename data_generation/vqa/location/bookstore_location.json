@@ -1,0 +1,139 @@
+[
+    {
+        "scene_id": "bookstore_88",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you locate the clock in the scene?",
+                    "zh-CN": "你能在场景中找到时钟吗？",
+                    "zh-HK": "你可以喺房入面搵到時鐘嗎?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_89",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the bottle from my current position?",
+                    "zh-CN": "瓶子在我当前位置的什么方向?",
+                    "zh-HK": "瓶子由我而家嘅位置喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_91",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the suitcase?",
+                    "zh-CN": "你可以引导我去到行李箱的位置嗎?",
+                    "zh-HK": "你可以引導我去到行李箱嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you locate the clock in the scene?",
+                    "zh-CN": "你能在场景中找到时钟吗？",
+                    "zh-HK": "你可以喺房入面搵到時鐘嗎?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_112",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the mouse is, please.",
+                    "zh-CN": "请帮我找下鼠标在哪里。",
+                    "zh-HK": "請幫我搵吓鼠標喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you guide me to the position of the suitcase?",
+                    "zh-CN": "你可以引导我去到行李箱的位置嗎?",
+                    "zh-HK": "你可以引導我去到行李箱嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you locate the clock in the scene?",
+                    "zh-CN": "你能在场景中找到时钟吗？",
+                    "zh-HK": "你可以喺房入面搵到時鐘嗎?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_119",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the suitcase?",
+                    "zh-CN": "你可以引导我去到行李箱的位置嗎?",
+                    "zh-HK": "你可以引導我去到行李箱嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "In which direction is the bottle from my current position?",
+                    "zh-CN": "瓶子在我当前位置的什么方向?",
+                    "zh-HK": "瓶子由我而家嘅位置喺邊個方向？"
+                }
+            }
+        ]
+    }
+]
