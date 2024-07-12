@@ -1,0 +1,266 @@
+[
+    {
+        "scene_id": "coffee_shop_120",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest potted plant in relation to me?",
+                    "zh-CN": "离我最近的盆栽在哪里?",
+                    "zh-HK": "離我最近嘅盆栽喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you locate the dining table in the scene?",
+                    "zh-CN": "你能在场景中找到餐桌吗？",
+                    "zh-HK": "你可以喺房入面搵到餐桌嗎?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "In which direction is the bench from my current position?",
+                    "zh-CN": "长椅在我当前位置的什么方向?",
+                    "zh-HK": "長椅由我而家嘅位置喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_122",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the vase?",
+                    "zh-CN": "你可以引导我去到花瓶的位置嗎?",
+                    "zh-HK": "你可以引導我去到花瓶嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the closest potted plant in relation to me?",
+                    "zh-CN": "离我最近的盆栽在哪里?",
+                    "zh-HK": "離我最近嘅盆栽喺邊度？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the dining table in the scene?",
+                    "zh-CN": "你能在场景中找到餐桌吗？",
+                    "zh-HK": "你可以喺房入面搵到餐桌嗎?"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_123",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction is the bench from my current position?",
+                    "zh-CN": "长椅在我当前位置的什么方向?",
+                    "zh-HK": "長椅由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the closest potted plant in relation to me?",
+                    "zh-CN": "离我最近的盆栽在哪里?",
+                    "zh-HK": "離我最近嘅盆栽喺邊度？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_223",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the vase?",
+                    "zh-CN": "你可以引导我去到花瓶的位置嗎?",
+                    "zh-HK": "你可以引導我去到花瓶嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the dining table in the scene?",
+                    "zh-CN": "你能在场景中找到餐桌吗？",
+                    "zh-HK": "你可以喺房入面搵到餐桌嗎?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_225",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the vase?",
+                    "zh-CN": "你可以引导我去到花瓶的位置嗎?",
+                    "zh-HK": "你可以引導我去到花瓶嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you locate the dining table in the scene?",
+                    "zh-CN": "你能在场景中找到餐桌吗？",
+                    "zh-HK": "你可以喺房入面搵到餐桌嗎?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where is the closest potted plant in relation to me?",
+                    "zh-CN": "离我最近的盆栽在哪里?",
+                    "zh-HK": "離我最近嘅盆栽喺邊度？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_228",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction is the bench from my current position?",
+                    "zh-CN": "长椅在我当前位置的什么方向?",
+                    "zh-HK": "長椅由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you guide me to the position of the vase?",
+                    "zh-CN": "你可以引导我去到花瓶的位置嗎?",
+                    "zh-HK": "你可以引導我去到花瓶嘅位置嗎？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_238",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the vase?",
+                    "zh-CN": "你可以引导我去到花瓶的位置嗎?",
+                    "zh-HK": "你可以引導我去到花瓶嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you locate the dining table in the scene?",
+                    "zh-CN": "你能在场景中找到餐桌吗？",
+                    "zh-HK": "你可以喺房入面搵到餐桌嗎?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is the closest potted plant in relation to me?",
+                    "zh-CN": "离我最近的盆栽在哪里?",
+                    "zh-HK": "離我最近嘅盆栽喺邊度？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "In which direction is the bench from my current position?",
+                    "zh-CN": "长椅在我当前位置的什么方向?",
+                    "zh-HK": "長椅由我而家嘅位置喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_244",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction is the bench from my current position?",
+                    "zh-CN": "长椅在我当前位置的什么方向?",
+                    "zh-HK": "長椅由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Could you guide me to the position of the vase?",
+                    "zh-CN": "你可以引导我去到花瓶的位置嗎?",
+                    "zh-HK": "你可以引導我去到花瓶嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where is the closest potted plant in relation to me?",
+                    "zh-CN": "离我最近的盆栽在哪里?",
+                    "zh-HK": "離我最近嘅盆栽喺邊度？"
+                }
+            }
+        ]
+    }
+]

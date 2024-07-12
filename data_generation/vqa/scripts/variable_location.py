@@ -51,11 +51,11 @@ question_pool = [
 # ]
 
 # ========== bedroom ========== #
-scene_tag = "bedroom" # change
-frame_num = [70, 176, 178, 181, 281, 401, 525, 946] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "bedroom" # change
+# frame_num = [70, 176, 178, 181, 281, 401, 525, 946] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# change
+# # change
 # item_lists = [
 #     ['bed', 'vase', 'potted plant', 'dog'],
 #     ['backpack', 'book', 'bed', 'lamp'],
@@ -216,18 +216,18 @@ scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 # ]
 
 # ========== bookstore ========== #
-scene_tag = "bookstore" # change
-frame_num = [88, 89, 91, 112, 119] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "bookstore" # change
+# frame_num = [88, 89, 91, 112, 119] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# change
-item_lists = [
-    ['clock', 'book'],
-    ['book', 'bottle'],
-    ['suitcase', 'backpack', 'person'],
-    ['laptop', 'mouse', 'tv', 'book'],
-    ['dining table', 'chair', 'book']
-]
+# # change
+# item_lists = [
+#     ['clock', 'book'],
+#     ['book', 'bottle'],
+#     ['suitcase', 'backpack', 'person'],
+#     ['laptop', 'mouse', 'tv', 'book'],
+#     ['dining table', 'chair', 'book']
+# ]
 
 # ========== classroom ========== #
 # scene_tag = "classroom" # change
@@ -236,20 +236,11 @@ item_lists = [
 
 # # change
 # item_lists = [
-#     ['laptop', 'backpack', 'suitcase', 'book'],
-#     ['chair', 'dining table', 'tie', 'mop'],
-#     ['chair', 'sports ball', 'book', 'teddy bear'],
-#     ['towel', 'carpet', 'dining table', 'couch'],
+#     ['laptop', 'backpack', 'dining table', 'book'],
+#     ['chair', 'dining table', 'tv', 'keyboard'],
+#     ['chair', 'dining table', 'book', 'teddy bear'],
+#     ['chair', 'couch'],
 #     ['chair', 'bottle', 'sink', 'dining table']
-# ]
-
-# # change
-# answer_keys = [
-#     ['Yes', 'Yes', 'No', 'Yes'],
-#     ['Yes', 'Yes', 'No', 'No'],
-#     ['Yes', 'No', 'Yes', 'Yes'],
-#     ['No', 'Yes', 'No', 'Yes'],
-#     ['Yes', 'Yes', 'Yes', 'Yes']
 # ]
 
 # ========== coffee shop ========== #
@@ -259,26 +250,14 @@ item_lists = [
 
 # # change
 # item_lists = [
-#     ['potted plant', 'snowboard', 'umbrella', 'bench'],
-#     ['vase', 'bed', 'toaster', 'cell phone'],
-#     ['person', 'toaster', 'scissors', 'hot dog'],
-#     ['chair', 'couch', 'sandwich', 'handbag'],
-#     ['person', 'cup', 'bottle', 'knife'],
-#     ['bowl', 'vase', 'potted plant', 'dining table'],
-#     ['chair', 'bowl', 'person', 'bicycle'],
-#     ['couch', 'laptop', 'trash can', 'bed']
-# ]
-
-# # change
-# answer_keys = [
-#     ['Yes', 'No', 'No', 'Yes'],
-#     ['Yes', 'No', 'Yes', 'No'],
-#     ['Yes', 'Yes', 'No', 'No'],
-#     ['Yes', 'Yes', 'No', 'No'],
-#     ['Yes', 'Yes', 'Yes', 'No'],
-#     ['Yes', 'No', 'No', 'Yes'],
-#     ['Yes', 'Yes', 'Yes', 'No'],
-#     ['Yes', 'Yes', 'No', 'No']
+#     ['potted plant', 'dining table', 'chair', 'bench'],
+#     ['vase', 'bottle', 'toaster', 'potted plant'],
+#     ['person', 'toaster'],
+#     ['chair', 'couch', 'dining table'],
+#     ['person', 'cup', 'bottle', 'chair'],
+#     ['bowl', 'chair', 'dining table'],
+#     ['chair', 'bowl', 'person', 'dining table'],
+#     ['couch', 'laptop', 'person', 'dining table']
 # ]
 
 # ========== computer lab ========== #
@@ -289,44 +268,24 @@ item_lists = [
 # # change
 # item_lists = [
 #     ['chair', 'keyboard', 'tv', 'mouse'],
-#     ['tv', 'keyboard', 'mouse', 'remote'],
-#     ['keyboard', 'mouse', 'tv', 'person'],
-#     ['keyboard', 'chair', 'tv', 'shoe'],
-#     ['tv', 'keyboard', 'book', 'backpack'],
-#     ['book', 'keyboard', 'mouse', 'cell phone']
-# ]
-
-# # change
-# answer_keys = [
-#     ['Yes', 'Yes', 'Yes', 'Yes'],
-#     ['Yes', 'Yes', 'No', 'No'],
-#     ['Yes', 'Yes', 'Yes', 'No'],
-#     ['Yes', 'Yes', 'Yes', 'No'],
-#     ['Yes', 'Yes', 'No', 'No'],
-#     ['Yes', 'Yes', 'Yes', 'No']
+#     ['tv', 'keyboard', 'chair'],
+#     ['keyboard', 'mouse', 'tv'],
+#     ['keyboard', 'chair', 'tv'],
+#     ['tv', 'keyboard', 'chair'],
+#     ['book', 'keyboard', 'mouse']
 # ]
 
 # ========== dorm ========== #
-# scene_tag = "dorm" # change
-# frame_num = [128, 130, 131, 143, 267, 569] # change
-# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+scene_tag = "dorm" # change
+frame_num = [128, 130, 131, 143, 267, 569] # change
+scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# # change
-# item_lists = [
-#     ['spoon', 'bottle', 'fork', 'knife'],
-#     ['soap', 'sink', 'oven', 'refrigerator'],
-#     ['microwave', 'toaster', 'knife', 'sandwich'],
-#     ['bottle', 'fork', 'sink', 'spoon'],
-#     ['person', 'refrigerator', 'wine glass', 'oven'],
-#     ['banana', 'orange', 'chair', 'sink']
-# ]
-
-# # change
-# answer_keys = [
-#     ['Yes', 'Yes', 'No', 'No'],
-#     ['No', 'Yes', 'Yes', 'Yes'],
-#     ['Yes', 'No', 'Yes', 'No'],
-#     ['Yes', 'No', 'Yes', 'Yes'],
-#     ['Yes', 'Yes', 'No', 'Yes'],
-#     ['Yes', 'No', 'Yes', 'Yes']
-# ]
+# change
+item_lists = [
+    ['spoon', 'bottle', 'cup', 'oven'],
+    ['bottle', 'sink', 'oven', 'refrigerator'],
+    ['microwave', 'cup', 'knife', 'oven'],
+    ['bottle', 'bowl', 'sink', 'spoon'],
+    ['person', 'refrigerator', 'bottle', 'oven'],
+    ['banana', 'refrigerator', 'chair', 'sink']
+]

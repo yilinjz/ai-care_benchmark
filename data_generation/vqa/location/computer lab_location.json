@@ -1,0 +1,184 @@
+[
+    {
+        "scene_id": "computer lab_272",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you locate the keyboard in the scene?",
+                    "zh-CN": "你能在场景中找到键盘吗？",
+                    "zh-HK": "你可以喺房入面搵到鍵盤嗎?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is the closest tv in relation to me?",
+                    "zh-CN": "离我最近的电视在哪里?",
+                    "zh-HK": "離我最近嘅電視喺邊度？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Could you guide me to the position of the mouse?",
+                    "zh-CN": "你可以引导我去到鼠标的位置嗎?",
+                    "zh-HK": "你可以引導我去到鼠標嘅位置嗎？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer lab_279",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you locate the keyboard in the scene?",
+                    "zh-CN": "你能在场景中找到键盘吗？",
+                    "zh-HK": "你可以喺房入面搵到鍵盤嗎?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the keyboard from my current position?",
+                    "zh-CN": "键盘在我当前位置的什么方向?",
+                    "zh-HK": "鍵盤由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer lab_333",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction is the keyboard from my current position?",
+                    "zh-CN": "键盘在我当前位置的什么方向?",
+                    "zh-HK": "鍵盤由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the keyboard in the scene?",
+                    "zh-CN": "你能在场景中找到键盘吗？",
+                    "zh-HK": "你可以喺房入面搵到鍵盤嗎?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer lab_335",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest tv in relation to me?",
+                    "zh-CN": "离我最近的电视在哪里?",
+                    "zh-HK": "離我最近嘅電視喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the keyboard in the scene?",
+                    "zh-CN": "你能在场景中找到键盘吗？",
+                    "zh-HK": "你可以喺房入面搵到鍵盤嗎?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer lab_337",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest tv in relation to me?",
+                    "zh-CN": "离我最近的电视在哪里?",
+                    "zh-HK": "離我最近嘅電視喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "In which direction is the keyboard from my current position?",
+                    "zh-CN": "键盘在我当前位置的什么方向?",
+                    "zh-HK": "鍵盤由我而家嘅位置喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer lab_338",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction is the keyboard from my current position?",
+                    "zh-CN": "键盘在我当前位置的什么方向?",
+                    "zh-HK": "鍵盤由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you locate the keyboard in the scene?",
+                    "zh-CN": "你能在场景中找到键盘吗？",
+                    "zh-HK": "你可以喺房入面搵到鍵盤嗎?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you guide me to the position of the mouse?",
+                    "zh-CN": "你可以引导我去到鼠标的位置嗎?",
+                    "zh-HK": "你可以引導我去到鼠標嘅位置嗎？"
+                }
+            }
+        ]
+    }
+]

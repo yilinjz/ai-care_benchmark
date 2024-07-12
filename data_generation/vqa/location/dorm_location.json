@@ -1,0 +1,224 @@
+[
+    {
+        "scene_id": "dorm_128",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction is the spoon from my current position?",
+                    "zh-CN": "勺子在我当前位置的什么方向?",
+                    "zh-HK": "勺由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you locate the bottle in the scene?",
+                    "zh-CN": "你能在场景中找到瓶子吗？",
+                    "zh-HK": "你可以喺房入面搵到瓶子嗎?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you guide me to the position of the cup?",
+                    "zh-CN": "你可以引导我去到杯子的位置嗎?",
+                    "zh-HK": "你可以引導我去到杯嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Find where the oven is, please.",
+                    "zh-CN": "请帮我找下烤箱在哪里。",
+                    "zh-HK": "請幫我搵吓焗爐喺邊。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_130",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest bottle in relation to me?",
+                    "zh-CN": "离我最近的瓶子在哪里?",
+                    "zh-HK": "離我最近嘅瓶子喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Could you guide me to the position of the cup?",
+                    "zh-CN": "你可以引导我去到杯子的位置嗎?",
+                    "zh-HK": "你可以引導我去到杯嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Find where the oven is, please.",
+                    "zh-CN": "请帮我找下烤箱在哪里。",
+                    "zh-HK": "請幫我搵吓焗爐喺邊。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "In which direction is the spoon from my current position?",
+                    "zh-CN": "勺子在我当前位置的什么方向?",
+                    "zh-HK": "勺由我而家嘅位置喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_131",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Find where the oven is, please.",
+                    "zh-CN": "请帮我找下烤箱在哪里。",
+                    "zh-HK": "請幫我搵吓焗爐喺邊。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you locate the bottle in the scene?",
+                    "zh-CN": "你能在场景中找到瓶子吗？",
+                    "zh-HK": "你可以喺房入面搵到瓶子嗎?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "In which direction is the spoon from my current position?",
+                    "zh-CN": "勺子在我当前位置的什么方向?",
+                    "zh-HK": "勺由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where is the closest bottle in relation to me?",
+                    "zh-CN": "离我最近的瓶子在哪里?",
+                    "zh-HK": "離我最近嘅瓶子喺邊度？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_143",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you locate the bottle in the scene?",
+                    "zh-CN": "你能在场景中找到瓶子吗？",
+                    "zh-HK": "你可以喺房入面搵到瓶子嗎?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the spoon from my current position?",
+                    "zh-CN": "勺子在我当前位置的什么方向?",
+                    "zh-HK": "勺由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is the closest bottle in relation to me?",
+                    "zh-CN": "离我最近的瓶子在哪里?",
+                    "zh-HK": "離我最近嘅瓶子喺邊度？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Could you guide me to the position of the cup?",
+                    "zh-CN": "你可以引导我去到杯子的位置嗎?",
+                    "zh-HK": "你可以引導我去到杯嘅位置嗎？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_267",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest bottle in relation to me?",
+                    "zh-CN": "离我最近的瓶子在哪里?",
+                    "zh-HK": "離我最近嘅瓶子喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Could you guide me to the position of the cup?",
+                    "zh-CN": "你可以引导我去到杯子的位置嗎?",
+                    "zh-HK": "你可以引導我去到杯嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "In which direction is the spoon from my current position?",
+                    "zh-CN": "勺子在我当前位置的什么方向?",
+                    "zh-HK": "勺由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you locate the bottle in the scene?",
+                    "zh-CN": "你能在场景中找到瓶子吗？",
+                    "zh-HK": "你可以喺房入面搵到瓶子嗎?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_569",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest bottle in relation to me?",
+                    "zh-CN": "离我最近的瓶子在哪里?",
+                    "zh-HK": "離我最近嘅瓶子喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the oven is, please.",
+                    "zh-CN": "请帮我找下烤箱在哪里。",
+                    "zh-HK": "請幫我搵吓焗爐喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the bottle in the scene?",
+                    "zh-CN": "你能在场景中找到瓶子吗？",
+                    "zh-HK": "你可以喺房入面搵到瓶子嗎?"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "In which direction is the spoon from my current position?",
+                    "zh-CN": "勺子在我当前位置的什么方向?",
+                    "zh-HK": "勺由我而家嘅位置喺邊個方向？"
+                }
+            }
+        ]
+    }
+]

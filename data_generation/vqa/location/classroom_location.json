@@ -1,0 +1,171 @@
+[
+    {
+        "scene_id": "classroom_297",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Find where the laptop is, please.",
+                    "zh-CN": "请帮我找下笔记本电脑在哪里。",
+                    "zh-HK": "請幫我搵吓筆記本電腦喺邊。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the backpack from my current position?",
+                    "zh-CN": "背包在我当前位置的什么方向?",
+                    "zh-HK": "背囊由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you guide me to the position of the dining table?",
+                    "zh-CN": "你可以引导我去到餐桌的位置嗎?",
+                    "zh-HK": "你可以引導我去到餐桌嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "classroom_301",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you locate the chair in the scene?",
+                    "zh-CN": "你能在场景中找到椅子吗？",
+                    "zh-HK": "你可以喺房入面搵到椅子嗎?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the laptop is, please.",
+                    "zh-CN": "请帮我找下笔记本电脑在哪里。",
+                    "zh-HK": "請幫我搵吓筆記本電腦喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you guide me to the position of the dining table?",
+                    "zh-CN": "你可以引导我去到餐桌的位置嗎?",
+                    "zh-HK": "你可以引導我去到餐桌嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "classroom_323",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the laptop is, please.",
+                    "zh-CN": "请帮我找下笔记本电脑在哪里。",
+                    "zh-HK": "請幫我搵吓筆記本電腦喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "In which direction is the backpack from my current position?",
+                    "zh-CN": "背包在我当前位置的什么方向?",
+                    "zh-HK": "背囊由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Could you guide me to the position of the dining table?",
+                    "zh-CN": "你可以引导我去到餐桌的位置嗎?",
+                    "zh-HK": "你可以引導我去到餐桌嘅位置嗎？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "classroom_325",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest book in relation to me?",
+                    "zh-CN": "离我最近的书在哪里?",
+                    "zh-HK": "離我最近嘅書喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the laptop is, please.",
+                    "zh-CN": "请帮我找下笔记本电脑在哪里。",
+                    "zh-HK": "請幫我搵吓筆記本電腦喺邊。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "classroom_326",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the dining table?",
+                    "zh-CN": "你可以引导我去到餐桌的位置嗎?",
+                    "zh-HK": "你可以引導我去到餐桌嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the laptop is, please.",
+                    "zh-CN": "请帮我找下笔记本电脑在哪里。",
+                    "zh-HK": "請幫我搵吓筆記本電腦喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "In which direction is the backpack from my current position?",
+                    "zh-CN": "背包在我当前位置的什么方向?",
+                    "zh-HK": "背囊由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you locate the chair in the scene?",
+                    "zh-CN": "你能在场景中找到椅子吗？",
+                    "zh-HK": "你可以喺房入面搵到椅子嗎?"
+                }
+            }
+        ]
+    }
+]
