@@ -144,21 +144,21 @@ question_pool = [
 # ]
 
 # ========== playroom ========== #
-scene_tag = "playroom" # change
-frame_num = [425, 426, 428, 437, 1081, 1084, 1157, 1203] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "playroom" # change
+# frame_num = [425, 426, 428, 437, 1081, 1084, 1157, 1203] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# change
-item_lists = [
-    [['sports ball', 'chair'], ['backpack', 'sports ball'], ['backpack', 'dining table']],
-    [['tv', 'couch'], ['couch', 'chair'], ['sports ball', 'tv']],
-    [['suitcase', 'couch'], ['chair', 'couch'], ['couch', 'dining table']],
-    [['tv', 'chair'], ['teddy bear', 'tv'], ['chair', 'dog']],
-    [['chair', 'bed'], ['book', 'bed'], ['book', 'chair']],
-    [['tv', 'chair'], ['chair', 'book'], ['remote', 'tv']],
-    [['teddy bear', 'bed'], ['book', 'backpack'], ['teddy bear', 'book']],
-    [['backpack', 'couch'], ['suitcase', 'couch'], ['backpack', 'chair']]
-]
+# # change
+# item_lists = [
+#     [['sports ball', 'chair'], ['backpack', 'sports ball'], ['backpack', 'dining table']],
+#     [['tv', 'couch'], ['couch', 'chair'], ['sports ball', 'tv']],
+#     [['suitcase', 'couch'], ['chair', 'couch'], ['couch', 'dining table']],
+#     [['tv', 'chair'], ['teddy bear', 'tv'], ['chair', 'dog']],
+#     [['chair', 'bed'], ['book', 'bed'], ['book', 'chair']],
+#     [['tv', 'chair'], ['chair', 'book'], ['remote', 'tv']],
+#     [['teddy bear', 'bed'], ['book', 'backpack'], ['teddy bear', 'book']],
+#     [['backpack', 'couch'], ['suitcase', 'couch'], ['backpack', 'chair']]
+# ]
 
 # ========== lobby ========== #
 # scene_tag = "lobby" # change
@@ -167,15 +167,12 @@ item_lists = [
 
 # # change
 # item_lists = [
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']]
+#     [['bottle', 'chair'], ['chair', 'tv']],
+#     [['clock', 'couch'], ['dining table', 'chair'], ['chair', 'couch']],
+#     [['vase', 'couch'], ['potted plant', 'chair']],
+#     [['tv', 'chair'], ['microwave', 'tv'], ['backpack', 'chair']],
+#     [['couch', 'tv'], ['book', 'tv'], ['book', 'chair']],
+#     [['book', 'couch'], ['dining table', 'couch'], ['dining table', 'book']]
 # ]
 
 # ========== meeting room ========== #
@@ -185,15 +182,10 @@ item_lists = [
 
 # # change
 # item_lists = [
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']]
+#     [['dining table', 'chair'], ['microwave', 'dining table'], ['microwave', 'chair']],
+#     [['tv', 'chair'], ['mouse', 'tv'], ['mouse', 'bottle']],
+#     [['dining table', 'chair']],
+#     [['potted plant', 'dining table'], ['vase', 'chair'], ['potted plant', 'vase']]
 # ]
 
 # ========== pantry ========== #
@@ -203,34 +195,29 @@ item_lists = [
 
 # # change
 # item_lists = [
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']]
+#     [['microwave', 'refrigerator'], ['microwave', 'chair'], ['sink', 'microwave']],
+#     [['microwave', 'sink'], ['microwave', 'bottle'], ['sink', 'bottle']],
+#     [['dining table', 'refrigerator'], ['sink', 'dining table'], ['toaster', 'sink']],
+#     [['refrigerator', 'dining table'], ['cup', 'refrigerator'], ['chair', 'refrigerator']],
+#     [['sink', 'chair'], ['cell phone', 'chair'], ['cell phone', 'handbag']]
 # ]
 
 # ========== workstation ========== #
-# scene_tag = "workstation" # change
-# frame_num = [4, 23, 371, 388, 393, 453, 455, 474] # change
-# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+scene_tag = "workstation" # change
+frame_num = [4, 23, 371, 388, 393, 453, 455, 474] # change
+scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# # change
-# item_lists = [
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']]
-# ]
+# change
+item_lists = [
+    [['cup', 'bottle'], ['laptop', 'cup'], ['laptop', 'chair']],
+    [['laptop', 'chair'], ['clock', 'laptop'], ['book', 'laptop']],
+    [['laptop', 'chair'], ['keyboard', 'laptop'], ['cup', 'chair']],
+    [['tv', 'chair'], ['handbag', 'chair'], ['book', 'handbag']],
+    [['chair', 'backpack'], ['remote', 'book'], ['laptop', 'remote']],
+    [['clock', 'chair'], ['book', 'clock'], ['laptop', 'clock']],
+    [['tv', 'chair'], ['potted plant', 'chair'], ['laptop', 'potted plant']],
+    [['dining table', 'chair'], ['keyboard', 'chair'], ['couch', 'chair']]
+]
 
 # ========== bookstore ========== #
 # scene_tag = "bookstore" # change

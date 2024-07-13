@@ -11,7 +11,7 @@ import json
 
 from variable_multi_location import category_tag, question_pool, scene_tag, scene_ids, item_lists
 from utils.const import language_list
-from utils.helper import translate_word, generate_questions_with_item_pair
+from utils.helper import generate_questions_with_item_pair
 
 
 output = []

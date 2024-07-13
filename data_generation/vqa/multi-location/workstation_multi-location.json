@@ -1,0 +1,234 @@
+[
+    {
+        "scene_id": "workstation_4",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From bottle, which direction should I move to find cup?",
+                    "zh-CN": "我从瓶子开始往哪个方向移动可以到杯子?",
+                    "zh-HK": "我由瓶子要行邊個方向去揾杯?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If cup is in front of me, where should I look for laptop?",
+                    "zh-CN": "如果杯子在我正前方，我应该往哪边找笔记本电脑?",
+                    "zh-HK": "杯喺在我面前，我應該望邊度搵筆記本電腦?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards laptop from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到笔记本电脑?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到筆記本電腦?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_23",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards laptop from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到笔记本电脑?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到筆記本電腦?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If cup is in front of me, where should I look for laptop?",
+                    "zh-CN": "如果杯子在我正前方，我应该往哪边找笔记本电脑?",
+                    "zh-HK": "杯喺在我面前，我應該望邊度搵筆記本電腦?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is book?",
+                    "zh-CN": "我现在正面对笔记本电脑, 书在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 書喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_371",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is book?",
+                    "zh-CN": "我现在正面对笔记本电脑, 书在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 書喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If cup is in front of me, where should I look for laptop?",
+                    "zh-CN": "如果杯子在我正前方，我应该往哪边找笔记本电脑?",
+                    "zh-HK": "杯喺在我面前，我應該望邊度搵筆記本電腦?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards laptop from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到笔记本电脑?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到筆記本電腦?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_388",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If cup is in front of me, where should I look for laptop?",
+                    "zh-CN": "如果杯子在我正前方，我应该往哪边找笔记本电脑?",
+                    "zh-HK": "杯喺在我面前，我應該望邊度搵筆記本電腦?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From bottle, which direction should I move to find cup?",
+                    "zh-CN": "我从瓶子开始往哪个方向移动可以到杯子?",
+                    "zh-HK": "我由瓶子要行邊個方向去揾杯?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is book located relative to handbag?",
+                    "zh-CN": "书是在手袋的哪边?",
+                    "zh-HK": "書喺在手袋的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_393",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach chair from backpack?",
+                    "zh-CN": "我怎样可以从背包摸到椅子?",
+                    "zh-HK": "我點樣可以由背囊揾到椅子?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If cup is in front of me, where should I look for laptop?",
+                    "zh-CN": "如果杯子在我正前方，我应该往哪边找笔记本电脑?",
+                    "zh-HK": "杯喺在我面前，我應該望邊度搵筆記本電腦?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is book?",
+                    "zh-CN": "我现在正面对笔记本电脑, 书在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 書喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_453",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If cup is in front of me, where should I look for laptop?",
+                    "zh-CN": "如果杯子在我正前方，我应该往哪边找笔记本电脑?",
+                    "zh-HK": "杯喺在我面前，我應該望邊度搵筆記本電腦?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards laptop from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到笔记本电脑?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到筆記本電腦?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is book?",
+                    "zh-CN": "我现在正面对笔记本电脑, 书在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 書喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_455",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach chair from backpack?",
+                    "zh-CN": "我怎样可以从背包摸到椅子?",
+                    "zh-HK": "我點樣可以由背囊揾到椅子?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is book located relative to handbag?",
+                    "zh-CN": "书是在手袋的哪边?",
+                    "zh-HK": "書喺在手袋的邊度?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards laptop from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到笔记本电脑?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到筆記本電腦?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_474",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From bottle, which direction should I move to find cup?",
+                    "zh-CN": "我从瓶子开始往哪个方向移动可以到杯子?",
+                    "zh-HK": "我由瓶子要行邊個方向去揾杯?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is book located relative to handbag?",
+                    "zh-CN": "书是在手袋的哪边?",
+                    "zh-HK": "書喺在手袋的邊度?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "How do I reach chair from backpack?",
+                    "zh-CN": "我怎样可以从背包摸到椅子?",
+                    "zh-HK": "我點樣可以由背囊揾到椅子?"
+                }
+            }
+        ]
+    }
+]

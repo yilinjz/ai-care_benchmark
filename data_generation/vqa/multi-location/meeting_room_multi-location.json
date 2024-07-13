@@ -1,0 +1,102 @@
+[
+    {
+        "scene_id": "meeting_room_5",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find dining table?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到餐桌?",
+                    "zh-HK": "我由椅子要行邊個方向去揾餐桌?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How do I reach microwave from dining table?",
+                    "zh-CN": "我怎样可以从餐桌摸到微波炉?",
+                    "zh-HK": "我點樣可以由餐桌揾到微波爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing chair, in which direction is microwave?",
+                    "zh-CN": "我现在正面对椅子, 微波炉在哪个方向?",
+                    "zh-HK": "我對住椅子, 微波爐喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_27",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing chair, in which direction is microwave?",
+                    "zh-CN": "我现在正面对椅子, 微波炉在哪个方向?",
+                    "zh-HK": "我對住椅子, 微波爐喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is mouse located relative to tv?",
+                    "zh-CN": "鼠标是在电视的哪边?",
+                    "zh-HK": "鼠標喺在電視的邊度?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards mouse from where bottle is?",
+                    "zh-CN": "你能否指引我怎样从瓶子到鼠标?",
+                    "zh-HK": "你可以指俾我睇，由瓶子點樣揾到鼠標?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_39",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards mouse from where bottle is?",
+                    "zh-CN": "你能否指引我怎样从瓶子到鼠标?",
+                    "zh-HK": "你可以指俾我睇，由瓶子點樣揾到鼠標?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_341",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If dining table is in front of me, where should I look for potted plant?",
+                    "zh-CN": "如果餐桌在我正前方，我应该往哪边找盆栽?",
+                    "zh-HK": "餐桌喺在我面前，我應該望邊度搵盆栽?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How do I reach microwave from dining table?",
+                    "zh-CN": "我怎样可以从餐桌摸到微波炉?",
+                    "zh-HK": "我點樣可以由餐桌揾到微波爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is mouse located relative to tv?",
+                    "zh-CN": "鼠标是在电视的哪边?",
+                    "zh-HK": "鼠標喺在電視的邊度?"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "scene_id": "pantry_1",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing refrigerator, in which direction is microwave?",
+                    "zh-CN": "我现在正面对电冰箱, 微波炉在哪个方向?",
+                    "zh-HK": "我對住電冰箱, 微波爐喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards microwave from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到微波炉?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到微波爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is sink located relative to microwave?",
+                    "zh-CN": "水槽是在微波炉的哪边?",
+                    "zh-HK": "水槽喺在微波爐的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "pantry_410",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing refrigerator, in which direction is microwave?",
+                    "zh-CN": "我现在正面对电冰箱, 微波炉在哪个方向?",
+                    "zh-HK": "我對住電冰箱, 微波爐喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If bottle is in front of me, where should I look for microwave?",
+                    "zh-CN": "如果瓶子在我正前方，我应该往哪边找微波炉?",
+                    "zh-HK": "瓶子喺在我面前，我應該望邊度搵微波爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards microwave from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到微波炉?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到微波爐?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "pantry_412",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If bottle is in front of me, where should I look for microwave?",
+                    "zh-CN": "如果瓶子在我正前方，我应该往哪边找微波炉?",
+                    "zh-HK": "瓶子喺在我面前，我應該望邊度搵微波爐?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is sink located relative to microwave?",
+                    "zh-CN": "水槽是在微波炉的哪边?",
+                    "zh-HK": "水槽喺在微波爐的邊度?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing refrigerator, in which direction is microwave?",
+                    "zh-CN": "我现在正面对电冰箱, 微波炉在哪个方向?",
+                    "zh-HK": "我對住電冰箱, 微波爐喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "pantry_415",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach refrigerator from dining table?",
+                    "zh-CN": "我怎样可以从餐桌摸到电冰箱?",
+                    "zh-HK": "我點樣可以由餐桌揾到電冰箱?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If bottle is in front of me, where should I look for microwave?",
+                    "zh-CN": "如果瓶子在我正前方，我应该往哪边找微波炉?",
+                    "zh-HK": "瓶子喺在我面前，我應該望邊度搵微波爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards microwave from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到微波炉?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到微波爐?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "pantry_417",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is sink located relative to microwave?",
+                    "zh-CN": "水槽是在微波炉的哪边?",
+                    "zh-HK": "水槽喺在微波爐的邊度?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If I'm facing refrigerator, in which direction is microwave?",
+                    "zh-CN": "我现在正面对电冰箱, 微波炉在哪个方向?",
+                    "zh-HK": "我對住電冰箱, 微波爐喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "How do I reach refrigerator from dining table?",
+                    "zh-CN": "我怎样可以从餐桌摸到电冰箱?",
+                    "zh-HK": "我點樣可以由餐桌揾到電冰箱?"
+                }
+            }
+        ]
+    }
+]
