@@ -1,0 +1,226 @@
+[
+    {
+        "scene_id": "coffee_shop_120",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If bench is in front of me, where should I look for dining table?",
+                    "zh-CN": "如果长椅在我正前方，我应该往哪边找餐桌?",
+                    "zh-HK": "長椅喺在我面前，我應該望邊度搵餐桌?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards potted plant from where dining table is?",
+                    "zh-CN": "你能否指引我怎样从餐桌到盆栽?",
+                    "zh-HK": "你可以指俾我睇，由餐桌點樣揾到盆栽?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From bench, which direction should I move to find chair?",
+                    "zh-CN": "我从长椅开始往哪个方向移动可以到椅子?",
+                    "zh-HK": "我由長椅要行邊個方向去揾椅子?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_122",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If bench is in front of me, where should I look for dining table?",
+                    "zh-CN": "如果长椅在我正前方，我应该往哪边找餐桌?",
+                    "zh-HK": "長椅喺在我面前，我應該望邊度搵餐桌?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How do I reach toaster from potted plant?",
+                    "zh-CN": "我怎样可以从盆栽摸到烤面包机?",
+                    "zh-HK": "我點樣可以由盆栽揾到多士爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is vase located relative to potted plant?",
+                    "zh-CN": "花瓶是在盆栽的哪边?",
+                    "zh-HK": "花瓶喺在盆栽的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_123",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach toaster from potted plant?",
+                    "zh-CN": "我怎样可以从盆栽摸到烤面包机?",
+                    "zh-HK": "我點樣可以由盆栽揾到多士爐?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If bench is in front of me, where should I look for dining table?",
+                    "zh-CN": "如果长椅在我正前方，我应该往哪边找餐桌?",
+                    "zh-HK": "長椅喺在我面前，我應該望邊度搵餐桌?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards potted plant from where dining table is?",
+                    "zh-CN": "你能否指引我怎样从餐桌到盆栽?",
+                    "zh-HK": "你可以指俾我睇，由餐桌點樣揾到盆栽?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_223",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If bench is in front of me, where should I look for dining table?",
+                    "zh-CN": "如果长椅在我正前方，我应该往哪边找餐桌?",
+                    "zh-HK": "長椅喺在我面前，我應該望邊度搵餐桌?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards potted plant from where dining table is?",
+                    "zh-CN": "你能否指引我怎样从餐桌到盆栽?",
+                    "zh-HK": "你可以指俾我睇，由餐桌點樣揾到盆栽?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_225",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach toaster from potted plant?",
+                    "zh-CN": "我怎样可以从盆栽摸到烤面包机?",
+                    "zh-HK": "我點樣可以由盆栽揾到多士爐?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If bench is in front of me, where should I look for dining table?",
+                    "zh-CN": "如果长椅在我正前方，我应该往哪边找餐桌?",
+                    "zh-HK": "長椅喺在我面前，我應該望邊度搵餐桌?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards potted plant from where dining table is?",
+                    "zh-CN": "你能否指引我怎样从餐桌到盆栽?",
+                    "zh-HK": "你可以指俾我睇，由餐桌點樣揾到盆栽?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_228",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is vase located relative to potted plant?",
+                    "zh-CN": "花瓶是在盆栽的哪边?",
+                    "zh-HK": "花瓶喺在盆栽的邊度?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From bench, which direction should I move to find chair?",
+                    "zh-CN": "我从长椅开始往哪个方向移动可以到椅子?",
+                    "zh-HK": "我由長椅要行邊個方向去揾椅子?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "How do I reach toaster from potted plant?",
+                    "zh-CN": "我怎样可以从盆栽摸到烤面包机?",
+                    "zh-HK": "我點樣可以由盆栽揾到多士爐?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_238",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach toaster from potted plant?",
+                    "zh-CN": "我怎样可以从盆栽摸到烤面包机?",
+                    "zh-HK": "我點樣可以由盆栽揾到多士爐?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If bench is in front of me, where should I look for dining table?",
+                    "zh-CN": "如果长椅在我正前方，我应该往哪边找餐桌?",
+                    "zh-HK": "長椅喺在我面前，我應該望邊度搵餐桌?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is vase located relative to potted plant?",
+                    "zh-CN": "花瓶是在盆栽的哪边?",
+                    "zh-HK": "花瓶喺在盆栽的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_244",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards potted plant from where dining table is?",
+                    "zh-CN": "你能否指引我怎样从餐桌到盆栽?",
+                    "zh-HK": "你可以指俾我睇，由餐桌點樣揾到盆栽?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From bench, which direction should I move to find chair?",
+                    "zh-CN": "我从长椅开始往哪个方向移动可以到椅子?",
+                    "zh-HK": "我由長椅要行邊個方向去揾椅子?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing couch, in which direction is dining table?",
+                    "zh-CN": "我现在正面对沙发, 餐桌在哪个方向?",
+                    "zh-HK": "我對住梳化, 餐桌喺邊個方向？"
+                }
+            }
+        ]
+    }
+]

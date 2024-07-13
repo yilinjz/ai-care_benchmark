@@ -1,0 +1,107 @@
+[
+    {
+        "scene_id": "bookstore_88",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing book, in which direction is clock?",
+                    "zh-CN": "我现在正面对书, 时钟在哪个方向?",
+                    "zh-HK": "我對住書, 時鐘喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_89",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From book, which direction should I move to find bottle?",
+                    "zh-CN": "我从书开始往哪个方向移动可以到瓶子?",
+                    "zh-HK": "我由書要行邊個方向去揾瓶子?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_91",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach backpack from chair?",
+                    "zh-CN": "我怎样可以从椅子摸到背包?",
+                    "zh-HK": "我點樣可以由椅子揾到背囊?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards suitcase from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到行李箱?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到行李箱?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_112",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards suitcase from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到行李箱?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到行李箱?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If book is in front of me, where should I look for tv?",
+                    "zh-CN": "如果书在我正前方，我应该往哪边找电视?",
+                    "zh-HK": "書喺在我面前，我應該望邊度搵電視?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "How do I reach backpack from chair?",
+                    "zh-CN": "我怎样可以从椅子摸到背包?",
+                    "zh-HK": "我點樣可以由椅子揾到背囊?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_119",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If book is in front of me, where should I look for tv?",
+                    "zh-CN": "如果书在我正前方，我应该往哪边找电视?",
+                    "zh-HK": "書喺在我面前，我應該望邊度搵電視?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How do I reach backpack from chair?",
+                    "zh-CN": "我怎样可以从椅子摸到背包?",
+                    "zh-HK": "我點樣可以由椅子揾到背囊?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From book, which direction should I move to find bottle?",
+                    "zh-CN": "我从书开始往哪个方向移动可以到瓶子?",
+                    "zh-HK": "我由書要行邊個方向去揾瓶子?"
+                }
+            }
+        ]
+    }
+]

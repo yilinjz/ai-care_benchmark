@@ -203,21 +203,21 @@ question_pool = [
 # ]
 
 # ========== workstation ========== #
-scene_tag = "workstation" # change
-frame_num = [4, 23, 371, 388, 393, 453, 455, 474] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "workstation" # change
+# frame_num = [4, 23, 371, 388, 393, 453, 455, 474] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# change
-item_lists = [
-    [['cup', 'bottle'], ['laptop', 'cup'], ['laptop', 'chair']],
-    [['laptop', 'chair'], ['clock', 'laptop'], ['book', 'laptop']],
-    [['laptop', 'chair'], ['keyboard', 'laptop'], ['cup', 'chair']],
-    [['tv', 'chair'], ['handbag', 'chair'], ['book', 'handbag']],
-    [['chair', 'backpack'], ['remote', 'book'], ['laptop', 'remote']],
-    [['clock', 'chair'], ['book', 'clock'], ['laptop', 'clock']],
-    [['tv', 'chair'], ['potted plant', 'chair'], ['laptop', 'potted plant']],
-    [['dining table', 'chair'], ['keyboard', 'chair'], ['couch', 'chair']]
-]
+# # change
+# item_lists = [
+#     [['cup', 'bottle'], ['laptop', 'cup'], ['laptop', 'chair']],
+#     [['laptop', 'chair'], ['clock', 'laptop'], ['book', 'laptop']],
+#     [['laptop', 'chair'], ['keyboard', 'laptop'], ['cup', 'chair']],
+#     [['tv', 'chair'], ['handbag', 'chair'], ['book', 'handbag']],
+#     [['chair', 'backpack'], ['remote', 'book'], ['laptop', 'remote']],
+#     [['clock', 'chair'], ['book', 'clock'], ['laptop', 'clock']],
+#     [['tv', 'chair'], ['potted plant', 'chair'], ['laptop', 'potted plant']],
+#     [['dining table', 'chair'], ['keyboard', 'chair'], ['couch', 'chair']]
+# ]
 
 # ========== bookstore ========== #
 # scene_tag = "bookstore" # change
@@ -226,15 +226,11 @@ item_lists = [
 
 # # change
 # item_lists = [
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']]
+#     [['clock', 'book']],
+#     [['bottle', 'book']],
+#     [['backpack', 'chair'], ['suitcase', 'chair']],
+#     [['laptop', 'book'], ['tv', 'book'], ['mouse', 'keyboard']],
+#     [['chair', 'book'], ['dining table', 'chair'], ['book', 'dining table']]
 # ]
 
 # ========== classroom ========== #
@@ -244,15 +240,11 @@ item_lists = [
 
 # # change
 # item_lists = [
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']]
+#     [['backpack', 'dining table'], ['laptop', 'backpack'], ['book', 'laptop']],
+#     [['keyboard', 'tv'], ['laptop', 'tv'], ['keyboard', 'chair']],
+#     [['teddy bear', 'chair'], ['book', 'chair'], ['book', 'teddy bear']],
+#     [['chair', 'couch']],
+#     [['sink', 'chair'], ['dining table', 'chair'], ['bottle', 'sink']]
 # ]
 
 # ========== coffee shop ========== #
@@ -262,15 +254,14 @@ item_lists = [
 
 # # change
 # item_lists = [
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']]
+#     [['dining table', 'bench'], ['potted plant', 'dining table'], ['chair', 'bench']],
+#     [['potted plant', 'bottle'], ['toaster', 'potted plant'], ['vase', 'potted plant']],
+#     [['person', 'toaster'], ['toaster', 'potted plant'], ['potted plant', 'person']],
+#     [['couch', 'chair'], ['dining table', 'couch']],
+#     [['person', 'couch'], ['dining table', 'couch'], ['cup', 'dining table']],
+#     [['bowl', 'person'], ['bowl', 'dining table'], ['cup', 'bowl']],
+#     [['chair', 'dining table'], ['bowl', 'dining table'], ['person', 'chair']],
+#     [['chair', 'couch'], ['person', 'chair'], ['dining table', 'couch']]
 # ]
 
 # ========== computer lab ========== #
@@ -280,31 +271,25 @@ item_lists = [
 
 # # change
 # item_lists = [
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']]
+#     [['person', 'tv'], ['mouse', 'keyboard'], ['chair', 'tv']],
+#     [['keyboard', 'tv'], ['chair', 'tv']],
+#     [['tv', 'keyboard'], ['mouse', 'keyboard'], ['chair', 'tv']],
+#     [['tv', 'chair'], ['keyboard', 'chair'], ['keyboard', 'tv']],
+#     [['tv', 'keyboard'], ['tv', 'chair'], ['mouse', 'keyboard']],
+#     [['book', 'tv'], ['keyboard', 'chair'], ['tv', 'chair']]
 # ]
 
 # ========== dorm ========== #
-# scene_tag = "dorm" # change
-# frame_num = [128, 130, 131, 143, 267, 569] # change
-# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+scene_tag = "dorm" # change
+frame_num = [128, 130, 131, 143, 267, 569] # change
+scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# # change
-# item_lists = [
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']],
-#     [['', ''], ['', ''], ['', '']]
-# ]
+# change
+item_lists = [
+    [['bottle', 'cup'], ['spoon', 'bottle'], ['oven', 'spoon']],
+    [['sink', 'oven'], ['refrigerator', 'sink'], ['bottle', 'refrigerator']],
+    [['microwave', 'oven'], ['refrigerator', 'microwave'], ['knife', 'oven']],
+    [['bowl', 'sink'], ['spoon', 'bowl'], ['cup', 'spoon']],
+    [['refrigerator', 'person'], ['person', 'oven'], ['bottle', 'person']],
+    [['banana', 'oven'], ['refrigerator', 'oven'], ['microwave', 'banana']]
+]

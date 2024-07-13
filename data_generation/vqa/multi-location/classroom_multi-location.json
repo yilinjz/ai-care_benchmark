@@ -1,0 +1,131 @@
+[
+    {
+        "scene_id": "classroom_297",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If dining table is in front of me, where should I look for backpack?",
+                    "zh-CN": "如果餐桌在我正前方，我应该往哪边找背包?",
+                    "zh-HK": "餐桌喺在我面前，我應該望邊度搵背囊?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards laptop from where backpack is?",
+                    "zh-CN": "你能否指引我怎样从背包到笔记本电脑?",
+                    "zh-HK": "你可以指俾我睇，由背囊點樣揾到筆記本電腦?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is book?",
+                    "zh-CN": "我现在正面对笔记本电脑, 书在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 書喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "classroom_301",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is keyboard located relative to tv?",
+                    "zh-CN": "键盘是在电视的哪边?",
+                    "zh-HK": "鍵盤喺在電視的邊度?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is book?",
+                    "zh-CN": "我现在正面对笔记本电脑, 书在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 書喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find keyboard?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到键盘?",
+                    "zh-HK": "我由椅子要行邊個方向去揾鍵盤?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "classroom_323",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is keyboard located relative to tv?",
+                    "zh-CN": "键盘是在电视的哪边?",
+                    "zh-HK": "鍵盤喺在電視的邊度?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If dining table is in front of me, where should I look for backpack?",
+                    "zh-CN": "如果餐桌在我正前方，我应该往哪边找背包?",
+                    "zh-HK": "餐桌喺在我面前，我應該望邊度搵背囊?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find keyboard?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到键盘?",
+                    "zh-HK": "我由椅子要行邊個方向去揾鍵盤?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "classroom_325",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach chair from couch?",
+                    "zh-CN": "我怎样可以从沙发摸到椅子?",
+                    "zh-HK": "我點樣可以由梳化揾到椅子?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "classroom_326",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards laptop from where backpack is?",
+                    "zh-CN": "你能否指引我怎样从背包到笔记本电脑?",
+                    "zh-HK": "你可以指俾我睇，由背囊點樣揾到筆記本電腦?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find keyboard?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到键盘?",
+                    "zh-HK": "我由椅子要行邊個方向去揾鍵盤?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If dining table is in front of me, where should I look for backpack?",
+                    "zh-CN": "如果餐桌在我正前方，我应该往哪边找背包?",
+                    "zh-HK": "餐桌喺在我面前，我應該望邊度搵背囊?"
+                }
+            }
+        ]
+    }
+]

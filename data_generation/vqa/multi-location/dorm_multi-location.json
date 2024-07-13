@@ -1,0 +1,176 @@
+[
+    {
+        "scene_id": "dorm_128",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is bottle located relative to cup?",
+                    "zh-CN": "瓶子是在杯子的哪边?",
+                    "zh-HK": "瓶子喺在杯的邊度?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If bottle is in front of me, where should I look for spoon?",
+                    "zh-CN": "如果瓶子在我正前方，我应该往哪边找勺子?",
+                    "zh-HK": "瓶子喺在我面前，我應該望邊度搵勺?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing spoon, in which direction is oven?",
+                    "zh-CN": "我现在正面对勺子, 烤箱在哪个方向?",
+                    "zh-HK": "我對住勺, 焗爐喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_130",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards sink from where oven is?",
+                    "zh-CN": "你能否指引我怎样从烤箱到水槽?",
+                    "zh-HK": "你可以指俾我睇，由焗爐點樣揾到水槽?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From sink, which direction should I move to find refrigerator?",
+                    "zh-CN": "我从水槽开始往哪个方向移动可以到电冰箱?",
+                    "zh-HK": "我由水槽要行邊個方向去揾電冰箱?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "How do I reach bottle from refrigerator?",
+                    "zh-CN": "我怎样可以从电冰箱摸到瓶子?",
+                    "zh-HK": "我點樣可以由電冰箱揾到瓶子?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_131",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If bottle is in front of me, where should I look for spoon?",
+                    "zh-CN": "如果瓶子在我正前方，我应该往哪边找勺子?",
+                    "zh-HK": "瓶子喺在我面前，我應該望邊度搵勺?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is bottle located relative to cup?",
+                    "zh-CN": "瓶子是在杯子的哪边?",
+                    "zh-HK": "瓶子喺在杯的邊度?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing spoon, in which direction is oven?",
+                    "zh-CN": "我现在正面对勺子, 烤箱在哪个方向?",
+                    "zh-HK": "我對住勺, 焗爐喺邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_143",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach bottle from refrigerator?",
+                    "zh-CN": "我怎样可以从电冰箱摸到瓶子?",
+                    "zh-HK": "我點樣可以由電冰箱揾到瓶子?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If bottle is in front of me, where should I look for spoon?",
+                    "zh-CN": "如果瓶子在我正前方，我应该往哪边找勺子?",
+                    "zh-HK": "瓶子喺在我面前，我應該望邊度搵勺?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is bottle located relative to cup?",
+                    "zh-CN": "瓶子是在杯子的哪边?",
+                    "zh-HK": "瓶子喺在杯的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_267",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If bottle is in front of me, where should I look for spoon?",
+                    "zh-CN": "如果瓶子在我正前方，我应该往哪边找勺子?",
+                    "zh-HK": "瓶子喺在我面前，我應該望邊度搵勺?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If I'm facing spoon, in which direction is oven?",
+                    "zh-CN": "我现在正面对勺子, 烤箱在哪个方向?",
+                    "zh-HK": "我對住勺, 焗爐喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is bottle located relative to cup?",
+                    "zh-CN": "瓶子是在杯子的哪边?",
+                    "zh-HK": "瓶子喺在杯的邊度?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_569",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach bottle from refrigerator?",
+                    "zh-CN": "我怎样可以从电冰箱摸到瓶子?",
+                    "zh-HK": "我點樣可以由電冰箱揾到瓶子?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From sink, which direction should I move to find refrigerator?",
+                    "zh-CN": "我从水槽开始往哪个方向移动可以到电冰箱?",
+                    "zh-HK": "我由水槽要行邊個方向去揾電冰箱?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards sink from where oven is?",
+                    "zh-CN": "你能否指引我怎样从烤箱到水槽?",
+                    "zh-HK": "你可以指俾我睇，由焗爐點樣揾到水槽?"
+                }
+            }
+        ]
+    }
+]
