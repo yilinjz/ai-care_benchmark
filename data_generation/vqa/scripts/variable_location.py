@@ -11,9 +11,59 @@ question_pool = [
         LANGUAGE.ZH_HK: f"你可以喺房入面搵到[dt]嗎?",
     },
     {
+        LANGUAGE.EN_US: f"Can you find the [dt] in the scene?",
+        LANGUAGE.ZH_CN: f"你能在场景中找到[dt]吗？",
+        LANGUAGE.ZH_HK: f"你可唔可以喺場景中搵到[dt]啊？",
+    },
+    {
+        LANGUAGE.EN_US: f"Are you able to locate the [dt] in the scene?",
+        LANGUAGE.ZH_CN: f"你能在场景中找到[dt]吗？",
+        LANGUAGE.ZH_HK: f"你可唔可以喺場景中搵到[dt]啊？",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you point out the [dt] in the scene?",
+        LANGUAGE.ZH_CN: f"你能指出场景中的[dt]吗？",
+        LANGUAGE.ZH_HK: f"你可唔可以指出場景中嘅[dt]啊？",
+    },
+    {
+        LANGUAGE.EN_US: f"Is the [dt] visible in the scene?",
+        LANGUAGE.ZH_CN: f"[dt]在场景中是否可见？",
+        LANGUAGE.ZH_HK: f"[dt]在場景中是否可見？",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you identify where the [dt] is in the scene?",
+        LANGUAGE.ZH_CN: f"你能确定[dt]在场景中的位置吗？",
+        LANGUAGE.ZH_HK: f"你能肯定[dt]喺場景中嘅位置呀？",
+    },
+    {
         LANGUAGE.EN_US: f"Where is the closest [dt] in relation to me?",
         LANGUAGE.ZH_CN: f"离我最近的[dt]在哪里?",
         LANGUAGE.ZH_HK: f"離我最近嘅[dt]喺邊度？",
+    },
+    {
+        LANGUAGE.EN_US: f"Where is the nearest [dt] to me?",
+        LANGUAGE.ZH_CN: f"离我最近的[dt]在哪里？",
+        LANGUAGE.ZH_HK: f"離我最近嘅[dt]喺邊度？",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you tell me the location of the closest [dt] to me?",
+        LANGUAGE.ZH_CN: f"你能告诉我离我最近的[dt]的位置吗？",
+        LANGUAGE.ZH_HK: f"你可唔可以話我离我最近嘅[dt]嘅位置啊？",
+    },
+    {
+        LANGUAGE.EN_US: f"Where is the [dt] that is closest to me?",
+        LANGUAGE.ZH_CN: f"离我最近的[dt]在哪里？",
+        LANGUAGE.ZH_HK: f"離我最近嘅[dt]喺邊度？",
+    },
+    {
+        LANGUAGE.EN_US: f"What is the position of the nearest [dt] relative to me?",
+        LANGUAGE.ZH_CN: f"离我最近的[dt]的位置是什么？",
+        LANGUAGE.ZH_HK: f"離我最近嘅[dt]嘅位置係乜嘢？",
+    },
+    {
+        LANGUAGE.EN_US: f"Where can I find the closest [dt] to me?",
+        LANGUAGE.ZH_CN: f"在哪里可以找到离我最近的[dt]？",
+        LANGUAGE.ZH_HK: f"喺邊度可以搵到離我最近嘅[dt]？",
     },
     {
         LANGUAGE.EN_US: f"In which direction is the [dt] from my current position?",
@@ -21,14 +71,89 @@ question_pool = [
         LANGUAGE.ZH_HK: f"[dt]由我而家嘅位置喺邊個方向？",
     },
     {
+        LANGUAGE.EN_US: f"Which direction is the [dt] located from where I am now?",
+        LANGUAGE.ZH_CN: f"[dt]位于我现在所在的哪个方向？",
+        LANGUAGE.ZH_HK: f"[dt]位於我而家所在嘅邊個方向？",
+    },
+    {
+        LANGUAGE.EN_US: f"From my current position, which way is the [dt]?",
+        LANGUAGE.ZH_CN: f"从我目前的位置来看，[dt]是哪个方向？",
+        LANGUAGE.ZH_HK: f"從我目前的位置來看，[dt]是邊個方向？",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you tell me the direction of the [dt] from my current location?",
+        LANGUAGE.ZH_CN: f"你能告诉我[dt]相对于我当前位置的方向吗？",
+        LANGUAGE.ZH_HK: f"你能告訴我[dt]相對于我當前位置的方向嗎？",
+    },
+    {
+        LANGUAGE.EN_US: f"Where is the [dt] in relation to my current position?",
+        LANGUAGE.ZH_CN: f"相对于我当前位置，[dt]在哪里？",
+        LANGUAGE.ZH_HK: f"相對于我當前位置，[dt]喺邊度？",
+    },
+    {
+        LANGUAGE.EN_US: f"Which way should I look to find the [dt] from here?",
+        LANGUAGE.ZH_CN: f"我应该从这里往哪个方向寻找[dt]？",
+        LANGUAGE.ZH_HK: f"我應該從這裡往哪個方向尋找[dt]？",
+    },
+    {
         LANGUAGE.EN_US: f"Find where the [dt] is, please.",
         LANGUAGE.ZH_CN: f"请帮我找下[dt]在哪里。",
         LANGUAGE.ZH_HK: f"請幫我搵吓[dt]喺邊。",
     },
     {
+        LANGUAGE.EN_US: f"Can you please locate the [dt]?",
+        LANGUAGE.ZH_CN: f"你能找到[dt]吗？",
+        LANGUAGE.ZH_HK: f"你可唔可以搵到[dt]啊？",
+    },
+    {
+        LANGUAGE.EN_US: f"Please find the location of the [dt].",
+        LANGUAGE.ZH_CN: f"请找到[dt]的位置。",
+        LANGUAGE.ZH_HK: f"請搵到[dt]嘅位置。",
+    },
+    {
+        LANGUAGE.EN_US: f"Could you identify where the [dt] is?",
+        LANGUAGE.ZH_CN: f"你能确定[dt]在哪里吗？",
+        LANGUAGE.ZH_HK: f"你能肯定[dt]喺邊度呀？",
+    },
+    {
+        LANGUAGE.EN_US: f"Please tell me where the [dt] is.",
+        LANGUAGE.ZH_CN: f"请告诉我[dt]在哪里。",
+        LANGUAGE.ZH_HK: f"請告訴我[dt]喺邊度。",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you show me where the [dt] is?",
+        LANGUAGE.ZH_CN: f"你能告诉我[dt]在哪里吗？",
+        LANGUAGE.ZH_HK: f"你可唔可以話我[dt]喺邊度啊？",
+    },
+    {
         LANGUAGE.EN_US: f"Could you guide me to the position of the [dt]?",
         LANGUAGE.ZH_CN: f"你可以引导我去到[dt]的位置嗎?",
         LANGUAGE.ZH_HK: f"你可以引導我去到[dt]嘅位置嗎？",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you direct me to the location of the [dt]?",
+        LANGUAGE.ZH_CN: f"你能把我引向[dt]的位置吗？",
+        LANGUAGE.ZH_HK: f"你能把我引向[dt]的位置嗎？",
+    },
+    {
+        LANGUAGE.EN_US: f"Could you show me where the [dt] is?",
+        LANGUAGE.ZH_CN: f"你能告诉我[dt]在哪里吗？",
+        LANGUAGE.ZH_HK: f"你可唔可以話我[dt]喺邊度啊？",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you help me find the position of the [dt]?",
+        LANGUAGE.ZH_CN: f"你能帮我找到[dt]的位置吗？",
+        LANGUAGE.ZH_HK: f"你可唔可以帮我搵到[dt]的位置吗？",
+    },
+    {
+        LANGUAGE.EN_US: f"Could you point out the location of the [dt] to me?",
+        LANGUAGE.ZH_CN: f"你能给我指出[dt]的位置吗？",
+        LANGUAGE.ZH_HK: f"你可唔可以畀我指出[dt]嘅位置啊？",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you guide me to where the [dt] is located?",
+        LANGUAGE.ZH_CN: f"你能引导我到[dt]的位置吗？",
+        LANGUAGE.ZH_HK: f"你能引導我到[dt]的位置嗎？",
     }
 ]
 

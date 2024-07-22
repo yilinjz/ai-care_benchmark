@@ -11,29 +11,119 @@ question_pool = [
         LANGUAGE.ZH_HK: f"[dt]喺在[rf]的邊度?",
     },
     {
+        LANGUAGE.EN_US: f"What is the position of [dt] in relation to [rf]?",
+        LANGUAGE.ZH_CN: f"[dt]相对于[rf]的位置是什么？",
+        LANGUAGE.ZH_HK: f"[dt]相對于[rf]嘅位置係乜嘢？",
+    },
+        {
+        LANGUAGE.EN_US: f"How is [dt] situated compared to [rf]?",
+        LANGUAGE.ZH_CN: f"与[rf]相比，[dt]的位置如何？",
+        LANGUAGE.ZH_HK: f"與[rf]相比，[dt]的位置如何？",
+    },
+        {
+        LANGUAGE.EN_US: f"Where can [dt] be found in relation to [rf]?",
+        LANGUAGE.ZH_CN: f"在哪里可以找到与[rf]相关的 [dt]？",
+        LANGUAGE.ZH_HK: f"喺邊度可以搵到與[rf]相關嘅[dt]？",
+    },
+    {
         LANGUAGE.EN_US: f"How do I reach [dt] from [rf]?",
         LANGUAGE.ZH_CN: f"我怎样可以从[rf]摸到[dt]?",
         LANGUAGE.ZH_HK: f"我點樣可以由[rf]揾到[dt]?",
+    },
+        {
+        LANGUAGE.EN_US: f"What is the way to get to [dt] from [rf]?",
+        LANGUAGE.ZH_CN: f"从[rf]到达[dt]的方法是什么？",
+        LANGUAGE.ZH_HK: f"從[rf]到達[dt]的方法是什麼？",
+    },
+        {
+        LANGUAGE.EN_US: f"How can I get to [dt] starting from [rf]?",
+        LANGUAGE.ZH_CN: f"如何从[rf]开始到达[dt]？",
+        LANGUAGE.ZH_HK: f"如何由[rf]開始到達[dt]？",
+    },
+        {
+        LANGUAGE.EN_US: f"What route should I take to go from [rf] to [dt]?",
+        LANGUAGE.ZH_CN: f"我应该走什么路线从[rf]到[dt]？",
+        LANGUAGE.ZH_HK: f"我應該走乜嘢路線由[rf]到[dt]？",
     },
     {
         LANGUAGE.EN_US: f"Can you point me towards [dt] from where [rf] is?",
         LANGUAGE.ZH_CN: f"你能否指引我怎样从[rf]到[dt]?",
         LANGUAGE.ZH_HK: f"你可以指俾我睇，由[rf]點樣揾到[dt]?",
     },
+        {
+        LANGUAGE.EN_US: f"Can you direct me to [dt] from [rf]'s location?",
+        LANGUAGE.ZH_CN: f"你能把我从[rf]的位置引导到[dt]吗？",
+        LANGUAGE.ZH_HK: f"你能把我從[rf]的位置引導到[dt]嗎？",
+    },
+        {
+        LANGUAGE.EN_US: f"Can you show me the way to [dt] from [rf]?",
+        LANGUAGE.ZH_CN: f"你能告诉我从[rf]到[dt]的方法吗？",
+        LANGUAGE.ZH_HK: f"你可唔可以話我由[rf]到[dt]嘅方法啊？",
+    },
+        {
+        LANGUAGE.EN_US: f"Can you guide me to [dt] starting from [rf]?",
+        LANGUAGE.ZH_CN: f"你能引导我从[rf]到[dt]吗？",
+        LANGUAGE.ZH_HK: f"你能引導我從[rf]到[dt]嗎？",
+    },
     {
         LANGUAGE.EN_US: f"From [rf], which direction should I move to find [dt]?",
         LANGUAGE.ZH_CN: f"我从[rf]开始往哪个方向移动可以到[dt]?",
         LANGUAGE.ZH_HK: f"我由[rf]要行邊個方向去揾[dt]?",
+    },
+        {
+        LANGUAGE.EN_US: f"Which way should I go from [rf] to reach [dt]?",
+        LANGUAGE.ZH_CN: f"从[rf]到[dt]的路是哪条？",
+        LANGUAGE.ZH_HK: f"由[rf]到[dt]嘅路係邊條？",
+    },
+        {
+        LANGUAGE.EN_US: f"What direction should I take from [rf] to get to [dt]?",
+        LANGUAGE.ZH_CN: f"我应该从[rf]往什么方向走才能到达[dt]？",
+        LANGUAGE.ZH_HK: f"我应该从[rf]往什么方向走才能到达[dt]？",
+    },
+        {
+        LANGUAGE.EN_US: f"In which direction should I head from [rf] to locate [dt]?",
+        LANGUAGE.ZH_CN: f"我应该从[rf]朝哪个方向移动才能找到[dt]？",
+        LANGUAGE.ZH_HK: f"我應該從[rf]朝哪個方向移動才能找到[dt]？",
     },
     {
         LANGUAGE.EN_US: f"If I'm facing [rf], in which direction is [dt]?",
         LANGUAGE.ZH_CN: f"我现在正面对[rf], [dt]在哪个方向?",
         LANGUAGE.ZH_HK: f"我對住[rf], [dt]喺邊個方向？",
     },
+        {
+        LANGUAGE.EN_US: f"If [rf] is in front of me, where is [dt] located?",
+        LANGUAGE.ZH_CN: f"如果[rf]在我面前，[dt]在哪里？",
+        LANGUAGE.ZH_HK: f"如果[rf]在我面前，[dt]喺邊度？",
+    },
+        {
+        LANGUAGE.EN_US: f"Facing [rf], which way is [dt]?",
+        LANGUAGE.ZH_CN: f"面对[rf]，[dt]是哪个方向？",
+        LANGUAGE.ZH_HK: f"面對[rf]，[dt]係邊個方向？",
+    },
+        {
+        LANGUAGE.EN_US: f"When looking at [rf], where is [dt]?",
+        LANGUAGE.ZH_CN: f"当看着[rf]时，[dt]在哪里？",
+        LANGUAGE.ZH_HK: f"當睇住[rf]時，[dt]在哪裡？",
+    },
     {
         LANGUAGE.EN_US: f"If [rf] is in front of me, where should I look for [dt]?",
         LANGUAGE.ZH_CN: f"如果[rf]在我正前方，我应该往哪边找[dt]?",
         LANGUAGE.ZH_HK: f"[rf]喺在我面前，我應該望邊度搵[dt]?",
+    },
+        {
+        LANGUAGE.EN_US: f"If [rf] is ahead of me, where can I find [dt]?",
+        LANGUAGE.ZH_CN: f"如果[rf]在我前面，我在哪里可以找到[dt]？",
+        LANGUAGE.ZH_HK: f"如果[rf]喺我前面，我喺邊度可以搵到[dt]？",
+    },
+        {
+        LANGUAGE.EN_US: f"With [rf] in front, where should I search for [dt]?",
+        LANGUAGE.ZH_CN: f"前面有[rf]，我应该在哪里搜索[dt]？",
+        LANGUAGE.ZH_HK: f"前面有[rf]，我應該喺邊度搜索[dt]？",
+    },
+        {
+        LANGUAGE.EN_US: f"If [rf] is directly ahead, where is [dt] located?",
+        LANGUAGE.ZH_CN: f"如果[rf]在正前方，那么[dt]在哪里？",
+        LANGUAGE.ZH_HK: f"如果[rf]在正前方，咁[dt]喺邊度？",
     }
 ]
 
