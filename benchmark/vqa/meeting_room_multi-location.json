@@ -1,0 +1,102 @@
+[
+    {
+        "scene_id": "meeting_room_5",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If chair is in front of me, where is dining table located?",
+                    "zh-CN": "如果椅子在我面前，餐桌在哪里？",
+                    "zh-HK": "如果椅子在我面前，餐桌喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From dining table, which direction should I move to find microwave?",
+                    "zh-CN": "我从餐桌开始往哪个方向移动可以到微波炉?",
+                    "zh-HK": "我由餐桌要行邊個方向去揾微波爐?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If chair is in front of me, where should I look for microwave?",
+                    "zh-CN": "如果椅子在我正前方，我应该往哪边找微波炉?",
+                    "zh-HK": "椅子喺在我面前，我應該望邊度搵微波爐?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_27",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction should I head from chair to locate tv?",
+                    "zh-CN": "我应该从椅子朝哪个方向移动才能找到电视？",
+                    "zh-HK": "我應該從椅子朝哪個方向移動才能找到電視？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If tv is ahead of me, where can I find mouse?",
+                    "zh-CN": "如果电视在我前面，我在哪里可以找到鼠标？",
+                    "zh-HK": "如果電視喺我前面，我喺邊度可以搵到鼠標？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From dining table, which direction should I move to find microwave?",
+                    "zh-CN": "我从餐桌开始往哪个方向移动可以到微波炉?",
+                    "zh-HK": "我由餐桌要行邊個方向去揾微波爐?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_39",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction should I head from chair to locate tv?",
+                    "zh-CN": "我应该从椅子朝哪个方向移动才能找到电视？",
+                    "zh-HK": "我應該從椅子朝哪個方向移動才能找到電視？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_341",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction should I head from chair to locate tv?",
+                    "zh-CN": "我应该从椅子朝哪个方向移动才能找到电视？",
+                    "zh-HK": "我應該從椅子朝哪個方向移動才能找到電視？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the position of vase in relation to chair?",
+                    "zh-CN": "花瓶相对于椅子的位置是什么？",
+                    "zh-HK": "花瓶相對于椅子嘅位置係乜嘢？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you direct me to potted plant from vase's location?",
+                    "zh-CN": "你能把我从花瓶的位置引导到盆栽吗？",
+                    "zh-HK": "你能把我從花瓶的位置引導到盆栽嗎？"
+                }
+            }
+        ]
+    }
+]

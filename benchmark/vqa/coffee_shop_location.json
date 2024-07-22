@@ -1,0 +1,266 @@
+[
+    {
+        "scene_id": "coffee_shop_120",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you show me where the potted plant is?",
+                    "zh-CN": "你能告诉我盆栽在哪里吗？",
+                    "zh-HK": "你可唔可以話我盆栽喺邊度啊？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Which way should I look to find the dining table from here?",
+                    "zh-CN": "我应该从这里往哪个方向寻找餐桌？",
+                    "zh-HK": "我應該從這裡往哪個方向尋找餐桌？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you locate the chair in the scene?",
+                    "zh-CN": "你能在场景中找到椅子吗？",
+                    "zh-HK": "你可以喺房入面搵到椅子嗎?"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you help me find the position of the bench?",
+                    "zh-CN": "你能帮我找到长椅的位置吗？",
+                    "zh-HK": "你可唔可以帮我搵到長椅的位置吗？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_122",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you show me where the vase is?",
+                    "zh-CN": "你能告诉我花瓶在哪里吗？",
+                    "zh-HK": "你可唔可以話我花瓶喺邊度啊？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify where the bottle is in the scene?",
+                    "zh-CN": "你能确定瓶子在场景中的位置吗？",
+                    "zh-HK": "你能肯定瓶子喺場景中嘅位置呀？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you tell me the direction of the toaster from my current location?",
+                    "zh-CN": "你能告诉我烤面包机相对于我当前位置的方向吗？",
+                    "zh-HK": "你能告訴我多士爐相對于我當前位置的方向嗎？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you point out the potted plant in the scene?",
+                    "zh-CN": "你能指出场景中的盆栽吗？",
+                    "zh-HK": "你可唔可以指出場景中嘅盆栽啊？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_123",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From my current position, which way is the person?",
+                    "zh-CN": "从我目前的位置来看，人是哪个方向？",
+                    "zh-HK": "從我目前的位置來看，人是邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the toaster is, please.",
+                    "zh-CN": "请帮我找下烤面包机在哪里。",
+                    "zh-HK": "請幫我搵吓多士爐喺邊。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_223",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you identify where the bottle is in the scene?",
+                    "zh-CN": "你能确定瓶子在场景中的位置吗？",
+                    "zh-HK": "你能肯定瓶子喺場景中嘅位置呀？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you find the couch in the scene?",
+                    "zh-CN": "你能在场景中找到沙发吗？",
+                    "zh-HK": "你可唔可以喺場景中搵到梳化啊？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you tell me the location of the closest dining table to me?",
+                    "zh-CN": "你能告诉我离我最近的餐桌的位置吗？",
+                    "zh-HK": "你可唔可以話我离我最近嘅餐桌嘅位置啊？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_225",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the person in relation to my current position?",
+                    "zh-CN": "相对于我当前位置，人在哪里？",
+                    "zh-HK": "相對于我當前位置，人喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you guide me to where the cup is located?",
+                    "zh-CN": "你能引导我到杯子的位置吗？",
+                    "zh-HK": "你能引導我到杯的位置嗎？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Find where the toaster is, please.",
+                    "zh-CN": "请帮我找下烤面包机在哪里。",
+                    "zh-HK": "請幫我搵吓多士爐喺邊。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Please find the location of the chair.",
+                    "zh-CN": "请找到椅子的位置。",
+                    "zh-HK": "請搵到椅子嘅位置。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_228",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you locate the chair in the scene?",
+                    "zh-CN": "你能在场景中找到椅子吗？",
+                    "zh-HK": "你可以喺房入面搵到椅子嗎?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you help me find the position of the bench?",
+                    "zh-CN": "你能帮我找到长椅的位置吗？",
+                    "zh-HK": "你可唔可以帮我搵到長椅的位置吗？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From my current position, which way is the person?",
+                    "zh-CN": "从我目前的位置来看，人是哪个方向？",
+                    "zh-HK": "從我目前的位置來看，人是邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_238",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I find the closest chair to me?",
+                    "zh-CN": "在哪里可以找到离我最近的椅子？",
+                    "zh-HK": "喺邊度可以搵到離我最近嘅椅子？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the position of the nearest bowl relative to me?",
+                    "zh-CN": "离我最近的碗的位置是什么？",
+                    "zh-HK": "離我最近嘅碗嘅位置係乜嘢？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you tell me the location of the closest dining table to me?",
+                    "zh-CN": "你能告诉我离我最近的餐桌的位置吗？",
+                    "zh-HK": "你可唔可以話我离我最近嘅餐桌嘅位置啊？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Please find the location of the chair.",
+                    "zh-CN": "请找到椅子的位置。",
+                    "zh-HK": "請搵到椅子嘅位置。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_244",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Find where the toaster is, please.",
+                    "zh-CN": "请帮我找下烤面包机在哪里。",
+                    "zh-HK": "請幫我搵吓多士爐喺邊。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Please find the location of the chair.",
+                    "zh-CN": "请找到椅子的位置。",
+                    "zh-HK": "請搵到椅子嘅位置。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From my current position, which way is the person?",
+                    "zh-CN": "从我目前的位置来看，人是哪个方向？",
+                    "zh-HK": "從我目前的位置來看，人是邊個方向？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Could you identify where the dining table is?",
+                    "zh-CN": "你能确定餐桌在哪里吗？",
+                    "zh-HK": "你能肯定餐桌喺邊度呀？"
+                }
+            }
+        ]
+    }
+]

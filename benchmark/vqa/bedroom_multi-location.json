@@ -1,0 +1,226 @@
+[
+    {
+        "scene_id": "bedroom_70",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can vase be found in relation to bed?",
+                    "zh-CN": "在哪里可以找到与床相关的 花瓶？",
+                    "zh-HK": "喺邊度可以搵到與床相關嘅花瓶？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction should I head from vase to locate potted plant?",
+                    "zh-CN": "我应该从花瓶朝哪个方向移动才能找到盆栽？",
+                    "zh-HK": "我應該從花瓶朝哪個方向移動才能找到盆栽？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "When looking at potted plant, where is dog?",
+                    "zh-CN": "当看着盆栽时，狗在哪里？",
+                    "zh-HK": "當睇住盆栽時，狗在哪裡？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_176",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "When looking at potted plant, where is dog?",
+                    "zh-CN": "当看着盆栽时，狗在哪里？",
+                    "zh-HK": "當睇住盆栽時，狗在哪裡？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the position of handbag in relation to book?",
+                    "zh-CN": "手袋相对于书的位置是什么？",
+                    "zh-HK": "手袋相對于書嘅位置係乜嘢？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you show me the way to book from bed?",
+                    "zh-CN": "你能告诉我从床到书的方法吗？",
+                    "zh-HK": "你可唔可以話我由床到書嘅方法啊？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_178",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If bed is in front of me, where is chair located?",
+                    "zh-CN": "如果床在我面前，椅子在哪里？",
+                    "zh-HK": "如果床在我面前，椅子喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the way to get to backpack from couch?",
+                    "zh-CN": "从沙发到达背包的方法是什么？",
+                    "zh-HK": "從梳化到達背囊的方法是什麼？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find cup?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到杯子?",
+                    "zh-HK": "我由椅子要行邊個方向去揾杯?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_181",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How is keyboard situated compared to bed?",
+                    "zh-CN": "与床相比，键盘的位置如何？",
+                    "zh-HK": "與床相比，鍵盤的位置如何？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you guide me to backpack starting from bed?",
+                    "zh-CN": "你能引导我从床到背包吗？",
+                    "zh-HK": "你能引導我從床到背囊嗎？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What route should I take to go from tv to remote?",
+                    "zh-CN": "我应该走什么路线从电视到遥控器？",
+                    "zh-HK": "我應該走乜嘢路線由電視到遙控器？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_281",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing bed, in which direction is teddy bear?",
+                    "zh-CN": "我现在正面对床, 泰迪熊在哪个方向?",
+                    "zh-HK": "我對住床, 啤啤熊喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you direct me to cup from bed's location?",
+                    "zh-CN": "你能把我从床的位置引导到杯子吗？",
+                    "zh-HK": "你能把我從床的位置引導到杯嗎？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "How can I get to cup starting from teddy bear?",
+                    "zh-CN": "如何从泰迪熊开始到达杯子？",
+                    "zh-HK": "如何由啤啤熊開始到達杯？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_401",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If bed is ahead of me, where can I find teddy bear?",
+                    "zh-CN": "如果床在我前面，我在哪里可以找到泰迪熊？",
+                    "zh-HK": "如果床喺我前面，我喺邊度可以搵到啤啤熊？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the way to get to backpack from couch?",
+                    "zh-CN": "从沙发到达背包的方法是什么？",
+                    "zh-HK": "從梳化到達背囊的方法是什麼？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_525",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If bed is in front of me, where should I look for laptop?",
+                    "zh-CN": "如果床在我正前方，我应该往哪边找笔记本电脑?",
+                    "zh-HK": "床喺在我面前，我應該望邊度搵筆記本電腦?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find cup?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到杯子?",
+                    "zh-HK": "我由椅子要行邊個方向去揾杯?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What route should I take to go from tv to remote?",
+                    "zh-CN": "我应该走什么路线从电视到遥控器？",
+                    "zh-HK": "我應該走乜嘢路線由電視到遙控器？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_946",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the way to get to backpack from couch?",
+                    "zh-CN": "从沙发到达背包的方法是什么？",
+                    "zh-HK": "從梳化到達背囊的方法是什麼？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What route should I take to go from tv to remote?",
+                    "zh-CN": "我应该走什么路线从电视到遥控器？",
+                    "zh-HK": "我應該走乜嘢路線由電視到遙控器？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What direction should I take from book to get to mouse?",
+                    "zh-CN": "我应该从书往什么方向走才能到达鼠标？",
+                    "zh-HK": "我应该从書往什么方向走才能到达鼠標？"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "scene_id": "dorm_128",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me the location of the closest spoon to me?",
+                    "zh-CN": "你能告诉我离我最近的勺子的位置吗？",
+                    "zh-HK": "你可唔可以話我离我最近嘅勺嘅位置啊？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point out the bottle in the scene?",
+                    "zh-CN": "你能指出场景中的瓶子吗？",
+                    "zh-HK": "你可唔可以指出場景中嘅瓶子啊？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Please tell me where the cup is.",
+                    "zh-CN": "请告诉我杯子在哪里。",
+                    "zh-HK": "請告訴我杯喺邊度。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where is the oven in relation to my current position?",
+                    "zh-CN": "相对于我当前位置，烤箱在哪里？",
+                    "zh-HK": "相對于我當前位置，焗爐喺邊度？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_130",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Please tell me where the cup is.",
+                    "zh-CN": "请告诉我杯子在哪里。",
+                    "zh-HK": "請告訴我杯喺邊度。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Could you point out the location of the sink to me?",
+                    "zh-CN": "你能给我指出水槽的位置吗？",
+                    "zh-HK": "你可唔可以畀我指出水槽嘅位置啊？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is the nearest oven to me?",
+                    "zh-CN": "离我最近的烤箱在哪里？",
+                    "zh-HK": "離我最近嘅焗爐喺邊度？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Could you identify where the refrigerator is?",
+                    "zh-CN": "你能确定电冰箱在哪里吗？",
+                    "zh-HK": "你能肯定電冰箱喺邊度呀？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_131",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the microwave?",
+                    "zh-CN": "你可以引导我去到微波炉的位置嗎?",
+                    "zh-HK": "你可以引導我去到微波爐嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you find the cup in the scene?",
+                    "zh-CN": "你能在场景中找到杯子吗？",
+                    "zh-HK": "你可唔可以喺場景中搵到杯啊？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you help me find the position of the knife?",
+                    "zh-CN": "你能帮我找到刀的位置吗？",
+                    "zh-HK": "你可唔可以帮我搵到刀的位置吗？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Please find the location of the oven.",
+                    "zh-CN": "请找到烤箱的位置。",
+                    "zh-HK": "請搵到焗爐嘅位置。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_143",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you help me find the position of the knife?",
+                    "zh-CN": "你能帮我找到刀的位置吗？",
+                    "zh-HK": "你可唔可以帮我搵到刀的位置吗？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Could you guide me to the position of the microwave?",
+                    "zh-CN": "你可以引导我去到微波炉的位置嗎?",
+                    "zh-HK": "你可以引導我去到微波爐嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you show me where the sink is?",
+                    "zh-CN": "你能告诉我水槽在哪里吗？",
+                    "zh-HK": "你可唔可以話我水槽喺邊度啊？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Which way should I look to find the spoon from here?",
+                    "zh-CN": "我应该从这里往哪个方向寻找勺子？",
+                    "zh-HK": "我應該從這裡往哪個方向尋找勺？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_267",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you direct me to the location of the person?",
+                    "zh-CN": "你能把我引向人的位置吗？",
+                    "zh-HK": "你能把我引向人的位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you guide me to where the refrigerator is located?",
+                    "zh-CN": "你能引导我到电冰箱的位置吗？",
+                    "zh-HK": "你能引導我到電冰箱的位置嗎？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you help me find the position of the knife?",
+                    "zh-CN": "你能帮我找到刀的位置吗？",
+                    "zh-HK": "你可唔可以帮我搵到刀的位置吗？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where is the nearest oven to me?",
+                    "zh-CN": "离我最近的烤箱在哪里？",
+                    "zh-HK": "離我最近嘅焗爐喺邊度？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_569",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you guide me to the position of the microwave?",
+                    "zh-CN": "你可以引导我去到微波炉的位置嗎?",
+                    "zh-HK": "你可以引導我去到微波爐嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the refrigerator that is closest to me?",
+                    "zh-CN": "离我最近的电冰箱在哪里？",
+                    "zh-HK": "離我最近嘅電冰箱喺邊度？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you point out the location of the sink to me?",
+                    "zh-CN": "你能给我指出水槽的位置吗？",
+                    "zh-HK": "你可唔可以畀我指出水槽嘅位置啊？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "In which direction is the sink from my current position?",
+                    "zh-CN": "水槽在我当前位置的什么方向?",
+                    "zh-HK": "水槽由我而家嘅位置喺邊個方向？"
+                }
+            }
+        ]
+    }
+]

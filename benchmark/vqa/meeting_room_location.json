@@ -1,0 +1,102 @@
+[
+    {
+        "scene_id": "meeting_room_5",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest dining table in relation to me?",
+                    "zh-CN": "离我最近的餐桌在哪里?",
+                    "zh-HK": "離我最近嘅餐桌喺邊度？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me the location of the closest chair to me?",
+                    "zh-CN": "你能告诉我离我最近的椅子的位置吗？",
+                    "zh-HK": "你可唔可以話我离我最近嘅椅子嘅位置啊？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_27",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Which way should I look to find the chair from here?",
+                    "zh-CN": "我应该从这里往哪个方向寻找椅子？",
+                    "zh-HK": "我應該從這裡往哪個方向尋找椅子？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you please locate the dining table?",
+                    "zh-CN": "你能找到餐桌吗？",
+                    "zh-HK": "你可唔可以搵到餐桌啊？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point out the bottle in the scene?",
+                    "zh-CN": "你能指出场景中的瓶子吗？",
+                    "zh-HK": "你可唔可以指出場景中嘅瓶子啊？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_39",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction is the chair from my current position?",
+                    "zh-CN": "椅子在我当前位置的什么方向?",
+                    "zh-HK": "椅子由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the position of the nearest dining table relative to me?",
+                    "zh-CN": "离我最近的餐桌的位置是什么？",
+                    "zh-HK": "離我最近嘅餐桌嘅位置係乜嘢？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_341",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you point out the location of the potted plant to me?",
+                    "zh-CN": "你能给我指出盆栽的位置吗？",
+                    "zh-HK": "你可唔可以畀我指出盆栽嘅位置啊？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the chair from my current position?",
+                    "zh-CN": "椅子在我当前位置的什么方向?",
+                    "zh-HK": "椅子由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you identify where the dining table is?",
+                    "zh-CN": "你能确定餐桌在哪里吗？",
+                    "zh-HK": "你能肯定餐桌喺邊度呀？"
+                }
+            }
+        ]
+    }
+]

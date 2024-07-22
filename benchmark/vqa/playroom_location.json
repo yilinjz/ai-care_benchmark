@@ -1,0 +1,266 @@
+[
+    {
+        "scene_id": "playroom_425",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the position of the nearest sports ball relative to me?",
+                    "zh-CN": "离我最近的运动用球的位置是什么？",
+                    "zh-HK": "離我最近嘅運動波嘅位置係乜嘢？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction is the backpack from my current position?",
+                    "zh-CN": "背包在我当前位置的什么方向?",
+                    "zh-HK": "背囊由我而家嘅位置喺邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you direct me to the location of the chair?",
+                    "zh-CN": "你能把我引向椅子的位置吗？",
+                    "zh-HK": "你能把我引向椅子的位置嗎？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_426",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Could you point out the location of the couch to me?",
+                    "zh-CN": "你能给我指出沙发的位置吗？",
+                    "zh-HK": "你可唔可以畀我指出梳化嘅位置啊？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Could you show me where the tv is?",
+                    "zh-CN": "你能告诉我电视在哪里吗？",
+                    "zh-HK": "你可唔可以話我電視喺邊度啊？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you please locate the sports ball?",
+                    "zh-CN": "你能找到运动用球吗？",
+                    "zh-HK": "你可唔可以搵到運動波啊？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you guide me to where the chair is located?",
+                    "zh-CN": "你能引导我到椅子的位置吗？",
+                    "zh-HK": "你能引導我到椅子的位置嗎？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_428",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is the suitcase visible in the scene?",
+                    "zh-CN": "行李箱在场景中是否可见？",
+                    "zh-HK": "行李箱在場景中是否可見？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me the location of the closest dining table to me?",
+                    "zh-CN": "你能告诉我离我最近的餐桌的位置吗？",
+                    "zh-HK": "你可唔可以話我离我最近嘅餐桌嘅位置啊？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you help me find the position of the couch?",
+                    "zh-CN": "你能帮我找到沙发的位置吗？",
+                    "zh-HK": "你可唔可以帮我搵到梳化的位置吗？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Could you point out the location of the couch to me?",
+                    "zh-CN": "你能给我指出沙发的位置吗？",
+                    "zh-HK": "你可唔可以畀我指出梳化嘅位置啊？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_437",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is the suitcase visible in the scene?",
+                    "zh-CN": "行李箱在场景中是否可见？",
+                    "zh-HK": "行李箱在場景中是否可見？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Which way should I look to find the tv from here?",
+                    "zh-CN": "我应该从这里往哪个方向寻找电视？",
+                    "zh-HK": "我應該從這裡往哪個方向尋找電視？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point out the chair in the scene?",
+                    "zh-CN": "你能指出场景中的椅子吗？",
+                    "zh-HK": "你可唔可以指出場景中嘅椅子啊？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1081",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you show me where the bed is?",
+                    "zh-CN": "你能告诉我床在哪里吗？",
+                    "zh-HK": "你可唔可以話我床喺邊度啊？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you locate the book in the scene?",
+                    "zh-CN": "你能在场景中找到书吗？",
+                    "zh-HK": "你可以喺房入面搵到書嗎?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you please locate the sports ball?",
+                    "zh-CN": "你能找到运动用球吗？",
+                    "zh-HK": "你可唔可以搵到運動波啊？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1084",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me the direction of the book from my current location?",
+                    "zh-CN": "你能告诉我书相对于我当前位置的方向吗？",
+                    "zh-HK": "你能告訴我書相對于我當前位置的方向嗎？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I find the closest remote to me?",
+                    "zh-CN": "在哪里可以找到离我最近的遥控器？",
+                    "zh-HK": "喺邊度可以搵到離我最近嘅遙控器？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you point out the chair in the scene?",
+                    "zh-CN": "你能指出场景中的椅子吗？",
+                    "zh-HK": "你可唔可以指出場景中嘅椅子啊？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1157",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you guide me to where the chair is located?",
+                    "zh-CN": "你能引导我到椅子的位置吗？",
+                    "zh-HK": "你能引導我到椅子的位置嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Find where the chair is, please.",
+                    "zh-CN": "请帮我找下椅子在哪里。",
+                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you guide me to the position of the teddy bear?",
+                    "zh-CN": "你可以引导我去到泰迪熊的位置嗎?",
+                    "zh-HK": "你可以引導我去到啤啤熊嘅位置嗎？"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I find the closest remote to me?",
+                    "zh-CN": "在哪里可以找到离我最近的遥控器？",
+                    "zh-HK": "喺邊度可以搵到離我最近嘅遙控器？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1203",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Please tell me where the suitcase is.",
+                    "zh-CN": "请告诉我行李箱在哪里。",
+                    "zh-HK": "請告訴我行李箱喺邊度。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Which direction is the backpack located from where I am now?",
+                    "zh-CN": "背包位于我现在所在的哪个方向？",
+                    "zh-HK": "背囊位於我而家所在嘅邊個方向？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you identify where the couch is?",
+                    "zh-CN": "你能确定沙发在哪里吗？",
+                    "zh-HK": "你能肯定梳化喺邊度呀？"
+                }
+            }
+        ]
+    }
+]

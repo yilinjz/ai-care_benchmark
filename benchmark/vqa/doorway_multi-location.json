@@ -1,0 +1,263 @@
+[
+    {
+        "scene_id": "doorway_53",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the way to get to microwave from book?",
+                    "zh-CN": "从书到达微波炉的方法是什么？",
+                    "zh-HK": "從書到達微波爐的方法是什麼？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Which way should I go from microwave to reach bowl?",
+                    "zh-CN": "从微波炉到碗的路是哪条？",
+                    "zh-HK": "由微波爐到碗嘅路係邊條？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If book is in front of me, where should I look for wine glass?",
+                    "zh-CN": "如果书在我正前方，我应该往哪边找酒杯?",
+                    "zh-HK": "書喺在我面前，我應該望邊度搵酒杯?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_251",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If book is in front of me, where should I look for wine glass?",
+                    "zh-CN": "如果书在我正前方，我应该往哪边找酒杯?",
+                    "zh-HK": "書喺在我面前，我應該望邊度搵酒杯?"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Which way should I go from microwave to reach bowl?",
+                    "zh-CN": "从微波炉到碗的路是哪条？",
+                    "zh-HK": "由微波爐到碗嘅路係邊條？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What is the way to get to microwave from book?",
+                    "zh-CN": "从书到达微波炉的方法是什么？",
+                    "zh-HK": "從書到達微波爐的方法是什麼？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_262",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "When looking at tv, where is vase?",
+                    "zh-CN": "当看着电视时，花瓶在哪里？",
+                    "zh-HK": "當睇住電視時，花瓶在哪裡？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What route should I take to go from tv to book?",
+                    "zh-CN": "我应该走什么路线从电视到书？",
+                    "zh-HK": "我應該走乜嘢路線由電視到書？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What is the position of tv in relation to keyboard?",
+                    "zh-CN": "电视相对于键盘的位置是什么？",
+                    "zh-HK": "電視相對于鍵盤嘅位置係乜嘢？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_263",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Which way should I go from microwave to reach bowl?",
+                    "zh-CN": "从微波炉到碗的路是哪条？",
+                    "zh-HK": "由微波爐到碗嘅路係邊條？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards refrigerator from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到电冰箱?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到電冰箱?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "When looking at tv, where is vase?",
+                    "zh-CN": "当看着电视时，花瓶在哪里？",
+                    "zh-HK": "當睇住電視時，花瓶在哪裡？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_459",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing chair, in which direction is potted plant?",
+                    "zh-CN": "我现在正面对椅子, 盆栽在哪个方向?",
+                    "zh-HK": "我對住椅子, 盆栽喺邊個方向？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is dining table located relative to chair?",
+                    "zh-CN": "餐桌是在椅子的哪边?",
+                    "zh-HK": "餐桌喺在椅子的邊度?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you point me towards refrigerator from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到电冰箱?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到電冰箱?"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_460",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How can I get to potted plant starting from tv?",
+                    "zh-CN": "如何从电视开始到达盆栽？",
+                    "zh-HK": "如何由電視開始到達盆栽？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Which way should I go from microwave to reach bowl?",
+                    "zh-CN": "从微波炉到碗的路是哪条？",
+                    "zh-HK": "由微波爐到碗嘅路係邊條？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What direction should I take from vase to get to potted plant?",
+                    "zh-CN": "我应该从花瓶往什么方向走才能到达盆栽？",
+                    "zh-HK": "我应该从花瓶往什么方向走才能到达盆栽？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_485",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Which way should I go from microwave to reach bowl?",
+                    "zh-CN": "从微波炉到碗的路是哪条？",
+                    "zh-HK": "由微波爐到碗嘅路係邊條？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the position of tv in relation to keyboard?",
+                    "zh-CN": "电视相对于键盘的位置是什么？",
+                    "zh-HK": "電視相對于鍵盤嘅位置係乜嘢？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If couch is ahead of me, where can I find book?",
+                    "zh-CN": "如果沙发在我前面，我在哪里可以找到书？",
+                    "zh-HK": "如果梳化喺我前面，我喺邊度可以搵到書？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_562",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you direct me to microwave from person's location?",
+                    "zh-CN": "你能把我从人的位置引导到微波炉吗？",
+                    "zh-HK": "你能把我從人的位置引導到微波爐嗎？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If refrigerator is in front of me, where is oven located?",
+                    "zh-CN": "如果电冰箱在我面前，烤箱在哪里？",
+                    "zh-HK": "如果電冰箱在我面前，焗爐喺邊度？"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Facing microwave, which way is oven?",
+                    "zh-CN": "面对微波炉，烤箱是哪个方向？",
+                    "zh-HK": "面對微波爐，焗爐係邊個方向？"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_564",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "When looking at tv, where is vase?",
+                    "zh-CN": "当看着电视时，花瓶在哪里？",
+                    "zh-HK": "當睇住電視時，花瓶在哪裡？"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From person, which direction should I move to find sink?",
+                    "zh-CN": "我从人开始往哪个方向移动可以到水槽?",
+                    "zh-HK": "我由人要行邊個方向去揾水槽?"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is dining table located relative to chair?",
+                    "zh-CN": "餐桌是在椅子的哪边?",
+                    "zh-HK": "餐桌喺在椅子的邊度?"
+                }
+            }
+        ]
+    }
+]
