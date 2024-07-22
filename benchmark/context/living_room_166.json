@@ -1,0 +1,112 @@
+[
+    {
+        "POSITION": [
+            226,
+            380,
+            440,
+            177
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "couch",
+        "DEPTH": 1.66
+    },
+    {
+        "POSITION": [
+            279,
+            287,
+            101,
+            83
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 2.4
+    },
+    {
+        "POSITION": [
+            333,
+            236,
+            22,
+            34
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "vase",
+        "DEPTH": 3.1
+    },
+    {
+        "POSITION": [
+            311,
+            288,
+            242,
+            91
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "dining table",
+        "DEPTH": 2.42
+    },
+    {
+        "POSITION": [
+            442,
+            326,
+            59,
+            173
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 3.64
+    },
+    {
+        "POSITION": [
+            197,
+            252,
+            37,
+            45
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 3.13
+    },
+    {
+        "POSITION": [
+            338,
+            206,
+            80,
+            93
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "potted plant",
+        "DEPTH": 3.03
+    },
+    {
+        "POSITION": [
+            442,
+            291,
+            58,
+            104
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 2.6
+    },
+    {
+        "POSITION": [
+            311,
+            258,
+            237,
+            33
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "dining table",
+        "DEPTH": 2.99
+    },
+    {
+        "POSITION": [
+            300,
+            232,
+            49,
+            42
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "handbag",
+        "DEPTH": 3.22
+    }
+]

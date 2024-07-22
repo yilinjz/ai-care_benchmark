@@ -1,0 +1,79 @@
+[
+    {
+        "POSITION": [
+            377,
+            355,
+            46,
+            114
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "vase",
+        "DEPTH": 2.64
+    },
+    {
+        "POSITION": [
+            574,
+            313,
+            114,
+            232
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "tv",
+        "DEPTH": 1.8
+    },
+    {
+        "POSITION": [
+            454,
+            342,
+            110,
+            88
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "book",
+        "DEPTH": 2.29
+    },
+    {
+        "POSITION": [
+            461,
+            274,
+            113,
+            89
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "book",
+        "DEPTH": 2.19
+    },
+    {
+        "POSITION": [
+            588,
+            436,
+            88,
+            52
+        ],
+        "ORIENTATION": "down and right",
+        "TEXT": "keyboard",
+        "DEPTH": 1.55
+    },
+    {
+        "POSITION": [
+            491,
+            40,
+            124,
+            67
+        ],
+        "ORIENTATION": "up and slightly-right",
+        "TEXT": "book",
+        "DEPTH": 2.04
+    },
+    {
+        "POSITION": [
+            381,
+            270,
+            65,
+            285
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "potted plant",
+        "DEPTH": 2.82
+    }
+]

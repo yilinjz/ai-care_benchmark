@@ -1,0 +1,112 @@
+[
+    {
+        "POSITION": [
+            488,
+            373,
+            291,
+            189
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "dining table",
+        "DEPTH": 1.64
+    },
+    {
+        "POSITION": [
+            341,
+            377,
+            197,
+            189
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 3.49
+    },
+    {
+        "POSITION": [
+            552,
+            250,
+            82,
+            66
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "chair",
+        "DEPTH": 3.72
+    },
+    {
+        "POSITION": [
+            42,
+            404,
+            72,
+            137
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "chair",
+        "DEPTH": 2.66
+    },
+    {
+        "POSITION": [
+            76,
+            387,
+            135,
+            168
+        ],
+        "ORIENTATION": "slightly-down and left",
+        "TEXT": "chair",
+        "DEPTH": 2.85
+    },
+    {
+        "POSITION": [
+            362,
+            331,
+            80,
+            205
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 2.11
+    },
+    {
+        "POSITION": [
+            33,
+            241,
+            23,
+            39
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "cup",
+        "DEPTH": 3.28
+    },
+    {
+        "POSITION": [
+            93,
+            323,
+            171,
+            206
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "dining table",
+        "DEPTH": 2.5
+    },
+    {
+        "POSITION": [
+            343,
+            123,
+            69,
+            41
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "tv",
+        "DEPTH": 8.1
+    },
+    {
+        "POSITION": [
+            110,
+            211,
+            66,
+            15
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "sink",
+        "DEPTH": 4.97
+    }
+]

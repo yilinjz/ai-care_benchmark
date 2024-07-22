@@ -1,0 +1,79 @@
+[
+    {
+        "POSITION": [
+            354,
+            375,
+            49,
+            47
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "cup",
+        "DEPTH": 1.29
+    },
+    {
+        "POSITION": [
+            451,
+            386,
+            41,
+            65
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "wine glass",
+        "DEPTH": 1.26
+    },
+    {
+        "POSITION": [
+            386,
+            367,
+            333,
+            106
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "sink",
+        "DEPTH": 1.42
+    },
+    {
+        "POSITION": [
+            537,
+            343,
+            109,
+            56
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "toothbrush",
+        "DEPTH": 1.16
+    },
+    {
+        "POSITION": [
+            605,
+            347,
+            51,
+            223
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "refrigerator",
+        "DEPTH": 1.17
+    },
+    {
+        "POSITION": [
+            116,
+            273,
+            76,
+            51
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "bowl",
+        "DEPTH": 1.59
+    },
+    {
+        "POSITION": [
+            319,
+            287,
+            65,
+            39
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "bowl",
+        "DEPTH": 1.56
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "POSITION": [
+            609,
+            375,
+            45,
+            180
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "bottle",
+        "DEPTH": 0.84
+    },
+    {
+        "POSITION": [
+            374,
+            374,
+            86,
+            102
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "cup",
+        "DEPTH": 0.99
+    },
+    {
+        "POSITION": [
+            352,
+            302,
+            34,
+            64
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "spoon",
+        "DEPTH": 0.94
+    },
+    {
+        "POSITION": [
+            469,
+            299,
+            45,
+            56
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "spoon",
+        "DEPTH": 0.94
+    },
+    {
+        "POSITION": [
+            83,
+            443,
+            150,
+            58
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "oven",
+        "DEPTH": 0.9
+    },
+    {
+        "POSITION": [
+            339,
+            316,
+            36,
+            33
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "spoon",
+        "DEPTH": 0.97
+    },
+    {
+        "POSITION": [
+            82,
+            427,
+            152,
+            87
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "oven",
+        "DEPTH": 1.06
+    },
+    {
+        "POSITION": [
+            368,
+            294,
+            30,
+            76
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "spoon",
+        "DEPTH": 1.03
+    },
+    {
+        "POSITION": [
+            385,
+            299,
+            18,
+            64
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "spoon",
+        "DEPTH": 1.01
+    },
+    {
+        "POSITION": [
+            453,
+            374,
+            78,
+            109
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "cup",
+        "DEPTH": 0.96
+    }
+]

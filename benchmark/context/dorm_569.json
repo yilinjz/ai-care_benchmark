@@ -1,0 +1,101 @@
+[
+    {
+        "POSITION": [
+            256,
+            209,
+            181,
+            202
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "refrigerator",
+        "DEPTH": 2.82
+    },
+    {
+        "POSITION": [
+            51,
+            252,
+            88,
+            86
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "microwave",
+        "DEPTH": 2.15
+    },
+    {
+        "POSITION": [
+            371,
+            305,
+            140,
+            175
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "oven",
+        "DEPTH": 2.67
+    },
+    {
+        "POSITION": [
+            160,
+            360,
+            306,
+            197
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "dining table",
+        "DEPTH": 1.31
+    },
+    {
+        "POSITION": [
+            90,
+            311,
+            87,
+            37
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "bowl",
+        "DEPTH": 1.55
+    },
+    {
+        "POSITION": [
+            353,
+            421,
+            137,
+            96
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "chair",
+        "DEPTH": 1.3
+    },
+    {
+        "POSITION": [
+            601,
+            262,
+            59,
+            26
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "sink",
+        "DEPTH": 2.52
+    },
+    {
+        "POSITION": [
+            115,
+            285,
+            40,
+            47
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "banana",
+        "DEPTH": 1.72
+    },
+    {
+        "POSITION": [
+            261,
+            458,
+            154,
+            30
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "chair",
+        "DEPTH": 1.13
+    }
+]

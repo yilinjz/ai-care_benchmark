@@ -1,0 +1,57 @@
+[
+    {
+        "POSITION": [
+            271,
+            371,
+            391,
+            198
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "couch",
+        "DEPTH": 2.81
+    },
+    {
+        "POSITION": [
+            188,
+            399,
+            149,
+            94
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "laptop",
+        "DEPTH": 1.77
+    },
+    {
+        "POSITION": [
+            120,
+            444,
+            52,
+            27
+        ],
+        "ORIENTATION": "down and slightly-left",
+        "TEXT": "bowl",
+        "DEPTH": 1.54
+    },
+    {
+        "POSITION": [
+            484,
+            313,
+            42,
+            70
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "potted plant",
+        "DEPTH": 2.42
+    },
+    {
+        "POSITION": [
+            559,
+            391,
+            46,
+            40
+        ],
+        "ORIENTATION": "slightly-down and right",
+        "TEXT": "clock",
+        "DEPTH": 2.03
+    }
+]

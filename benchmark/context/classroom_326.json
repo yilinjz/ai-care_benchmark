@@ -1,0 +1,101 @@
+[
+    {
+        "POSITION": [
+            337,
+            356,
+            92,
+            148
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 2.22
+    },
+    {
+        "POSITION": [
+            295,
+            291,
+            77,
+            102
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 2.63
+    },
+    {
+        "POSITION": [
+            75,
+            225,
+            53,
+            71
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "chair",
+        "DEPTH": 4.27
+    },
+    {
+        "POSITION": [
+            28,
+            163,
+            46,
+            52
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "tv",
+        "DEPTH": 5.17
+    },
+    {
+        "POSITION": [
+            560,
+            300,
+            107,
+            57
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "sink",
+        "DEPTH": 1.88
+    },
+    {
+        "POSITION": [
+            401,
+            220,
+            17,
+            36
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "bottle",
+        "DEPTH": 2.71
+    },
+    {
+        "POSITION": [
+            606,
+            374,
+            50,
+            191
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "chair",
+        "DEPTH": 1.57
+    },
+    {
+        "POSITION": [
+            355,
+            236,
+            237,
+            67
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "dining table",
+        "DEPTH": 2.84
+    },
+    {
+        "POSITION": [
+            355,
+            266,
+            237,
+            128
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "dining table",
+        "DEPTH": 2.45
+    }
+]

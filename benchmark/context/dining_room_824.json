@@ -1,0 +1,90 @@
+[
+    {
+        "POSITION": [
+            338,
+            368,
+            152,
+            207
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 1.73
+    },
+    {
+        "POSITION": [
+            438,
+            356,
+            111,
+            224
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 2.65
+    },
+    {
+        "POSITION": [
+            569,
+            215,
+            113,
+            248
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "refrigerator",
+        "DEPTH": 4.07
+    },
+    {
+        "POSITION": [
+            522,
+            355,
+            109,
+            220
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 3.6
+    },
+    {
+        "POSITION": [
+            357,
+            237,
+            286,
+            65
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "dining table",
+        "DEPTH": 2.5
+    },
+    {
+        "POSITION": [
+            324,
+            166,
+            63,
+            68
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "potted plant",
+        "DEPTH": 3.07
+    },
+    {
+        "POSITION": [
+            368,
+            321,
+            310,
+            232
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "dining table",
+        "DEPTH": 2.02
+    },
+    {
+        "POSITION": [
+            341,
+            211,
+            44,
+            22
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "bowl",
+        "DEPTH": 2.73
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "POSITION": [
+            593,
+            355,
+            55,
+            43
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "book",
+        "DEPTH": 1.71
+    },
+    {
+        "POSITION": [
+            374,
+            362,
+            27,
+            46
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "bottle",
+        "DEPTH": 2.66
+    },
+    {
+        "POSITION": [
+            15,
+            324,
+            16,
+            57
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "book",
+        "DEPTH": 2.23
+    },
+    {
+        "POSITION": [
+            556,
+            223,
+            40,
+            35
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "book",
+        "DEPTH": 1.77
+    },
+    {
+        "POSITION": [
+            599,
+            219,
+            45,
+            41
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "book",
+        "DEPTH": 1.74
+    },
+    {
+        "POSITION": [
+            547,
+            355,
+            30,
+            42
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "book",
+        "DEPTH": 1.76
+    },
+    {
+        "POSITION": [
+            516,
+            222,
+            44,
+            33
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "book",
+        "DEPTH": 1.72
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "POSITION": [
+            313,
+            289,
+            62,
+            108
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 4.17
+    },
+    {
+        "POSITION": [
+            392,
+            301,
+            62,
+            114
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 4.11
+    },
+    {
+        "POSITION": [
+            61,
+            356,
+            107,
+            212
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "chair",
+        "DEPTH": 2.0
+    },
+    {
+        "POSITION": [
+            415,
+            146,
+            66,
+            41
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "microwave",
+        "DEPTH": 5.73
+    },
+    {
+        "POSITION": [
+            220,
+            195,
+            32,
+            136
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "refrigerator",
+        "DEPTH": 5.95
+    },
+    {
+        "POSITION": [
+            131,
+            290,
+            79,
+            153
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 2.8
+    },
+    {
+        "POSITION": [
+            91,
+            251,
+            166,
+            47
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "dining table",
+        "DEPTH": 2.34
+    },
+    {
+        "POSITION": [
+            136,
+            225,
+            49,
+            19
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 3.35
+    },
+    {
+        "POSITION": [
+            375,
+            213,
+            11,
+            13
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "cup",
+        "DEPTH": 3.99
+    }
+]

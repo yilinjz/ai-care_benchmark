@@ -1,0 +1,112 @@
+[
+    {
+        "POSITION": [
+            165,
+            377,
+            316,
+            183
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 2.78
+    },
+    {
+        "POSITION": [
+            392,
+            218,
+            74,
+            83
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 5.13
+    },
+    {
+        "POSITION": [
+            294,
+            228,
+            82,
+            90
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 4.26
+    },
+    {
+        "POSITION": [
+            73,
+            287,
+            132,
+            110
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "dining table",
+        "DEPTH": 3.03
+    },
+    {
+        "POSITION": [
+            436,
+            280,
+            83,
+            79
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "suitcase",
+        "DEPTH": 4.7
+    },
+    {
+        "POSITION": [
+            281,
+            360,
+            306,
+            222
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 2.86
+    },
+    {
+        "POSITION": [
+            53,
+            224,
+            91,
+            32
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "couch",
+        "DEPTH": 5.06
+    },
+    {
+        "POSITION": [
+            54,
+            264,
+            94,
+            111
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "couch",
+        "DEPTH": 2.79
+    },
+    {
+        "POSITION": [
+            147,
+            253,
+            62,
+            75
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 3.22
+    },
+    {
+        "POSITION": [
+            281,
+            360,
+            307,
+            222
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "couch",
+        "DEPTH": 2.86
+    }
+]

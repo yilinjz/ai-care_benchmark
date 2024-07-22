@@ -1,0 +1,211 @@
+[
+    {
+        "POSITION": [
+            258,
+            383,
+            101,
+            161
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 3.36
+    },
+    {
+        "POSITION": [
+            119,
+            382,
+            140,
+            142
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 2.71
+    },
+    {
+        "POSITION": [
+            447,
+            408,
+            134,
+            125
+        ],
+        "ORIENTATION": "down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 2.52
+    },
+    {
+        "POSITION": [
+            367,
+            286,
+            44,
+            39
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "tv",
+        "DEPTH": 4.88
+    },
+    {
+        "POSITION": [
+            402,
+            361,
+            84,
+            108
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 2.73
+    },
+    {
+        "POSITION": [
+            211,
+            287,
+            69,
+            47
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "tv",
+        "DEPTH": 4.32
+    },
+    {
+        "POSITION": [
+            80,
+            301,
+            91,
+            58
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "tv",
+        "DEPTH": 4.52
+    },
+    {
+        "POSITION": [
+            519,
+            332,
+            72,
+            73
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 5.99
+    },
+    {
+        "POSITION": [
+            431,
+            248,
+            30,
+            28
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "tv",
+        "DEPTH": 5.33
+    },
+    {
+        "POSITION": [
+            298,
+            273,
+            23,
+            32
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "tv",
+        "DEPTH": 4.13
+    },
+    {
+        "POSITION": [
+            571,
+            426,
+            121,
+            91
+        ],
+        "ORIENTATION": "down and right",
+        "TEXT": "chair",
+        "DEPTH": 1.94
+    },
+    {
+        "POSITION": [
+            335,
+            273,
+            16,
+            29
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "tv",
+        "DEPTH": 4.28
+    },
+    {
+        "POSITION": [
+            448,
+            284,
+            36,
+            36
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "tv",
+        "DEPTH": 5.5
+    },
+    {
+        "POSITION": [
+            520,
+            282,
+            25,
+            29
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "tv",
+        "DEPTH": 6.87
+    },
+    {
+        "POSITION": [
+            587,
+            325,
+            87,
+            58
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "chair",
+        "DEPTH": 5.19
+    },
+    {
+        "POSITION": [
+            588,
+            367,
+            87,
+            50
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "chair",
+        "DEPTH": 4.2
+    },
+    {
+        "POSITION": [
+            567,
+            215,
+            78,
+            66
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "tv",
+        "DEPTH": 9.91
+    },
+    {
+        "POSITION": [
+            483,
+            312,
+            51,
+            7
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "keyboard",
+        "DEPTH": 5.36
+    },
+    {
+        "POSITION": [
+            603,
+            324,
+            56,
+            57
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "chair",
+        "DEPTH": 5.68
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "POSITION": [
+            314,
+            235,
+            200,
+            298
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 2.0
+    },
+    {
+        "POSITION": [
+            141,
+            270,
+            269,
+            397
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "bed",
+        "DEPTH": 1.8
+    },
+    {
+        "POSITION": [
+            456,
+            108,
+            85,
+            75
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "tv",
+        "DEPTH": 2.66
+    },
+    {
+        "POSITION": [
+            382,
+            190,
+            20,
+            11
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "mouse",
+        "DEPTH": 2.66
+    },
+    {
+        "POSITION": [
+            485,
+            199,
+            99,
+            41
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "book",
+        "DEPTH": 2.07
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "POSITION": [
+            256,
+            375,
+            114,
+            181
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 3.38
+    },
+    {
+        "POSITION": [
+            494,
+            355,
+            272,
+            226
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "couch",
+        "DEPTH": 3.13
+    },
+    {
+        "POSITION": [
+            31,
+            309,
+            48,
+            290
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "tv",
+        "DEPTH": 2.02
+    },
+    {
+        "POSITION": [
+            148,
+            387,
+            99,
+            101
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "sports ball",
+        "DEPTH": 2.78
+    }
+]

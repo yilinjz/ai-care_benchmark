@@ -1,0 +1,68 @@
+[
+    {
+        "POSITION": [
+            441,
+            306,
+            178,
+            270
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 1.71
+    },
+    {
+        "POSITION": [
+            90,
+            240,
+            166,
+            91
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "sink",
+        "DEPTH": 1.69
+    },
+    {
+        "POSITION": [
+            583,
+            98,
+            97,
+            183
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "refrigerator",
+        "DEPTH": 2.32
+    },
+    {
+        "POSITION": [
+            564,
+            198,
+            41,
+            17
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "cell phone",
+        "DEPTH": 2.53
+    },
+    {
+        "POSITION": [
+            568,
+            284,
+            125,
+            199
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "dining table",
+        "DEPTH": 1.31
+    },
+    {
+        "POSITION": [
+            602,
+            180,
+            58,
+            68
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "handbag",
+        "DEPTH": 1.68
+    }
+]

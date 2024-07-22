@@ -1,0 +1,46 @@
+[
+    {
+        "POSITION": [
+            588,
+            285,
+            85,
+            88
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "laptop",
+        "DEPTH": 1.9
+    },
+    {
+        "POSITION": [
+            138,
+            416,
+            265,
+            103
+        ],
+        "ORIENTATION": "down and slightly-left",
+        "TEXT": "bed",
+        "DEPTH": 1.92
+    },
+    {
+        "POSITION": [
+            291,
+            431,
+            116,
+            86
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "backpack",
+        "DEPTH": 2.11
+    },
+    {
+        "POSITION": [
+            526,
+            367,
+            208,
+            202
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "dining table",
+        "DEPTH": 2.07
+    }
+]

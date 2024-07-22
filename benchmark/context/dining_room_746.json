@@ -1,0 +1,79 @@
+[
+    {
+        "POSITION": [
+            295,
+            337,
+            145,
+            268
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 2.04
+    },
+    {
+        "POSITION": [
+            488,
+            292,
+            102,
+            192
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 3.35
+    },
+    {
+        "POSITION": [
+            405,
+            317,
+            116,
+            228
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 2.67
+    },
+    {
+        "POSITION": [
+            292,
+            139,
+            37,
+            35
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "microwave",
+        "DEPTH": 6.12
+    },
+    {
+        "POSITION": [
+            547,
+            277,
+            70,
+            161
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "chair",
+        "DEPTH": 3.81
+    },
+    {
+        "POSITION": [
+            303,
+            186,
+            42,
+            23
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "toaster",
+        "DEPTH": 6.42
+    },
+    {
+        "POSITION": [
+            236,
+            193,
+            12,
+            31
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "bottle",
+        "DEPTH": 2.67
+    }
+]

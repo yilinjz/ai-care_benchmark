@@ -1,0 +1,57 @@
+[
+    {
+        "POSITION": [
+            149,
+            384,
+            285,
+            172
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 1.58
+    },
+    {
+        "POSITION": [
+            563,
+            294,
+            135,
+            251
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "bed",
+        "DEPTH": 2.38
+    },
+    {
+        "POSITION": [
+            312,
+            302,
+            115,
+            107
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 3.06
+    },
+    {
+        "POSITION": [
+            495,
+            245,
+            81,
+            158
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "refrigerator",
+        "DEPTH": 3.68
+    },
+    {
+        "POSITION": [
+            80,
+            425,
+            149,
+            97
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "teddy bear",
+        "DEPTH": 1.4
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "POSITION": [
+            532,
+            289,
+            84,
+            38
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "bowl",
+        "DEPTH": 1.46
+    },
+    {
+        "POSITION": [
+            410,
+            398,
+            214,
+            143
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "oven",
+        "DEPTH": 1.35
+    },
+    {
+        "POSITION": [
+            190,
+            269,
+            156,
+            76
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "microwave",
+        "DEPTH": 1.61
+    },
+    {
+        "POSITION": [
+            328,
+            226,
+            15,
+            30
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "knife",
+        "DEPTH": 1.69
+    },
+    {
+        "POSITION": [
+            24,
+            231,
+            32,
+            65
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "bottle",
+        "DEPTH": 1.09
+    }
+]

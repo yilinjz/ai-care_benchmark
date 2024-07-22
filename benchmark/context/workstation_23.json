@@ -1,0 +1,46 @@
+[
+    {
+        "POSITION": [
+            589,
+            367,
+            83,
+            72
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "laptop",
+        "DEPTH": 2.64
+    },
+    {
+        "POSITION": [
+            323,
+            399,
+            174,
+            134
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 2.7
+    },
+    {
+        "POSITION": [
+            521,
+            187,
+            41,
+            39
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "clock",
+        "DEPTH": 3.21
+    },
+    {
+        "POSITION": [
+            349,
+            454,
+            82,
+            32
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "book",
+        "DEPTH": 1.52
+    }
+]

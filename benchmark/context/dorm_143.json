@@ -1,0 +1,79 @@
+[
+    {
+        "POSITION": [
+            129,
+            306,
+            37,
+            84
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "bottle",
+        "DEPTH": 1.13
+    },
+    {
+        "POSITION": [
+            230,
+            278,
+            22,
+            71
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "bottle",
+        "DEPTH": 1.56
+    },
+    {
+        "POSITION": [
+            336,
+            319,
+            264,
+            70
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "sink",
+        "DEPTH": 1.77
+    },
+    {
+        "POSITION": [
+            557,
+            329,
+            46,
+            32
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "bowl",
+        "DEPTH": 1.65
+    },
+    {
+        "POSITION": [
+            17,
+            392,
+            23,
+            100
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "bottle",
+        "DEPTH": 0.83
+    },
+    {
+        "POSITION": [
+            521,
+            322,
+            29,
+            40
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "cup",
+        "DEPTH": 1.65
+    },
+    {
+        "POSITION": [
+            34,
+            244,
+            19,
+            55
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "spoon",
+        "DEPTH": 1.11
+    }
+]

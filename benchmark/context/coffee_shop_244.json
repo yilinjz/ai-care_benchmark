@@ -1,0 +1,112 @@
+[
+    {
+        "POSITION": [
+            509,
+            401,
+            211,
+            138
+        ],
+        "ORIENTATION": "down and slightly-right",
+        "TEXT": "couch",
+        "DEPTH": 3.14
+    },
+    {
+        "POSITION": [
+            194,
+            356,
+            62,
+            89
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 4.78
+    },
+    {
+        "POSITION": [
+            43,
+            297,
+            55,
+            124
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "person",
+        "DEPTH": 6.33
+    },
+    {
+        "POSITION": [
+            270,
+            345,
+            62,
+            80
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 5.91
+    },
+    {
+        "POSITION": [
+            391,
+            365,
+            123,
+            110
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 5.22
+    },
+    {
+        "POSITION": [
+            121,
+            287,
+            36,
+            52
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "person",
+        "DEPTH": 7.46
+    },
+    {
+        "POSITION": [
+            216,
+            351,
+            105,
+            87
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "dining table",
+        "DEPTH": 4.92
+    },
+    {
+        "POSITION": [
+            86,
+            282,
+            32,
+            20
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "laptop",
+        "DEPTH": 7.07
+    },
+    {
+        "POSITION": [
+            80,
+            281,
+            21,
+            18
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "laptop",
+        "DEPTH": 7.05
+    },
+    {
+        "POSITION": [
+            205,
+            305,
+            26,
+            16
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 7.76
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "POSITION": [
+            552,
+            210,
+            14,
+            45
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "bottle",
+        "DEPTH": 5.42
+    },
+    {
+        "POSITION": [
+            57,
+            449,
+            102,
+            51
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "toilet",
+        "DEPTH": 1.5
+    },
+    {
+        "POSITION": [
+            548,
+            269,
+            11,
+            19
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "cup",
+        "DEPTH": 2.35
+    },
+    {
+        "POSITION": [
+            608,
+            216,
+            46,
+            47
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "bowl",
+        "DEPTH": 3.09
+    },
+    {
+        "POSITION": [
+            317,
+            224,
+            41,
+            41
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "backpack",
+        "DEPTH": 6.13
+    }
+]

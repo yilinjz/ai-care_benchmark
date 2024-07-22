@@ -1,0 +1,46 @@
+[
+    {
+        "POSITION": [
+            131,
+            332,
+            161,
+            232
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "bicycle",
+        "DEPTH": 2.62
+    },
+    {
+        "POSITION": [
+            478,
+            378,
+            306,
+            183
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 1.55
+    },
+    {
+        "POSITION": [
+            254,
+            180,
+            96,
+            139
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "potted plant",
+        "DEPTH": 3.04
+    },
+    {
+        "POSITION": [
+            336,
+            280,
+            204,
+            26
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "keyboard",
+        "DEPTH": 2.7
+    }
+]

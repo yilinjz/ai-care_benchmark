@@ -1,0 +1,79 @@
+[
+    {
+        "POSITION": [
+            299,
+            261,
+            151,
+            241
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 2.25
+    },
+    {
+        "POSITION": [
+            157,
+            184,
+            98,
+            72
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "laptop",
+        "DEPTH": 2.52
+    },
+    {
+        "POSITION": [
+            518,
+            257,
+            48,
+            18
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "remote",
+        "DEPTH": 1.58
+    },
+    {
+        "POSITION": [
+            200,
+            394,
+            144,
+            150
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "backpack",
+        "DEPTH": 1.92
+    },
+    {
+        "POSITION": [
+            437,
+            326,
+            109,
+            48
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "book",
+        "DEPTH": 1.15
+    },
+    {
+        "POSITION": [
+            445,
+            346,
+            129,
+            44
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "book",
+        "DEPTH": 1.1
+    },
+    {
+        "POSITION": [
+            467,
+            291,
+            141,
+            59
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "book",
+        "DEPTH": 1.3
+    }
+]

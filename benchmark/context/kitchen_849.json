@@ -1,0 +1,68 @@
+[
+    {
+        "POSITION": [
+            29,
+            344,
+            44,
+            47
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "sink",
+        "DEPTH": 1.46
+    },
+    {
+        "POSITION": [
+            74,
+            217,
+            64,
+            54
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "toaster",
+        "DEPTH": 2.52
+    },
+    {
+        "POSITION": [
+            141,
+            200,
+            80,
+            51
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "toaster",
+        "DEPTH": 3.2
+    },
+    {
+        "POSITION": [
+            143,
+            370,
+            69,
+            195
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "oven",
+        "DEPTH": 1.8
+    },
+    {
+        "POSITION": [
+            227,
+            205,
+            51,
+            18
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "bowl",
+        "DEPTH": 3.31
+    },
+    {
+        "POSITION": [
+            411,
+            199,
+            184,
+            24
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "oven",
+        "DEPTH": 3.34
+    }
+]

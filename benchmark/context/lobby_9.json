@@ -1,0 +1,46 @@
+[
+    {
+        "POSITION": [
+            610,
+            307,
+            42,
+            69
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "chair",
+        "DEPTH": 6.17
+    },
+    {
+        "POSITION": [
+            517,
+            254,
+            13,
+            37
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "bottle",
+        "DEPTH": 5.83
+    },
+    {
+        "POSITION": [
+            521,
+            325,
+            71,
+            108
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "refrigerator",
+        "DEPTH": 4.42
+    },
+    {
+        "POSITION": [
+            611,
+            217,
+            39,
+            80
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "tv",
+        "DEPTH": 6.3
+    }
+]

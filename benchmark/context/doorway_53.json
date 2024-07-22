@@ -1,0 +1,112 @@
+[
+    {
+        "POSITION": [
+            110,
+            150,
+            97,
+            52
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "microwave",
+        "DEPTH": 4.02
+    },
+    {
+        "POSITION": [
+            67,
+            360,
+            103,
+            50
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "book",
+        "DEPTH": 1.12
+    },
+    {
+        "POSITION": [
+            592,
+            406,
+            69,
+            40
+        ],
+        "ORIENTATION": "down and right",
+        "TEXT": "bowl",
+        "DEPTH": 1.75
+    },
+    {
+        "POSITION": [
+            55,
+            397,
+            98,
+            38
+        ],
+        "ORIENTATION": "slightly-down and left",
+        "TEXT": "book",
+        "DEPTH": 0.99
+    },
+    {
+        "POSITION": [
+            165,
+            395,
+            72,
+            148
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 1.31
+    },
+    {
+        "POSITION": [
+            109,
+            215,
+            13,
+            33
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "bottle",
+        "DEPTH": 2.87
+    },
+    {
+        "POSITION": [
+            105,
+            396,
+            195,
+            151
+        ],
+        "ORIENTATION": "slightly-down and left",
+        "TEXT": "chair",
+        "DEPTH": 1.02
+    },
+    {
+        "POSITION": [
+            463,
+            309,
+            17,
+            27
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "wine glass",
+        "DEPTH": 2.44
+    },
+    {
+        "POSITION": [
+            415,
+            231,
+            63,
+            17
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "book",
+        "DEPTH": 2.4
+    },
+    {
+        "POSITION": [
+            404,
+            168,
+            40,
+            13
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "book",
+        "DEPTH": 2.63
+    }
+]

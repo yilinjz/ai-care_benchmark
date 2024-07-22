@@ -1,0 +1,46 @@
+[
+    {
+        "POSITION": [
+            237,
+            385,
+            128,
+            170
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 2.4
+    },
+    {
+        "POSITION": [
+            260,
+            203,
+            99,
+            96
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "tv",
+        "DEPTH": 3.29
+    },
+    {
+        "POSITION": [
+            158,
+            390,
+            58,
+            119
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "teddy bear",
+        "DEPTH": 2.77
+    },
+    {
+        "POSITION": [
+            159,
+            390,
+            57,
+            119
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "dog",
+        "DEPTH": 2.78
+    }
+]

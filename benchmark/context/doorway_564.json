@@ -1,0 +1,112 @@
+[
+    {
+        "POSITION": [
+            287,
+            209,
+            89,
+            188
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "person",
+        "DEPTH": 3.03
+    },
+    {
+        "POSITION": [
+            583,
+            233,
+            95,
+            62
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "sink",
+        "DEPTH": 1.3
+    },
+    {
+        "POSITION": [
+            186,
+            179,
+            46,
+            118
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 3.94
+    },
+    {
+        "POSITION": [
+            595,
+            133,
+            27,
+            70
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "bottle",
+        "DEPTH": 1.56
+    },
+    {
+        "POSITION": [
+            601,
+            185,
+            61,
+            31
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "bowl",
+        "DEPTH": 1.47
+    },
+    {
+        "POSITION": [
+            501,
+            127,
+            21,
+            42
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "bottle",
+        "DEPTH": 2.08
+    },
+    {
+        "POSITION": [
+            273,
+            316,
+            67,
+            46
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "dog",
+        "DEPTH": 2.54
+    },
+    {
+        "POSITION": [
+            273,
+            316,
+            67,
+            46
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "cat",
+        "DEPTH": 2.54
+    },
+    {
+        "POSITION": [
+            576,
+            138,
+            27,
+            59
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "bottle",
+        "DEPTH": 1.66
+    },
+    {
+        "POSITION": [
+            230,
+            161,
+            136,
+            107
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "dining table",
+        "DEPTH": 4.33
+    }
+]

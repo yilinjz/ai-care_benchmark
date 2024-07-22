@@ -1,0 +1,101 @@
+[
+    {
+        "POSITION": [
+            166,
+            200,
+            130,
+            293
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "refrigerator",
+        "DEPTH": 2.93
+    },
+    {
+        "POSITION": [
+            246,
+            395,
+            479,
+            145
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "dining table",
+        "DEPTH": 1.32
+    },
+    {
+        "POSITION": [
+            347,
+            340,
+            103,
+            128
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 1.82
+    },
+    {
+        "POSITION": [
+            48,
+            339,
+            82,
+            66
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "chair",
+        "DEPTH": 1.56
+    },
+    {
+        "POSITION": [
+            298,
+            183,
+            35,
+            27
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "toaster",
+        "DEPTH": 3.75
+    },
+    {
+        "POSITION": [
+            477,
+            218,
+            104,
+            22
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "sink",
+        "DEPTH": 3.02
+    },
+    {
+        "POSITION": [
+            244,
+            182,
+            43,
+            27
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "toaster",
+        "DEPTH": 3.97
+    },
+    {
+        "POSITION": [
+            23,
+            62,
+            35,
+            96
+        ],
+        "ORIENTATION": "up and left",
+        "TEXT": "clock",
+        "DEPTH": 2.25
+    },
+    {
+        "POSITION": [
+            519,
+            204,
+            15,
+            28
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "bottle",
+        "DEPTH": 2.94
+    }
+]

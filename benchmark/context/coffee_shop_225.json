@@ -1,0 +1,101 @@
+[
+    {
+        "POSITION": [
+            517,
+            329,
+            95,
+            259
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "person",
+        "DEPTH": 3.01
+    },
+    {
+        "POSITION": [
+            95,
+            423,
+            61,
+            99
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "chair",
+        "DEPTH": 1.39
+    },
+    {
+        "POSITION": [
+            414,
+            413,
+            223,
+            115
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "couch",
+        "DEPTH": 2.63
+    },
+    {
+        "POSITION": [
+            59,
+            409,
+            105,
+            115
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "dining table",
+        "DEPTH": 1.45
+    },
+    {
+        "POSITION": [
+            94,
+            279,
+            16,
+            19
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "cup",
+        "DEPTH": 3.84
+    },
+    {
+        "POSITION": [
+            76,
+            279,
+            18,
+            21
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "cup",
+        "DEPTH": 3.6
+    },
+    {
+        "POSITION": [
+            49,
+            278,
+            25,
+            23
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "cup",
+        "DEPTH": 3.57
+    },
+    {
+        "POSITION": [
+            430,
+            329,
+            94,
+            68
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "dining table",
+        "DEPTH": 5.14
+    },
+    {
+        "POSITION": [
+            81,
+            137,
+            22,
+            68
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "bottle",
+        "DEPTH": 5.49
+    }
+]

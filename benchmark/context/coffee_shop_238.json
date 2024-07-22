@@ -1,0 +1,112 @@
+[
+    {
+        "POSITION": [
+            315,
+            412,
+            111,
+            123
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "chair",
+        "DEPTH": 2.97
+    },
+    {
+        "POSITION": [
+            434,
+            414,
+            107,
+            116
+        ],
+        "ORIENTATION": "down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 3.08
+    },
+    {
+        "POSITION": [
+            43,
+            288,
+            59,
+            149
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "person",
+        "DEPTH": 5.87
+    },
+    {
+        "POSITION": [
+            159,
+            258,
+            62,
+            71
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "person",
+        "DEPTH": 5.4
+    },
+    {
+        "POSITION": [
+            619,
+            361,
+            25,
+            214
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "person",
+        "DEPTH": 4.77
+    },
+    {
+        "POSITION": [
+            177,
+            357,
+            34,
+            22
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "bowl",
+        "DEPTH": 4.42
+    },
+    {
+        "POSITION": [
+            240,
+            262,
+            47,
+            62
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "person",
+        "DEPTH": 6.04
+    },
+    {
+        "POSITION": [
+            354,
+            398,
+            331,
+            141
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "dining table",
+        "DEPTH": 2.75
+    },
+    {
+        "POSITION": [
+            426,
+            318,
+            15,
+            40
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "bottle",
+        "DEPTH": 5.09
+    },
+    {
+        "POSITION": [
+            392,
+            418,
+            66,
+            87
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "chair",
+        "DEPTH": 3.29
+    }
+]

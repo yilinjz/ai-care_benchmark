@@ -1,0 +1,79 @@
+[
+    {
+        "POSITION": [
+            344,
+            216,
+            100,
+            111
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "person",
+        "DEPTH": 2.27
+    },
+    {
+        "POSITION": [
+            141,
+            277,
+            260,
+            352
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "refrigerator",
+        "DEPTH": 1.45
+    },
+    {
+        "POSITION": [
+            544,
+            401,
+            143,
+            138
+        ],
+        "ORIENTATION": "down and right",
+        "TEXT": "oven",
+        "DEPTH": 1.16
+    },
+    {
+        "POSITION": [
+            96,
+            306,
+            60,
+            91
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "bottle",
+        "DEPTH": 1.19
+    },
+    {
+        "POSITION": [
+            447,
+            236,
+            123,
+            217
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "person",
+        "DEPTH": 1.86
+    },
+    {
+        "POSITION": [
+            346,
+            366,
+            262,
+            204
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "refrigerator",
+        "DEPTH": 1.48
+    },
+    {
+        "POSITION": [
+            43,
+            265,
+            72,
+            54
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "microwave",
+        "DEPTH": 1.28
+    }
+]

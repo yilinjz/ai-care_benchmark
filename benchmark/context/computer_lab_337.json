@@ -1,0 +1,112 @@
+[
+    {
+        "POSITION": [
+            238,
+            319,
+            161,
+            216
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 2.06
+    },
+    {
+        "POSITION": [
+            180,
+            254,
+            118,
+            150
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 1.9
+    },
+    {
+        "POSITION": [
+            507,
+            401,
+            249,
+            136
+        ],
+        "ORIENTATION": "down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 1.1
+    },
+    {
+        "POSITION": [
+            422,
+            159,
+            87,
+            77
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "tv",
+        "DEPTH": 2.44
+    },
+    {
+        "POSITION": [
+            295,
+            152,
+            51,
+            59
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "tv",
+        "DEPTH": 3.4
+    },
+    {
+        "POSITION": [
+            399,
+            203,
+            91,
+            30
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "keyboard",
+        "DEPTH": 2.38
+    },
+    {
+        "POSITION": [
+            583,
+            252,
+            96,
+            40
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "keyboard",
+        "DEPTH": 1.81
+    },
+    {
+        "POSITION": [
+            269,
+            185,
+            62,
+            21
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "keyboard",
+        "DEPTH": 3.09
+    },
+    {
+        "POSITION": [
+            582,
+            209,
+            98,
+            131
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "laptop",
+        "DEPTH": 1.93
+    },
+    {
+        "POSITION": [
+            443,
+            218,
+            23,
+            13
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "mouse",
+        "DEPTH": 2.11
+    }
+]

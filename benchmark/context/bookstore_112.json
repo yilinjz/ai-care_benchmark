@@ -1,0 +1,68 @@
+[
+    {
+        "POSITION": [
+            284,
+            304,
+            102,
+            64
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "laptop",
+        "DEPTH": 3.84
+    },
+    {
+        "POSITION": [
+            283,
+            411,
+            26,
+            22
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "mouse",
+        "DEPTH": 1.51
+    },
+    {
+        "POSITION": [
+            377,
+            355,
+            186,
+            121
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "laptop",
+        "DEPTH": 1.54
+    },
+    {
+        "POSITION": [
+            377,
+            355,
+            186,
+            121
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "tv",
+        "DEPTH": 1.54
+    },
+    {
+        "POSITION": [
+            309,
+            389,
+            49,
+            27
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "keyboard",
+        "DEPTH": 1.83
+    },
+    {
+        "POSITION": [
+            99,
+            451,
+            157,
+            44
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "book",
+        "DEPTH": 1.29
+    }
+]

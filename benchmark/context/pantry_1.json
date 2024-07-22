@@ -1,0 +1,101 @@
+[
+    {
+        "POSITION": [
+            609,
+            317,
+            45,
+            307
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "refrigerator",
+        "DEPTH": 1.96
+    },
+    {
+        "POSITION": [
+            494,
+            206,
+            74,
+            74
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "microwave",
+        "DEPTH": 3.17
+    },
+    {
+        "POSITION": [
+            57,
+            437,
+            102,
+            73
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "chair",
+        "DEPTH": 2.08
+    },
+    {
+        "POSITION": [
+            248,
+            401,
+            149,
+            138
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "chair",
+        "DEPTH": 2.91
+    },
+    {
+        "POSITION": [
+            355,
+            391,
+            87,
+            130
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "refrigerator",
+        "DEPTH": 3.15
+    },
+    {
+        "POSITION": [
+            248,
+            401,
+            148,
+            138
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "couch",
+        "DEPTH": 2.91
+    },
+    {
+        "POSITION": [
+            537,
+            325,
+            95,
+            30
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "sink",
+        "DEPTH": 3.05
+    },
+    {
+        "POSITION": [
+            456,
+            389,
+            83,
+            159
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "oven",
+        "DEPTH": 2.95
+    },
+    {
+        "POSITION": [
+            492,
+            309,
+            66,
+            11
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "sink",
+        "DEPTH": 3.36
+    }
+]

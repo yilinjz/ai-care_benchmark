@@ -1,0 +1,57 @@
+[
+    {
+        "POSITION": [
+            328,
+            222,
+            104,
+            102
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "chair",
+        "DEPTH": 4.14
+    },
+    {
+        "POSITION": [
+            552,
+            212,
+            120,
+            59
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "laptop",
+        "DEPTH": 2.71
+    },
+    {
+        "POSITION": [
+            610,
+            304,
+            41,
+            35
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "keyboard",
+        "DEPTH": 1.83
+    },
+    {
+        "POSITION": [
+            216,
+            114,
+            72,
+            35
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "book",
+        "DEPTH": 4.54
+    },
+    {
+        "POSITION": [
+            602,
+            248,
+            22,
+            30
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "cup",
+        "DEPTH": 2.13
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "POSITION": [
+            259,
+            319,
+            138,
+            109
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "laptop",
+        "DEPTH": 1.69
+    },
+    {
+        "POSITION": [
+            541,
+            356,
+            44,
+            42
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "cup",
+        "DEPTH": 1.46
+    },
+    {
+        "POSITION": [
+            279,
+            416,
+            209,
+            106
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "chair",
+        "DEPTH": 0.78
+    },
+    {
+        "POSITION": [
+            445,
+            329,
+            21,
+            72
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "bottle",
+        "DEPTH": 1.53
+    },
+    {
+        "POSITION": [
+            536,
+            317,
+            24,
+            42
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "bottle",
+        "DEPTH": 1.55
+    },
+    {
+        "POSITION": [
+            511,
+            327,
+            30,
+            74
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "bottle",
+        "DEPTH": 1.56
+    },
+    {
+        "POSITION": [
+            464,
+            328,
+            35,
+            90
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "bottle",
+        "DEPTH": 1.45
+    },
+    {
+        "POSITION": [
+            351,
+            343,
+            30,
+            43
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "cup",
+        "DEPTH": 1.49
+    },
+    {
+        "POSITION": [
+            487,
+            323,
+            18,
+            65
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "bottle",
+        "DEPTH": 1.6
+    },
+    {
+        "POSITION": [
+            212,
+            416,
+            342,
+            107
+        ],
+        "ORIENTATION": "down and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 1.78
+    }
+]

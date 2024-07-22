@@ -1,0 +1,90 @@
+[
+    {
+        "POSITION": [
+            546,
+            314,
+            170,
+            308
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "tv",
+        "DEPTH": 1.23
+    },
+    {
+        "POSITION": [
+            44,
+            95,
+            75,
+            147
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "potted plant",
+        "DEPTH": 3.95
+    },
+    {
+        "POSITION": [
+            180,
+            99,
+            59,
+            124
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "potted plant",
+        "DEPTH": 4.52
+    },
+    {
+        "POSITION": [
+            284,
+            255,
+            95,
+            148
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 3.38
+    },
+    {
+        "POSITION": [
+            229,
+            211,
+            82,
+            102
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 4.67
+    },
+    {
+        "POSITION": [
+            294,
+            194,
+            45,
+            69
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "potted plant",
+        "DEPTH": 3.87
+    },
+    {
+        "POSITION": [
+            41,
+            155,
+            27,
+            26
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "vase",
+        "DEPTH": 3.97
+    },
+    {
+        "POSITION": [
+            293,
+            209,
+            17,
+            38
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "vase",
+        "DEPTH": 4.17
+    }
+]

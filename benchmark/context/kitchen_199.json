@@ -1,0 +1,79 @@
+[
+    {
+        "POSITION": [
+            526,
+            439,
+            79,
+            54
+        ],
+        "ORIENTATION": "down and slightly-right",
+        "TEXT": "bowl",
+        "DEPTH": 1.42
+    },
+    {
+        "POSITION": [
+            62,
+            410,
+            111,
+            125
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "oven",
+        "DEPTH": 1.96
+    },
+    {
+        "POSITION": [
+            19,
+            217,
+            22,
+            20
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "knife",
+        "DEPTH": 2.9
+    },
+    {
+        "POSITION": [
+            22,
+            204,
+            20,
+            20
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "knife",
+        "DEPTH": 3.01
+    },
+    {
+        "POSITION": [
+            32,
+            197,
+            22,
+            22
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "knife",
+        "DEPTH": 3.06
+    },
+    {
+        "POSITION": [
+            18,
+            207,
+            21,
+            19
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "knife",
+        "DEPTH": 2.99
+    },
+    {
+        "POSITION": [
+            379,
+            388,
+            25,
+            53
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "cup",
+        "DEPTH": 1.69
+    }
+]

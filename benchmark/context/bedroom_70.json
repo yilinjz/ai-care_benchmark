@@ -1,0 +1,46 @@
+[
+    {
+        "POSITION": [
+            339,
+            349,
+            584,
+            237
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "bed",
+        "DEPTH": 1.08
+    },
+    {
+        "POSITION": [
+            164,
+            218,
+            24,
+            40
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "vase",
+        "DEPTH": 2.84
+    },
+    {
+        "POSITION": [
+            161,
+            192,
+            84,
+            91
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "potted plant",
+        "DEPTH": 2.79
+    },
+    {
+        "POSITION": [
+            480,
+            273,
+            129,
+            46
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "dog",
+        "DEPTH": 1.45
+    }
+]

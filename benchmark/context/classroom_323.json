@@ -1,0 +1,101 @@
+[
+    {
+        "POSITION": [
+            493,
+            240,
+            93,
+            107
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 3.19
+    },
+    {
+        "POSITION": [
+            529,
+            289,
+            127,
+            143
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 2.73
+    },
+    {
+        "POSITION": [
+            348,
+            119,
+            39,
+            44
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "teddy bear",
+        "DEPTH": 4.13
+    },
+    {
+        "POSITION": [
+            469,
+            164,
+            20,
+            22
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "book",
+        "DEPTH": 3.89
+    },
+    {
+        "POSITION": [
+            448,
+            119,
+            33,
+            35
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "book",
+        "DEPTH": 3.88
+    },
+    {
+        "POSITION": [
+            268,
+            446,
+            443,
+            46
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "dining table",
+        "DEPTH": 1.99
+    },
+    {
+        "POSITION": [
+            426,
+            166,
+            23,
+            18
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "book",
+        "DEPTH": 3.99
+    },
+    {
+        "POSITION": [
+            448,
+            167,
+            20,
+            17
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "book",
+        "DEPTH": 3.92
+    },
+    {
+        "POSITION": [
+            490,
+            165,
+            22,
+            19
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "book",
+        "DEPTH": 3.88
+    }
+]

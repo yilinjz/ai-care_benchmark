@@ -1,0 +1,233 @@
+[
+    {
+        "POSITION": [
+            189,
+            318,
+            134,
+            34
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "keyboard",
+        "DEPTH": 1.88
+    },
+    {
+        "POSITION": [
+            440,
+            304,
+            134,
+            38
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "keyboard",
+        "DEPTH": 1.87
+    },
+    {
+        "POSITION": [
+            225,
+            235,
+            137,
+            92
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "tv",
+        "DEPTH": 2.0
+    },
+    {
+        "POSITION": [
+            524,
+            301,
+            29,
+            14
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "mouse",
+        "DEPTH": 1.91
+    },
+    {
+        "POSITION": [
+            433,
+            404,
+            149,
+            132
+        ],
+        "ORIENTATION": "down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 1.64
+    },
+    {
+        "POSITION": [
+            432,
+            218,
+            120,
+            89
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "tv",
+        "DEPTH": 2.09
+    },
+    {
+        "POSITION": [
+            227,
+            412,
+            146,
+            119
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "chair",
+        "DEPTH": 1.6
+    },
+    {
+        "POSITION": [
+            270,
+            157,
+            50,
+            33
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "tv",
+        "DEPTH": 5.56
+    },
+    {
+        "POSITION": [
+            349,
+            153,
+            47,
+            31
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "tv",
+        "DEPTH": 5.53
+    },
+    {
+        "POSITION": [
+            108,
+            180,
+            34,
+            47
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "tv",
+        "DEPTH": 4.27
+    },
+    {
+        "POSITION": [
+            312,
+            331,
+            19,
+            18
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "mouse",
+        "DEPTH": 1.79
+    },
+    {
+        "POSITION": [
+            518,
+            143,
+            43,
+            30
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "tv",
+        "DEPTH": 7.59
+    },
+    {
+        "POSITION": [
+            534,
+            199,
+            54,
+            71
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "chair",
+        "DEPTH": 5.77
+    },
+    {
+        "POSITION": [
+            412,
+            148,
+            43,
+            29
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "tv",
+        "DEPTH": 7.3
+    },
+    {
+        "POSITION": [
+            576,
+            139,
+            41,
+            29
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "tv",
+        "DEPTH": 6.27
+    },
+    {
+        "POSITION": [
+            608,
+            201,
+            46,
+            69
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "chair",
+        "DEPTH": 6.04
+    },
+    {
+        "POSITION": [
+            126,
+            225,
+            45,
+            19
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "keyboard",
+        "DEPTH": 3.37
+    },
+    {
+        "POSITION": [
+            535,
+            164,
+            45,
+            10
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "keyboard",
+        "DEPTH": 6.21
+    },
+    {
+        "POSITION": [
+            137,
+            171,
+            23,
+            38
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "tv",
+        "DEPTH": 5.32
+    },
+    {
+        "POSITION": [
+            623,
+            136,
+            18,
+            29
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "tv",
+        "DEPTH": 7.36
+    },
+    {
+        "POSITION": [
+            596,
+            162,
+            46,
+            6
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "keyboard",
+        "DEPTH": 5.78
+    }
+]

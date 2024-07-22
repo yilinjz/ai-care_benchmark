@@ -1,0 +1,90 @@
+[
+    {
+        "POSITION": [
+            248,
+            402,
+            92,
+            140
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "backpack",
+        "DEPTH": 2.4
+    },
+    {
+        "POSITION": [
+            250,
+            258,
+            93,
+            123
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "backpack",
+        "DEPTH": 2.38
+    },
+    {
+        "POSITION": [
+            348,
+            402,
+            107,
+            128
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "backpack",
+        "DEPTH": 2.49
+    },
+    {
+        "POSITION": [
+            453,
+            412,
+            72,
+            107
+        ],
+        "ORIENTATION": "down and slightly-right",
+        "TEXT": "backpack",
+        "DEPTH": 2.54
+    },
+    {
+        "POSITION": [
+            348,
+            226,
+            77,
+            63
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "suitcase",
+        "DEPTH": 2.61
+    },
+    {
+        "POSITION": [
+            310,
+            262,
+            31,
+            81
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "backpack",
+        "DEPTH": 3.1
+    },
+    {
+        "POSITION": [
+            61,
+            421,
+            110,
+            101
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "chair",
+        "DEPTH": 2.23
+    },
+    {
+        "POSITION": [
+            506,
+            181,
+            40,
+            40
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "person",
+        "DEPTH": 3.15
+    }
+]

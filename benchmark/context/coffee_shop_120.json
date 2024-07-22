@@ -1,0 +1,46 @@
+[
+    {
+        "POSITION": [
+            87,
+            428,
+            162,
+            90
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "chair",
+        "DEPTH": 1.87
+    },
+    {
+        "POSITION": [
+            83,
+            146,
+            93,
+            128
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "potted plant",
+        "DEPTH": 7.39
+    },
+    {
+        "POSITION": [
+            124,
+            353,
+            221,
+            65
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "dining table",
+        "DEPTH": 1.73
+    },
+    {
+        "POSITION": [
+            378,
+            361,
+            484,
+            212
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "bench",
+        "DEPTH": 1.33
+    }
+]

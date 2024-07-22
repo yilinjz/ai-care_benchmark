@@ -1,0 +1,90 @@
+[
+    {
+        "POSITION": [
+            114,
+            308,
+            58,
+            32
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "bowl",
+        "DEPTH": 2.67
+    },
+    {
+        "POSITION": [
+            587,
+            304,
+            88,
+            336
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "person",
+        "DEPTH": 1.62
+    },
+    {
+        "POSITION": [
+            86,
+            247,
+            40,
+            118
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "person",
+        "DEPTH": 4.95
+    },
+    {
+        "POSITION": [
+            29,
+            319,
+            43,
+            121
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "chair",
+        "DEPTH": 4.69
+    },
+    {
+        "POSITION": [
+            413,
+            409,
+            86,
+            30
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "bowl",
+        "DEPTH": 2.0
+    },
+    {
+        "POSITION": [
+            109,
+            321,
+            143,
+            27
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "dining table",
+        "DEPTH": 2.69
+    },
+    {
+        "POSITION": [
+            109,
+            368,
+            143,
+            167
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "dining table",
+        "DEPTH": 3.13
+    },
+    {
+        "POSITION": [
+            296,
+            337,
+            15,
+            19
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "cup",
+        "DEPTH": 4.6
+    }
+]

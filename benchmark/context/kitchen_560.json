@@ -1,0 +1,68 @@
+[
+    {
+        "POSITION": [
+            317,
+            279,
+            127,
+            76
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "microwave",
+        "DEPTH": 2.15
+    },
+    {
+        "POSITION": [
+            465,
+            328,
+            193,
+            40
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "sink",
+        "DEPTH": 2.08
+    },
+    {
+        "POSITION": [
+            373,
+            290,
+            23,
+            61
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "bottle",
+        "DEPTH": 2.03
+    },
+    {
+        "POSITION": [
+            529,
+            281,
+            26,
+            73
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "bottle",
+        "DEPTH": 2.03
+    },
+    {
+        "POSITION": [
+            116,
+            429,
+            211,
+            85
+        ],
+        "ORIENTATION": "down and slightly-left",
+        "TEXT": "oven",
+        "DEPTH": 1.06
+    },
+    {
+        "POSITION": [
+            387,
+            286,
+            25,
+            64
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "bottle",
+        "DEPTH": 2.03
+    }
+]

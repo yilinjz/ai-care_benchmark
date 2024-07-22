@@ -1,0 +1,57 @@
+[
+    {
+        "POSITION": [
+            353,
+            227,
+            118,
+            202
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "potted plant",
+        "DEPTH": 2.82
+    },
+    {
+        "POSITION": [
+            82,
+            265,
+            23,
+            63
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "bottle",
+        "DEPTH": 2.9
+    },
+    {
+        "POSITION": [
+            376,
+            293,
+            72,
+            69
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "vase",
+        "DEPTH": 2.45
+    },
+    {
+        "POSITION": [
+            84,
+            348,
+            154,
+            129
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "bed",
+        "DEPTH": 1.04
+    },
+    {
+        "POSITION": [
+            428,
+            310,
+            51,
+            49
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "toaster",
+        "DEPTH": 1.65
+    }
+]

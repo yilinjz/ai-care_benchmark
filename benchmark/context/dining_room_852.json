@@ -1,0 +1,68 @@
+[
+    {
+        "POSITION": [
+            402,
+            199,
+            74,
+            48
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "banana",
+        "DEPTH": 1.54
+    },
+    {
+        "POSITION": [
+            478,
+            164,
+            307,
+            314
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "refrigerator",
+        "DEPTH": 2.91
+    },
+    {
+        "POSITION": [
+            62,
+            168,
+            109,
+            26
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "sink",
+        "DEPTH": 3.21
+    },
+    {
+        "POSITION": [
+            276,
+            315,
+            533,
+            301
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "dining table",
+        "DEPTH": 1.5
+    },
+    {
+        "POSITION": [
+            315,
+            170,
+            93,
+            81
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "bowl",
+        "DEPTH": 1.77
+    },
+    {
+        "POSITION": [
+            257,
+            176,
+            39,
+            65
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "bottle",
+        "DEPTH": 1.75
+    }
+]

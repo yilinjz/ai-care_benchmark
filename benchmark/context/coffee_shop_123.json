@@ -1,0 +1,46 @@
+[
+    {
+        "POSITION": [
+            156,
+            245,
+            36,
+            59
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "person",
+        "DEPTH": 8.38
+    },
+    {
+        "POSITION": [
+            418,
+            250,
+            23,
+            102
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "potted plant",
+        "DEPTH": 2.08
+    },
+    {
+        "POSITION": [
+            547,
+            230,
+            43,
+            95
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "refrigerator",
+        "DEPTH": 1.14
+    },
+    {
+        "POSITION": [
+            468,
+            312,
+            82,
+            64
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "toaster",
+        "DEPTH": 1.36
+    }
+]

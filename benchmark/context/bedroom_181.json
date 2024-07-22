@@ -1,0 +1,101 @@
+[
+    {
+        "POSITION": [
+            576,
+            316,
+            109,
+            43
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "keyboard",
+        "DEPTH": 1.87
+    },
+    {
+        "POSITION": [
+            72,
+            262,
+            38,
+            20
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "remote",
+        "DEPTH": 1.56
+    },
+    {
+        "POSITION": [
+            497,
+            250,
+            20,
+            58
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "book",
+        "DEPTH": 2.54
+    },
+    {
+        "POSITION": [
+            462,
+            247,
+            27,
+            45
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "book",
+        "DEPTH": 2.67
+    },
+    {
+        "POSITION": [
+            482,
+            247,
+            30,
+            59
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "book",
+        "DEPTH": 2.58
+    },
+    {
+        "POSITION": [
+            213,
+            194,
+            98,
+            93
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "tv",
+        "DEPTH": 2.25
+    },
+    {
+        "POSITION": [
+            451,
+            244,
+            34,
+            43
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "book",
+        "DEPTH": 2.73
+    },
+    {
+        "POSITION": [
+            363,
+            428,
+            453,
+            85
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "bed",
+        "DEPTH": 1.0
+    },
+    {
+        "POSITION": [
+            493,
+            443,
+            182,
+            62
+        ],
+        "ORIENTATION": "down and slightly-right",
+        "TEXT": "backpack",
+        "DEPTH": 1.11
+    }
+]

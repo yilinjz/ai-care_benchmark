@@ -1,0 +1,57 @@
+[
+    {
+        "POSITION": [
+            393,
+            263,
+            479,
+            402
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "bed",
+        "DEPTH": 2.25
+    },
+    {
+        "POSITION": [
+            55,
+            275,
+            96,
+            162
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "chair",
+        "DEPTH": 2.51
+    },
+    {
+        "POSITION": [
+            424,
+            276,
+            93,
+            67
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "teddy bear",
+        "DEPTH": 1.92
+    },
+    {
+        "POSITION": [
+            164,
+            379,
+            89,
+            39
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "book",
+        "DEPTH": 2.27
+    },
+    {
+        "POSITION": [
+            127,
+            283,
+            86,
+            112
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "backpack",
+        "DEPTH": 2.54
+    }
+]

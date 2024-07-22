@@ -1,0 +1,101 @@
+[
+    {
+        "POSITION": [
+            444,
+            352,
+            163,
+            206
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 2.36
+    },
+    {
+        "POSITION": [
+            357,
+            304,
+            121,
+            158
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 3.11
+    },
+    {
+        "POSITION": [
+            236,
+            262,
+            74,
+            128
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "tv",
+        "DEPTH": 1.71
+    },
+    {
+        "POSITION": [
+            411,
+            146,
+            66,
+            31
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "microwave",
+        "DEPTH": 4.8
+    },
+    {
+        "POSITION": [
+            581,
+            184,
+            98,
+            110
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "potted plant",
+        "DEPTH": 3.55
+    },
+    {
+        "POSITION": [
+            35,
+            367,
+            58,
+            173
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "chair",
+        "DEPTH": 3.21
+    },
+    {
+        "POSITION": [
+            296,
+            299,
+            17,
+            56
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "bottle",
+        "DEPTH": 1.86
+    },
+    {
+        "POSITION": [
+            548,
+            334,
+            56,
+            50
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "backpack",
+        "DEPTH": 3.5
+    },
+    {
+        "POSITION": [
+            414,
+            188,
+            72,
+            55
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "refrigerator",
+        "DEPTH": 4.77
+    }
+]

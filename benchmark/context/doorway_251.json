@@ -1,0 +1,46 @@
+[
+    {
+        "POSITION": [
+            560,
+            238,
+            142,
+            464
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "refrigerator",
+        "DEPTH": 0.74
+    },
+    {
+        "POSITION": [
+            439,
+            400,
+            112,
+            141
+        ],
+        "ORIENTATION": "down and slightly-right",
+        "TEXT": "oven",
+        "DEPTH": 1.41
+    },
+    {
+        "POSITION": [
+            101,
+            352,
+            185,
+            47
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "sink",
+        "DEPTH": 1.94
+    },
+    {
+        "POSITION": [
+            273,
+            296,
+            44,
+            86
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "couch",
+        "DEPTH": 5.35
+    }
+]

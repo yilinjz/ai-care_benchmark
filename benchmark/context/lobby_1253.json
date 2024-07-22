@@ -1,0 +1,57 @@
+[
+    {
+        "POSITION": [
+            428,
+            370,
+            406,
+            125
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "couch",
+        "DEPTH": 3.7
+    },
+    {
+        "POSITION": [
+            272,
+            382,
+            253,
+            174
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "couch",
+        "DEPTH": 2.66
+    },
+    {
+        "POSITION": [
+            612,
+            288,
+            39,
+            51
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "potted plant",
+        "DEPTH": 4.74
+    },
+    {
+        "POSITION": [
+            555,
+            427,
+            153,
+            84
+        ],
+        "ORIENTATION": "down and right",
+        "TEXT": "dining table",
+        "DEPTH": 4.77
+    },
+    {
+        "POSITION": [
+            250,
+            161,
+            89,
+            30
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "book",
+        "DEPTH": 4.98
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "POSITION": [
+            411,
+            407,
+            249,
+            126
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "couch",
+        "DEPTH": 3.04
+    },
+    {
+        "POSITION": [
+            172,
+            171,
+            21,
+            25
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "clock",
+        "DEPTH": 5.63
+    },
+    {
+        "POSITION": [
+            513,
+            457,
+            232,
+            31
+        ],
+        "ORIENTATION": "down and slightly-right",
+        "TEXT": "dining table",
+        "DEPTH": 2.24
+    },
+    {
+        "POSITION": [
+            124,
+            446,
+            84,
+            56
+        ],
+        "ORIENTATION": "down and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 1.49
+    },
+    {
+        "POSITION": [
+            617,
+            448,
+            29,
+            41
+        ],
+        "ORIENTATION": "down and right",
+        "TEXT": "chair",
+        "DEPTH": 3.27
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "POSITION": [
+            147,
+            263,
+            280,
+            202
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "couch",
+        "DEPTH": 4.06
+    },
+    {
+        "POSITION": [
+            365,
+            232,
+            96,
+            110
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 4.98
+    },
+    {
+        "POSITION": [
+            422,
+            242,
+            81,
+            112
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 4.66
+    },
+    {
+        "POSITION": [
+            138,
+            283,
+            77,
+            21
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "book",
+        "DEPTH": 2.83
+    },
+    {
+        "POSITION": [
+            491,
+            220,
+            28,
+            63
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "vase",
+        "DEPTH": 6.55
+    },
+    {
+        "POSITION": [
+            245,
+            130,
+            44,
+            36
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "potted plant",
+        "DEPTH": 6.2
+    },
+    {
+        "POSITION": [
+            267,
+            262,
+            56,
+            41
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "potted plant",
+        "DEPTH": 3.27
+    },
+    {
+        "POSITION": [
+            521,
+            387,
+            221,
+            164
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "couch",
+        "DEPTH": 1.68
+    },
+    {
+        "POSITION": [
+            242,
+            137,
+            15,
+            21
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "vase",
+        "DEPTH": 6.16
+    }
+]

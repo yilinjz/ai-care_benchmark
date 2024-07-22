@@ -1,0 +1,46 @@
+[
+    {
+        "POSITION": [
+            346,
+            294,
+            388,
+            279
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "bed",
+        "DEPTH": 2.1
+    },
+    {
+        "POSITION": [
+            598,
+            178,
+            33,
+            43
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "cup",
+        "DEPTH": 2.94
+    },
+    {
+        "POSITION": [
+            610,
+            397,
+            44,
+            154
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "chair",
+        "DEPTH": 2.67
+    },
+    {
+        "POSITION": [
+            400,
+            193,
+            37,
+            56
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "teddy bear",
+        "DEPTH": 3.36
+    }
+]

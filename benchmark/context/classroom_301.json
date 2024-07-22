@@ -1,0 +1,101 @@
+[
+    {
+        "POSITION": [
+            408,
+            286,
+            74,
+            104
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 4.54
+    },
+    {
+        "POSITION": [
+            611,
+            345,
+            39,
+            127
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "tv",
+        "DEPTH": 2.13
+    },
+    {
+        "POSITION": [
+            567,
+            390,
+            70,
+            63
+        ],
+        "ORIENTATION": "slightly-down and right",
+        "TEXT": "keyboard",
+        "DEPTH": 1.63
+    },
+    {
+        "POSITION": [
+            86,
+            421,
+            162,
+            95
+        ],
+        "ORIENTATION": "down and left",
+        "TEXT": "dining table",
+        "DEPTH": 1.48
+    },
+    {
+        "POSITION": [
+            462,
+            257,
+            59,
+            34
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "laptop",
+        "DEPTH": 5.04
+    },
+    {
+        "POSITION": [
+            269,
+            298,
+            164,
+            97
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "dining table",
+        "DEPTH": 5.06
+    },
+    {
+        "POSITION": [
+            317,
+            299,
+            65,
+            90
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "chair",
+        "DEPTH": 5.73
+    },
+    {
+        "POSITION": [
+            271,
+            262,
+            162,
+            26
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "dining table",
+        "DEPTH": 4.7
+    },
+    {
+        "POSITION": [
+            157,
+            323,
+            103,
+            115
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "dining table",
+        "DEPTH": 3.45
+    }
+]

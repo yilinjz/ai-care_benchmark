@@ -1,0 +1,46 @@
+[
+    {
+        "POSITION": [
+            386,
+            349,
+            272,
+            240
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "oven",
+        "DEPTH": 1.48
+    },
+    {
+        "POSITION": [
+            382,
+            109,
+            236,
+            135
+        ],
+        "ORIENTATION": "slightly-up",
+        "TEXT": "microwave",
+        "DEPTH": 1.72
+    },
+    {
+        "POSITION": [
+            66,
+            310,
+            119,
+            39
+        ],
+        "ORIENTATION": "left",
+        "TEXT": "sink",
+        "DEPTH": 1.87
+    },
+    {
+        "POSITION": [
+            238,
+            268,
+            26,
+            44
+        ],
+        "ORIENTATION": "slightly-left",
+        "TEXT": "cup",
+        "DEPTH": 1.98
+    }
+]

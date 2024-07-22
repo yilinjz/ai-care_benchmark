@@ -1,0 +1,79 @@
+[
+    {
+        "POSITION": [
+            413,
+            227,
+            48,
+            73
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 4.16
+    },
+    {
+        "POSITION": [
+            421,
+            127,
+            51,
+            36
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "microwave",
+        "DEPTH": 6.68
+    },
+    {
+        "POSITION": [
+            420,
+            150,
+            54,
+            85
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "oven",
+        "DEPTH": 6.7
+    },
+    {
+        "POSITION": [
+            445,
+            226,
+            26,
+            82
+        ],
+        "ORIENTATION": "slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 4.56
+    },
+    {
+        "POSITION": [
+            419,
+            169,
+            53,
+            48
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "oven",
+        "DEPTH": 5.51
+    },
+    {
+        "POSITION": [
+            190,
+            135,
+            82,
+            101
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "microwave",
+        "DEPTH": 6.33
+    },
+    {
+        "POSITION": [
+            352,
+            207,
+            130,
+            34
+        ],
+        "ORIENTATION": "slightly-up and slightly-right",
+        "TEXT": "dining table",
+        "DEPTH": 6.76
+    }
+]

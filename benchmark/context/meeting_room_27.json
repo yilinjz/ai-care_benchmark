@@ -1,0 +1,112 @@
+[
+    {
+        "POSITION": [
+            601,
+            387,
+            61,
+            60
+        ],
+        "ORIENTATION": "right",
+        "TEXT": "chair",
+        "DEPTH": 2.37
+    },
+    {
+        "POSITION": [
+            496,
+            362,
+            67,
+            46
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "chair",
+        "DEPTH": 4.46
+    },
+    {
+        "POSITION": [
+            200,
+            427,
+            143,
+            88
+        ],
+        "ORIENTATION": "down and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 1.79
+    },
+    {
+        "POSITION": [
+            280,
+            179,
+            253,
+            226
+        ],
+        "ORIENTATION": "slightly-up and slightly-left",
+        "TEXT": "tv",
+        "DEPTH": 3.44
+    },
+    {
+        "POSITION": [
+            214,
+            365,
+            68,
+            38
+        ],
+        "ORIENTATION": "slightly-down and slightly-left",
+        "TEXT": "chair",
+        "DEPTH": 2.36
+    },
+    {
+        "POSITION": [
+            342,
+            449,
+            107,
+            49
+        ],
+        "ORIENTATION": "down",
+        "TEXT": "chair",
+        "DEPTH": 1.36
+    },
+    {
+        "POSITION": [
+            435,
+            409,
+            393,
+            119
+        ],
+        "ORIENTATION": "down and slightly-right",
+        "TEXT": "dining table",
+        "DEPTH": 2.07
+    },
+    {
+        "POSITION": [
+            413,
+            389,
+            18,
+            12
+        ],
+        "ORIENTATION": "slightly-down and slightly-right",
+        "TEXT": "mouse",
+        "DEPTH": 2.32
+    },
+    {
+        "POSITION": [
+            292,
+            343,
+            11,
+            29
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "bottle",
+        "DEPTH": 3.16
+    },
+    {
+        "POSITION": [
+            328,
+            373,
+            51,
+            12
+        ],
+        "ORIENTATION": "slightly-down",
+        "TEXT": "keyboard",
+        "DEPTH": 2.75
+    }
+]
