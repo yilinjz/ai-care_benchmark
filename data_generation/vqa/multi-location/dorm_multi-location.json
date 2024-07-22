@@ -5,25 +5,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where is bottle located relative to cup?",
-                    "zh-CN": "瓶子是在杯子的哪边?",
-                    "zh-HK": "瓶子喺在杯的邊度?"
+                    "en-US": "Where can bottle be found in relation to cup?",
+                    "zh-CN": "在哪里可以找到与杯子相关的 瓶子？",
+                    "zh-HK": "喺邊度可以搵到與杯相關嘅瓶子？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If bottle is in front of me, where should I look for spoon?",
-                    "zh-CN": "如果瓶子在我正前方，我应该往哪边找勺子?",
-                    "zh-HK": "瓶子喺在我面前，我應該望邊度搵勺?"
+                    "en-US": "If bottle is directly ahead, where is spoon located?",
+                    "zh-CN": "如果瓶子在正前方，那么勺子在哪里？",
+                    "zh-HK": "如果瓶子在正前方，咁勺喺邊度？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If I'm facing spoon, in which direction is oven?",
-                    "zh-CN": "我现在正面对勺子, 烤箱在哪个方向?",
-                    "zh-HK": "我對住勺, 焗爐喺邊個方向？"
+                    "en-US": "In which direction should I head from spoon to locate oven?",
+                    "zh-CN": "我应该从勺子朝哪个方向移动才能找到烤箱？",
+                    "zh-HK": "我應該從勺朝哪個方向移動才能找到焗爐？"
                 }
             }
         ]
@@ -34,25 +34,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you point me towards sink from where oven is?",
-                    "zh-CN": "你能否指引我怎样从烤箱到水槽?",
-                    "zh-HK": "你可以指俾我睇，由焗爐點樣揾到水槽?"
+                    "en-US": "How do I reach sink from oven?",
+                    "zh-CN": "我怎样可以从烤箱摸到水槽?",
+                    "zh-HK": "我點樣可以由焗爐揾到水槽?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From sink, which direction should I move to find refrigerator?",
-                    "zh-CN": "我从水槽开始往哪个方向移动可以到电冰箱?",
-                    "zh-HK": "我由水槽要行邊個方向去揾電冰箱?"
+                    "en-US": "Can you show me the way to refrigerator from sink?",
+                    "zh-CN": "你能告诉我从水槽到电冰箱的方法吗？",
+                    "zh-HK": "你可唔可以話我由水槽到電冰箱嘅方法啊？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "How do I reach bottle from refrigerator?",
-                    "zh-CN": "我怎样可以从电冰箱摸到瓶子?",
-                    "zh-HK": "我點樣可以由電冰箱揾到瓶子?"
+                    "en-US": "Can you direct me to bottle from refrigerator's location?",
+                    "zh-CN": "你能把我从电冰箱的位置引导到瓶子吗？",
+                    "zh-HK": "你能把我從電冰箱的位置引導到瓶子嗎？"
                 }
             }
         ]
@@ -63,25 +63,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If bottle is in front of me, where should I look for spoon?",
-                    "zh-CN": "如果瓶子在我正前方，我应该往哪边找勺子?",
-                    "zh-HK": "瓶子喺在我面前，我應該望邊度搵勺?"
+                    "en-US": "If oven is in front of me, where should I look for microwave?",
+                    "zh-CN": "如果烤箱在我正前方，我应该往哪边找微波炉?",
+                    "zh-HK": "焗爐喺在我面前，我應該望邊度搵微波爐?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where is bottle located relative to cup?",
-                    "zh-CN": "瓶子是在杯子的哪边?",
-                    "zh-HK": "瓶子喺在杯的邊度?"
+                    "en-US": "Which way should I go from microwave to reach refrigerator?",
+                    "zh-CN": "从微波炉到电冰箱的路是哪条？",
+                    "zh-HK": "由微波爐到電冰箱嘅路係邊條？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If I'm facing spoon, in which direction is oven?",
-                    "zh-CN": "我现在正面对勺子, 烤箱在哪个方向?",
-                    "zh-HK": "我對住勺, 焗爐喺邊個方向？"
+                    "en-US": "If bottle is directly ahead, where is spoon located?",
+                    "zh-CN": "如果瓶子在正前方，那么勺子在哪里？",
+                    "zh-HK": "如果瓶子在正前方，咁勺喺邊度？"
                 }
             }
         ]
@@ -92,25 +92,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "How do I reach bottle from refrigerator?",
-                    "zh-CN": "我怎样可以从电冰箱摸到瓶子?",
-                    "zh-HK": "我點樣可以由電冰箱揾到瓶子?"
+                    "en-US": "What is the position of bowl in relation to sink?",
+                    "zh-CN": "碗相对于水槽的位置是什么？",
+                    "zh-HK": "碗相對于水槽嘅位置係乜嘢？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If bottle is in front of me, where should I look for spoon?",
-                    "zh-CN": "如果瓶子在我正前方，我应该往哪边找勺子?",
-                    "zh-HK": "瓶子喺在我面前，我應該望邊度搵勺?"
+                    "en-US": "When looking at bowl, where is spoon?",
+                    "zh-CN": "当看着碗时，勺子在哪里？",
+                    "zh-HK": "當睇住碗時，勺在哪裡？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is bottle located relative to cup?",
-                    "zh-CN": "瓶子是在杯子的哪边?",
-                    "zh-HK": "瓶子喺在杯的邊度?"
+                    "en-US": "If bottle is directly ahead, where is spoon located?",
+                    "zh-CN": "如果瓶子在正前方，那么勺子在哪里？",
+                    "zh-HK": "如果瓶子在正前方，咁勺喺邊度？"
                 }
             }
         ]
@@ -121,25 +121,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If bottle is in front of me, where should I look for spoon?",
-                    "zh-CN": "如果瓶子在我正前方，我应该往哪边找勺子?",
-                    "zh-HK": "瓶子喺在我面前，我應該望邊度搵勺?"
+                    "en-US": "Can you point me towards refrigerator from where person is?",
+                    "zh-CN": "你能否指引我怎样从人到电冰箱?",
+                    "zh-HK": "你可以指俾我睇，由人點樣揾到電冰箱?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If I'm facing spoon, in which direction is oven?",
-                    "zh-CN": "我现在正面对勺子, 烤箱在哪个方向?",
-                    "zh-HK": "我對住勺, 焗爐喺邊個方向？"
+                    "en-US": "If oven is in front of me, where is person located?",
+                    "zh-CN": "如果烤箱在我面前，人在哪里？",
+                    "zh-HK": "如果焗爐在我面前，人喺邊度？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is bottle located relative to cup?",
-                    "zh-CN": "瓶子是在杯子的哪边?",
-                    "zh-HK": "瓶子喺在杯的邊度?"
+                    "en-US": "Which way should I go from microwave to reach refrigerator?",
+                    "zh-CN": "从微波炉到电冰箱的路是哪条？",
+                    "zh-HK": "由微波爐到電冰箱嘅路係邊條？"
                 }
             }
         ]
@@ -150,25 +150,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "How do I reach bottle from refrigerator?",
-                    "zh-CN": "我怎样可以从电冰箱摸到瓶子?",
-                    "zh-HK": "我點樣可以由電冰箱揾到瓶子?"
+                    "en-US": "Which way should I go from microwave to reach refrigerator?",
+                    "zh-CN": "从微波炉到电冰箱的路是哪条？",
+                    "zh-HK": "由微波爐到電冰箱嘅路係邊條？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From sink, which direction should I move to find refrigerator?",
-                    "zh-CN": "我从水槽开始往哪个方向移动可以到电冰箱?",
-                    "zh-HK": "我由水槽要行邊個方向去揾電冰箱?"
+                    "en-US": "Where is refrigerator located relative to oven?",
+                    "zh-CN": "电冰箱是在烤箱的哪边?",
+                    "zh-HK": "電冰箱喺在焗爐的邊度?"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you point me towards sink from where oven is?",
-                    "zh-CN": "你能否指引我怎样从烤箱到水槽?",
-                    "zh-HK": "你可以指俾我睇，由焗爐點樣揾到水槽?"
+                    "en-US": "How is microwave situated compared to banana?",
+                    "zh-CN": "与香蕉相比，微波炉的位置如何？",
+                    "zh-HK": "與香蕉相比，微波爐的位置如何？"
                 }
             }
         ]

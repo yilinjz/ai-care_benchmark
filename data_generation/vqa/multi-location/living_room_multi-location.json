@@ -5,25 +5,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "From couch, which direction should I move to find potted plant?",
-                    "zh-CN": "我从沙发开始往哪个方向移动可以到盆栽?",
-                    "zh-HK": "我由梳化要行邊個方向去揾盆栽?"
+                    "en-US": "Can you direct me to potted plant from couch's location?",
+                    "zh-CN": "你能把我从沙发的位置引导到盆栽吗？",
+                    "zh-HK": "你能把我從梳化的位置引導到盆栽嗎？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If couch is in front of me, where should I look for book?",
-                    "zh-CN": "如果沙发在我正前方，我应该往哪边找书?",
-                    "zh-HK": "梳化喺在我面前，我應該望邊度搵書?"
+                    "en-US": "Which way should I go from couch to reach book?",
+                    "zh-CN": "从沙发到书的路是哪条？",
+                    "zh-HK": "由梳化到書嘅路係邊條？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If I'm facing potted plant, in which direction is book?",
-                    "zh-CN": "我现在正面对盆栽, 书在哪个方向?",
-                    "zh-HK": "我對住盆栽, 書喺邊個方向？"
+                    "en-US": "What is the position of book in relation to potted plant?",
+                    "zh-CN": "书相对于盆栽的位置是什么？",
+                    "zh-HK": "書相對于盆栽嘅位置係乜嘢？"
                 }
             }
         ]
@@ -34,25 +34,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If couch is in front of me, where should I look for book?",
-                    "zh-CN": "如果沙发在我正前方，我应该往哪边找书?",
-                    "zh-HK": "梳化喺在我面前，我應該望邊度搵書?"
+                    "en-US": "What is the position of book in relation to potted plant?",
+                    "zh-CN": "书相对于盆栽的位置是什么？",
+                    "zh-HK": "書相對于盆栽嘅位置係乜嘢？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where is remote located relative to couch?",
-                    "zh-CN": "遥控器是在沙发的哪边?",
-                    "zh-HK": "遙控器喺在梳化的邊度?"
+                    "en-US": "If couch is directly ahead, where is remote located?",
+                    "zh-CN": "如果沙发在正前方，那么遥控器在哪里？",
+                    "zh-HK": "如果梳化在正前方，咁遙控器喺邊度？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "How do I reach remote from tv?",
-                    "zh-CN": "我怎样可以从电视摸到遥控器?",
-                    "zh-HK": "我點樣可以由電視揾到遙控器?"
+                    "en-US": "Can you point me towards remote from where tv is?",
+                    "zh-CN": "你能否指引我怎样从电视到遥控器?",
+                    "zh-HK": "你可以指俾我睇，由電視點樣揾到遙控器?"
                 }
             }
         ]
@@ -63,25 +63,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "How do I reach remote from tv?",
-                    "zh-CN": "我怎样可以从电视摸到遥控器?",
-                    "zh-HK": "我點樣可以由電視揾到遙控器?"
+                    "en-US": "From dining table, which direction should I move to find vase?",
+                    "zh-CN": "我从餐桌开始往哪个方向移动可以到花瓶?",
+                    "zh-HK": "我由餐桌要行邊個方向去揾花瓶?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where is remote located relative to couch?",
-                    "zh-CN": "遥控器是在沙发的哪边?",
-                    "zh-HK": "遙控器喺在梳化的邊度?"
+                    "en-US": "If couch is in front of me, where should I look for dining table?",
+                    "zh-CN": "如果沙发在我正前方，我应该往哪边找餐桌?",
+                    "zh-HK": "梳化喺在我面前，我應該望邊度搵餐桌?"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If I'm facing potted plant, in which direction is book?",
-                    "zh-CN": "我现在正面对盆栽, 书在哪个方向?",
-                    "zh-HK": "我對住盆栽, 書喺邊個方向？"
+                    "en-US": "What is the way to get to chair from couch?",
+                    "zh-CN": "从沙发到达椅子的方法是什么？",
+                    "zh-HK": "從梳化到達椅子的方法是什麼？"
                 }
             }
         ]
@@ -92,25 +92,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If I'm facing potted plant, in which direction is book?",
-                    "zh-CN": "我现在正面对盆栽, 书在哪个方向?",
-                    "zh-HK": "我對住盆栽, 書喺邊個方向？"
+                    "en-US": "If dining table is in front of me, where is bottle located?",
+                    "zh-CN": "如果餐桌在我面前，瓶子在哪里？",
+                    "zh-HK": "如果餐桌在我面前，瓶子喺邊度？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "How do I reach remote from tv?",
-                    "zh-CN": "我怎样可以从电视摸到遥控器?",
-                    "zh-HK": "我點樣可以由電視揾到遙控器?"
+                    "en-US": "If dining table is ahead of me, where can I find chair?",
+                    "zh-CN": "如果餐桌在我前面，我在哪里可以找到椅子？",
+                    "zh-HK": "如果餐桌喺我前面，我喺邊度可以搵到椅子？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is remote located relative to couch?",
-                    "zh-CN": "遥控器是在沙发的哪边?",
-                    "zh-HK": "遙控器喺在梳化的邊度?"
+                    "en-US": "Facing dining table, which way is tv?",
+                    "zh-CN": "面对餐桌，电视是哪个方向？",
+                    "zh-HK": "面對餐桌，電視係邊個方向？"
                 }
             }
         ]
@@ -121,25 +121,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "From couch, which direction should I move to find potted plant?",
-                    "zh-CN": "我从沙发开始往哪个方向移动可以到盆栽?",
-                    "zh-HK": "我由梳化要行邊個方向去揾盆栽?"
+                    "en-US": "If couch is directly ahead, where is remote located?",
+                    "zh-CN": "如果沙发在正前方，那么遥控器在哪里？",
+                    "zh-HK": "如果梳化在正前方，咁遙控器喺邊度？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where is remote located relative to couch?",
-                    "zh-CN": "遥控器是在沙发的哪边?",
-                    "zh-HK": "遙控器喺在梳化的邊度?"
+                    "en-US": "How can I get to tv starting from book?",
+                    "zh-CN": "如何从书开始到达电视？",
+                    "zh-HK": "如何由書開始到達電視？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "How do I reach remote from tv?",
-                    "zh-CN": "我怎样可以从电视摸到遥控器?",
-                    "zh-HK": "我點樣可以由電視揾到遙控器?"
+                    "en-US": "If dining table is in front of me, where is bottle located?",
+                    "zh-CN": "如果餐桌在我面前，瓶子在哪里？",
+                    "zh-HK": "如果餐桌在我面前，瓶子喺邊度？"
                 }
             }
         ]
@@ -150,25 +150,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If I'm facing potted plant, in which direction is book?",
-                    "zh-CN": "我现在正面对盆栽, 书在哪个方向?",
-                    "zh-HK": "我對住盆栽, 書喺邊個方向？"
+                    "en-US": "Facing dining table, which way is tv?",
+                    "zh-CN": "面对餐桌，电视是哪个方向？",
+                    "zh-HK": "面對餐桌，電視係邊個方向？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where is remote located relative to couch?",
-                    "zh-CN": "遥控器是在沙发的哪边?",
-                    "zh-HK": "遙控器喺在梳化的邊度?"
+                    "en-US": "Can you direct me to potted plant from couch's location?",
+                    "zh-CN": "你能把我从沙发的位置引导到盆栽吗？",
+                    "zh-HK": "你能把我從梳化的位置引導到盆栽嗎？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you point me towards bowl from where couch is?",
-                    "zh-CN": "你能否指引我怎样从沙发到碗?",
-                    "zh-HK": "你可以指俾我睇，由梳化點樣揾到碗?"
+                    "en-US": "Can you guide me to bowl starting from couch?",
+                    "zh-CN": "你能引导我从沙发到碗吗？",
+                    "zh-HK": "你能引導我從梳化到碗嗎？"
                 }
             }
         ]
@@ -179,25 +179,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "From couch, which direction should I move to find potted plant?",
-                    "zh-CN": "我从沙发开始往哪个方向移动可以到盆栽?",
-                    "zh-HK": "我由梳化要行邊個方向去揾盆栽?"
+                    "en-US": "If couch is directly ahead, where is remote located?",
+                    "zh-CN": "如果沙发在正前方，那么遥控器在哪里？",
+                    "zh-HK": "如果梳化在正前方，咁遙控器喺邊度？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where is remote located relative to couch?",
-                    "zh-CN": "遥控器是在沙发的哪边?",
-                    "zh-HK": "遙控器喺在梳化的邊度?"
+                    "en-US": "If I'm facing chair, in which direction is keyboard?",
+                    "zh-CN": "我现在正面对椅子, 键盘在哪个方向?",
+                    "zh-HK": "我對住椅子, 鍵盤喺邊個方向？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If I'm facing potted plant, in which direction is book?",
-                    "zh-CN": "我现在正面对盆栽, 书在哪个方向?",
-                    "zh-HK": "我對住盆栽, 書喺邊個方向？"
+                    "en-US": "With bicycle in front, where should I search for potted plant?",
+                    "zh-CN": "前面有自行车，我应该在哪里搜索盆栽？",
+                    "zh-HK": "前面有單車，我應該喺邊度搜索盆栽？"
                 }
             }
         ]
@@ -208,25 +208,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If I'm facing potted plant, in which direction is book?",
-                    "zh-CN": "我现在正面对盆栽, 书在哪个方向?",
-                    "zh-HK": "我對住盆栽, 書喺邊個方向？"
+                    "en-US": "Which way should I go from couch to reach book?",
+                    "zh-CN": "从沙发到书的路是哪条？",
+                    "zh-HK": "由梳化到書嘅路係邊條？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you point me towards bowl from where couch is?",
-                    "zh-CN": "你能否指引我怎样从沙发到碗?",
-                    "zh-HK": "你可以指俾我睇，由梳化點樣揾到碗?"
+                    "en-US": "What is the position of book in relation to potted plant?",
+                    "zh-CN": "书相对于盆栽的位置是什么？",
+                    "zh-HK": "書相對于盆栽嘅位置係乜嘢？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "From couch, which direction should I move to find potted plant?",
-                    "zh-CN": "我从沙发开始往哪个方向移动可以到盆栽?",
-                    "zh-HK": "我由梳化要行邊個方向去揾盆栽?"
+                    "en-US": "How can I get to tv starting from book?",
+                    "zh-CN": "如何从书开始到达电视？",
+                    "zh-HK": "如何由書開始到達電視？"
                 }
             }
         ]
@@ -237,25 +237,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "From couch, which direction should I move to find potted plant?",
-                    "zh-CN": "我从沙发开始往哪个方向移动可以到盆栽?",
-                    "zh-HK": "我由梳化要行邊個方向去揾盆栽?"
+                    "en-US": "If I'm facing chair, in which direction is keyboard?",
+                    "zh-CN": "我现在正面对椅子, 键盘在哪个方向?",
+                    "zh-HK": "我對住椅子, 鍵盤喺邊個方向？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "How do I reach remote from tv?",
-                    "zh-CN": "我怎样可以从电视摸到遥控器?",
-                    "zh-HK": "我點樣可以由電視揾到遙控器?"
+                    "en-US": "Can you guide me to bowl starting from couch?",
+                    "zh-CN": "你能引导我从沙发到碗吗？",
+                    "zh-HK": "你能引導我從梳化到碗嗎？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is remote located relative to couch?",
-                    "zh-CN": "遥控器是在沙发的哪边?",
-                    "zh-HK": "遙控器喺在梳化的邊度?"
+                    "en-US": "When looking at backpack, where is remote?",
+                    "zh-CN": "当看着背包时，遥控器在哪里？",
+                    "zh-HK": "當睇住背囊時，遙控器在哪裡？"
                 }
             }
         ]
@@ -266,25 +266,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where is remote located relative to couch?",
-                    "zh-CN": "遥控器是在沙发的哪边?",
-                    "zh-HK": "遙控器喺在梳化的邊度?"
+                    "en-US": "What is the way to get to chair from couch?",
+                    "zh-CN": "从沙发到达椅子的方法是什么？",
+                    "zh-HK": "從梳化到達椅子的方法是什麼？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From couch, which direction should I move to find potted plant?",
-                    "zh-CN": "我从沙发开始往哪个方向移动可以到盆栽?",
-                    "zh-HK": "我由梳化要行邊個方向去揾盆栽?"
+                    "en-US": "When looking at backpack, where is remote?",
+                    "zh-CN": "当看着背包时，遥控器在哪里？",
+                    "zh-HK": "當睇住背囊時，遙控器在哪裡？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you point me towards bowl from where couch is?",
-                    "zh-CN": "你能否指引我怎样从沙发到碗?",
-                    "zh-HK": "你可以指俾我睇，由梳化點樣揾到碗?"
+                    "en-US": "If dining table is in front of me, where is bottle located?",
+                    "zh-CN": "如果餐桌在我面前，瓶子在哪里？",
+                    "zh-HK": "如果餐桌在我面前，瓶子喺邊度？"
                 }
             }
         ]

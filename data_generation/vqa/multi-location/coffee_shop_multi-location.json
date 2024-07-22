@@ -5,25 +5,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If bench is in front of me, where should I look for dining table?",
-                    "zh-CN": "如果长椅在我正前方，我应该往哪边找餐桌?",
-                    "zh-HK": "長椅喺在我面前，我應該望邊度搵餐桌?"
+                    "en-US": "What direction should I take from bench to get to dining table?",
+                    "zh-CN": "我应该从长椅往什么方向走才能到达餐桌？",
+                    "zh-HK": "我应该从長椅往什么方向走才能到达餐桌？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you point me towards potted plant from where dining table is?",
-                    "zh-CN": "你能否指引我怎样从餐桌到盆栽?",
-                    "zh-HK": "你可以指俾我睇，由餐桌點樣揾到盆栽?"
+                    "en-US": "Which way should I go from dining table to reach potted plant?",
+                    "zh-CN": "从餐桌到盆栽的路是哪条？",
+                    "zh-HK": "由餐桌到盆栽嘅路係邊條？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "From bench, which direction should I move to find chair?",
-                    "zh-CN": "我从长椅开始往哪个方向移动可以到椅子?",
-                    "zh-HK": "我由長椅要行邊個方向去揾椅子?"
+                    "en-US": "How do I reach chair from bench?",
+                    "zh-CN": "我怎样可以从长椅摸到椅子?",
+                    "zh-HK": "我點樣可以由長椅揾到椅子?"
                 }
             }
         ]
@@ -34,25 +34,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If bench is in front of me, where should I look for dining table?",
-                    "zh-CN": "如果长椅在我正前方，我应该往哪边找餐桌?",
-                    "zh-HK": "長椅喺在我面前，我應該望邊度搵餐桌?"
+                    "en-US": "Can you guide me to potted plant starting from bottle?",
+                    "zh-CN": "你能引导我从瓶子到盆栽吗？",
+                    "zh-HK": "你能引導我從瓶子到盆栽嗎？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "How do I reach toaster from potted plant?",
-                    "zh-CN": "我怎样可以从盆栽摸到烤面包机?",
-                    "zh-HK": "我點樣可以由盆栽揾到多士爐?"
+                    "en-US": "Can you show me the way to toaster from potted plant?",
+                    "zh-CN": "你能告诉我从盆栽到烤面包机的方法吗？",
+                    "zh-HK": "你可唔可以話我由盆栽到多士爐嘅方法啊？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is vase located relative to potted plant?",
-                    "zh-CN": "花瓶是在盆栽的哪边?",
-                    "zh-HK": "花瓶喺在盆栽的邊度?"
+                    "en-US": "How do I reach chair from bench?",
+                    "zh-CN": "我怎样可以从长椅摸到椅子?",
+                    "zh-HK": "我點樣可以由長椅揾到椅子?"
                 }
             }
         ]
@@ -63,25 +63,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "How do I reach toaster from potted plant?",
-                    "zh-CN": "我怎样可以从盆栽摸到烤面包机?",
-                    "zh-HK": "我點樣可以由盆栽揾到多士爐?"
+                    "en-US": "With toaster in front, where should I search for person?",
+                    "zh-CN": "前面有烤面包机，我应该在哪里搜索人？",
+                    "zh-HK": "前面有多士爐，我應該喺邊度搜索人？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If bench is in front of me, where should I look for dining table?",
-                    "zh-CN": "如果长椅在我正前方，我应该往哪边找餐桌?",
-                    "zh-HK": "長椅喺在我面前，我應該望邊度搵餐桌?"
+                    "en-US": "Can you guide me to potted plant starting from bottle?",
+                    "zh-CN": "你能引导我从瓶子到盆栽吗？",
+                    "zh-HK": "你能引導我從瓶子到盆栽嗎？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you point me towards potted plant from where dining table is?",
-                    "zh-CN": "你能否指引我怎样从餐桌到盆栽?",
-                    "zh-HK": "你可以指俾我睇，由餐桌點樣揾到盆栽?"
+                    "en-US": "Where is potted plant located relative to person?",
+                    "zh-CN": "盆栽是在人的哪边?",
+                    "zh-HK": "盆栽喺在人的邊度?"
                 }
             }
         ]
@@ -92,17 +92,17 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If bench is in front of me, where should I look for dining table?",
-                    "zh-CN": "如果长椅在我正前方，我应该往哪边找餐桌?",
-                    "zh-HK": "長椅喺在我面前，我應該望邊度搵餐桌?"
+                    "en-US": "Can you point me towards couch from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到沙发?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到梳化?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you point me towards potted plant from where dining table is?",
-                    "zh-CN": "你能否指引我怎样从餐桌到盆栽?",
-                    "zh-HK": "你可以指俾我睇，由餐桌點樣揾到盆栽?"
+                    "en-US": "With toaster in front, where should I search for person?",
+                    "zh-CN": "前面有烤面包机，我应该在哪里搜索人？",
+                    "zh-HK": "前面有多士爐，我應該喺邊度搜索人？"
                 }
             }
         ]
@@ -113,25 +113,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "How do I reach toaster from potted plant?",
-                    "zh-CN": "我怎样可以从盆栽摸到烤面包机?",
-                    "zh-HK": "我點樣可以由盆栽揾到多士爐?"
+                    "en-US": "If couch is ahead of me, where can I find person?",
+                    "zh-CN": "如果沙发在我前面，我在哪里可以找到人？",
+                    "zh-HK": "如果梳化喺我前面，我喺邊度可以搵到人？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If bench is in front of me, where should I look for dining table?",
-                    "zh-CN": "如果长椅在我正前方，我应该往哪边找餐桌?",
-                    "zh-HK": "長椅喺在我面前，我應該望邊度搵餐桌?"
+                    "en-US": "With toaster in front, where should I search for person?",
+                    "zh-CN": "前面有烤面包机，我应该在哪里搜索人？",
+                    "zh-HK": "前面有多士爐，我應該喺邊度搜索人？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you point me towards potted plant from where dining table is?",
-                    "zh-CN": "你能否指引我怎样从餐桌到盆栽?",
-                    "zh-HK": "你可以指俾我睇，由餐桌點樣揾到盆栽?"
+                    "en-US": "How can I get to cup starting from dining table?",
+                    "zh-CN": "如何从餐桌开始到达杯子？",
+                    "zh-HK": "如何由餐桌開始到達杯？"
                 }
             }
         ]
@@ -142,25 +142,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where is vase located relative to potted plant?",
-                    "zh-CN": "花瓶是在盆栽的哪边?",
-                    "zh-HK": "花瓶喺在盆栽的邊度?"
+                    "en-US": "What route should I take to go from person to bowl?",
+                    "zh-CN": "我应该走什么路线从人到碗？",
+                    "zh-HK": "我應該走乜嘢路線由人到碗？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From bench, which direction should I move to find chair?",
-                    "zh-CN": "我从长椅开始往哪个方向移动可以到椅子?",
-                    "zh-HK": "我由長椅要行邊個方向去揾椅子?"
+                    "en-US": "Can you point me towards couch from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到沙发?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到梳化?"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "How do I reach toaster from potted plant?",
-                    "zh-CN": "我怎样可以从盆栽摸到烤面包机?",
-                    "zh-HK": "我點樣可以由盆栽揾到多士爐?"
+                    "en-US": "How do I reach chair from bench?",
+                    "zh-CN": "我怎样可以从长椅摸到椅子?",
+                    "zh-HK": "我點樣可以由長椅揾到椅子?"
                 }
             }
         ]
@@ -171,25 +171,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "How do I reach toaster from potted plant?",
-                    "zh-CN": "我怎样可以从盆栽摸到烤面包机?",
-                    "zh-HK": "我點樣可以由盆栽揾到多士爐?"
+                    "en-US": "Which way should I go from dining table to reach potted plant?",
+                    "zh-CN": "从餐桌到盆栽的路是哪条？",
+                    "zh-HK": "由餐桌到盆栽嘅路係邊條？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If bench is in front of me, where should I look for dining table?",
-                    "zh-CN": "如果长椅在我正前方，我应该往哪边找餐桌?",
-                    "zh-HK": "長椅喺在我面前，我應該望邊度搵餐桌?"
+                    "en-US": "If dining table is directly ahead, where is bowl located?",
+                    "zh-CN": "如果餐桌在正前方，那么碗在哪里？",
+                    "zh-HK": "如果餐桌在正前方，咁碗喺邊度？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is vase located relative to potted plant?",
-                    "zh-CN": "花瓶是在盆栽的哪边?",
-                    "zh-HK": "花瓶喺在盆栽的邊度?"
+                    "en-US": "What route should I take to go from person to bowl?",
+                    "zh-CN": "我应该走什么路线从人到碗？",
+                    "zh-HK": "我應該走乜嘢路線由人到碗？"
                 }
             }
         ]
@@ -200,25 +200,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you point me towards potted plant from where dining table is?",
-                    "zh-CN": "你能否指引我怎样从餐桌到盆栽?",
-                    "zh-HK": "你可以指俾我睇，由餐桌點樣揾到盆栽?"
+                    "en-US": "Where can chair be found in relation to couch?",
+                    "zh-CN": "在哪里可以找到与沙发相关的 椅子？",
+                    "zh-HK": "喺邊度可以搵到與梳化相關嘅椅子？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From bench, which direction should I move to find chair?",
-                    "zh-CN": "我从长椅开始往哪个方向移动可以到椅子?",
-                    "zh-HK": "我由長椅要行邊個方向去揾椅子?"
+                    "en-US": "If dining table is directly ahead, where is bowl located?",
+                    "zh-CN": "如果餐桌在正前方，那么碗在哪里？",
+                    "zh-HK": "如果餐桌在正前方，咁碗喺邊度？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If I'm facing couch, in which direction is dining table?",
-                    "zh-CN": "我现在正面对沙发, 餐桌在哪个方向?",
-                    "zh-HK": "我對住梳化, 餐桌喺邊個方向？"
+                    "en-US": "If couch is ahead of me, where can I find person?",
+                    "zh-CN": "如果沙发在我前面，我在哪里可以找到人？",
+                    "zh-HK": "如果梳化喺我前面，我喺邊度可以搵到人？"
                 }
             }
         ]

@@ -5,9 +5,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If tv is in front of me, where should I look for person?",
-                    "zh-CN": "如果电视在我正前方，我应该往哪边找人?",
-                    "zh-HK": "電視喺在我面前，我應該望邊度搵人?"
+                    "en-US": "Can you guide me to person starting from tv?",
+                    "zh-CN": "你能引导我从电视到人吗？",
+                    "zh-HK": "你能引導我從電視到人嗎？"
                 }
             },
             {
@@ -21,9 +21,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If I'm facing tv, in which direction is chair?",
-                    "zh-CN": "我现在正面对电视, 椅子在哪个方向?",
-                    "zh-HK": "我對住電視, 椅子喺邊個方向？"
+                    "en-US": "How is chair situated compared to tv?",
+                    "zh-CN": "与电视相比，椅子的位置如何？",
+                    "zh-HK": "與電視相比，椅子的位置如何？"
                 }
             }
         ]
@@ -34,17 +34,17 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you point me towards keyboard from where tv is?",
-                    "zh-CN": "你能否指引我怎样从电视到键盘?",
-                    "zh-HK": "你可以指俾我睇，由電視點樣揾到鍵盤?"
+                    "en-US": "If tv is ahead of me, where can I find keyboard?",
+                    "zh-CN": "如果电视在我前面，我在哪里可以找到键盘？",
+                    "zh-HK": "如果電視喺我前面，我喺邊度可以搵到鍵盤？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If tv is in front of me, where should I look for person?",
-                    "zh-CN": "如果电视在我正前方，我应该往哪边找人?",
-                    "zh-HK": "電視喺在我面前，我應該望邊度搵人?"
+                    "en-US": "If tv is in front of me, where is chair located?",
+                    "zh-CN": "如果电视在我面前，椅子在哪里？",
+                    "zh-HK": "如果電視在我面前，椅子喺邊度？"
                 }
             }
         ]
@@ -55,25 +55,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you point me towards keyboard from where tv is?",
-                    "zh-CN": "你能否指引我怎样从电视到键盘?",
-                    "zh-HK": "你可以指俾我睇，由電視點樣揾到鍵盤?"
+                    "en-US": "Can you show me the way to tv from keyboard?",
+                    "zh-CN": "你能告诉我从键盘到电视的方法吗？",
+                    "zh-HK": "你可唔可以話我由鍵盤到電視嘅方法啊？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "How do I reach mouse from keyboard?",
-                    "zh-CN": "我怎样可以从键盘摸到鼠标?",
-                    "zh-HK": "我點樣可以由鍵盤揾到鼠標?"
+                    "en-US": "How is chair situated compared to tv?",
+                    "zh-CN": "与电视相比，椅子的位置如何？",
+                    "zh-HK": "與電視相比，椅子的位置如何？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is chair located relative to tv?",
-                    "zh-CN": "椅子是在电视的哪边?",
-                    "zh-HK": "椅子喺在電視的邊度?"
+                    "en-US": "What direction should I take from tv to get to chair?",
+                    "zh-CN": "我应该从电视往什么方向走才能到达椅子？",
+                    "zh-HK": "我应该从電視往什么方向走才能到达椅子？"
                 }
             }
         ]
@@ -84,25 +84,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If I'm facing tv, in which direction is chair?",
-                    "zh-CN": "我现在正面对电视, 椅子在哪个方向?",
-                    "zh-HK": "我對住電視, 椅子喺邊個方向？"
+                    "en-US": "How can I get to tv starting from chair?",
+                    "zh-CN": "如何从椅子开始到达电视？",
+                    "zh-HK": "如何由椅子開始到達電視？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "How do I reach mouse from keyboard?",
-                    "zh-CN": "我怎样可以从键盘摸到鼠标?",
-                    "zh-HK": "我點樣可以由鍵盤揾到鼠標?"
+                    "en-US": "What route should I take to go from chair to keyboard?",
+                    "zh-CN": "我应该走什么路线从椅子到键盘？",
+                    "zh-HK": "我應該走乜嘢路線由椅子到鍵盤？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "From tv, which direction should I move to find keyboard?",
-                    "zh-CN": "我从电视开始往哪个方向移动可以到键盘?",
-                    "zh-HK": "我由電視要行邊個方向去揾鍵盤?"
+                    "en-US": "In which direction should I head from tv to locate keyboard?",
+                    "zh-CN": "我应该从电视朝哪个方向移动才能找到键盘？",
+                    "zh-HK": "我應該從電視朝哪個方向移動才能找到鍵盤？"
                 }
             }
         ]
@@ -113,25 +113,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you point me towards keyboard from where tv is?",
-                    "zh-CN": "你能否指引我怎样从电视到键盘?",
-                    "zh-HK": "你可以指俾我睇，由電視點樣揾到鍵盤?"
+                    "en-US": "Where is tv located relative to keyboard?",
+                    "zh-CN": "电视是在键盘的哪边?",
+                    "zh-HK": "電視喺在鍵盤的邊度?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "How do I reach mouse from keyboard?",
-                    "zh-CN": "我怎样可以从键盘摸到鼠标?",
-                    "zh-HK": "我點樣可以由鍵盤揾到鼠標?"
+                    "en-US": "Can you show me the way to tv from keyboard?",
+                    "zh-CN": "你能告诉我从键盘到电视的方法吗？",
+                    "zh-HK": "你可唔可以話我由鍵盤到電視嘅方法啊？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "From tv, which direction should I move to find keyboard?",
-                    "zh-CN": "我从电视开始往哪个方向移动可以到键盘?",
-                    "zh-HK": "我由電視要行邊個方向去揾鍵盤?"
+                    "en-US": "How do I reach mouse from keyboard?",
+                    "zh-CN": "我怎样可以从键盘摸到鼠标?",
+                    "zh-HK": "我點樣可以由鍵盤揾到鼠標?"
                 }
             }
         ]
@@ -142,25 +142,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "How do I reach mouse from keyboard?",
-                    "zh-CN": "我怎样可以从键盘摸到鼠标?",
-                    "zh-HK": "我點樣可以由鍵盤揾到鼠標?"
+                    "en-US": "Facing tv, which way is book?",
+                    "zh-CN": "面对电视，书是哪个方向？",
+                    "zh-HK": "面對電視，書係邊個方向？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you point me towards keyboard from where tv is?",
-                    "zh-CN": "你能否指引我怎样从电视到键盘?",
-                    "zh-HK": "你可以指俾我睇，由電視點樣揾到鍵盤?"
+                    "en-US": "How is chair situated compared to tv?",
+                    "zh-CN": "与电视相比，椅子的位置如何？",
+                    "zh-HK": "與電視相比，椅子的位置如何？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is chair located relative to tv?",
-                    "zh-CN": "椅子是在电视的哪边?",
-                    "zh-HK": "椅子喺在電視的邊度?"
+                    "en-US": "If chair is in front of me, where should I look for tv?",
+                    "zh-CN": "如果椅子在我正前方，我应该往哪边找电视?",
+                    "zh-HK": "椅子喺在我面前，我應該望邊度搵電視?"
                 }
             }
         ]

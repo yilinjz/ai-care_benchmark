@@ -5,25 +5,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where is laptop located relative to dining table?",
-                    "zh-CN": "笔记本电脑是在餐桌的哪边?",
-                    "zh-HK": "筆記本電腦喺在餐桌的邊度?"
+                    "en-US": "Facing dining table, which way is laptop?",
+                    "zh-CN": "面对餐桌，笔记本电脑是哪个方向？",
+                    "zh-HK": "面對餐桌，筆記本電腦係邊個方向？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If I'm facing laptop, in which direction is bottle?",
-                    "zh-CN": "我现在正面对笔记本电脑, 瓶子在哪个方向?",
-                    "zh-HK": "我對住筆記本電腦, 瓶子喺邊個方向？"
+                    "en-US": "What direction should I take from laptop to get to bottle?",
+                    "zh-CN": "我应该从笔记本电脑往什么方向走才能到达瓶子？",
+                    "zh-HK": "我应该从筆記本電腦往什么方向走才能到达瓶子？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "How do I reach microwave from bowl?",
-                    "zh-CN": "我怎样可以从碗摸到微波炉?",
-                    "zh-HK": "我點樣可以由碗揾到微波爐?"
+                    "en-US": "What is the position of microwave in relation to bowl?",
+                    "zh-CN": "微波炉相对于碗的位置是什么？",
+                    "zh-HK": "微波爐相對于碗嘅位置係乜嘢？"
                 }
             }
         ]
@@ -34,17 +34,17 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you point me towards microwave from where chair is?",
-                    "zh-CN": "你能否指引我怎样从椅子到微波炉?",
-                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到微波爐?"
+                    "en-US": "What direction should I take from laptop to get to bottle?",
+                    "zh-CN": "我应该从笔记本电脑往什么方向走才能到达瓶子？",
+                    "zh-HK": "我应该从筆記本電腦往什么方向走才能到达瓶子？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "How do I reach microwave from bowl?",
-                    "zh-CN": "我怎样可以从碗摸到微波炉?",
-                    "zh-HK": "我點樣可以由碗揾到微波爐?"
+                    "en-US": "If I'm facing microwave, in which direction is toaster?",
+                    "zh-CN": "我现在正面对微波炉, 烤面包机在哪个方向?",
+                    "zh-HK": "我對住微波爐, 多士爐喺邊個方向？"
                 }
             },
             {
@@ -63,25 +63,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "From toaster, which direction should I move to find bottle?",
-                    "zh-CN": "我从烤面包机开始往哪个方向移动可以到瓶子?",
-                    "zh-HK": "我由多士爐要行邊個方向去揾瓶子?"
+                    "en-US": "In which direction should I head from sink to locate dining table?",
+                    "zh-CN": "我应该从水槽朝哪个方向移动才能找到餐桌？",
+                    "zh-HK": "我應該從水槽朝哪個方向移動才能找到餐桌？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If I'm facing laptop, in which direction is bottle?",
-                    "zh-CN": "我现在正面对笔记本电脑, 瓶子在哪个方向?",
-                    "zh-HK": "我對住筆記本電腦, 瓶子喺邊個方向？"
+                    "en-US": "What is the way to get to sink from tv?",
+                    "zh-CN": "从电视到达水槽的方法是什么？",
+                    "zh-HK": "從電視到達水槽的方法是什麼？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is laptop located relative to dining table?",
-                    "zh-CN": "笔记本电脑是在餐桌的哪边?",
-                    "zh-HK": "筆記本電腦喺在餐桌的邊度?"
+                    "en-US": "Which way should I go from dining table to reach cup?",
+                    "zh-CN": "从餐桌到杯子的路是哪条？",
+                    "zh-HK": "由餐桌到杯嘅路係邊條？"
                 }
             }
         ]
@@ -92,25 +92,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "How do I reach microwave from bowl?",
-                    "zh-CN": "我怎样可以从碗摸到微波炉?",
-                    "zh-HK": "我點樣可以由碗揾到微波爐?"
+                    "en-US": "Where can bottle be found in relation to backpack?",
+                    "zh-CN": "在哪里可以找到与背包相关的 瓶子？",
+                    "zh-HK": "喺邊度可以搵到與背囊相關嘅瓶子？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From toaster, which direction should I move to find bottle?",
-                    "zh-CN": "我从烤面包机开始往哪个方向移动可以到瓶子?",
-                    "zh-HK": "我由多士爐要行邊個方向去揾瓶子?"
+                    "en-US": "How is cup situated compared to backpack?",
+                    "zh-CN": "与背包相比，杯子的位置如何？",
+                    "zh-HK": "與背囊相比，杯的位置如何？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If I'm facing laptop, in which direction is bottle?",
-                    "zh-CN": "我现在正面对笔记本电脑, 瓶子在哪个方向?",
-                    "zh-HK": "我對住筆記本電腦, 瓶子喺邊個方向？"
+                    "en-US": "If bowl is ahead of me, where can I find bottle?",
+                    "zh-CN": "如果碗在我前面，我在哪里可以找到瓶子？",
+                    "zh-HK": "如果碗喺我前面，我喺邊度可以搵到瓶子？"
                 }
             }
         ]
@@ -121,25 +121,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "From toaster, which direction should I move to find bottle?",
-                    "zh-CN": "我从烤面包机开始往哪个方向移动可以到瓶子?",
-                    "zh-HK": "我由多士爐要行邊個方向去揾瓶子?"
+                    "en-US": "Where is dining table located relative to refrigerator?",
+                    "zh-CN": "餐桌是在电冰箱的哪边?",
+                    "zh-HK": "餐桌喺在電冰箱的邊度?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "How do I reach microwave from bowl?",
-                    "zh-CN": "我怎样可以从碗摸到微波炉?",
-                    "zh-HK": "我點樣可以由碗揾到微波爐?"
+                    "en-US": "What is the way to get to sink from tv?",
+                    "zh-CN": "从电视到达水槽的方法是什么？",
+                    "zh-HK": "從電視到達水槽的方法是什麼？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If potted plant is in front of me, where should I look for bowl?",
-                    "zh-CN": "如果盆栽在我正前方，我应该往哪边找碗?",
-                    "zh-HK": "盆栽喺在我面前，我應該望邊度搵碗?"
+                    "en-US": "Can you show me the way to bowl from potted plant?",
+                    "zh-CN": "你能告诉我从盆栽到碗的方法吗？",
+                    "zh-HK": "你可唔可以話我由盆栽到碗嘅方法啊？"
                 }
             }
         ]
@@ -150,25 +150,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If I'm facing laptop, in which direction is bottle?",
-                    "zh-CN": "我现在正面对笔记本电脑, 瓶子在哪个方向?",
-                    "zh-HK": "我對住筆記本電腦, 瓶子喺邊個方向？"
+                    "en-US": "What direction should I take from laptop to get to bottle?",
+                    "zh-CN": "我应该从笔记本电脑往什么方向走才能到达瓶子？",
+                    "zh-HK": "我应该从筆記本電腦往什么方向走才能到达瓶子？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From toaster, which direction should I move to find bottle?",
-                    "zh-CN": "我从烤面包机开始往哪个方向移动可以到瓶子?",
-                    "zh-HK": "我由多士爐要行邊個方向去揾瓶子?"
+                    "en-US": "What is the position of microwave in relation to bowl?",
+                    "zh-CN": "微波炉相对于碗的位置是什么？",
+                    "zh-HK": "微波爐相對于碗嘅位置係乜嘢？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is laptop located relative to dining table?",
-                    "zh-CN": "笔记本电脑是在餐桌的哪边?",
-                    "zh-HK": "筆記本電腦喺在餐桌的邊度?"
+                    "en-US": "What route should I take to go from sink to bottle?",
+                    "zh-CN": "我应该走什么路线从水槽到瓶子？",
+                    "zh-HK": "我應該走乜嘢路線由水槽到瓶子？"
                 }
             }
         ]
@@ -179,25 +179,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "How do I reach microwave from bowl?",
-                    "zh-CN": "我怎样可以从碗摸到微波炉?",
-                    "zh-HK": "我點樣可以由碗揾到微波爐?"
+                    "en-US": "If dining table is directly ahead, where is tv located?",
+                    "zh-CN": "如果餐桌在正前方，那么电视在哪里？",
+                    "zh-HK": "如果餐桌在正前方，咁電視喺邊度？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If potted plant is in front of me, where should I look for bowl?",
-                    "zh-CN": "如果盆栽在我正前方，我应该往哪边找碗?",
-                    "zh-HK": "盆栽喺在我面前，我應該望邊度搵碗?"
+                    "en-US": "Facing dining table, which way is laptop?",
+                    "zh-CN": "面对餐桌，笔记本电脑是哪个方向？",
+                    "zh-HK": "面對餐桌，筆記本電腦係邊個方向？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you point me towards microwave from where chair is?",
-                    "zh-CN": "你能否指引我怎样从椅子到微波炉?",
-                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到微波爐?"
+                    "en-US": "Can you point me towards tv from where chair is?",
+                    "zh-CN": "你能否指引我怎样从椅子到电视?",
+                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到電視?"
                 }
             }
         ]
@@ -208,25 +208,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you point me towards microwave from where chair is?",
-                    "zh-CN": "你能否指引我怎样从椅子到微波炉?",
-                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到微波爐?"
+                    "en-US": "If oven is in front of me, where should I look for microwave?",
+                    "zh-CN": "如果烤箱在我正前方，我应该往哪边找微波炉?",
+                    "zh-HK": "焗爐喺在我面前，我應該望邊度搵微波爐?"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "How do I reach microwave from bowl?",
-                    "zh-CN": "我怎样可以从碗摸到微波炉?",
-                    "zh-HK": "我點樣可以由碗揾到微波爐?"
+                    "en-US": "Where can bottle be found in relation to backpack?",
+                    "zh-CN": "在哪里可以找到与背包相关的 瓶子？",
+                    "zh-HK": "喺邊度可以搵到與背囊相關嘅瓶子？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is laptop located relative to dining table?",
-                    "zh-CN": "笔记本电脑是在餐桌的哪边?",
-                    "zh-HK": "筆記本電腦喺在餐桌的邊度?"
+                    "en-US": "Facing dining table, which way is laptop?",
+                    "zh-CN": "面对餐桌，笔记本电脑是哪个方向？",
+                    "zh-HK": "面對餐桌，筆記本電腦係邊個方向？"
                 }
             }
         ]
@@ -237,25 +237,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where is laptop located relative to dining table?",
-                    "zh-CN": "笔记本电脑是在餐桌的哪边?",
-                    "zh-HK": "筆記本電腦喺在餐桌的邊度?"
+                    "en-US": "In which direction should I head from sink to locate dining table?",
+                    "zh-CN": "我应该从水槽朝哪个方向移动才能找到餐桌？",
+                    "zh-HK": "我應該從水槽朝哪個方向移動才能找到餐桌？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If potted plant is in front of me, where should I look for bowl?",
-                    "zh-CN": "如果盆栽在我正前方，我应该往哪边找碗?",
-                    "zh-HK": "盆栽喺在我面前，我應該望邊度搵碗?"
+                    "en-US": "Which way should I go from dining table to reach cup?",
+                    "zh-CN": "从餐桌到杯子的路是哪条？",
+                    "zh-HK": "由餐桌到杯嘅路係邊條？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you point me towards microwave from where chair is?",
-                    "zh-CN": "你能否指引我怎样从椅子到微波炉?",
-                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到微波爐?"
+                    "en-US": "If oven is in front of me, where should I look for microwave?",
+                    "zh-CN": "如果烤箱在我正前方，我应该往哪边找微波炉?",
+                    "zh-HK": "焗爐喺在我面前，我應該望邊度搵微波爐?"
                 }
             }
         ]
