@@ -5,25 +5,25 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "What object is directly in front of me?",
-                    "zh-CN": "我的正前方是什么物体？",
-                    "zh-HK": "乜嘢物體就喺我面前？"
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you identify the item on my left side?",
-                    "zh-CN": "你能否识别我左边是什么物体？",
-                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                    "en-US": "Can you see what is on my left side?",
+                    "zh-CN": "你能看到我左边是什么吗？",
+                    "zh-HK": "你能看到我左邊係乜嘢啊？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you identify the item on my right side?",
-                    "zh-CN": "你能否识别我右边是什么物体？",
-                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                    "en-US": "What object is positioned to my right?",
+                    "zh-CN": "什么物体位于我的右边？",
+                    "zh-HK": "乜嘢物體位於我嘅右邊？"
                 }
             },
             {
@@ -37,9 +37,9 @@
             {
                 "qid": "4",
                 "question": {
-                    "en-US": "What is the object closest to the center of the frame?",
-                    "zh-CN": "离画面中心最近的物体是什么？",
-                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                    "en-US": "Which object is nearest to the center of the frame?",
+                    "zh-CN": "哪个物体最靠近画面中心？",
+                    "zh-HK": "邊個物體最靠近畫面中心？"
                 }
             }
         ]
@@ -58,25 +58,25 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you identify the item on my left side?",
-                    "zh-CN": "你能否识别我左边是什么物体？",
-                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                    "en-US": "Can you see what is on my left side?",
+                    "zh-CN": "你能看到我左边是什么吗？",
+                    "zh-HK": "你能看到我左邊係乜嘢啊？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you identify the item on my right side?",
-                    "zh-CN": "你能否识别我右边是什么物体？",
-                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
                 }
             },
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "What item is the closest to me?",
-                    "zh-CN": "离我最近的物体是什么？",
-                    "zh-HK": "乜嘢物品離我最近？"
+                    "en-US": "Which item is nearest to me?",
+                    "zh-CN": "哪个项目离我最近？",
+                    "zh-HK": "邊個項目離我最近？"
                 }
             },
             {
@@ -103,17 +103,17 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you identify the item on my left side?",
-                    "zh-CN": "你能否识别我左边是什么物体？",
-                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                    "en-US": "Can you tell me what item is on my left side?",
+                    "zh-CN": "你能告诉我我左边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我左邊嘅係乜嘢項目啊？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you identify the item on my right side?",
-                    "zh-CN": "你能否识别我右边是什么物体？",
-                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                    "en-US": "What is the item located on my right side?",
+                    "zh-CN": "我右边的物品是什么？",
+                    "zh-HK": "我右邊嘅物品係乜嘢？"
                 }
             },
             {
@@ -127,9 +127,9 @@
             {
                 "qid": "4",
                 "question": {
-                    "en-US": "What is the object closest to the center of the frame?",
-                    "zh-CN": "离画面中心最近的物体是什么？",
-                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                    "en-US": "What is the item nearest to the center of the frame?",
+                    "zh-CN": "最靠近画面中心的物品是什么？",
+                    "zh-HK": "最靠近畫面中心嘅物品係乜嘢？"
                 }
             }
         ]
@@ -148,17 +148,17 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you identify the item on my left side?",
-                    "zh-CN": "你能否识别我左边是什么物体？",
-                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                    "en-US": "Can you see what is on my left side?",
+                    "zh-CN": "你能看到我左边是什么吗？",
+                    "zh-HK": "你能看到我左邊係乜嘢啊？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you identify the item on my right side?",
-                    "zh-CN": "你能否识别我右边是什么物体？",
-                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                    "en-US": "What is the item located on my right side?",
+                    "zh-CN": "我右边的物品是什么？",
+                    "zh-HK": "我右邊嘅物品係乜嘢？"
                 }
             },
             {
@@ -185,41 +185,41 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "What object is directly in front of me?",
-                    "zh-CN": "我的正前方是什么物体？",
-                    "zh-HK": "乜嘢物體就喺我面前？"
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you identify the item on my left side?",
-                    "zh-CN": "你能否识别我左边是什么物体？",
-                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you identify the item on my right side?",
-                    "zh-CN": "你能否识别我右边是什么物体？",
-                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                    "en-US": "Can you tell me what item is on my right side?",
+                    "zh-CN": "你能告诉我我右边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我右邊嘅係乜嘢項目啊？"
                 }
             },
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "What item is the closest to me?",
-                    "zh-CN": "离我最近的物体是什么？",
-                    "zh-HK": "乜嘢物品離我最近？"
+                    "en-US": "Which object is the closest to me?",
+                    "zh-CN": "哪个物体离我最近？",
+                    "zh-HK": "邊個物體離我最近？"
                 }
             },
             {
                 "qid": "4",
                 "question": {
-                    "en-US": "What is the object closest to the center of the frame?",
-                    "zh-CN": "离画面中心最近的物体是什么？",
-                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
                 }
             }
         ]
@@ -230,41 +230,41 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "What object is directly in front of me?",
-                    "zh-CN": "我的正前方是什么物体？",
-                    "zh-HK": "乜嘢物體就喺我面前？"
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you identify the item on my left side?",
-                    "zh-CN": "你能否识别我左边是什么物体？",
-                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you identify the item on my right side?",
-                    "zh-CN": "你能否识别我右边是什么物体？",
-                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
                 }
             },
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "What item is the closest to me?",
-                    "zh-CN": "离我最近的物体是什么？",
-                    "zh-HK": "乜嘢物品離我最近？"
+                    "en-US": "What is the closest item to me?",
+                    "zh-CN": "离我最近的项目是什么？",
+                    "zh-HK": "離我最近嘅項目係乜嘢？"
                 }
             },
             {
                 "qid": "4",
                 "question": {
-                    "en-US": "What is the object closest to the center of the frame?",
-                    "zh-CN": "离画面中心最近的物体是什么？",
-                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
                 }
             }
         ]
@@ -283,17 +283,17 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you identify the item on my left side?",
-                    "zh-CN": "你能否识别我左边是什么物体？",
-                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you identify the item on my right side?",
-                    "zh-CN": "你能否识别我右边是什么物体？",
-                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
                 }
             },
             {
@@ -307,9 +307,9 @@
             {
                 "qid": "4",
                 "question": {
-                    "en-US": "What is the object closest to the center of the frame?",
-                    "zh-CN": "离画面中心最近的物体是什么？",
-                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
                 }
             }
         ]
@@ -320,17 +320,17 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "What object is directly in front of me?",
-                    "zh-CN": "我的正前方是什么物体？",
-                    "zh-HK": "乜嘢物體就喺我面前？"
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you identify the item on my left side?",
-                    "zh-CN": "你能否识别我左边是什么物体？",
-                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
                 }
             },
             {
@@ -344,17 +344,17 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "What item is the closest to me?",
-                    "zh-CN": "离我最近的物体是什么？",
-                    "zh-HK": "乜嘢物品離我最近？"
+                    "en-US": "Which item is nearest to me?",
+                    "zh-CN": "哪个项目离我最近？",
+                    "zh-HK": "邊個項目離我最近？"
                 }
             },
             {
                 "qid": "4",
                 "question": {
-                    "en-US": "What is the object closest to the center of the frame?",
-                    "zh-CN": "离画面中心最近的物体是什么？",
-                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
                 }
             }
         ]
