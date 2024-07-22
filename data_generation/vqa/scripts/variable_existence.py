@@ -8,12 +8,62 @@ question_pool = [
     {
         LANGUAGE.EN_US: f"Is there a [dt] in the scene?",
         LANGUAGE.ZH_CN: f"场景中有[dt]吗？",
-        LANGUAGE.ZH_HK: f"場景中有冇[dt]啊?",
+        LANGUAGE.ZH_HK: f"場景中有冇[dt]啊？",
+    },
+    {
+        LANGUAGE.EN_US: f"Is a [dt] present in the scene?",
+        LANGUAGE.ZH_CN: f"场景中是否存在[dt]？",
+        LANGUAGE.ZH_HK: f"場景中是否存在[dt]呀？",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you see a [dt] in the scene?",
+        LANGUAGE.ZH_CN: f"你能在场景中看到[dt]吗？",
+        LANGUAGE.ZH_HK: f"你見唔見到現場有[dt]呀？",
+    },
+    {
+        LANGUAGE.EN_US: f"Is a [dt] visible in the scene?",
+        LANGUAGE.ZH_CN: f"场景中是否可见[dt]？",
+        LANGUAGE.ZH_HK: f"場景中是否可見[dt]？",
+    },
+    {
+        LANGUAGE.EN_US: f"Is there any [dt] in the scene?",
+        LANGUAGE.ZH_CN: f"场景中有[dt]吗？",
+        LANGUAGE.ZH_HK: f"場景中有[dt]嗎？",
+    },
+    {
+        LANGUAGE.EN_US: f"Do you sense a [dt] in the scene?",
+        LANGUAGE.ZH_CN: f"你感觉到场景中有[dt]吗？",
+        LANGUAGE.ZH_HK: f"你感覺到場景中有[dt]嗎？",
     },
     {
         LANGUAGE.EN_US: f"Can you tell me if a [dt] is present in the view?",
         LANGUAGE.ZH_CN: f"能不能告诉我画面中是否有[dt]？",
         LANGUAGE.ZH_HK: f"你可唔可以話我畫面中有冇[dt]啊？",
+    },
+    {
+        LANGUAGE.EN_US: f"Is there a [dt] in the view that you can tell me about?",
+        LANGUAGE.ZH_CN: f"可以告诉我视图中有[dt]吗？",
+        LANGUAGE.ZH_HK: f"可唔可以話我视圖中有冇[dt]啊？",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you see if a [dt] is in the view?",
+        LANGUAGE.ZH_CN: f"你能看到视图中是否有[dt]吗？",
+        LANGUAGE.ZH_HK: f"你能看到视圖中是否有[dt]啊？",
+    },
+    {
+        LANGUAGE.EN_US: f"Do you notice a [dt] in the view?",
+        LANGUAGE.ZH_CN: f"你是否注意到视图中的[dt]？",
+        LANGUAGE.ZH_HK: f"你是否注意到視圖中嘅[dt]？",
+    },
+    {
+        LANGUAGE.EN_US: f"Is a [dt] visible in the view?",
+        LANGUAGE.ZH_CN: f"[dt]在视图中是否可见？",
+        LANGUAGE.ZH_HK: f"[dt]在視圖中是否可見？",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you confirm if a [dt] is present in the view?",
+        LANGUAGE.ZH_CN: f"你能否确认视图中是否存在[dt]？",
+        LANGUAGE.ZH_HK: f"你能否確認视圖中是否存在[dt]？",
     },
     {
         LANGUAGE.EN_US: f"Is a [dt] visible in the current scene?",
@@ -34,6 +84,26 @@ question_pool = [
         LANGUAGE.EN_US: f"Am I near a [dt], according to the scene captured?",
         LANGUAGE.ZH_CN: f"根据拍摄到的场景，我是在[dt]附近吗？",
         LANGUAGE.ZH_HK: f"根據攝到嘅畫面，我係咪喺[dt]附近？",
+    },
+    {
+        LANGUAGE.EN_US: f"Does the scene captured show that I am near a [dt]?",
+        LANGUAGE.ZH_CN: f"拍摄到的场景是否表明我在[dt]附近？",
+        LANGUAGE.ZH_HK: f"拍攝到嘅場景是否表明我喺[dt]附近？",
+    },
+    {
+        LANGUAGE.EN_US: f"Based on the scene captured, am I close to a [dt]?",
+        LANGUAGE.ZH_CN: f"根据拍摄的场景，我是否接近[dt]？",
+        LANGUAGE.ZH_HK: f"根據拍攝的場景，我是否接近[dt]？",
+    },
+    {
+        LANGUAGE.EN_US: f"Can you tell from the scene if I am near a [dt]?",
+        LANGUAGE.ZH_CN: f"你能从场景看出我是否在[dt]附近吗？",
+        LANGUAGE.ZH_HK: f"你能從場景看出我是否在[dt]附近嗎？",
+    },
+    {
+        LANGUAGE.EN_US: f"Is it evident from the scene that I am near a [dt]?",
+        LANGUAGE.ZH_CN: f"从场景中可以明显看出我在[dt]附近吗？",
+        LANGUAGE.ZH_HK: f"從場景中可以明顯看出我喺[dt]附近呀？",
     }
 ]
 
