@@ -49,6 +49,15 @@ def generate_questions(index_pool, question_pool, item, language_list):
             question[language] = question[language].replace('[dt]', translate_word(item, language))
         return index_pool, question
     
+def generate_open_questions(question_pool):
+    return [
+        random.choice(question_pool[0:5]),
+        random.choice(question_pool[5:11]),
+        random.choice(question_pool[11:17]),
+        random.choice(question_pool[17:23]),
+        random.choice(question_pool[23:29])
+    ]
+    
 def generate_questions_with_item_pair(index_pool, question_pool, item_pair, language_list):
     if not index_pool:
         index_pool = list(range((0, len(question_pool))))

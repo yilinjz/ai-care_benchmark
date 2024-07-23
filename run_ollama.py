@@ -4,18 +4,8 @@ import json
 
 import ollama
 
-from utils.const import language_list, benchmark_list
+from utils.const import language_list, model_id, benchmark_list
 from utils.helper import process_context, get_instruction_type, translate_word
-
-
-###### MODEL ID #####
-
-model_id = 'llama3'
-# model_id = 'llama3:70b'
-# model_id = 'qwen2:7b'
-# model_id = 'qwen2:72b'
-
-###### MODEL ID #####
 
 
 def ai_agent_remote(question, context, system_prompt, language):

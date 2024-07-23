@@ -1,7 +1,7 @@
 from utils.const import LANGUAGE
 
 WORD_DICTIONARY = {
-    # ===== PROMPT WORD =====
+    # ===== PROMPT WORD ===== #
     "Question": {
         LANGUAGE.EN_US: "Question",
         LANGUAGE.ZH_CN: "问题",
@@ -12,7 +12,7 @@ WORD_DICTIONARY = {
         LANGUAGE.ZH_CN: "上下文",
         LANGUAGE.ZH_HK: "上下文",
     },
-    # ===== ANSWER WORD =====
+    # ===== ANSWER WORD ===== #
     "Yes": {
         LANGUAGE.EN_US: "Yes",
         LANGUAGE.ZH_CN: "是/有",
@@ -28,7 +28,7 @@ WORD_DICTIONARY = {
         LANGUAGE.ZH_CN: "和",
         LANGUAGE.ZH_HK: "和",
     },
-    # ===== OREINTATION =====
+    # ===== OREINTATION ===== #
     "up": {
         LANGUAGE.EN_US: "up",
         LANGUAGE.ZH_CN: "上",
@@ -49,6 +49,32 @@ WORD_DICTIONARY = {
         LANGUAGE.ZH_CN: "右",
         LANGUAGE.ZH_HK: "右",
     },
+    "up and left": {
+        LANGUAGE.EN_US: "up and left",
+        LANGUAGE.ZH_CN: "左上",
+        LANGUAGE.ZH_HK: "左上",
+    },
+    "up and right": {
+        LANGUAGE.EN_US: "up and right",
+        LANGUAGE.ZH_CN: "右上",
+        LANGUAGE.ZH_HK: "右上",
+    },
+    "down and left": {
+        LANGUAGE.EN_US: "down and left",
+        LANGUAGE.ZH_CN: "左下",
+        LANGUAGE.ZH_HK: "左下",
+    },
+    "down and right": {
+        LANGUAGE.EN_US: "down and right",
+        LANGUAGE.ZH_CN: "右下",
+        LANGUAGE.ZH_HK: "右下",
+    },
+    "center": {
+        LANGUAGE.EN_US: "center",
+        LANGUAGE.ZH_CN: "中间",
+        LANGUAGE.ZH_HK: "中間",
+    },
+    # ORENTATION (PRE-PROCESSING) #
     "slightly-up": {
         LANGUAGE.EN_US: "slightly-up",
         LANGUAGE.ZH_CN: "中间偏上",

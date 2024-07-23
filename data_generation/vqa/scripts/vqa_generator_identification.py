@@ -8,10 +8,10 @@ parent = os.path.dirname(parent)
 sys.path.append(parent)
 
 import json
-import random
 
 from variable_identification import scene_tag, category_tag, scene_ids, question_pool
 from utils.const import language_list
+from utils.helper import generate_open_questions
 
 
 output = []
@@ -22,14 +22,8 @@ for i, scene_id in enumerate(scene_ids):
     qa_pairs = []
 
     # loop through all questions for each image
-    selected_question_pool = []
-    selected_question_pool.append(random.choice(question_pool[0:5]))
-    selected_question_pool.append(random.choice(question_pool[5:11]))
-    selected_question_pool.append(random.choice(question_pool[11:17]))
-    selected_question_pool.append(random.choice(question_pool[17:23]))
-    selected_question_pool.append(random.choice(question_pool[23:29]))
-
-    for j, question in enumerate(selected_question_pool):
+    open_question_pool = generate_open_questions(question_pool)
+    for j, question in enumerate(open_question_pool):
         qa_object = {}
 
         qa_object['qid'] = str(j)

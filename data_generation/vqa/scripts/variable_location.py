@@ -160,20 +160,20 @@ question_pool = [
 ### ========== VARIABLE ========== ###
 
 # ========== bathroom ========== #
-# scene_tag = "bathroom" # change
-# frame_num = [44, 49, 170, 500, 505, 509, 656] # change
-# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+scene_tag = "bathroom" # change
+frame_num = [44, 49, 170, 500, 505, 509, 656] # change
+scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# # change
-# item_lists = [
-#     ['toothbrush', 'toilet', 'sink', 'cup'],
-#     ['toothbrush', 'sink', 'toilet', 'toothpaste'],
-#     ['toilet', 'sink', 'bottle', 'person'],
-#     ['bottle', 'toothbrush', 'sink', 'toilet'],
-#     ['towel', 'bottle', 'sink', 'toothbrush'],
-#     ['cup', 'toothbrush', 'sink', 'bottle'],
-#     ['cup', 'sink', 'towel', 'toilet']
-# ]
+# change
+item_lists = [
+    ['toothbrush', 'toilet', 'sink', 'cup'],
+    ['toothbrush', 'sink', 'toilet', 'toothpaste'],
+    ['toilet', 'sink', 'bottle', 'person'],
+    ['bottle', 'toothbrush', 'sink', 'toilet'],
+    ['towel', 'bottle', 'sink', 'toothbrush'],
+    ['cup', 'toothbrush', 'sink', 'bottle'],
+    ['cup', 'sink', 'towel', 'toilet']
+]
 
 # ========== bedroom ========== #
 # scene_tag = "bedroom" # change
@@ -401,16 +401,16 @@ question_pool = [
 # ]
 
 # ========== dorm ========== #
-scene_tag = "dorm" # change
-frame_num = [128, 130, 131, 143, 267, 569] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "dorm" # change
+# frame_num = [128, 130, 131, 143, 267, 569] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# change
-item_lists = [
-    ['spoon', 'bottle', 'cup', 'oven'],
-    ['bottle', 'sink', 'oven', 'refrigerator'],
-    ['microwave', 'cup', 'knife', 'oven'],
-    ['bottle', 'bowl', 'sink', 'spoon'],
-    ['person', 'refrigerator', 'bottle', 'oven'],
-    ['banana', 'refrigerator', 'chair', 'sink']
-]
+# # change
+# item_lists = [
+#     ['spoon', 'bottle', 'cup', 'oven'],
+#     ['bottle', 'sink', 'oven', 'refrigerator'],
+#     ['microwave', 'cup', 'knife', 'oven'],
+#     ['bottle', 'bowl', 'sink', 'spoon'],
+#     ['person', 'refrigerator', 'bottle', 'oven'],
+#     ['banana', 'refrigerator', 'chair', 'sink']
+# ]
