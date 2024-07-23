@@ -211,22 +211,22 @@ question_pool = [
 # ]
 
 # ========== doorway ========== #
-scene_tag = "doorway" # change
-frame_num = [53, 251, 262, 263, 459, 460, 485, 562, 564] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "doorway" # change
+# frame_num = [53, 251, 262, 263, 459, 460, 485, 562, 564] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# change
-item_lists = [
-    ['microwave', 'wine glass', 'book', 'bowl'], 
-    ['refrigerator', 'sink', 'oven', 'couch'],
-    ['vase', 'tv', 'book', 'potted plant'],
-    ['chair', 'microwave', 'refrigerator', 'cup'],
-    ['potted plant', 'chair', 'tv', 'dining table'],
-    ['potted plant', 'chair', 'vase'],
-    ['tv', 'couch', 'keyboard', 'book'],
-    ['person', 'microwave', 'oven', 'refrigerator'],
-    ['person', 'dog', 'sink', 'bowl']
-]
+# # change
+# item_lists = [
+#     ['microwave', 'wine glass', 'book', 'bowl'], 
+#     ['refrigerator', 'sink', 'oven', 'couch'],
+#     ['vase', 'tv', 'book', 'potted plant'],
+#     ['chair', 'microwave', 'refrigerator', 'cup'],
+#     ['potted plant', 'chair', 'tv', 'dining table'],
+#     ['potted plant', 'chair', 'vase'],
+#     ['tv', 'couch', 'keyboard', 'book'],
+#     ['person', 'microwave', 'oven', 'refrigerator'],
+#     ['person', 'dog', 'sink', 'bowl']
+# ]
 
 # ========== kitchen ========== #
 # scene_tag = "kitchen" # change
@@ -401,16 +401,16 @@ item_lists = [
 # ]
 
 # ========== dorm ========== #
-# scene_tag = "dorm" # change
-# frame_num = [128, 130, 131, 143, 267, 569] # change
-# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+scene_tag = "dorm" # change
+frame_num = [128, 130, 131, 143, 267, 569] # change
+scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# # change
-# item_lists = [
-#     ['spoon', 'bottle', 'cup', 'oven'],
-#     ['bottle', 'sink', 'oven', 'refrigerator'],
-#     ['microwave', 'cup', 'knife', 'oven'],
-#     ['bottle', 'bowl', 'sink', 'spoon'],
-#     ['person', 'refrigerator', 'bottle', 'oven'],
-#     ['banana', 'refrigerator', 'chair', 'sink']
-# ]
+# change
+item_lists = [
+    ['spoon', 'bottle', 'cup', 'oven'],
+    ['bottle', 'sink', 'oven', 'refrigerator'],
+    ['microwave', 'cup', 'knife', 'oven'],
+    ['bottle', 'bowl', 'sink', 'spoon'],
+    ['person', 'refrigerator', 'bottle', 'oven'],
+    ['banana', 'refrigerator', 'chair', 'sink']
+]
