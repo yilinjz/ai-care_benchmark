@@ -160,20 +160,20 @@ question_pool = [
 ### ========== VARIABLE ========== ###
 
 # ========== bathroom ========== #
-scene_tag = "bathroom" # change
-frame_num = [44, 49, 170, 500, 505, 509, 656] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "bathroom" # change
+# frame_num = [44, 49, 170, 500, 505, 509, 656] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# change
-item_lists = [
-    ['toothbrush', 'toilet', 'sink', 'cup'],
-    ['toothbrush', 'sink', 'toilet', 'toothpaste'],
-    ['toilet', 'sink', 'bottle', 'person'],
-    ['bottle', 'toothbrush', 'sink', 'toilet'],
-    ['towel', 'bottle', 'sink', 'toothbrush'],
-    ['cup', 'toothbrush', 'sink', 'bottle'],
-    ['cup', 'sink', 'towel', 'toilet']
-]
+# # change
+# item_lists = [
+#     ['toothbrush', 'toilet', 'sink', 'cup'],
+#     ['toothbrush', 'sink', 'toilet', 'bottle'],
+#     ['toilet', 'sink', 'bottle', 'person'],
+#     ['bottle', 'toothbrush', 'sink', 'toilet'],
+#     ['toilet', 'bottle', 'sink', 'toothbrush'],
+#     ['cup', 'toothbrush', 'sink', 'bottle'],
+#     ['cup', 'sink', 'bottle', 'toilet']
+# ]
 
 # ========== bedroom ========== #
 # scene_tag = "bedroom" # change
@@ -183,12 +183,12 @@ item_lists = [
 # # change
 # item_lists = [
 #     ['bed', 'vase', 'potted plant', 'dog'],
-#     ['backpack', 'book', 'bed', 'lamp'],
+#     ['backpack', 'book', 'bed', 'handbag'],
 #     ['couch', 'bed', 'chair', 'backpack'],
 #     ['keyboard', 'remote', 'tv', 'book'],
-#     ['bed', 'teddy bear', 'chair', 'carpet'],
+#     ['bed', 'teddy bear', 'chair', 'cup'],
 #     ['bed', 'teddy bear', 'chair'],
-#     ['laptop', 'dining table', 'map', 'backpack'],
+#     ['laptop', 'dining table', 'bed', 'backpack'],
 #     ['bed', 'chair', 'tv', 'mouse']
 # ]
 
@@ -211,22 +211,22 @@ item_lists = [
 # ]
 
 # ========== doorway ========== #
-# scene_tag = "doorway" # change
-# frame_num = [53, 251, 262, 263, 459, 460, 485, 562, 564] # change
-# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+scene_tag = "doorway" # change
+frame_num = [53, 251, 262, 263, 459, 460, 485, 562, 564] # change
+scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# # change
-# item_lists = [
-#     ['microwave', 'wine glass', 'book', 'bowl'], 
-#     ['refrigerator', 'sink', 'oven', 'couch'],
-#     ['vase', 'tv', 'book', 'potted plant'],
-#     ['chair', 'microwave', 'refrigerator', 'cup'],
-#     ['potted plant', 'chair', 'tv', 'dining table'],
-#     ['potted plant', 'chair', 'vase'],
-#     ['tv', 'couch', 'keyboard', 'book'],
-#     ['person', 'microwave', 'oven', 'refrigerator'],
-#     ['person', 'dog', 'sink', 'bowl']
-# ]
+# change
+item_lists = [
+    ['microwave', 'wine glass', 'book', 'bowl'], 
+    ['refrigerator', 'sink', 'oven', 'couch'],
+    ['vase', 'tv', 'book', 'potted plant'],
+    ['chair', 'microwave', 'refrigerator', 'cup'],
+    ['potted plant', 'chair', 'tv', 'dining table'],
+    ['potted plant', 'chair', 'vase'],
+    ['tv', 'couch', 'keyboard', 'book'],
+    ['person', 'microwave', 'oven', 'refrigerator'],
+    ['person', 'dog', 'sink', 'bowl']
+]
 
 # ========== kitchen ========== #
 # scene_tag = "kitchen" # change
@@ -386,7 +386,7 @@ item_lists = [
 # ]
 
 # ========== computer lab ========== #
-# scene_tag = "computer lab" # change
+# scene_tag = "computer_lab" # change
 # frame_num = [272, 279, 333, 335, 337, 338] # change
 # scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 

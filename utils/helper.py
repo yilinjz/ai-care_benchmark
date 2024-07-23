@@ -5,14 +5,14 @@ from utils.dictionary import WORD_DICTIONARY
 # pre-processing json data
 def process_context(context_json, language):
     context = []
-    for object in context_json:
-        text = object['TEXT']
+    for obj in context_json:
+        text = obj['TEXT']
         text = translate_word(text, language)
-        raw_oritentation = object['ORIENTATION'].split()
+        raw_oritentation = obj['ORIENTATION'].split()
         oritentation = [translate_word(word, language) for word in raw_oritentation]
         oritentation = ' '.join(oritentation)
-        depth = object['DEPTH']
-        position = object['POSITION']
+        depth = obj['DEPTH']
+        position = obj['POSITION']
         context.append(f"({text}, {oritentation}, {depth}, {position})")
     return context
 
@@ -71,4 +71,61 @@ def generate_questions_with_item_pair(index_pool, question_pool, item_pair, lang
             # reference
             question[language] = question[language].replace('[rf]', translate_word(item_pair[1], language))
         return index_pool, question
+
+def generate_location_answers(context, item):
+    orientation = None
+    for obj in context:
+        if obj['TEXT'] == item:
+            orientation = obj['ORIENTATION']
+    if not orientation:
+        print(context)
+        print(item)
+        raise ValueError("Item Not Found In Context!")
+    
+    orientation = orientation.split()
+    x_axis, y_axis = None, None
+    for direction in orientation:
+        if direction == 'up':
+            y_axis = 1
+        elif direction == 'down':
+            y_axis = -1
+        elif direction == 'slightly-up' or direction == 'slightly-down':
+            y_axis = 0
+        elif direction == 'left':
+            x_axis = -1
+        elif direction == 'right':
+            x_axis = 1
+        elif direction == 'slightly-left' or direction == 'slightly-right':
+            x_axis = 0
+        else:
+            continue
+
+    if x_axis == None and y_axis == None:
+        print(orientation)
+        raise ValueError("Cannot Decide Direction!")
+    elif x_axis == None:
+        x_axis = 0
+    elif y_axis == None:
+        y_axis = 0
+    
+    if x_axis == -1 and y_axis == -1:
+        return WORD_DICTIONARY['down and left']
+    elif x_axis == -1 and y_axis == 0:
+        return WORD_DICTIONARY['left']
+    elif x_axis == -1 and y_axis == 1:
+        return WORD_DICTIONARY['up and left']
+    elif x_axis == 0 and y_axis == -1:
+        return WORD_DICTIONARY['down']
+    elif x_axis == 0 and y_axis == 0:
+        return WORD_DICTIONARY['center']
+    elif x_axis == 0 and y_axis == 1:
+        return WORD_DICTIONARY['up']
+    elif x_axis == 1 and y_axis == -1:
+        return WORD_DICTIONARY['down and right']
+    elif x_axis == 1 and y_axis == 0:
+        return WORD_DICTIONARY['right']
+    elif x_axis == 1 and y_axis == 1:
+        return WORD_DICTIONARY['up and right']
+    else:
+        return ValueError("Cannot Decide Quadrant!")
     

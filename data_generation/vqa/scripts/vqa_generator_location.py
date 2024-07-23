@@ -11,7 +11,7 @@ import json
 
 from variable_location import category_tag, question_pool, scene_tag, scene_ids, item_lists
 from utils.const import language_list
-from utils.helper import generate_questions
+from utils.helper import generate_questions, generate_location_answers
 
 
 output = []
@@ -28,14 +28,19 @@ for i, scene_id in enumerate(scene_ids):
     for j, item in enumerate(item_list):
         qa_object = {}
 
+        ### QUESTION ###
         qa_object['qid'] = str(j)
         qa_object['question'] = {}
         index_pool, question = generate_questions(index_pool, question_pool, item, language_list)
         for language in language_list:
             qa_object['question'][language.value] = question[language]
-        # qa_object['answer'] = {}
-        # for language in language_list:
-        #     qa_object['answer'][language.value] = translate_word(answer_key[i][j], language)
+
+        ### ANSWER ###
+        context = json.load(open(f'benchmark/context/{scene_id}.json', encoding="utf8"))
+        answers = generate_location_answers(context, item)
+        qa_object['answer'] = {}
+        for language in language_list:
+            qa_object['answer'][language.value] = answers[language]
         
         qa_pairs.append(qa_object)
 
