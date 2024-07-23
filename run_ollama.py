@@ -4,7 +4,7 @@ import json
 
 import ollama
 
-from utils.const import language_list, model_id, benchmark_list
+from utils.const import model_id, tested_languages, benchmark_list
 from utils.helper import process_context, get_instruction_type, translate_word
 
 
@@ -44,7 +44,7 @@ def cmd_agent():
             for j, qa_pair in enumerate(scene['qa_pairs']):
                 data[i]['qa_pairs'][j]['result'] = {}
                 ### loops through each language (English, Mandarin and Cantonese)
-                for language in language_list:
+                for language in tested_languages:
                     question = qa_pair['question'][language.value]
                     context = process_context(context_json, language)
                     path_to_instruction = f"benchmark/prompt/{get_instruction_type(benchmark_name)}.json"
