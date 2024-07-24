@@ -247,33 +247,33 @@ question_pool = [
 # ]
 
 # ========== kitchen ========== #
-scene_tag = "kitchen" # change
-frame_num = [138, 139, 199, 203, 204, 253, 560, 849] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "kitchen" # change
+# frame_num = [138, 139, 199, 203, 204, 253, 560, 849] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# change
-item_lists = [
-    [['microwave', 'oven'], ['oven', 'bowl'], ['bowl', 'sink']],
-    [['bowl', 'microwave'], ['knife', 'bottle'], ['bottle', 'oven']],
-    [['knife', 'oven'], ['cup', 'oven'], ['bowl', 'oven']],
-    [['oven', 'microwave'], ['sink', 'oven'], ['cup', 'sink']],
-    [['toothbrush', 'sink'], ['wine glass', 'sink'], ['cup', 'wine glass']],
-    [['microwave', 'sink'], ['sink', 'refrigerator'], ['bottle', 'oven']],
-    [['sink', 'microwave'], ['oven', 'sink'], ['bottle', 'oven']],
-    [['toaster', 'sink'], ['bowl', 'oven'], ['bowl', 'sink']]
-]
+# # change
+# item_lists = [
+#     [['microwave', 'oven'], ['oven', 'bowl'], ['bowl', 'sink']],
+#     [['bowl', 'microwave'], ['knife', 'bottle'], ['bottle', 'oven']],
+#     [['knife', 'oven'], ['cup', 'oven'], ['bowl', 'oven']],
+#     [['oven', 'microwave'], ['sink', 'oven'], ['cup', 'sink']],
+#     [['toothbrush', 'sink'], ['wine glass', 'sink'], ['cup', 'wine glass']],
+#     [['microwave', 'sink'], ['sink', 'refrigerator'], ['bottle', 'oven']],
+#     [['sink', 'microwave'], ['oven', 'sink'], ['bottle', 'oven']],
+#     [['toaster', 'sink'], ['bowl', 'oven'], ['bowl', 'sink']]
+# ]
 
-# change
-answer_keys = [
-    ['up', 'left', 'left'],
-    ['right', 'up and right', 'up and left'],
-    ['up', 'right', 'down and right'],
-    ['down', 'down and left', 'right'],
-    ['up and right', 'center', 'left'],
-    ['up and left', 'right', 'up'],
-    ['right', 'down and left', 'up and right'],
-    ['up and right', 'left', 'up and right']
-]
+# # change
+# answer_keys = [
+#     ['up', 'left', 'left'],
+#     ['right', 'up and right', 'up and left'],
+#     ['up', 'right', 'down and right'],
+#     ['down', 'down and left', 'right'],
+#     ['up and right', 'center', 'left'],
+#     ['up and left', 'right', 'up'],
+#     ['right', 'down and left', 'up and right'],
+#     ['up and right', 'left', 'up and right']
+# ]
 
 # ========== living room ========== #
 # scene_tag = "living_room" # change
@@ -287,7 +287,7 @@ answer_keys = [
 #     [['vase', 'dining table'], ['dining table', 'couch'], ['chair', 'couch']],
 #     [['bottle', 'dining table'], ['chair', 'dining table'], ['tv', 'dining table']],
 #     [['tv', 'dining table'], ['tv', 'book'], ['dining table', 'chair']],
-#     [['laptop', 'couch'], ['potted plant', 'couch'], ['bowl', 'couch']],
+#     [['laptop', 'couch'], ['potted plant', 'couch'], ['bowl', 'laptop']],
 #     [['bicycle', 'chair'], ['keyboard', 'chair'], ['potted plant', 'bicycle']],
 #     [['tv', 'potted plant'], ['book', 'tv'], ['potted plant', 'couch']],
 #     [['backpack', 'tv'], ['tv', 'couch'], ['remote', 'backpack']],
@@ -296,46 +296,46 @@ answer_keys = [
 
 # # change
 # answer_keys = [
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', '']
+#     ['up and left', 'center', 'down and right'],
+#     ['up and left', 'left', 'down'],
+#     ['up', 'up', 'up'],
+#     ['up and left', 'up and right', 'up and right'],
+#     ['up and right', 'left', 'down'],
+#     ['down and left', 'up and right', 'left'],
+#     ['left', 'up', 'up and right'],
+#     ['up and right', 'left', 'down'],
+#     ['down and right', 'up and left', 'down and left'],
+#     ['right', 'down and left', 'down and left']
 # ]
 
 # ========== playroom ========== #
-# scene_tag = "playroom" # change
-# frame_num = [425, 426, 428, 437, 1081, 1084, 1157, 1203] # change
-# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+scene_tag = "playroom" # change
+frame_num = [425, 426, 428, 437, 1081, 1084, 1157, 1203] # change
+scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# # change
-# item_lists = [
-#     [['sports ball', 'chair'], ['backpack', 'sports ball'], ['backpack', 'dining table']],
-#     [['tv', 'couch'], ['couch', 'chair'], ['sports ball', 'tv']],
-#     [['suitcase', 'couch'], ['chair', 'couch'], ['couch', 'dining table']],
-#     [['tv', 'chair'], ['teddy bear', 'tv'], ['chair', 'dog']],
-#     [['chair', 'bed'], ['book', 'bed'], ['book', 'chair']],
-#     [['tv', 'chair'], ['chair', 'book'], ['remote', 'tv']],
-#     [['teddy bear', 'bed'], ['book', 'backpack'], ['teddy bear', 'book']],
-#     [['backpack', 'couch'], ['suitcase', 'couch'], ['backpack', 'chair']]
-# ]
+# change
+item_lists = [
+    [['sports ball', 'chair'], ['backpack', 'sports ball'], ['backpack', 'dining table']],
+    [['tv', 'couch'], ['couch', 'chair'], ['sports ball', 'tv']],
+    [['suitcase', 'couch'], ['chair', 'couch'], ['couch', 'dining table']],
+    [['tv', 'chair'], ['teddy bear', 'tv'], ['chair', 'dog']],
+    [['chair', 'bed'], ['book', 'bed'], ['book', 'chair']],
+    [['tv', 'chair'], ['chair', 'book'], ['remote', 'tv']],
+    [['teddy bear', 'bed'], ['book', 'backpack'], ['teddy bear', 'book']],
+    [['backpack', 'couch'], ['suitcase', 'couch'], ['backpack', 'chair']]
+]
 
-# # change
-# answer_keys = [
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', '']
-# ]
+# change
+answer_keys = [
+    ['', '', ''],
+    ['', '', ''],
+    ['', '', ''],
+    ['', '', ''],
+    ['', '', ''],
+    ['', '', ''],
+    ['', '', ''],
+    ['', '', '']
+]
 
 # ========== lobby ========== #
 # scene_tag = "lobby" # change
