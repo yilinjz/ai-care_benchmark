@@ -177,7 +177,7 @@ question_pool = [
 #     ['up and left', 'up', 'down and right'],
 #     ['left', 'down and right', 'left'],
 #     ['right', 'down and left', 'left'],
-#     ['up and right', 'center', 'down and left'],
+#     ['up and right', 'right', 'down and left'],
 #     ['up', 'up and right', 'right'],
 #     ['down and left', 'down and left'],
 #     ['up and right', 'right', 'down and left'],
@@ -204,15 +204,15 @@ question_pool = [
 
 # # change
 # answer_keys = [
-#     ['center', 'up and right', 'up and right'],
+#     ['up and right', 'up and right', 'up and right'],
 #     ['up and left', 'down', 'left'],
 #     ['down and right', 'down and left', 'up and left'],
 #     ['right', 'right', 'left'],
 #     ['left', 'up', 'down'],
-#     ['center', 'up and left', 'right'],
+#     ['up and right', 'up and left', 'right'],
 #     ['up and right', 'up', 'up and right'],
 #     ['up', 'up and right', 'down and right'],
-#     ['center', 'up', 'left']
+#     ['up and left', 'up', 'left']
 # ]
 
 # ========== doorway ========== #
@@ -269,7 +269,7 @@ question_pool = [
 #     ['right', 'up and right', 'up and left'],
 #     ['up', 'right', 'down and right'],
 #     ['down', 'down and left', 'right'],
-#     ['up and right', 'center', 'left'],
+#     ['up and right', 'down and right', 'left'],
 #     ['up and left', 'right', 'up'],
 #     ['right', 'down and left', 'up and right'],
 #     ['up and right', 'left', 'up and right']
@@ -296,7 +296,7 @@ question_pool = [
 
 # # change
 # answer_keys = [
-#     ['up and left', 'center', 'down and right'],
+#     ['up and left', 'up and left', 'down and right'],
 #     ['up and left', 'left', 'down'],
 #     ['up', 'up', 'up'],
 #     ['up and left', 'up and right', 'up and right'],
@@ -309,33 +309,33 @@ question_pool = [
 # ]
 
 # ========== playroom ========== #
-scene_tag = "playroom" # change
-frame_num = [425, 426, 428, 437, 1081, 1084, 1157, 1203] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "playroom" # change
+# frame_num = [425, 426, 428, 437, 1081, 1084, 1157, 1203] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# change
-item_lists = [
-    [['sports ball', 'chair'], ['backpack', 'sports ball'], ['backpack', 'dining table']],
-    [['tv', 'couch'], ['couch', 'chair'], ['sports ball', 'tv']],
-    [['suitcase', 'couch'], ['chair', 'couch'], ['couch', 'dining table']],
-    [['tv', 'chair'], ['teddy bear', 'tv'], ['chair', 'dog']],
-    [['chair', 'bed'], ['book', 'bed'], ['book', 'chair']],
-    [['tv', 'chair'], ['chair', 'book'], ['remote', 'tv']],
-    [['teddy bear', 'bed'], ['book', 'backpack'], ['teddy bear', 'book']],
-    [['backpack', 'couch'], ['suitcase', 'couch'], ['backpack', 'chair']]
-]
+# # change
+# item_lists = [
+#     [['sports ball', 'chair'], ['backpack', 'sports ball'], ['backpack', 'dining table']],
+#     [['tv', 'couch'], ['couch', 'chair'], ['sports ball', 'tv']],
+#     [['suitcase', 'couch'], ['chair', 'couch'], ['couch', 'dining table']],
+#     [['tv', 'chair'], ['teddy bear', 'tv'], ['chair', 'dog']],
+#     [['chair', 'bed'], ['book', 'bed'], ['book', 'chair']],
+#     [['tv', 'chair'], ['chair', 'book'], ['remote', 'tv']],
+#     [['backpack', 'bed'], ['book', 'backpack'], ['teddy bear', 'book']],
+#     [['backpack', 'couch'], ['suitcase', 'couch'], ['backpack', 'chair']]
+# ]
 
-# change
-answer_keys = [
-    ['', '', ''],
-    ['', '', ''],
-    ['', '', ''],
-    ['', '', ''],
-    ['', '', ''],
-    ['', '', ''],
-    ['', '', ''],
-    ['', '', '']
-]
+# # change
+# answer_keys = [
+#     ['down and left', 'up and left', 'left'],
+#     ['left', 'right', 'down and right'],
+#     ['up and right', 'up and right', 'down and right'],
+#     ['up', 'down and left', 'right'],
+#     ['up and left', 'up', 'up and right'],
+#     ['up', 'down', 'down'],
+#     ['left', 'down', 'up and right'],
+#     ['left', 'left', 'right']
+# ]
 
 # ========== lobby ========== #
 # scene_tag = "lobby" # change
@@ -345,21 +345,21 @@ answer_keys = [
 # # change
 # item_lists = [
 #     [['bottle', 'chair'], ['chair', 'tv']],
-#     [['clock', 'couch'], ['dining table', 'chair'], ['chair', 'couch']],
-#     [['vase', 'couch'], ['potted plant', 'chair']],
-#     [['tv', 'chair'], ['microwave', 'tv'], ['backpack', 'chair']],
+#     [['clock', 'couch'], ['clock', 'chair'], ['chair', 'couch']],
+#     [['vase', 'couch'], ['potted plant', 'chair'], ['vase', 'potted plant']],
+#     [['tv', 'chair'], ['microwave', 'tv'], ['backpack', 'potted plant']],
 #     [['couch', 'tv'], ['book', 'tv'], ['book', 'chair']],
 #     [['book', 'couch'], ['dining table', 'couch'], ['dining table', 'book']]
 # ]
 
 # # change
 # answer_keys = [
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', '']
+#     ['up and right', 'down'],
+#     ['up and left', 'up', 'down and left'],
+#     ['right', 'up', 'down'],
+#     ['left', 'up and right', 'down'],
+#     ['down and left', 'up', 'up and left'],
+#     ['up', 'down and right', 'down and right']
 # ]
 
 # ========== meeting room ========== #
@@ -371,16 +371,16 @@ answer_keys = [
 # item_lists = [
 #     [['dining table', 'chair'], ['microwave', 'dining table'], ['microwave', 'chair']],
 #     [['tv', 'chair'], ['mouse', 'tv'], ['mouse', 'bottle']],
-#     [['dining table', 'chair']],
-#     [['potted plant', 'dining table'], ['vase', 'chair'], ['potted plant', 'vase']]
+#     [['dining table', 'handbag']],
+#     [['potted plant', 'dining table'], ['potted plant', 'vase']]
 # ]
 
 # # change
 # answer_keys = [
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', '']
+#     ['left', 'up and right', 'up and right'],
+#     ['up', 'down and right', 'down and right'],
+#     ['down and left'],
+#     ['down and right', 'up']
 # ]
 
 # ========== pantry ========== #
@@ -399,11 +399,11 @@ answer_keys = [
 
 # # change
 # answer_keys = [
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', '']
+#     ['up and left', 'up and right', 'up and left'],
+#     ['up and right', 'up and right', 'right'],
+#     ['down', 'up and right', 'left'],
+#     ['up', 'down', 'up'],
+#     ['left', 'up and right', 'left']
 # ]
 
 # ========== workstation ========== #
@@ -425,14 +425,14 @@ answer_keys = [
 
 # # change
 # answer_keys = [
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', '']
+#     ['right', 'left', 'up'],
+#     ['right', 'up', 'up and left'],
+#     ['right', 'down', 'down and right'],
+#     ['up and left', 'down and right', 'up'],
+#     ['up and right', 'up and right', 'down and right'],
+#     ['left', 'left', 'right'],
+#     ['up and left', 'up', 'left'],
+#     ['down and right', 'up and left', 'down and left']
 # ]
 
 # ========== bookstore ========== #
@@ -444,18 +444,18 @@ answer_keys = [
 # item_lists = [
 #     [['clock', 'book']],
 #     [['bottle', 'book']],
-#     [['backpack', 'chair'], ['suitcase', 'chair']],
+#     [['backpack', 'chair'], ['person', 'backpack']],
 #     [['laptop', 'book'], ['tv', 'book'], ['mouse', 'keyboard']],
 #     [['chair', 'book'], ['dining table', 'chair'], ['book', 'dining table']]
 # ]
 
 # # change
 # answer_keys = [
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', '']
+#     ['up'],
+#     ['left'],
+#     ['right', 'up and right'],
+#     ['up and right', 'up and right', 'down and left'],
+#     ['down and left', 'left', 'up and right']
 # ]
 
 # ========== classroom ========== #
@@ -468,17 +468,17 @@ answer_keys = [
 #     [['backpack', 'dining table'], ['laptop', 'backpack'], ['book', 'laptop']],
 #     [['keyboard', 'tv'], ['laptop', 'tv'], ['keyboard', 'chair']],
 #     [['teddy bear', 'chair'], ['book', 'chair'], ['book', 'teddy bear']],
-#     [['chair', 'couch']],
+#     [['couch', 'refrigerator']],
 #     [['sink', 'chair'], ['dining table', 'chair'], ['bottle', 'sink']]
 # ]
 
 # # change
 # answer_keys = [
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', '']
+#     ['up', 'right', 'down'],
+#     ['left', 'up and left', 'down and right'],
+#     ['up and left', 'up and left', 'right'],
+#     ['left'],
+#     ['right', 'up', 'up and left']
 # ]
 
 # ========== coffee shop ========== #
@@ -500,14 +500,14 @@ answer_keys = [
 
 # # change
 # answer_keys = [
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', '']
+#     ['left', 'up', 'down and left'],
+#     ['right', 'down and right', 'down'],
+#     ['up and left', 'down and right', 'down and right'],
+#     ['down and right', 'up'],
+#     ['up and right', 'up and right', 'left'],
+#     ['left', 'up', 'right'],
+#     ['down', 'left', 'up and left'],
+#     ['up and left', 'up and left', 'up and left']
 # ]
 
 # ========== computer lab ========== #
@@ -523,6 +523,16 @@ answer_keys = [
 #     [['tv', 'chair'], ['keyboard', 'chair'], ['keyboard', 'tv']],
 #     [['tv', 'keyboard'], ['tv', 'chair'], ['mouse', 'keyboard']],
 #     [['book', 'tv'], ['keyboard', 'chair'], ['tv', 'chair']]
+# ]
+
+# # change
+# answer_keys = [
+#     ['right', 'left', 'down and right'],
+#     ['down', 'up'],
+#     ['up', 'down and right', 'down'],
+#     ['up', 'up and left', 'down and right'],
+#     ['up and left', 'up', 'down and right'],
+#     ['up and left', 'up and right', 'up and right']
 # ]
 
 # ========== dorm ========== #
@@ -542,10 +552,10 @@ answer_keys = [
 
 # # change
 # answer_keys = [
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', ''],
-#     ['', '', '']
+#     ['right', 'left', 'down and left'],
+#     ['right', 'right', 'left'],
+#     ['up', 'down and left', 'up and left'],
+#     ['right', 'left', 'down and right'],
+#     ['left', 'left', 'down and left'],
+#     ['down and left', 'left', 'up and left']
 # ]

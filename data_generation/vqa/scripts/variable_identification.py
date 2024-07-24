@@ -235,6 +235,6 @@ question_pool = [
 # scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
 # ========== dorm ========== #
-scene_tag = "dorm" # change
-frame_num = [128, 130, 131, 143, 267, 569] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "dorm" # change
+# frame_num = [128, 130, 131, 143, 267, 569] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]

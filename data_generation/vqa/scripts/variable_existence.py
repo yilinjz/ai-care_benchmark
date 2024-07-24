@@ -517,26 +517,26 @@ question_pool = [
 # ]
 
 # ========== dorm ========== #
-scene_tag = "dorm" # change
-frame_num = [128, 130, 131, 143, 267, 569] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "dorm" # change
+# frame_num = [128, 130, 131, 143, 267, 569] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# change
-item_lists = [
-    ['spoon', 'bottle', 'fork', 'knife'],
-    ['soap', 'sink', 'oven', 'refrigerator'],
-    ['microwave', 'toaster', 'knife', 'sandwich'],
-    ['bottle', 'fork', 'sink', 'spoon'],
-    ['person', 'refrigerator', 'wine glass', 'oven'],
-    ['banana', 'orange', 'chair', 'sink']
-]
+# # change
+# item_lists = [
+#     ['spoon', 'bottle', 'fork', 'knife'],
+#     ['soap', 'sink', 'oven', 'refrigerator'],
+#     ['microwave', 'toaster', 'knife', 'sandwich'],
+#     ['bottle', 'fork', 'sink', 'spoon'],
+#     ['person', 'refrigerator', 'wine glass', 'oven'],
+#     ['banana', 'orange', 'chair', 'sink']
+# ]
 
-# change
-answer_keys = [
-    ['Yes', 'Yes', 'No', 'No'],
-    ['No', 'Yes', 'Yes', 'Yes'],
-    ['Yes', 'No', 'Yes', 'No'],
-    ['Yes', 'No', 'Yes', 'Yes'],
-    ['Yes', 'Yes', 'No', 'Yes'],
-    ['Yes', 'No', 'Yes', 'Yes']
-]
+# # change
+# answer_keys = [
+#     ['Yes', 'Yes', 'No', 'No'],
+#     ['No', 'Yes', 'Yes', 'Yes'],
+#     ['Yes', 'No', 'Yes', 'No'],
+#     ['Yes', 'No', 'Yes', 'Yes'],
+#     ['Yes', 'Yes', 'No', 'Yes'],
+#     ['Yes', 'No', 'Yes', 'Yes']
+# ]

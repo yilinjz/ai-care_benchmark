@@ -401,16 +401,16 @@ question_pool = [
 # ]
 
 # ========== dorm ========== #
-scene_tag = "dorm" # change
-frame_num = [128, 130, 131, 143, 267, 569] # change
-scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
+# scene_tag = "dorm" # change
+# frame_num = [128, 130, 131, 143, 267, 569] # change
+# scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 
-# change
-item_lists = [
-    ['spoon', 'bottle', 'cup', 'oven'],
-    ['bottle', 'sink', 'oven', 'refrigerator'],
-    ['microwave', 'cup', 'knife', 'oven'],
-    ['bottle', 'bowl', 'sink', 'spoon'],
-    ['person', 'refrigerator', 'bottle', 'oven'],
-    ['banana', 'refrigerator', 'chair', 'sink']
-]
+# # change
+# item_lists = [
+#     ['spoon', 'bottle', 'cup', 'oven'],
+#     ['bottle', 'sink', 'oven', 'refrigerator'],
+#     ['microwave', 'cup', 'knife', 'oven'],
+#     ['bottle', 'bowl', 'sink', 'spoon'],
+#     ['person', 'refrigerator', 'bottle', 'oven'],
+#     ['banana', 'refrigerator', 'chair', 'sink']
+# ]
