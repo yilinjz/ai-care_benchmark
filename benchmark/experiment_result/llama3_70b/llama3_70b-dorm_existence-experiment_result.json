@@ -1,0 +1,416 @@
+[
+    {
+        "scene_id": "dorm_128",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you confirm if a spoon is present in the view?",
+                    "zh-CN": "你能否确认视图中是否存在勺子？",
+                    "zh-HK": "你能否確認视圖中是否存在勺？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Could you check if there's a bottle in what you can see?",
+                    "zh-CN": "检查一下你看到的内容中是否有瓶子？",
+                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇瓶子啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Does the scene captured show that I am near a fork?",
+                    "zh-CN": "拍摄到的场景是否表明我在叉子附近？",
+                    "zh-HK": "拍攝到嘅場景是否表明我喺叉附近？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Do you sense a knife in the scene?",
+                    "zh-CN": "你感觉到场景中有刀吗？",
+                    "zh-HK": "你感覺到場景中有刀嗎？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_130",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Do you sense a knife in the scene?",
+                    "zh-CN": "你感觉到场景中有刀吗？",
+                    "zh-HK": "你感覺到場景中有刀嗎？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Is there a sink in the view that you can tell me about?",
+                    "zh-CN": "可以告诉我视图中有水槽吗？",
+                    "zh-HK": "可唔可以話我视圖中有冇水槽啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Does the scene captured show that I am near a fork?",
+                    "zh-CN": "拍摄到的场景是否表明我在叉子附近？",
+                    "zh-HK": "拍攝到嘅場景是否表明我喺叉附近？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you see if a refrigerator is in the view?",
+                    "zh-CN": "你能看到视图中是否有电冰箱吗？",
+                    "zh-HK": "你能看到视圖中是否有電冰箱啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_131",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Am I near a microwave, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在微波炉附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺微波爐附近？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Is there any toaster in the scene?",
+                    "zh-CN": "场景中有烤面包机吗？",
+                    "zh-HK": "場景中有多士爐嗎？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Do you notice a knife in the view?",
+                    "zh-CN": "你是否注意到视图中的刀？",
+                    "zh-HK": "你是否注意到視圖中嘅刀？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is a sandwich visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到三明治啊？",
+                    "zh-HK": "呢個場景入面有無見到三文治啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_143",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is it evident from the scene that I am near a bottle?",
+                    "zh-CN": "从场景中可以明显看出我在瓶子附近吗？",
+                    "zh-HK": "從場景中可以明顯看出我喺瓶子附近呀？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Is there a fork in the scene?",
+                    "zh-CN": "场景中有叉子吗？",
+                    "zh-HK": "場景中有冇叉啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Based on the scene captured, am I close to a sink?",
+                    "zh-CN": "根据拍摄的场景，我是否接近水槽？",
+                    "zh-HK": "根據拍攝的場景，我是否接近水槽？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Does the scene captured show that I am near a fork?",
+                    "zh-CN": "拍摄到的场景是否表明我在叉子附近？",
+                    "zh-HK": "拍攝到嘅場景是否表明我喺叉附近？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_267",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is a person present in the scene?",
+                    "zh-CN": "场景中是否存在人？",
+                    "zh-HK": "場景中是否存在人呀？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Is there a sink in the view that you can tell me about?",
+                    "zh-CN": "可以告诉我视图中有水槽吗？",
+                    "zh-HK": "可唔可以話我视圖中有冇水槽啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Do you notice a knife in the view?",
+                    "zh-CN": "你是否注意到视图中的刀？",
+                    "zh-HK": "你是否注意到視圖中嘅刀？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is there a fork in the scene?",
+                    "zh-CN": "场景中有叉子吗？",
+                    "zh-HK": "場景中有冇叉啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_569",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Based on the scene captured, am I close to a sink?",
+                    "zh-CN": "根据拍摄的场景，我是否接近水槽？",
+                    "zh-HK": "根據拍攝的場景，我是否接近水槽？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Do you detect a orange in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无橘子？",
+                    "zh-HK": "你感唔感應到周圍環境有冇橘子?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Is a person present in the scene?",
+                    "zh-CN": "场景中是否存在人？",
+                    "zh-HK": "場景中是否存在人呀？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is a sink visible in the view?",
+                    "zh-CN": "水槽在视图中是否可见？",
+                    "zh-HK": "水槽在視圖中是否可見？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            }
+        ]
+    }
+]
