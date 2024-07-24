@@ -5,9 +5,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Based on the scene captured, am I close to a sports ball?",
-                    "zh-CN": "根据拍摄的场景，我是否接近运动用球？",
-                    "zh-HK": "根據拍攝的場景，我是否接近運動波？"
+                    "en-US": "Is there a sports ball in the scene?",
+                    "zh-CN": "场景中有运动用球吗？",
+                    "zh-HK": "場景中有冇運動波啊？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -18,9 +18,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Does the scene captured show that I am near a backpack?",
-                    "zh-CN": "拍摄到的场景是否表明我在背包附近？",
-                    "zh-HK": "拍攝到嘅場景是否表明我喺背囊附近？"
+                    "en-US": "Can you confirm if a backpack is present in the view?",
+                    "zh-CN": "你能否确认视图中是否存在背包？",
+                    "zh-HK": "你能否確認视圖中是否存在背囊？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -31,9 +31,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Could you check if there's a frisbee in what you can see?",
-                    "zh-CN": "检查一下你看到的内容中是否有飞盘？",
-                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇飛盤啊?"
+                    "en-US": "Can you tell me if a frisbee is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有飞盘？",
+                    "zh-HK": "你可唔可以話我畫面中有冇飛盤啊？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -44,9 +44,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Is it evident from the scene that I am near a kite?",
-                    "zh-CN": "从场景中可以明显看出我在风筝附近吗？",
-                    "zh-HK": "從場景中可以明顯看出我喺風箏附近呀？"
+                    "en-US": "Do you sense a kite in the scene?",
+                    "zh-CN": "你感觉到场景中有风筝吗？",
+                    "zh-HK": "你感覺到場景中有風箏嗎？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -62,9 +62,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Does the scene captured show that I am near a backpack?",
-                    "zh-CN": "拍摄到的场景是否表明我在背包附近？",
-                    "zh-HK": "拍攝到嘅場景是否表明我喺背囊附近？"
+                    "en-US": "Am I near a dining table, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在餐桌附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺餐桌附近？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -75,9 +75,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Am I near a tv, according to the scene captured?",
-                    "zh-CN": "根据拍摄到的场景，我是在电视附近吗？",
-                    "zh-HK": "根據攝到嘅畫面，我係咪喺電視附近？"
+                    "en-US": "Do you detect a tv in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无电视？",
+                    "zh-HK": "你感唔感應到周圍環境有冇電視?"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -88,9 +88,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Could you check if there's a frisbee in what you can see?",
-                    "zh-CN": "检查一下你看到的内容中是否有飞盘？",
-                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇飛盤啊?"
+                    "en-US": "Do you detect a sports ball in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无运动用球？",
+                    "zh-HK": "你感唔感應到周圍環境有冇運動波?"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -101,9 +101,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Is a bicycle visible in the current scene?",
-                    "zh-CN": "当前场景中能不能看到自行车啊？",
-                    "zh-HK": "呢個場景入面有無見到單車啊？"
+                    "en-US": "Is there a bicycle in the scene?",
+                    "zh-CN": "场景中有自行车吗？",
+                    "zh-HK": "場景中有冇單車啊？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -119,9 +119,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Does the scene captured show that I am near a backpack?",
-                    "zh-CN": "拍摄到的场景是否表明我在背包附近？",
-                    "zh-HK": "拍攝到嘅場景是否表明我喺背囊附近？"
+                    "en-US": "Is there a suitcase in the view that you can tell me about?",
+                    "zh-CN": "可以告诉我视图中有行李箱吗？",
+                    "zh-HK": "可唔可以話我视圖中有冇行李箱啊？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -132,9 +132,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Based on the scene captured, am I close to a sports ball?",
-                    "zh-CN": "根据拍摄的场景，我是否接近运动用球？",
-                    "zh-HK": "根據拍攝的場景，我是否接近運動波？"
+                    "en-US": "Is there any backpack in the scene?",
+                    "zh-CN": "场景中有背包吗？",
+                    "zh-HK": "場景中有背囊嗎？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -145,9 +145,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Could you check if there's a frisbee in what you can see?",
-                    "zh-CN": "检查一下你看到的内容中是否有飞盘？",
-                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇飛盤啊?"
+                    "en-US": "Based on the scene captured, am I close to a couch?",
+                    "zh-CN": "根据拍摄的场景，我是否接近沙发？",
+                    "zh-HK": "根據拍攝的場景，我是否接近梳化？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -158,9 +158,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Do you sense a laptop in the scene?",
-                    "zh-CN": "你感觉到场景中有笔记本电脑吗？",
-                    "zh-HK": "你感覺到場景中有筆記本電腦嗎？"
+                    "en-US": "Is a laptop visible in the view?",
+                    "zh-CN": "笔记本电脑在视图中是否可见？",
+                    "zh-HK": "筆記本電腦在視圖中是否可見？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -176,9 +176,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you tell me if a teddy bear is present in the view?",
-                    "zh-CN": "能不能告诉我画面中是否有泰迪熊？",
-                    "zh-HK": "你可唔可以話我畫面中有冇啤啤熊啊？"
+                    "en-US": "Can you see a teddy bear in the scene?",
+                    "zh-CN": "你能在场景中看到泰迪熊吗？",
+                    "zh-HK": "你見唔見到現場有啤啤熊呀？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -189,9 +189,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Could you check if there's a frisbee in what you can see?",
-                    "zh-CN": "检查一下你看到的内容中是否有飞盘？",
-                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇飛盤啊?"
+                    "en-US": "Is there a tv in the view that you can tell me about?",
+                    "zh-CN": "可以告诉我视图中有电视吗？",
+                    "zh-HK": "可唔可以話我视圖中有冇電視啊？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -202,9 +202,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Do you detect a chair in the surroundings?",
-                    "zh-CN": "你能否感应到在周围环境中有无椅子？",
-                    "zh-HK": "你感唔感應到周圍環境有冇椅子?"
+                    "en-US": "Can you see if a chair is in the view?",
+                    "zh-CN": "你能看到视图中是否有椅子吗？",
+                    "zh-HK": "你能看到视圖中是否有椅子啊？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -215,9 +215,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Can you confirm if a cat is present in the view?",
-                    "zh-CN": "你能否确认视图中是否存在猫？",
-                    "zh-HK": "你能否確認视圖中是否存在貓？"
+                    "en-US": "Do you detect a cat in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无猫？",
+                    "zh-HK": "你感唔感應到周圍環境有冇貓?"
                 },
                 "answer": {
                     "en-US": "No",
@@ -233,9 +233,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you see a bed in the scene?",
-                    "zh-CN": "你能在场景中看到床吗？",
-                    "zh-HK": "你見唔見到現場有床呀？"
+                    "en-US": "Is a bed visible in the view?",
+                    "zh-CN": "床在视图中是否可见？",
+                    "zh-HK": "床在視圖中是否可見？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -246,9 +246,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Does the scene captured show that I am near a backpack?",
-                    "zh-CN": "拍摄到的场景是否表明我在背包附近？",
-                    "zh-HK": "拍攝到嘅場景是否表明我喺背囊附近？"
+                    "en-US": "Is a book visible in the scene?",
+                    "zh-CN": "场景中是否可见书？",
+                    "zh-HK": "場景中是否可見書？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -259,9 +259,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Is a bicycle visible in the current scene?",
-                    "zh-CN": "当前场景中能不能看到自行车啊？",
-                    "zh-HK": "呢個場景入面有無見到單車啊？"
+                    "en-US": "Is it evident from the scene that I am near a vase?",
+                    "zh-CN": "从场景中可以明显看出我在花瓶附近吗？",
+                    "zh-HK": "從場景中可以明顯看出我喺花瓶附近呀？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -272,9 +272,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Can you see if a motorcycle is in the view?",
-                    "zh-CN": "你能看到视图中是否有摩托车吗？",
-                    "zh-HK": "你能看到视圖中是否有電單車啊？"
+                    "en-US": "Is there any motorcycle in the scene?",
+                    "zh-CN": "场景中有摩托车吗？",
+                    "zh-HK": "場景中有電單車嗎？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -290,9 +290,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you see if a motorcycle is in the view?",
-                    "zh-CN": "你能看到视图中是否有摩托车吗？",
-                    "zh-HK": "你能看到视圖中是否有電單車啊？"
+                    "en-US": "Based on the scene captured, am I close to a mouse?",
+                    "zh-CN": "根据拍摄的场景，我是否接近鼠标？",
+                    "zh-HK": "根據拍攝的場景，我是否接近鼠標？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -303,9 +303,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Is there a book in the view that you can tell me about?",
-                    "zh-CN": "可以告诉我视图中有书吗？",
-                    "zh-HK": "可唔可以話我视圖中有冇書啊？"
+                    "en-US": "Is there any book in the scene?",
+                    "zh-CN": "场景中有书吗？",
+                    "zh-HK": "場景中有書嗎？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -316,9 +316,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Does the scene captured show that I am near a backpack?",
-                    "zh-CN": "拍摄到的场景是否表明我在背包附近？",
-                    "zh-HK": "拍攝到嘅場景是否表明我喺背囊附近？"
+                    "en-US": "Am I near a remote, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在遥控器附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺遙控器附近？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -329,9 +329,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Could you check if there's a frisbee in what you can see?",
-                    "zh-CN": "检查一下你看到的内容中是否有飞盘？",
-                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇飛盤啊?"
+                    "en-US": "Is a dining table visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到餐桌啊？",
+                    "zh-HK": "呢個場景入面有無見到餐桌啊？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -347,9 +347,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Could you check if there's a frisbee in what you can see?",
-                    "zh-CN": "检查一下你看到的内容中是否有飞盘？",
-                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇飛盤啊?"
+                    "en-US": "Is a sports ball visible in the view?",
+                    "zh-CN": "运动用球在视图中是否可见？",
+                    "zh-HK": "運動波在視圖中是否可見？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -360,9 +360,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Do you sense a laptop in the scene?",
-                    "zh-CN": "你感觉到场景中有笔记本电脑吗？",
-                    "zh-HK": "你感覺到場景中有筆記本電腦嗎？"
+                    "en-US": "Is there any tie in the scene?",
+                    "zh-CN": "场景中有领带吗？",
+                    "zh-HK": "場景中有領呔嗎？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -373,9 +373,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Is it evident from the scene that I am near a kite?",
-                    "zh-CN": "从场景中可以明显看出我在风筝附近吗？",
-                    "zh-HK": "從場景中可以明顯看出我喺風箏附近呀？"
+                    "en-US": "Is there a teddy bear in the scene?",
+                    "zh-CN": "场景中有泰迪熊吗？",
+                    "zh-HK": "場景中有冇啤啤熊啊？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -386,9 +386,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Does the scene captured show that I am near a backpack?",
-                    "zh-CN": "拍摄到的场景是否表明我在背包附近？",
-                    "zh-HK": "拍攝到嘅場景是否表明我喺背囊附近？"
+                    "en-US": "Can you see a bed in the scene?",
+                    "zh-CN": "你能在场景中看到床吗？",
+                    "zh-HK": "你見唔見到現場有床呀？"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -404,9 +404,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Is a suitcase visible in the view?",
-                    "zh-CN": "行李箱在视图中是否可见？",
-                    "zh-HK": "行李箱在視圖中是否可見？"
+                    "en-US": "Do you detect a suitcase in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无行李箱？",
+                    "zh-HK": "你感唔感應到周圍環境有冇行李箱?"
                 },
                 "answer": {
                     "en-US": "Yes",
@@ -417,9 +417,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Do you detect a chair in the surroundings?",
-                    "zh-CN": "你能否感应到在周围环境中有无椅子？",
-                    "zh-HK": "你感唔感應到周圍環境有冇椅子?"
+                    "en-US": "Is a fire hydrant visible in the view?",
+                    "zh-CN": "消防栓在视图中是否可见？",
+                    "zh-HK": "消防栓在視圖中是否可見？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -430,9 +430,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Is a traffic light visible in the scene?",
-                    "zh-CN": "场景中是否可见红绿灯？",
-                    "zh-HK": "場景中是否可見信號燈？"
+                    "en-US": "Is there any traffic light in the scene?",
+                    "zh-CN": "场景中有红绿灯吗？",
+                    "zh-HK": "場景中有信號燈嗎？"
                 },
                 "answer": {
                     "en-US": "No",
@@ -443,9 +443,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Do you sense a laptop in the scene?",
-                    "zh-CN": "你感觉到场景中有笔记本电脑吗？",
-                    "zh-HK": "你感覺到場景中有筆記本電腦嗎？"
+                    "en-US": "Based on the scene captured, am I close to a bench?",
+                    "zh-CN": "根据拍摄的场景，我是否接近长椅？",
+                    "zh-HK": "根據拍攝的場景，我是否接近長椅？"
                 },
                 "answer": {
                     "en-US": "No",

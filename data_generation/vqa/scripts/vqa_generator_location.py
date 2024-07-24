@@ -23,7 +23,6 @@ for i, scene_id in enumerate(scene_ids):
 
     # get the items
     item_list = item_lists[i]
-    index_pool = list(range(0, len(question_pool)))
     # make a question for each item
     for j, item in enumerate(item_list):
         qa_object = {}
@@ -31,7 +30,7 @@ for i, scene_id in enumerate(scene_ids):
         ### QUESTION ###
         qa_object['qid'] = str(j)
         qa_object['question'] = {}
-        index_pool, question = generate_questions(index_pool, question_pool, item, language_list)
+        question = generate_questions(question_pool, item, language_list)
         for language in language_list:
             qa_object['question'][language.value] = question[language]
 

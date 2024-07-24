@@ -5,9 +5,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If dining table is in front of me, where is backpack located?",
-                    "zh-CN": "如果餐桌在我面前，背包在哪里？",
-                    "zh-HK": "如果餐桌在我面前，背囊喺邊度？"
+                    "en-US": "What is the way to get to backpack from dining table?",
+                    "zh-CN": "从餐桌到达背包的方法是什么？",
+                    "zh-HK": "從餐桌到達背囊的方法是什麼？"
                 },
                 "answer": {
                     "en-US": "up",
@@ -18,9 +18,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where is laptop located relative to backpack?",
-                    "zh-CN": "笔记本电脑是在背包的哪边?",
-                    "zh-HK": "筆記本電腦喺在背囊的邊度?"
+                    "en-US": "If backpack is ahead of me, where can I find laptop?",
+                    "zh-CN": "如果背包在我前面，我在哪里可以找到笔记本电脑？",
+                    "zh-HK": "如果背囊喺我前面，我喺邊度可以搵到筆記本電腦？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -49,9 +49,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "When looking at tv, where is keyboard?",
-                    "zh-CN": "当看着电视时，键盘在哪里？",
-                    "zh-HK": "當睇住電視時，鍵盤在哪裡？"
+                    "en-US": "What route should I take to go from tv to keyboard?",
+                    "zh-CN": "我应该走什么路线从电视到键盘？",
+                    "zh-HK": "我應該走乜嘢路線由電視到鍵盤？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -62,9 +62,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If I'm facing tv, in which direction is laptop?",
-                    "zh-CN": "我现在正面对电视, 笔记本电脑在哪个方向?",
-                    "zh-HK": "我對住電視, 筆記本電腦喺邊個方向？"
+                    "en-US": "Can you direct me to laptop from tv's location?",
+                    "zh-CN": "你能把我从电视的位置引导到笔记本电脑吗？",
+                    "zh-HK": "你能把我從電視的位置引導到筆記本電腦嗎？"
                 },
                 "answer": {
                     "en-US": "up and left",
@@ -75,9 +75,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you point me towards keyboard from where chair is?",
-                    "zh-CN": "你能否指引我怎样从椅子到键盘?",
-                    "zh-HK": "你可以指俾我睇，由椅子點樣揾到鍵盤?"
+                    "en-US": "What direction should I take from chair to get to keyboard?",
+                    "zh-CN": "我应该从椅子往什么方向走才能到达键盘？",
+                    "zh-HK": "我应该从椅子往什么方向走才能到达鍵盤？"
                 },
                 "answer": {
                     "en-US": "down and right",
@@ -93,9 +93,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If chair is in front of me, where should I look for teddy bear?",
-                    "zh-CN": "如果椅子在我正前方，我应该往哪边找泰迪熊?",
-                    "zh-HK": "椅子喺在我面前，我應該望邊度搵啤啤熊?"
+                    "en-US": "When looking at chair, where is teddy bear?",
+                    "zh-CN": "当看着椅子时，泰迪熊在哪里？",
+                    "zh-HK": "當睇住椅子時，啤啤熊在哪裡？"
                 },
                 "answer": {
                     "en-US": "up and left",
@@ -106,9 +106,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If chair is directly ahead, where is book located?",
-                    "zh-CN": "如果椅子在正前方，那么书在哪里？",
-                    "zh-HK": "如果椅子在正前方，咁書喺邊度？"
+                    "en-US": "Can you show me the way to book from chair?",
+                    "zh-CN": "你能告诉我从椅子到书的方法吗？",
+                    "zh-HK": "你可唔可以話我由椅子到書嘅方法啊？"
                 },
                 "answer": {
                     "en-US": "up and left",
@@ -119,9 +119,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If teddy bear is ahead of me, where can I find book?",
-                    "zh-CN": "如果泰迪熊在我前面，我在哪里可以找到书？",
-                    "zh-HK": "如果啤啤熊喺我前面，我喺邊度可以搵到書？"
+                    "en-US": "Where is book located relative to teddy bear?",
+                    "zh-CN": "书是在泰迪熊的哪边?",
+                    "zh-HK": "書喺在啤啤熊的邊度?"
                 },
                 "answer": {
                     "en-US": "right",
@@ -137,9 +137,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "What direction should I take from refrigerator to get to couch?",
-                    "zh-CN": "我应该从电冰箱往什么方向走才能到达沙发？",
-                    "zh-HK": "我应该从電冰箱往什么方向走才能到达梳化？"
+                    "en-US": "What route should I take to go from refrigerator to couch?",
+                    "zh-CN": "我应该走什么路线从电冰箱到沙发？",
+                    "zh-HK": "我應該走乜嘢路線由電冰箱到梳化？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -155,9 +155,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If teddy bear is ahead of me, where can I find book?",
-                    "zh-CN": "如果泰迪熊在我前面，我在哪里可以找到书？",
-                    "zh-HK": "如果啤啤熊喺我前面，我喺邊度可以搵到書？"
+                    "en-US": "In which direction should I head from chair to locate sink?",
+                    "zh-CN": "我应该从椅子朝哪个方向移动才能找到水槽？",
+                    "zh-HK": "我應該從椅子朝哪個方向移動才能找到水槽？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -181,9 +181,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "In which direction should I head from sink to locate bottle?",
-                    "zh-CN": "我应该从水槽朝哪个方向移动才能找到瓶子？",
-                    "zh-HK": "我應該從水槽朝哪個方向移動才能找到瓶子？"
+                    "en-US": "If sink is in front of me, where is bottle located?",
+                    "zh-CN": "如果水槽在我面前，瓶子在哪里？",
+                    "zh-HK": "如果水槽在我面前，瓶子喺邊度？"
                 },
                 "answer": {
                     "en-US": "up and left",

@@ -5,9 +5,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you direct me to clock from book's location?",
-                    "zh-CN": "你能把我从书的位置引导到时钟吗？",
-                    "zh-HK": "你能把我從書的位置引導到時鐘嗎？"
+                    "en-US": "Can you guide me to clock starting from book?",
+                    "zh-CN": "你能引导我从书到时钟吗？",
+                    "zh-HK": "你能引導我從書到時鐘嗎？"
                 },
                 "answer": {
                     "en-US": "up",
@@ -23,9 +23,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "How do I reach bottle from book?",
-                    "zh-CN": "我怎样可以从书摸到瓶子?",
-                    "zh-HK": "我點樣可以由書揾到瓶子?"
+                    "en-US": "Which way should I go from book to reach bottle?",
+                    "zh-CN": "从书到瓶子的路是哪条？",
+                    "zh-HK": "由書到瓶子嘅路係邊條？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -41,9 +41,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you direct me to clock from book's location?",
-                    "zh-CN": "你能把我从书的位置引导到时钟吗？",
-                    "zh-HK": "你能把我從書的位置引導到時鐘嗎？"
+                    "en-US": "Where can backpack be found in relation to chair?",
+                    "zh-CN": "在哪里可以找到与椅子相关的 背包？",
+                    "zh-HK": "喺邊度可以搵到與椅子相關嘅背囊？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -54,9 +54,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Which way should I go from backpack to reach person?",
-                    "zh-CN": "从背包到人的路是哪条？",
-                    "zh-HK": "由背囊到人嘅路係邊條？"
+                    "en-US": "With backpack in front, where should I search for person?",
+                    "zh-CN": "前面有背包，我应该在哪里搜索人？",
+                    "zh-HK": "前面有背囊，我應該喺邊度搜索人？"
                 },
                 "answer": {
                     "en-US": "up and right",
@@ -72,9 +72,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If book is in front of me, where is laptop located?",
-                    "zh-CN": "如果书在我面前，笔记本电脑在哪里？",
-                    "zh-HK": "如果書在我面前，筆記本電腦喺邊度？"
+                    "en-US": "How do I reach laptop from book?",
+                    "zh-CN": "我怎样可以从书摸到笔记本电脑?",
+                    "zh-HK": "我點樣可以由書揾到筆記本電腦?"
                 },
                 "answer": {
                     "en-US": "up and right",
@@ -85,9 +85,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "With book in front, where should I search for tv?",
-                    "zh-CN": "前面有书，我应该在哪里搜索电视？",
-                    "zh-HK": "前面有書，我應該喺邊度搜索電視？"
+                    "en-US": "If book is ahead of me, where can I find tv?",
+                    "zh-CN": "如果书在我前面，我在哪里可以找到电视？",
+                    "zh-HK": "如果書喺我前面，我喺邊度可以搵到電視？"
                 },
                 "answer": {
                     "en-US": "up and right",
@@ -98,9 +98,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is mouse located relative to keyboard?",
-                    "zh-CN": "鼠标是在键盘的哪边?",
-                    "zh-HK": "鼠標喺在鍵盤的邊度?"
+                    "en-US": "What direction should I take from keyboard to get to mouse?",
+                    "zh-CN": "我应该从键盘往什么方向走才能到达鼠标？",
+                    "zh-HK": "我应该从鍵盤往什么方向走才能到达鼠標？"
                 },
                 "answer": {
                     "en-US": "down and left",
@@ -116,9 +116,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "How is chair situated compared to book?",
-                    "zh-CN": "与书相比，椅子的位置如何？",
-                    "zh-HK": "與書相比，椅子的位置如何？"
+                    "en-US": "If book is in front of me, where is chair located?",
+                    "zh-CN": "如果书在我面前，椅子在哪里？",
+                    "zh-HK": "如果書在我面前，椅子喺邊度？"
                 },
                 "answer": {
                     "en-US": "down and left",
@@ -129,9 +129,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If chair is ahead of me, where can I find dining table?",
-                    "zh-CN": "如果椅子在我前面，我在哪里可以找到餐桌？",
-                    "zh-HK": "如果椅子喺我前面，我喺邊度可以搵到餐桌？"
+                    "en-US": "Facing chair, which way is dining table?",
+                    "zh-CN": "面对椅子，餐桌是哪个方向？",
+                    "zh-HK": "面對椅子，餐桌係邊個方向？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -142,9 +142,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "From dining table, which direction should I move to find book?",
-                    "zh-CN": "我从餐桌开始往哪个方向移动可以到书?",
-                    "zh-HK": "我由餐桌要行邊個方向去揾書?"
+                    "en-US": "Where can book be found in relation to dining table?",
+                    "zh-CN": "在哪里可以找到与餐桌相关的 书？",
+                    "zh-HK": "喺邊度可以搵到與餐桌相關嘅書？"
                 },
                 "answer": {
                     "en-US": "up and right",

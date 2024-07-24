@@ -1,4 +1,5 @@
 import random
+import copy
 
 from utils.dictionary import WORD_DICTIONARY
 
@@ -41,18 +42,6 @@ def get_instruction_type(benchmark_name):
 def translate_word(word, language):
     return WORD_DICTIONARY[word][language]
 
-# pick question from pool
-def generate_questions(index_pool, question_pool, item, language_list):
-    if not index_pool:
-        index_pool = list(range((0, len(question_pool))))
-    else:
-        idx = random.choice(index_pool)
-        index_pool.remove(idx)
-        question = question_pool[idx]
-        for language in language_list:
-            question[language] = question[language].replace('[dt]', translate_word(item, language))
-        return index_pool, question
-    
 def generate_open_questions(question_pool):
     return [
         random.choice(question_pool[0:5]),
@@ -61,20 +50,22 @@ def generate_open_questions(question_pool):
         random.choice(question_pool[17:23]),
         random.choice(question_pool[23:29])
     ]
+
+# pick question from pool
+def generate_questions(question_pool, item, language_list):
+    question = copy.deepcopy(random.choice(question_pool))
+    for language in language_list:
+        question[language] = question[language].replace('[dt]', translate_word(item, language))
+    return question
     
-def generate_questions_with_item_pair(index_pool, question_pool, item_pair, language_list):
-    if not index_pool:
-        index_pool = list(range((0, len(question_pool))))
-    else:
-        idx = random.choice(index_pool)
-        index_pool.remove(idx)
-        question = question_pool[idx]
-        for language in language_list:
-            # target
-            question[language] = question[language].replace('[dt]', translate_word(item_pair[0], language))
-            # reference
-            question[language] = question[language].replace('[rf]', translate_word(item_pair[1], language))
-        return index_pool, question
+def generate_questions_with_item_pair(question_pool, item_pair, language_list):
+    question = copy.deepcopy(random.choice(question_pool))
+    for language in language_list:
+        # target
+        question[language] = question[language].replace('[dt]', translate_word(item_pair[0], language))
+        # reference
+        question[language] = question[language].replace('[rf]', translate_word(item_pair[1], language))
+    return question
 
 def generate_location_answers(context, item):
     orientation = None

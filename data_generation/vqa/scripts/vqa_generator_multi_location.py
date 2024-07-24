@@ -23,14 +23,13 @@ for i, scene_id in enumerate(scene_ids):
 
     # get the item pairs
     item_list = item_lists[i]
-    index_pool = list(range(0, len(question_pool)))
     # make a question for each item pair
     for j, item_pair in enumerate(item_list):
         qa_object = {}
 
         qa_object['qid'] = str(j)
         qa_object['question'] = {}
-        index_pool, question = generate_questions_with_item_pair(index_pool, question_pool, item_pair, language_list)
+        question = generate_questions_with_item_pair(question_pool, item_pair, language_list)
         for language in language_list:
             qa_object['question'][language.value] = question[language]
         qa_object['answer'] = {}
