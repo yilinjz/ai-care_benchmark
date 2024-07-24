@@ -5,25 +5,40 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If chair is in front of me, where is dining table located?",
-                    "zh-CN": "如果椅子在我面前，餐桌在哪里？",
-                    "zh-HK": "如果椅子在我面前，餐桌喺邊度？"
+                    "en-US": "Can you show me the way to dining table from chair?",
+                    "zh-CN": "你能告诉我从椅子到餐桌的方法吗？",
+                    "zh-HK": "你可唔可以話我由椅子到餐桌嘅方法啊？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From dining table, which direction should I move to find microwave?",
-                    "zh-CN": "我从餐桌开始往哪个方向移动可以到微波炉?",
-                    "zh-HK": "我由餐桌要行邊個方向去揾微波爐?"
+                    "en-US": "Which way should I go from dining table to reach microwave?",
+                    "zh-CN": "从餐桌到微波炉的路是哪条？",
+                    "zh-HK": "由餐桌到微波爐嘅路係邊條？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If chair is in front of me, where should I look for microwave?",
-                    "zh-CN": "如果椅子在我正前方，我应该往哪边找微波炉?",
-                    "zh-HK": "椅子喺在我面前，我應該望邊度搵微波爐?"
+                    "en-US": "Can you guide me to microwave starting from chair?",
+                    "zh-CN": "你能引导我从椅子到微波炉吗？",
+                    "zh-HK": "你能引導我從椅子到微波爐嗎？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
                 }
             }
         ]
@@ -34,25 +49,40 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "In which direction should I head from chair to locate tv?",
-                    "zh-CN": "我应该从椅子朝哪个方向移动才能找到电视？",
-                    "zh-HK": "我應該從椅子朝哪個方向移動才能找到電視？"
+                    "en-US": "If chair is in front of me, where should I look for tv?",
+                    "zh-CN": "如果椅子在我正前方，我应该往哪边找电视?",
+                    "zh-HK": "椅子喺在我面前，我應該望邊度搵電視?"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If tv is ahead of me, where can I find mouse?",
-                    "zh-CN": "如果电视在我前面，我在哪里可以找到鼠标？",
-                    "zh-HK": "如果電視喺我前面，我喺邊度可以搵到鼠標？"
+                    "en-US": "How is mouse situated compared to tv?",
+                    "zh-CN": "与电视相比，鼠标的位置如何？",
+                    "zh-HK": "與電視相比，鼠標的位置如何？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "From dining table, which direction should I move to find microwave?",
-                    "zh-CN": "我从餐桌开始往哪个方向移动可以到微波炉?",
-                    "zh-HK": "我由餐桌要行邊個方向去揾微波爐?"
+                    "en-US": "Can you direct me to mouse from bottle's location?",
+                    "zh-CN": "你能把我从瓶子的位置引导到鼠标吗？",
+                    "zh-HK": "你能把我從瓶子的位置引導到鼠標嗎？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
                 }
             }
         ]
@@ -63,9 +93,14 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "In which direction should I head from chair to locate tv?",
-                    "zh-CN": "我应该从椅子朝哪个方向移动才能找到电视？",
-                    "zh-HK": "我應該從椅子朝哪個方向移動才能找到電視？"
+                    "en-US": "When looking at handbag, where is dining table?",
+                    "zh-CN": "当看着手袋时，餐桌在哪里？",
+                    "zh-HK": "當睇住手袋時，餐桌在哪裡？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
                 }
             }
         ]
@@ -76,25 +111,27 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "In which direction should I head from chair to locate tv?",
-                    "zh-CN": "我应该从椅子朝哪个方向移动才能找到电视？",
-                    "zh-HK": "我應該從椅子朝哪個方向移動才能找到電視？"
+                    "en-US": "If dining table is ahead of me, where can I find potted plant?",
+                    "zh-CN": "如果餐桌在我前面，我在哪里可以找到盆栽？",
+                    "zh-HK": "如果餐桌喺我前面，我喺邊度可以搵到盆栽？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "What is the position of vase in relation to chair?",
-                    "zh-CN": "花瓶相对于椅子的位置是什么？",
-                    "zh-HK": "花瓶相對于椅子嘅位置係乜嘢？"
-                }
-            },
-            {
-                "qid": "2",
-                "question": {
-                    "en-US": "Can you direct me to potted plant from vase's location?",
-                    "zh-CN": "你能把我从花瓶的位置引导到盆栽吗？",
-                    "zh-HK": "你能把我從花瓶的位置引導到盆栽嗎？"
+                    "en-US": "How is mouse situated compared to tv?",
+                    "zh-CN": "与电视相比，鼠标的位置如何？",
+                    "zh-HK": "與電視相比，鼠標的位置如何？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
                 }
             }
         ]

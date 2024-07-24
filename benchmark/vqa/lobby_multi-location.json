@@ -5,17 +5,27 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "From chair, which direction should I move to find bottle?",
-                    "zh-CN": "我从椅子开始往哪个方向移动可以到瓶子?",
-                    "zh-HK": "我由椅子要行邊個方向去揾瓶子?"
+                    "en-US": "Where can bottle be found in relation to chair?",
+                    "zh-CN": "在哪里可以找到与椅子相关的 瓶子？",
+                    "zh-HK": "喺邊度可以搵到與椅子相關嘅瓶子？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "What route should I take to go from tv to chair?",
-                    "zh-CN": "我应该走什么路线从电视到椅子？",
-                    "zh-HK": "我應該走乜嘢路線由電視到椅子？"
+                    "en-US": "If tv is in front of me, where should I look for chair?",
+                    "zh-CN": "如果电视在我正前方，我应该往哪边找椅子?",
+                    "zh-HK": "電視喺在我面前，我應該望邊度搵椅子?"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
                 }
             }
         ]
@@ -26,25 +36,40 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If couch is directly ahead, where is clock located?",
-                    "zh-CN": "如果沙发在正前方，那么时钟在哪里？",
-                    "zh-HK": "如果梳化在正前方，咁時鐘喺邊度？"
+                    "en-US": "With couch in front, where should I search for clock?",
+                    "zh-CN": "前面有沙发，我应该在哪里搜索时钟？",
+                    "zh-HK": "前面有梳化，我應該喺邊度搜索時鐘？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Which way should I go from chair to reach dining table?",
-                    "zh-CN": "从椅子到餐桌的路是哪条？",
-                    "zh-HK": "由椅子到餐桌嘅路係邊條？"
+                    "en-US": "What route should I take to go from chair to clock?",
+                    "zh-CN": "我应该走什么路线从椅子到时钟？",
+                    "zh-HK": "我應該走乜嘢路線由椅子到時鐘？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you guide me to chair starting from couch?",
-                    "zh-CN": "你能引导我从沙发到椅子吗？",
-                    "zh-HK": "你能引導我從梳化到椅子嗎？"
+                    "en-US": "Where is chair located relative to couch?",
+                    "zh-CN": "椅子是在沙发的哪边?",
+                    "zh-HK": "椅子喺在梳化的邊度?"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
                 }
             }
         ]
@@ -55,17 +80,40 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If couch is directly ahead, where is clock located?",
-                    "zh-CN": "如果沙发在正前方，那么时钟在哪里？",
-                    "zh-HK": "如果梳化在正前方，咁時鐘喺邊度？"
+                    "en-US": "How do I reach vase from couch?",
+                    "zh-CN": "我怎样可以从沙发摸到花瓶?",
+                    "zh-HK": "我點樣可以由梳化揾到花瓶?"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "When looking at chair, where is potted plant?",
-                    "zh-CN": "当看着椅子时，盆栽在哪里？",
-                    "zh-HK": "當睇住椅子時，盆栽在哪裡？"
+                    "en-US": "With couch in front, where should I search for clock?",
+                    "zh-CN": "前面有沙发，我应该在哪里搜索时钟？",
+                    "zh-HK": "前面有梳化，我應該喺邊度搜索時鐘？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you show me the way to vase from potted plant?",
+                    "zh-CN": "你能告诉我从盆栽到花瓶的方法吗？",
+                    "zh-HK": "你可唔可以話我由盆栽到花瓶嘅方法啊？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
                 }
             }
         ]
@@ -76,25 +124,40 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "With chair in front, where should I search for tv?",
-                    "zh-CN": "前面有椅子，我应该在哪里搜索电视？",
-                    "zh-HK": "前面有椅子，我應該喺邊度搜索電視？"
+                    "en-US": "From chair, which direction should I move to find tv?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到电视?",
+                    "zh-HK": "我由椅子要行邊個方向去揾電視?"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "If couch is directly ahead, where is clock located?",
-                    "zh-CN": "如果沙发在正前方，那么时钟在哪里？",
-                    "zh-HK": "如果梳化在正前方，咁時鐘喺邊度？"
+                    "en-US": "If tv is ahead of me, where can I find microwave?",
+                    "zh-CN": "如果电视在我前面，我在哪里可以找到微波炉？",
+                    "zh-HK": "如果電視喺我前面，我喺邊度可以搵到微波爐？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "When looking at chair, where is potted plant?",
-                    "zh-CN": "当看着椅子时，盆栽在哪里？",
-                    "zh-HK": "當睇住椅子時，盆栽在哪裡？"
+                    "en-US": "Can you guide me to backpack starting from potted plant?",
+                    "zh-CN": "你能引导我从盆栽到背包吗？",
+                    "zh-HK": "你能引導我從盆栽到背囊嗎？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
                 }
             }
         ]
@@ -105,25 +168,40 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "From chair, which direction should I move to find bottle?",
-                    "zh-CN": "我从椅子开始往哪个方向移动可以到瓶子?",
-                    "zh-HK": "我由椅子要行邊個方向去揾瓶子?"
+                    "en-US": "If tv is ahead of me, where can I find microwave?",
+                    "zh-CN": "如果电视在我前面，我在哪里可以找到微波炉？",
+                    "zh-HK": "如果電視喺我前面，我喺邊度可以搵到微波爐？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "When looking at chair, where is potted plant?",
-                    "zh-CN": "当看着椅子时，盆栽在哪里？",
-                    "zh-HK": "當睇住椅子時，盆栽在哪裡？"
+                    "en-US": "If tv is in front of me, where should I look for chair?",
+                    "zh-CN": "如果电视在我正前方，我应该往哪边找椅子?",
+                    "zh-HK": "電視喺在我面前，我應該望邊度搵椅子?"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "If chair is in front of me, where should I look for book?",
-                    "zh-CN": "如果椅子在我正前方，我应该往哪边找书?",
-                    "zh-HK": "椅子喺在我面前，我應該望邊度搵書?"
+                    "en-US": "From chair, which direction should I move to find tv?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到电视?",
+                    "zh-HK": "我由椅子要行邊個方向去揾電視?"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
                 }
             }
         ]
@@ -134,25 +212,40 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "If couch is in front of me, where is book located?",
-                    "zh-CN": "如果沙发在我面前，书在哪里？",
-                    "zh-HK": "如果梳化在我面前，書喺邊度？"
+                    "en-US": "How can I get to book starting from couch?",
+                    "zh-CN": "如何从沙发开始到达书？",
+                    "zh-HK": "如何由梳化開始到達書？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "In which direction should I head from couch to locate dining table?",
-                    "zh-CN": "我应该从沙发朝哪个方向移动才能找到餐桌？",
-                    "zh-HK": "我應該從梳化朝哪個方向移動才能找到餐桌？"
+                    "en-US": "If tv is in front of me, where should I look for chair?",
+                    "zh-CN": "如果电视在我正前方，我应该往哪边找椅子?",
+                    "zh-HK": "電視喺在我面前，我應該望邊度搵椅子?"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "What route should I take to go from tv to chair?",
-                    "zh-CN": "我应该走什么路线从电视到椅子？",
-                    "zh-HK": "我應該走乜嘢路線由電視到椅子？"
+                    "en-US": "Can you guide me to backpack starting from potted plant?",
+                    "zh-CN": "你能引导我从盆栽到背包吗？",
+                    "zh-HK": "你能引導我從盆栽到背囊嗎？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
                 }
             }
         ]
