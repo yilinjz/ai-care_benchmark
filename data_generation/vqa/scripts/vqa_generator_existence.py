@@ -44,3 +44,5 @@ for i, scene_id in enumerate(scene_ids):
 
 with open(f'data_generation/vqa/{category_tag}/{scene_tag}_{category_tag}.json', 'w', encoding='utf-8') as f:
     json.dump(output, f, ensure_ascii=False, indent=4)
+with open(f'benchmark/vqa/{scene_tag}_{category_tag}.json', 'w', encoding='utf-8') as f:
+    json.dump(output, f, ensure_ascii=False, indent=4)

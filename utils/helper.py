@@ -8,9 +8,12 @@ def process_context(context_json, language):
     for obj in context_json:
         text = obj['TEXT']
         text = translate_word(text, language)
-        raw_oritentation = obj['ORIENTATION'].split()
-        oritentation = [translate_word(word, language) for word in raw_oritentation]
-        oritentation = ' '.join(oritentation)
+        if 'slightly' in obj['ORIENTATION']:
+            raw_oritentation = obj['ORIENTATION'].split()
+            oritentation = [translate_word(word, language) for word in raw_oritentation]
+            oritentation = ' '.join(oritentation)
+        else:
+            oritentation = translate_word(obj['ORIENTATION'], language)
         depth = obj['DEPTH']
         position = obj['POSITION']
         context.append(f"({text}, {oritentation}, {depth}, {position})")

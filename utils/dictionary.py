@@ -25,8 +25,8 @@ WORD_DICTIONARY = {
     },
     "and": {
         LANGUAGE.EN_US: "and",
-        LANGUAGE.ZH_CN: "和",
-        LANGUAGE.ZH_HK: "和",
+        LANGUAGE.ZH_CN: "且",
+        LANGUAGE.ZH_HK: "且",
     },
     # ===== OREINTATION ===== #
     "up": {
@@ -77,23 +77,23 @@ WORD_DICTIONARY = {
     # ORENTATION (PRE-PROCESSING) #
     "slightly-up": {
         LANGUAGE.EN_US: "slightly-up",
-        LANGUAGE.ZH_CN: "中间偏上",
-        LANGUAGE.ZH_HK: "中間偏上",
+        LANGUAGE.ZH_CN: "稍微偏上",
+        LANGUAGE.ZH_HK: "稍微偏上",
     },
     "slightly-down": {
         LANGUAGE.EN_US: "slightly-down",
-        LANGUAGE.ZH_CN: "中间偏下",
-        LANGUAGE.ZH_HK: "中間偏下",
+        LANGUAGE.ZH_CN: "稍微偏下",
+        LANGUAGE.ZH_HK: "稍微偏下",
     },
     "slightly-left": {
         LANGUAGE.EN_US: "slightly-left",
-        LANGUAGE.ZH_CN: "中间偏左",
-        LANGUAGE.ZH_HK: "中間偏左",
+        LANGUAGE.ZH_CN: "稍微偏左",
+        LANGUAGE.ZH_HK: "稍微偏左",
     },
     "slightly-right": {
         LANGUAGE.EN_US: "slightly-right",
-        LANGUAGE.ZH_CN: "中间偏右",
-        LANGUAGE.ZH_HK: "中間偏右",
+        LANGUAGE.ZH_CN: "稍微偏右",
+        LANGUAGE.ZH_HK: "稍微偏右",
     },
     # ===== YoloV8 Class IDs =====
     "person": {
