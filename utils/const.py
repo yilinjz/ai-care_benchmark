@@ -64,7 +64,7 @@ benchmark_list = [
     # 'bedroom_existence',
     # 'bedroom_identification',
     'bedroom_location',
-    'bedroom_multi-location',
+    # 'bedroom_multi-location',
     # # dining_room
     # 'dining_room_existence',
     # 'dining_room_identification',
