@@ -5,9 +5,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where can I find the closest refrigerator to me?",
-                    "zh-CN": "在哪里可以找到离我最近的电冰箱？",
-                    "zh-HK": "喺邊度可以搵到離我最近嘅電冰箱？"
+                    "en-US": "Please tell me where the refrigerator is.",
+                    "zh-CN": "请告诉我电冰箱在哪里。",
+                    "zh-HK": "請告訴我電冰箱喺邊度。"
                 },
                 "answer": {
                     "en-US": "center",
@@ -18,9 +18,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Which direction is the tv located from where I am now?",
-                    "zh-CN": "电视位于我现在所在的哪个方向？",
-                    "zh-HK": "電視位於我而家所在嘅邊個方向？"
+                    "en-US": "Can you help me find the position of the tv?",
+                    "zh-CN": "你能帮我找到电视的位置吗？",
+                    "zh-HK": "你可唔可以帮我搵到電視的位置吗？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -31,9 +31,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you show me where the bottle is?",
-                    "zh-CN": "你能告诉我瓶子在哪里吗？",
-                    "zh-HK": "你可唔可以話我瓶子喺邊度啊？"
+                    "en-US": "In which direction is the bottle from my current position?",
+                    "zh-CN": "瓶子在我当前位置的什么方向?",
+                    "zh-HK": "瓶子由我而家嘅位置喺邊個方向？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -44,9 +44,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Could you point out the location of the chair to me?",
-                    "zh-CN": "你能给我指出椅子的位置吗？",
-                    "zh-HK": "你可唔可以畀我指出椅子嘅位置啊？"
+                    "en-US": "What is the position of the nearest chair relative to me?",
+                    "zh-CN": "离我最近的椅子的位置是什么？",
+                    "zh-HK": "離我最近嘅椅子嘅位置係乜嘢？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -62,9 +62,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "From my current position, which way is the couch?",
-                    "zh-CN": "从我目前的位置来看，沙发是哪个方向？",
-                    "zh-HK": "從我目前的位置來看，梳化是邊個方向？"
+                    "en-US": "Can you direct me to the location of the couch?",
+                    "zh-CN": "你能把我引向沙发的位置吗？",
+                    "zh-HK": "你能把我引向梳化的位置嗎？"
                 },
                 "answer": {
                     "en-US": "down",
@@ -75,9 +75,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you find the clock in the scene?",
-                    "zh-CN": "你能在场景中找到时钟吗？",
-                    "zh-HK": "你可唔可以喺場景中搵到時鐘啊？"
+                    "en-US": "Can you show me where the clock is?",
+                    "zh-CN": "你能告诉我时钟在哪里吗？",
+                    "zh-HK": "你可唔可以話我時鐘喺邊度啊？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -88,9 +88,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is the dining table that is closest to me?",
-                    "zh-CN": "离我最近的餐桌在哪里？",
-                    "zh-HK": "離我最近嘅餐桌喺邊度？"
+                    "en-US": "Can you please locate the dining table?",
+                    "zh-CN": "你能找到餐桌吗？",
+                    "zh-HK": "你可唔可以搵到餐桌啊？"
                 },
                 "answer": {
                     "en-US": "down",
@@ -101,9 +101,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Could you point out the location of the chair to me?",
-                    "zh-CN": "你能给我指出椅子的位置吗？",
-                    "zh-HK": "你可唔可以畀我指出椅子嘅位置啊？"
+                    "en-US": "Is the chair visible in the scene?",
+                    "zh-CN": "椅子在场景中是否可见？",
+                    "zh-HK": "椅子在場景中是否可見？"
                 },
                 "answer": {
                     "en-US": "down and right",
@@ -119,9 +119,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you tell me the location of the closest potted plant to me?",
-                    "zh-CN": "你能告诉我离我最近的盆栽的位置吗？",
-                    "zh-HK": "你可唔可以話我离我最近嘅盆栽嘅位置啊？"
+                    "en-US": "Which direction is the potted plant located from where I am now?",
+                    "zh-CN": "盆栽位于我现在所在的哪个方向？",
+                    "zh-HK": "盆栽位於我而家所在嘅邊個方向？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -132,9 +132,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you show me where the bottle is?",
-                    "zh-CN": "你能告诉我瓶子在哪里吗？",
-                    "zh-HK": "你可唔可以話我瓶子喺邊度啊？"
+                    "en-US": "Where can I find the closest couch to me?",
+                    "zh-CN": "在哪里可以找到离我最近的沙发？",
+                    "zh-HK": "喺邊度可以搵到離我最近嘅梳化？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -145,9 +145,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you point out the vase in the scene?",
-                    "zh-CN": "你能指出场景中的花瓶吗？",
-                    "zh-HK": "你可唔可以指出場景中嘅花瓶啊？"
+                    "en-US": "Find where the vase is, please.",
+                    "zh-CN": "请帮我找下花瓶在哪里。",
+                    "zh-HK": "請幫我搵吓花瓶喺邊。"
                 },
                 "answer": {
                     "en-US": "center",
@@ -163,9 +163,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Please tell me where the chair is.",
-                    "zh-CN": "请告诉我椅子在哪里。",
-                    "zh-HK": "請告訴我椅子喺邊度。"
+                    "en-US": "Which direction is the potted plant located from where I am now?",
+                    "zh-CN": "盆栽位于我现在所在的哪个方向？",
+                    "zh-HK": "盆栽位於我而家所在嘅邊個方向？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -176,9 +176,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you tell me the location of the closest potted plant to me?",
-                    "zh-CN": "你能告诉我离我最近的盆栽的位置吗？",
-                    "zh-HK": "你可唔可以話我离我最近嘅盆栽嘅位置啊？"
+                    "en-US": "Can you please locate the dining table?",
+                    "zh-CN": "你能找到餐桌吗？",
+                    "zh-HK": "你可唔可以搵到餐桌啊？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -189,9 +189,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you find the clock in the scene?",
-                    "zh-CN": "你能在场景中找到时钟吗？",
-                    "zh-HK": "你可唔可以喺場景中搵到時鐘啊？"
+                    "en-US": "Please tell me where the refrigerator is.",
+                    "zh-CN": "请告诉我电冰箱在哪里。",
+                    "zh-HK": "請告訴我電冰箱喺邊度。"
                 },
                 "answer": {
                     "en-US": "center",
@@ -202,7 +202,7 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Where is the nearest microwave to me?",
+                    "en-US": "Where is the microwave that is closest to me?",
                     "zh-CN": "离我最近的微波炉在哪里？",
                     "zh-HK": "離我最近嘅微波爐喺邊度？"
                 },
@@ -220,9 +220,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "What is the position of the nearest couch relative to me?",
-                    "zh-CN": "离我最近的沙发的位置是什么？",
-                    "zh-HK": "離我最近嘅梳化嘅位置係乜嘢？"
+                    "en-US": "Can you identify where the couch is in the scene?",
+                    "zh-CN": "你能确定沙发在场景中的位置吗？",
+                    "zh-HK": "你能肯定梳化喺場景中嘅位置呀？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -233,9 +233,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you guide me to where the book is located?",
-                    "zh-CN": "你能引导我到书的位置吗？",
-                    "zh-HK": "你能引導我到書的位置嗎？"
+                    "en-US": "Find where the vase is, please.",
+                    "zh-CN": "请帮我找下花瓶在哪里。",
+                    "zh-HK": "請幫我搵吓花瓶喺邊。"
                 },
                 "answer": {
                     "en-US": "center",
@@ -246,9 +246,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is the nearest microwave to me?",
-                    "zh-CN": "离我最近的微波炉在哪里？",
-                    "zh-HK": "離我最近嘅微波爐喺邊度？"
+                    "en-US": "Which direction is the potted plant located from where I am now?",
+                    "zh-CN": "盆栽位于我现在所在的哪个方向？",
+                    "zh-HK": "盆栽位於我而家所在嘅邊個方向？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -264,9 +264,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Are you able to locate the potted plant in the scene?",
-                    "zh-CN": "你能在场景中找到盆栽吗？",
-                    "zh-HK": "你可唔可以喺場景中搵到盆栽啊？"
+                    "en-US": "Could you point out the location of the potted plant to me?",
+                    "zh-CN": "你能给我指出盆栽的位置吗？",
+                    "zh-HK": "你可唔可以畀我指出盆栽嘅位置啊？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -277,9 +277,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you show me where the bottle is?",
-                    "zh-CN": "你能告诉我瓶子在哪里吗？",
-                    "zh-HK": "你可唔可以話我瓶子喺邊度啊？"
+                    "en-US": "Where is the nearest book to me?",
+                    "zh-CN": "离我最近的书在哪里？",
+                    "zh-HK": "離我最近嘅書喺邊度？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -290,9 +290,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you tell me the location of the closest potted plant to me?",
-                    "zh-CN": "你能告诉我离我最近的盆栽的位置吗？",
-                    "zh-HK": "你可唔可以話我离我最近嘅盆栽嘅位置啊？"
+                    "en-US": "Which way should I look to find the couch from here?",
+                    "zh-CN": "我应该从这里往哪个方向寻找沙发？",
+                    "zh-HK": "我應該從這裡往哪個方向尋找梳化？"
                 },
                 "answer": {
                     "en-US": "center",

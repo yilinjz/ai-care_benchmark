@@ -5,9 +5,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Please find the location of the chair.",
-                    "zh-CN": "请找到椅子的位置。",
-                    "zh-HK": "請搵到椅子嘅位置。"
+                    "en-US": "Could you guide me to the position of the chair?",
+                    "zh-CN": "你可以引导我去到椅子的位置嗎?",
+                    "zh-HK": "你可以引導我去到椅子嘅位置嗎？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -18,9 +18,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Could you identify where the keyboard is?",
-                    "zh-CN": "你能确定键盘在哪里吗？",
-                    "zh-HK": "你能肯定鍵盤喺邊度呀？"
+                    "en-US": "Could you show me where the keyboard is?",
+                    "zh-CN": "你能告诉我键盘在哪里吗？",
+                    "zh-HK": "你可唔可以話我鍵盤喺邊度啊？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -44,9 +44,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Where is the mouse in relation to my current position?",
-                    "zh-CN": "相对于我当前位置，鼠标在哪里？",
-                    "zh-HK": "相對于我當前位置，鼠標喺邊度？"
+                    "en-US": "Could you identify where the mouse is?",
+                    "zh-CN": "你能确定鼠标在哪里吗？",
+                    "zh-HK": "你能肯定鼠標喺邊度呀？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -62,9 +62,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you help me find the position of the tv?",
-                    "zh-CN": "你能帮我找到电视的位置吗？",
-                    "zh-HK": "你可唔可以帮我搵到電視的位置吗？"
+                    "en-US": "Are you able to locate the tv in the scene?",
+                    "zh-CN": "你能在场景中找到电视吗？",
+                    "zh-HK": "你可唔可以喺場景中搵到電視啊？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -75,9 +75,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where can I find the closest keyboard to me?",
-                    "zh-CN": "在哪里可以找到离我最近的键盘？",
-                    "zh-HK": "喺邊度可以搵到離我最近嘅鍵盤？"
+                    "en-US": "Where is the closest keyboard in relation to me?",
+                    "zh-CN": "离我最近的键盘在哪里?",
+                    "zh-HK": "離我最近嘅鍵盤喺邊度？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -88,9 +88,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you locate the chair in the scene?",
-                    "zh-CN": "你能在场景中找到椅子吗？",
-                    "zh-HK": "你可以喺房入面搵到椅子嗎?"
+                    "en-US": "Can you identify where the chair is in the scene?",
+                    "zh-CN": "你能确定椅子在场景中的位置吗？",
+                    "zh-HK": "你能肯定椅子喺場景中嘅位置呀？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -106,9 +106,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Could you guide me to the position of the keyboard?",
-                    "zh-CN": "你可以引导我去到键盘的位置嗎?",
-                    "zh-HK": "你可以引導我去到鍵盤嘅位置嗎？"
+                    "en-US": "Can you point out the keyboard in the scene?",
+                    "zh-CN": "你能指出场景中的键盘吗？",
+                    "zh-HK": "你可唔可以指出場景中嘅鍵盤啊？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -119,9 +119,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Could you point out the location of the mouse to me?",
-                    "zh-CN": "你能给我指出鼠标的位置吗？",
-                    "zh-HK": "你可唔可以畀我指出鼠標嘅位置啊？"
+                    "en-US": "Can you find the mouse in the scene?",
+                    "zh-CN": "你能在场景中找到鼠标吗？",
+                    "zh-HK": "你可唔可以喺場景中搵到鼠標啊？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -132,9 +132,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where can I find the closest keyboard to me?",
-                    "zh-CN": "在哪里可以找到离我最近的键盘？",
-                    "zh-HK": "喺邊度可以搵到離我最近嘅鍵盤？"
+                    "en-US": "Can you direct me to the location of the tv?",
+                    "zh-CN": "你能把我引向电视的位置吗？",
+                    "zh-HK": "你能把我引向電視的位置嗎？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -150,9 +150,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "What is the position of the nearest keyboard relative to me?",
-                    "zh-CN": "离我最近的键盘的位置是什么？",
-                    "zh-HK": "離我最近嘅鍵盤嘅位置係乜嘢？"
+                    "en-US": "Which direction is the keyboard located from where I am now?",
+                    "zh-CN": "键盘位于我现在所在的哪个方向？",
+                    "zh-HK": "鍵盤位於我而家所在嘅邊個方向？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -163,9 +163,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Which direction is the chair located from where I am now?",
-                    "zh-CN": "椅子位于我现在所在的哪个方向？",
-                    "zh-HK": "椅子位於我而家所在嘅邊個方向？"
+                    "en-US": "Are you able to locate the tv in the scene?",
+                    "zh-CN": "你能在场景中找到电视吗？",
+                    "zh-HK": "你可唔可以喺場景中搵到電視啊？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -176,9 +176,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you locate the chair in the scene?",
-                    "zh-CN": "你能在场景中找到椅子吗？",
-                    "zh-HK": "你可以喺房入面搵到椅子嗎?"
+                    "en-US": "From my current position, which way is the tv?",
+                    "zh-CN": "从我目前的位置来看，电视是哪个方向？",
+                    "zh-HK": "從我目前的位置來看，電視是邊個方向？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -194,9 +194,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Which direction is the chair located from where I am now?",
-                    "zh-CN": "椅子位于我现在所在的哪个方向？",
-                    "zh-HK": "椅子位於我而家所在嘅邊個方向？"
+                    "en-US": "Can you help me find the position of the tv?",
+                    "zh-CN": "你能帮我找到电视的位置吗？",
+                    "zh-HK": "你可唔可以帮我搵到電視的位置吗？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -207,9 +207,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From my current position, which way is the keyboard?",
-                    "zh-CN": "从我目前的位置来看，键盘是哪个方向？",
-                    "zh-HK": "從我目前的位置來看，鍵盤是邊個方向？"
+                    "en-US": "Which direction is the keyboard located from where I am now?",
+                    "zh-CN": "键盘位于我现在所在的哪个方向？",
+                    "zh-HK": "鍵盤位於我而家所在嘅邊個方向？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -220,9 +220,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Could you identify where the keyboard is?",
-                    "zh-CN": "你能确定键盘在哪里吗？",
-                    "zh-HK": "你能肯定鍵盤喺邊度呀？"
+                    "en-US": "Could you point out the location of the chair to me?",
+                    "zh-CN": "你能给我指出椅子的位置吗？",
+                    "zh-HK": "你可唔可以畀我指出椅子嘅位置啊？"
                 },
                 "answer": {
                     "en-US": "down",
@@ -238,9 +238,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you point out the book in the scene?",
-                    "zh-CN": "你能指出场景中的书吗？",
-                    "zh-HK": "你可唔可以指出場景中嘅書啊？"
+                    "en-US": "Please find the location of the book.",
+                    "zh-CN": "请找到书的位置。",
+                    "zh-HK": "請搵到書嘅位置。"
                 },
                 "answer": {
                     "en-US": "up",
@@ -251,9 +251,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you please locate the keyboard?",
-                    "zh-CN": "你能找到键盘吗？",
-                    "zh-HK": "你可唔可以搵到鍵盤啊？"
+                    "en-US": "Could you show me where the keyboard is?",
+                    "zh-CN": "你能告诉我键盘在哪里吗？",
+                    "zh-HK": "你可唔可以話我鍵盤喺邊度啊？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -264,9 +264,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is the closest mouse in relation to me?",
-                    "zh-CN": "离我最近的鼠标在哪里?",
-                    "zh-HK": "離我最近嘅鼠標喺邊度？"
+                    "en-US": "What is the position of the nearest mouse relative to me?",
+                    "zh-CN": "离我最近的鼠标的位置是什么？",
+                    "zh-HK": "離我最近嘅鼠標嘅位置係乜嘢？"
                 },
                 "answer": {
                     "en-US": "center",
