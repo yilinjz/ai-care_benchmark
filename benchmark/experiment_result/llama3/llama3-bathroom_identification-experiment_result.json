@@ -1,0 +1,422 @@
+[
+    {
+        "scene_id": "bathroom_44",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me what object is directly ahead of me?",
+                    "zh-CN": "你能告诉我我正前方是什么物体吗？",
+                    "zh-HK": "你可唔可以話我我正前方係乜嘢物體啊？"
+                },
+                "result": {
+                    "en-US": "The toilet is directly ahead of you."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What object is positioned to my left?",
+                    "zh-CN": "什么物体位于我的左边？",
+                    "zh-HK": "乜嘢物體位於我嘅左邊？"
+                },
+                "result": {
+                    "en-US": "The toilet is positioned to my left."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "The toilet is on your right side, oriented slightly down and left, at a distance of about 1.46 meters from you."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Which item is nearest to me?",
+                    "zh-CN": "哪个项目离我最近？",
+                    "zh-HK": "邊個項目離我最近？"
+                },
+                "result": {
+                    "en-US": "The toilet is nearest to me, slightly-down and slightly-left at a distance of 1.46."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the object closest to the center of the frame?",
+                    "zh-CN": "离画面中心最近的物体是什么？",
+                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The object closest to the center of the frame is the toilet, being slightly-down and slightly-left at a distance of 1.46."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_49",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
+                },
+                "result": {
+                    "en-US": "A toilet is directly in front of me, facing down and to the left at a distance of about 1 meter."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What object is positioned to my left?",
+                    "zh-CN": "什么物体位于我的左边？",
+                    "zh-HK": "乜嘢物體位於我嘅左邊？"
+                },
+                "result": {
+                    "en-US": "The toothbrush is positioned to my left."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "Toilet, down and right, 0.75."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you tell me which item is the closest to me?",
+                    "zh-CN": "你能告诉我哪个项目离我最近吗？",
+                    "zh-HK": "你可唔可以話我邊個項目離我最近啊？"
+                },
+                "result": {
+                    "en-US": "The closest item to you is the toilet, which is down and left from your current position at a distance of 1.0 units."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Which object is nearest to the center of the frame?",
+                    "zh-CN": "哪个物体最靠近画面中心？",
+                    "zh-HK": "邊個物體最靠近畫面中心？"
+                },
+                "result": {
+                    "en-US": "The toilet is nearest to the center of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_170",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The toilet is positioned directly in front of me, oriented slightly down and slightly left, at a distance of 1.7 meters."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "toilet, slightly-down and slightly-left, 1.7"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you identify what is to my right?",
+                    "zh-CN": "你能确定我的右边是什么吗？",
+                    "zh-HK": "你可唔可以確定我嘅右邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "To your right is a person, oriented slightly up and slightly right, at a distance of approximately 1.42 meters away from you."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you tell me which item is the closest to me?",
+                    "zh-CN": "你能告诉我哪个项目离我最近吗？",
+                    "zh-HK": "你可唔可以話我邊個項目離我最近啊？"
+                },
+                "result": {
+                    "en-US": "The closest item is the toilet, located slightly down and slightly left from you at a distance of 1.7 meters."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Which item is closest to the center of the frame?",
+                    "zh-CN": "哪个项目最接近画面中心？",
+                    "zh-HK": "邊個項目最接近畫面中心？"
+                },
+                "result": {
+                    "en-US": "The toilet is closest to the center of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_500",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the thing located right in front of me?",
+                    "zh-CN": "我面前的东西是什么？",
+                    "zh-HK": "我面前嘅嘢係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The toilet is located right in front of me, oriented slightly to the right, at a distance of 2.5 feet."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "To your left is the toothbrush, oriented slightly to the left, at a distance of approximately 2.33 units from you."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What is the item located on my right side?",
+                    "zh-CN": "我右边的物品是什么？",
+                    "zh-HK": "我右邊嘅物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The toilet is located on your right side."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
+                    "zh-HK": "乜嘢物品離我最近？"
+                },
+                "result": {
+                    "en-US": "The toilet is the closest to me, being slightly right and 0.75 feet away."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Which object is nearest to the center of the frame?",
+                    "zh-CN": "哪个物体最靠近画面中心？",
+                    "zh-HK": "邊個物體最靠近畫面中心？"
+                },
+                "result": {
+                    "en-US": "The toilet is nearest to the center of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_505",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me what object is directly ahead of me?",
+                    "zh-CN": "你能告诉我我正前方是什么物体吗？",
+                    "zh-HK": "你可唔可以話我我正前方係乜嘢物體啊？"
+                },
+                "result": {
+                    "en-US": "The toilet is directly ahead of you."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me what item is on my left side?",
+                    "zh-CN": "你能告诉我我左边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我左邊嘅係乜嘢項目啊？"
+                },
+                "result": {
+                    "en-US": "The bottle is on your left side."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What is the item located on my right side?",
+                    "zh-CN": "我右边的物品是什么？",
+                    "zh-HK": "我右邊嘅物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The item located on your right side is the sink, oriented slightly-down and slightly-right, at a distance of 1.35."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you tell me which item is the closest to me?",
+                    "zh-CN": "你能告诉我哪个项目离我最近吗？",
+                    "zh-HK": "你可唔可以話我邊個項目離我最近啊？"
+                },
+                "result": {
+                    "en-US": "The toilet is the closest to me."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
+                },
+                "result": {
+                    "en-US": "The object closest to the center of the frame is the toothbrush, lying slightly-down and slightly-left, at a distance of about 0.82 feet from the user."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_509",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me what object is directly ahead of me?",
+                    "zh-CN": "你能告诉我我正前方是什么物体吗？",
+                    "zh-HK": "你可唔可以話我我正前方係乜嘢物體啊？"
+                },
+                "result": {
+                    "en-US": "The cup is directly ahead of you."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
+                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                },
+                "result": {
+                    "en-US": "The item on your left side is a cup, oriented slightly to the left, and approximately 1 meter away from you."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you identify what is to my right?",
+                    "zh-CN": "你能确定我的右边是什么吗？",
+                    "zh-HK": "你可唔可以確定我嘅右邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "The object to your right is a sink, oriented slightly down, at a distance of 2.63 units."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
+                    "zh-HK": "乜嘢物品離我最近？"
+                },
+                "result": {
+                    "en-US": "The cup is the closest to me."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What object is closest to the middle of the frame?",
+                    "zh-CN": "什么物体最靠近画面中间？",
+                    "zh-HK": "乜嘢物體最靠近畫面中間？"
+                },
+                "result": {
+                    "en-US": "The cup is closest to the middle of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_656",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The toilet is positioned directly in front of me, down and left, at a distance of approximately 1.15 meters away."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you see what is on my left side?",
+                    "zh-CN": "你能看到我左边是什么吗？",
+                    "zh-HK": "你能看到我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "A bottle is on your left side, facing you and about 1.36 meters away from you."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you identify the item on my right side?",
+                    "zh-CN": "你能否识别我右边是什么物体？",
+                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                },
+                "result": {
+                    "en-US": "The item on your right side is the toilet, oriented down and left, at a distance of about 1.15 meters from you."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What is the closest item to me?",
+                    "zh-CN": "离我最近的项目是什么？",
+                    "zh-HK": "離我最近嘅項目係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The closest item to me is the toilet, which is oriented down and left, at a distance of approximately 1.15 feet away."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the object closest to the center of the frame?",
+                    "zh-CN": "离画面中心最近的物体是什么？",
+                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The toilet is the object closest to the center of the frame."
+                }
+            }
+        ]
+    }
+]

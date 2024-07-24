@@ -1,0 +1,482 @@
+[
+    {
+        "scene_id": "kitchen_138",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
+                },
+                "result": {
+                    "en-US": "A microwave is directly in front of me, oriented up and right, at a distance of 1.0 units."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you see what is on my left side?",
+                    "zh-CN": "你能看到我左边是什么吗？",
+                    "zh-HK": "你能看到我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "You have a bowl on your left side, it is oriented slightly to the left, and it is approximately 1.82 meters away from you."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What object is positioned to my right?",
+                    "zh-CN": "什么物体位于我的右边？",
+                    "zh-HK": "乜嘢物體位於我嘅右邊？"
+                },
+                "result": {
+                    "en-US": "The object positioned to my right is the microwave, oriented up and right, at a distance of 1.0 units from me."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
+                    "zh-HK": "乜嘢物品離我最近？"
+                },
+                "result": {
+                    "en-US": "The microwave is closest to me, oriented up and right, at a distance of 1.0 units."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Which object is nearest to the center of the frame?",
+                    "zh-CN": "哪个物体最靠近画面中心？",
+                    "zh-HK": "邊個物體最靠近畫面中心？"
+                },
+                "result": {
+                    "en-US": "The microwave is nearest to the center of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_139",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
+                    "zh-HK": "乜嘢物體就喺我面前？"
+                },
+                "result": {
+                    "en-US": "The bowl is directly in front of me, slightly right, and about 1.46 feet away."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you see what is on my left side?",
+                    "zh-CN": "你能看到我左边是什么吗？",
+                    "zh-HK": "你能看到我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "You have a bottle on your left side, facing you at a distance of about 0.96 meters."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "There is a bowl on your right side, oriented slightly to the right, and approximately 1.46 meters away from you."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Which item is nearest to me?",
+                    "zh-CN": "哪个项目离我最近？",
+                    "zh-HK": "邊個項目離我最近？"
+                },
+                "result": {
+                    "en-US": "The bottle is nearest to me, located slightly-left at a distance of 1.09 units."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the object closest to the center of the frame?",
+                    "zh-CN": "离画面中心最近的物体是什么？",
+                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The knife is the object closest to the center of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_199",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
+                    "zh-HK": "乜嘢物體就喺我面前？"
+                },
+                "result": {
+                    "en-US": "The bowl is directly in front of me, down and slightly right, at a distance of 1.42 units."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me what item is on my left side?",
+                    "zh-CN": "你能告诉我我左边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我左邊嘅係乜嘢項目啊？"
+                },
+                "result": {
+                    "en-US": "The knife is on your left side."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What is the item located on my right side?",
+                    "zh-CN": "我右边的物品是什么？",
+                    "zh-HK": "我右邊嘅物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The bowl is located on your right side."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
+                    "zh-HK": "乜嘢物品離我最近？"
+                },
+                "result": {
+                    "en-US": "The closest item to me is the bowl, which is oriented down and slightly right, located at a distance of 1.42 units."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the item nearest to the center of the frame?",
+                    "zh-CN": "最靠近画面中心的物品是什么？",
+                    "zh-HK": "最靠近畫面中心嘅物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The bowl is the item nearest to the center of the frame, down and slightly-right, distance to user is 1.42."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_203",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
+                    "zh-HK": "乜嘢物體就喺我面前？"
+                },
+                "result": {
+                    "en-US": "The object directly in front of me is the oven, slightly-down and slightly-right, at a distance of 1.48 meters."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you see what is on my left side?",
+                    "zh-CN": "你能看到我左边是什么吗？",
+                    "zh-HK": "你能看到我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "The cup is on your left side."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What is the item located on my right side?",
+                    "zh-CN": "我右边的物品是什么？",
+                    "zh-HK": "我右邊嘅物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The cup is located on my right side."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
+                    "zh-HK": "乜嘢物品離我最近？"
+                },
+                "result": {
+                    "en-US": "The cup is the closest to me, facing slightly left and located at a distance of 1.98 units."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the object closest to the center of the frame?",
+                    "zh-CN": "离画面中心最近的物体是什么？",
+                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The cup is the object closest to the center of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_204",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The cup is positioned directly in front of me, being slightly down and 1.29 meters away from me at coordinates [354, 375]."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "The wine glass is to your left."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you tell me what item is on my right side?",
+                    "zh-CN": "你能告诉我我右边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我右邊嘅係乜嘢項目啊？"
+                },
+                "result": {
+                    "en-US": "The toothbrush is on your right side."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Which object is the closest to me?",
+                    "zh-CN": "哪个物体离我最近？",
+                    "zh-HK": "邊個物體離我最近？"
+                },
+                "result": {
+                    "en-US": "The closest object to me is the cup, which is at a distance of approximately 0.99 meters and oriented slightly down."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
+                },
+                "result": {
+                    "en-US": "The cup is the object closest to the center of the frame, slightly-down orientation, distance to the user is 1.29 units."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_253",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
+                },
+                "result": {
+                    "en-US": "You see a refrigerator directly in front of you, oriented slightly left, at a distance of approximately 1.83 meters away from you."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "The refrigerator is to your left, oriented slightly-left, and located at a distance of approximately 1.83 meters."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "The microwave is on your right side."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What is the closest item to me?",
+                    "zh-CN": "离我最近的项目是什么？",
+                    "zh-HK": "離我最近嘅項目係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The closest item to me is the refrigerator, which is located slightly left of my current position and approximately 1.83 meters away from me."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
+                },
+                "result": {
+                    "en-US": "The refrigerator is the object closest to the center of the frame, with an orientation of slightly-left and a distance to the user of 1.83."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_560",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
+                    "zh-HK": "乜嘢物體就喺我面前？"
+                },
+                "result": {
+                    "en-US": "The microwave is directly in front of me, oriented slightly down at a distance of 2.15 meters."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "The bottle is to my left, oriented slightly-down and slightly-right, at a distance of approximately 2.03 meters."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "The bottle is on your right side, facing slightly down and to the right, approximately 1.83 feet away from you."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
+                    "zh-HK": "乜嘢物品離我最近？"
+                },
+                "result": {
+                    "en-US": "The closest item is the oven, down and slightly-left, 0.89 meters away."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
+                },
+                "result": {
+                    "en-US": "The microwave is the object closest to the center of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_849",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The sink is positioned directly in front of me, with an orientation of left and a distance to me of approximately 1.46 meters."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "The sink is to your left, facing you at a distance of 1.46 meters."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you identify the item on my right side?",
+                    "zh-CN": "你能否识别我右边是什么物体？",
+                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                },
+                "result": {
+                    "en-US": "The item on your right side is the oven, which is slightly down and to the left, about 3.34 feet away from you."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Which item is nearest to me?",
+                    "zh-CN": "哪个项目离我最近？",
+                    "zh-HK": "邊個項目離我最近？"
+                },
+                "result": {
+                    "en-US": "The sink is nearest to me, oriented left, and at a distance of approximately 1.46 meters."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
+                },
+                "result": {
+                    "en-US": "The object closest to the center of the frame is the sink, located left at a distance of 1.46 from the user."
+                }
+            }
+        ]
+    }
+]

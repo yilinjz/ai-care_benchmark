@@ -1,0 +1,554 @@
+[
+    {
+        "scene_id": "coffee_shop_120",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Based on the scene captured, am I close to a potted plant?",
+                    "zh-CN": "根据拍摄的场景，我是否接近盆栽？",
+                    "zh-HK": "根據拍攝的場景，我是否接近盆栽？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Do you sense a snowboard in the scene?",
+                    "zh-CN": "你感觉到场景中有单板滑雪板吗？",
+                    "zh-HK": "你感覺到場景中有單板滑雪板嗎？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you see if a umbrella is in the view?",
+                    "zh-CN": "你能看到视图中是否有雨伞吗？",
+                    "zh-HK": "你能看到视圖中是否有雨傘啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is a bench present in the scene?",
+                    "zh-CN": "场景中是否存在长椅？",
+                    "zh-HK": "場景中是否存在長椅呀？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_122",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is a bench present in the scene?",
+                    "zh-CN": "场景中是否存在长椅？",
+                    "zh-HK": "場景中是否存在長椅呀？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me if a bed is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有床？",
+                    "zh-HK": "你可唔可以話我畫面中有冇床啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Do you detect a toaster in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无烤面包机？",
+                    "zh-HK": "你感唔感應到周圍環境有冇多士爐?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is a cell phone visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到手机啊？",
+                    "zh-HK": "呢個場景入面有無見到手機啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_123",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Do you sense a snowboard in the scene?",
+                    "zh-CN": "你感觉到场景中有单板滑雪板吗？",
+                    "zh-HK": "你感覺到場景中有單板滑雪板嗎？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Could you check if there's a toaster in what you can see?",
+                    "zh-CN": "检查一下你看到的内容中是否有烤面包机？",
+                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇多士爐啊?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you tell me if a bed is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有床？",
+                    "zh-HK": "你可唔可以話我畫面中有冇床啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Does the scene captured show that I am near a hot dog?",
+                    "zh-CN": "拍摄到的场景是否表明我在热狗附近？",
+                    "zh-HK": "拍攝到嘅場景是否表明我喺熱狗附近？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_223",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Do you detect a toaster in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无烤面包机？",
+                    "zh-HK": "你感唔感應到周圍環境有冇多士爐?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell from the scene if I am near a couch?",
+                    "zh-CN": "你能从场景看出我是否在沙发附近吗？",
+                    "zh-HK": "你能從場景看出我是否在梳化附近嗎？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Based on the scene captured, am I close to a potted plant?",
+                    "zh-CN": "根据拍摄的场景，我是否接近盆栽？",
+                    "zh-HK": "根據拍攝的場景，我是否接近盆栽？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is a bench present in the scene?",
+                    "zh-CN": "场景中是否存在长椅？",
+                    "zh-HK": "場景中是否存在長椅呀？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_225",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Do you sense a snowboard in the scene?",
+                    "zh-CN": "你感觉到场景中有单板滑雪板吗？",
+                    "zh-HK": "你感覺到場景中有單板滑雪板嗎？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Is a bench present in the scene?",
+                    "zh-CN": "场景中是否存在长椅？",
+                    "zh-HK": "場景中是否存在長椅呀？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Is a cell phone visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到手机啊？",
+                    "zh-HK": "呢個場景入面有無見到手機啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you see a knife in the scene?",
+                    "zh-CN": "你能在场景中看到刀吗？",
+                    "zh-HK": "你見唔見到現場有刀呀？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_228",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is a bowl visible in the scene?",
+                    "zh-CN": "场景中是否可见碗？",
+                    "zh-HK": "場景中是否可見碗？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Is it evident from the scene that I am near a vase?",
+                    "zh-CN": "从场景中可以明显看出我在花瓶附近吗？",
+                    "zh-HK": "從場景中可以明顯看出我喺花瓶附近呀？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Based on the scene captured, am I close to a potted plant?",
+                    "zh-CN": "根据拍摄的场景，我是否接近盆栽？",
+                    "zh-HK": "根據拍攝的場景，我是否接近盆栽？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Does the scene captured show that I am near a hot dog?",
+                    "zh-CN": "拍摄到的场景是否表明我在热狗附近？",
+                    "zh-HK": "拍攝到嘅場景是否表明我喺熱狗附近？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_238",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell from the scene if I am near a couch?",
+                    "zh-CN": "你能从场景看出我是否在沙发附近吗？",
+                    "zh-HK": "你能從場景看出我是否在梳化附近嗎？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you see a knife in the scene?",
+                    "zh-CN": "你能在场景中看到刀吗？",
+                    "zh-HK": "你見唔見到現場有刀呀？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Is a bowl visible in the scene?",
+                    "zh-CN": "场景中是否可见碗？",
+                    "zh-HK": "場景中是否可見碗？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is a bicycle visible in the view?",
+                    "zh-CN": "自行车在视图中是否可见？",
+                    "zh-HK": "單車在視圖中是否可見？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_244",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is there any couch in the scene?",
+                    "zh-CN": "场景中有沙发吗？",
+                    "zh-HK": "場景中有梳化嗎？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you confirm if a laptop is present in the view?",
+                    "zh-CN": "你能否确认视图中是否存在笔记本电脑？",
+                    "zh-HK": "你能否確認视圖中是否存在筆記本電腦？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "en-US": "Yes"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you check if there's a toaster in what you can see?",
+                    "zh-CN": "检查一下你看到的内容中是否有烤面包机？",
+                    "zh-HK": "可唔可以檢查下你見到嘅嘢入面有冇多士爐啊?"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Am I near a bed, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在床附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺床附近？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇"
+                },
+                "result": {
+                    "en-US": "No"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,426 @@
+[
+    {
+        "scene_id": "workstation_4",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards cup from where bottle is?",
+                    "zh-CN": "你能否指引我怎样从瓶子到杯子?",
+                    "zh-HK": "你可以指俾我睇，由瓶子點樣揾到杯?"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the way to get to laptop from cup?",
+                    "zh-CN": "从杯子到达笔记本电脑的方法是什么？",
+                    "zh-HK": "從杯到達筆記本電腦的方法是什麼？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": "down and left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Which way should I go from chair to reach laptop?",
+                    "zh-CN": "从椅子到笔记本电脑的路是哪条？",
+                    "zh-HK": "由椅子到筆記本電腦嘅路係邊條？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_23",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach laptop from chair?",
+                    "zh-CN": "我怎样可以从椅子摸到笔记本电脑?",
+                    "zh-HK": "我點樣可以由椅子揾到筆記本電腦?"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "en-US": "down and right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How is clock situated compared to laptop?",
+                    "zh-CN": "与笔记本电脑相比，时钟的位置如何？",
+                    "zh-HK": "與筆記本電腦相比，時鐘的位置如何？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If laptop is in front of me, where is book located?",
+                    "zh-CN": "如果笔记本电脑在我面前，书在哪里？",
+                    "zh-HK": "如果筆記本電腦在我面前，書喺邊度？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "en-US": "down"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_371",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find laptop?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到笔记本电脑?",
+                    "zh-HK": "我由椅子要行邊個方向去揾筆記本電腦?"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "With laptop in front, where should I search for keyboard?",
+                    "zh-CN": "前面有笔记本电脑，我应该在哪里搜索键盘？",
+                    "zh-HK": "前面有筆記本電腦，我應該喺邊度搜索鍵盤？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you direct me to cup from chair's location?",
+                    "zh-CN": "你能把我从椅子的位置引导到杯子吗？",
+                    "zh-HK": "你能把我從椅子的位置引導到杯嗎？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_388",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find laptop?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到笔记本电脑?",
+                    "zh-HK": "我由椅子要行邊個方向去揾筆記本電腦?"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "en-US": "down and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you guide me to handbag starting from chair?",
+                    "zh-CN": "你能引导我从椅子到手袋吗？",
+                    "zh-HK": "你能引導我從椅子到手袋嗎？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "en-US": "down and right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you show me the way to book from handbag?",
+                    "zh-CN": "你能告诉我从手袋到书的方法吗？",
+                    "zh-HK": "你可唔可以話我由手袋到書嘅方法啊？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_393",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How is clock situated compared to laptop?",
+                    "zh-CN": "与笔记本电脑相比，时钟的位置如何？",
+                    "zh-HK": "與筆記本電腦相比，時鐘的位置如何？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards cup from where bottle is?",
+                    "zh-CN": "你能否指引我怎样从瓶子到杯子?",
+                    "zh-HK": "你可以指俾我睇，由瓶子點樣揾到杯?"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "en-US": "down left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is laptop located relative to remote?",
+                    "zh-CN": "笔记本电脑是在遥控器的哪边?",
+                    "zh-HK": "筆記本電腦喺在遙控器的邊度?"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_453",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find laptop?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到笔记本电脑?",
+                    "zh-HK": "我由椅子要行邊個方向去揾筆記本電腦?"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If laptop is in front of me, where is book located?",
+                    "zh-CN": "如果笔记本电脑在我面前，书在哪里？",
+                    "zh-HK": "如果筆記本電腦在我面前，書喺邊度？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": "down"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you direct me to cup from chair's location?",
+                    "zh-CN": "你能把我从椅子的位置引导到杯子吗？",
+                    "zh-HK": "你能把我從椅子的位置引導到杯嗎？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "en-US": "down"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_455",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction should I head from chair to locate tv?",
+                    "zh-CN": "我应该从椅子朝哪个方向移动才能找到电视？",
+                    "zh-HK": "我應該從椅子朝哪個方向移動才能找到電視？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "en-US": "up"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the position of potted plant in relation to chair?",
+                    "zh-CN": "盆栽相对于椅子的位置是什么？",
+                    "zh-HK": "盆栽相對于椅子嘅位置係乜嘢？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Which way should I go from chair to reach laptop?",
+                    "zh-CN": "从椅子到笔记本电脑的路是哪条？",
+                    "zh-HK": "由椅子到筆記本電腦嘅路係邊條？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": "up"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_474",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards cup from where bottle is?",
+                    "zh-CN": "你能否指引我怎样从瓶子到杯子?",
+                    "zh-HK": "你可以指俾我睇，由瓶子點樣揾到杯?"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "en-US": "down and right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What direction should I take from chair to get to keyboard?",
+                    "zh-CN": "我应该从椅子往什么方向走才能到达键盘？",
+                    "zh-HK": "我应该从椅子往什么方向走才能到达鍵盤？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "en-US": "left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "How is clock situated compared to laptop?",
+                    "zh-CN": "与笔记本电脑相比，时钟的位置如何？",
+                    "zh-HK": "與筆記本電腦相比，時鐘的位置如何？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            }
+        ]
+    }
+]

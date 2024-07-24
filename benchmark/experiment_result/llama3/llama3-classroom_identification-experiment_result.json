@@ -1,0 +1,302 @@
+[
+    {
+        "scene_id": "classroom_297",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me what object is directly ahead of me?",
+                    "zh-CN": "你能告诉我我正前方是什么物体吗？",
+                    "zh-HK": "你可唔可以話我我正前方係乜嘢物體啊？"
+                },
+                "result": {
+                    "en-US": "The laptop is directly ahead of you, being slightly up at a distance of 3.04 feet."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me what item is on my left side?",
+                    "zh-CN": "你能告诉我我左边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我左邊嘅係乜嘢項目啊？"
+                },
+                "result": {
+                    "en-US": "The item on your left side is the backpack, which is located at a distance of 2.61 meters from you and is oriented slightly to the left."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What is the item located on my right side?",
+                    "zh-CN": "我右边的物品是什么？",
+                    "zh-HK": "我右邊嘅物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The laptop is located on your right side."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you tell me which item is the closest to me?",
+                    "zh-CN": "你能告诉我哪个项目离我最近吗？",
+                    "zh-HK": "你可唔可以話我邊個項目離我最近啊？"
+                },
+                "result": {
+                    "en-US": "The backpack is the closest to me."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Which item is closest to the center of the frame?",
+                    "zh-CN": "哪个项目最接近画面中心？",
+                    "zh-HK": "邊個項目最接近畫面中心？"
+                },
+                "result": {
+                    "en-US": "laptop is closest to the center of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "classroom_301",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
+                    "zh-HK": "乜嘢物體就喺我面前？"
+                },
+                "result": {
+                    "en-US": "chair, down, 1.48"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What object is positioned to my left?",
+                    "zh-CN": "什么物体位于我的左边？",
+                    "zh-HK": "乜嘢物體位於我嘅左邊？"
+                },
+                "result": {
+                    "en-US": "chair, left, 1.48"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you tell me what item is on my right side?",
+                    "zh-CN": "你能告诉我我右边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我右邊嘅係乜嘢項目啊？"
+                },
+                "result": {
+                    "en-US": "The item on your right side is the TV, facing you and located at a distance of approximately 2.13 meters away."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
+                    "zh-HK": "乜嘢物品離我最近？"
+                },
+                "result": {
+                    "en-US": "The keyboard is the closest to me, oriented slightly-down and right, at a distance of 1.63 meters."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the object closest to the center of the frame?",
+                    "zh-CN": "离画面中心最近的物体是什么？",
+                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The object closest to the center of the frame is the chair with an orientation of slightly-right and a distance of 4.54."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "classroom_323",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "chair, directly-in-front, 2.73"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
+                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                },
+                "result": {
+                    "en-US": "The teddy bear on your left side is oriented slightly up and is 4.13 units away."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "A chair is on your right side, facing you and at a distance of about 2.73 meters away from you."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What is the nearest item to me?",
+                    "zh-CN": "离我最近的项目是什么？",
+                    "zh-HK": "離我最近嘅項目係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The nearest item to me is the teddy bear, located slightly up from my perspective, at a distance of approximately 4.13 meters away."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the object closest to the center of the frame?",
+                    "zh-CN": "离画面中心最近的物体是什么？",
+                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The dining table, down, 1.99."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "classroom_325",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
+                    "zh-HK": "乜嘢物體就喺我面前？"
+                },
+                "result": {
+                    "en-US": "chair is directly in front of me, orientation: slightly-right, distance to user: 3.23."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me what item is on my left side?",
+                    "zh-CN": "你能告诉我我左边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我左邊嘅係乜嘢項目啊？"
+                },
+                "result": {
+                    "en-US": "The chair is on your left side, facing slightly-down and is approximately 3.23 feet away from you."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you identify the item on my right side?",
+                    "zh-CN": "你能否识别我右边是什么物体？",
+                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                },
+                "result": {
+                    "en-US": "The item on your right side is a refrigerator, standing upright at a distance of 1.62 meters and positioned at the coordinates [569, 222]."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Which item is nearest to me?",
+                    "zh-CN": "哪个项目离我最近？",
+                    "zh-HK": "邊個項目離我最近？"
+                },
+                "result": {
+                    "en-US": "The chair is nearest to me, slightly-right, 3.23."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
+                },
+                "result": {
+                    "en-US": "The couch, slightly-left, 1.57."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "classroom_326",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me what object is directly ahead of me?",
+                    "zh-CN": "你能告诉我我正前方是什么物体吗？",
+                    "zh-HK": "你可唔可以話我我正前方係乜嘢物體啊？"
+                },
+                "result": {
+                    "en-US": "The object directly ahead of you is a chair, oriented slightly down, at a distance of 2.22 meters from you."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me what item is on my left side?",
+                    "zh-CN": "你能告诉我我左边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我左邊嘅係乜嘢項目啊？"
+                },
+                "result": {
+                    "en-US": "The chair is on your left side."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "The chair is on your right side, oriented slightly-down, at a distance of 1.57 meters."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Which object is the closest to me?",
+                    "zh-CN": "哪个物体离我最近？",
+                    "zh-HK": "邊個物體離我最近？"
+                },
+                "result": {
+                    "en-US": "The sink is the closest to me."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
+                },
+                "result": {
+                    "en-US": "The object closest to the center of the frame is the chair, slightly-down, at a distance of approximately 2.22 units."
+                }
+            }
+        ]
+    }
+]
