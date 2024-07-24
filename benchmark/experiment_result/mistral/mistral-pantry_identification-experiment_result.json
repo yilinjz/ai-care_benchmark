@@ -1,0 +1,302 @@
+[
+    {
+        "scene_id": "pantry_1",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What object is directly in front of me?",
+                    "zh-CN": "我的正前方是什么物体？",
+                    "zh-HK": "乜嘢物體就喺我面前？"
+                },
+                "result": {
+                    "en-US": " Refrigerator (slightly-down), 3.15 meters"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What object is positioned to my left?",
+                    "zh-CN": "什么物体位于我的左边？",
+                    "zh-HK": "乜嘢物體位於我嘅左邊？"
+                },
+                "result": {
+                    "en-US": " Chair, down and left, 2.08, [57, 437]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you tell me what item is on my right side?",
+                    "zh-CN": "你能告诉我我右边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我右邊嘅係乜嘢項目啊？"
+                },
+                "result": {
+                    "en-US": "The sink on your right side is approximately 3.05 meters away from you, and it is slightly right of the camera's position."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Which item is nearest to me?",
+                    "zh-CN": "哪个项目离我最近？",
+                    "zh-HK": "邊個項目離我最近？"
+                },
+                "result": {
+                    "en-US": " The chair down and left is nearest to you. (chair, down and left, 2.08)"
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Which item is closest to the center of the frame?",
+                    "zh-CN": "哪个项目最接近画面中心？",
+                    "zh-HK": "邊個項目最接近畫面中心？"
+                },
+                "result": {
+                    "en-US": " Closest object is the refrigerator (1.96 meters)."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "pantry_410",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the thing located right in front of me?",
+                    "zh-CN": "我面前的东西是什么？",
+                    "zh-HK": "我面前嘅嘢係乜嘢？"
+                },
+                "result": {
+                    "en-US": " The microwave is right in front of you at a distance of approximately 2.29 meters."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
+                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                },
+                "result": {
+                    "en-US": "The item on your left side is the bottle (1.37 meters away)."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What object is positioned to my right?",
+                    "zh-CN": "什么物体位于我的右边？",
+                    "zh-HK": "乜嘢物體位於我嘅右邊？"
+                },
+                "result": {
+                    "en-US": "The sink is positioned to your right."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you tell me which item is the closest to me?",
+                    "zh-CN": "你能告诉我哪个项目离我最近吗？",
+                    "zh-HK": "你可唔可以話我邊個項目離我最近啊？"
+                },
+                "result": {
+                    "en-US": "The bottle is the closest item to you."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the item nearest to the center of the frame?",
+                    "zh-CN": "最靠近画面中心的物品是什么？",
+                    "zh-HK": "最靠近畫面中心嘅物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": " The bottle is the item nearest to the center of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "pantry_412",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
+                },
+                "result": {
+                    "en-US": "Refrigerator (slightly-left), dining table (slightly-down)."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What object is positioned to my left?",
+                    "zh-CN": "什么物体位于我的左边？",
+                    "zh-HK": "乜嘢物體位於我嘅左邊？"
+                },
+                "result": {
+                    "en-US": " The chair is positioned to your left (left, 1.56)."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What object is positioned to my right?",
+                    "zh-CN": "什么物体位于我的右边？",
+                    "zh-HK": "乜嘢物體位於我嘅右邊？"
+                },
+                "result": {
+                    "en-US": "The refrigerator is positioned to your right. (refrigerator, slightly-left, 2.93)"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What is the closest item to me?",
+                    "zh-CN": "离我最近的项目是什么？",
+                    "zh-HK": "離我最近嘅項目係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The closest item to you is the chair located to your left at a distance of approximately 1.56 meters."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What object is closest to the middle of the frame?",
+                    "zh-CN": "什么物体最靠近画面中间？",
+                    "zh-HK": "乜嘢物體最靠近畫面中間？"
+                },
+                "result": {
+                    "en-US": " Closest object to the middle of the frame is the (chair, slightly-down) at a distance of approximately 1.56 meters."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "pantry_415",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": " Chair, slightly-down, 0 (user is facing the chair)"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
+                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                },
+                "result": {
+                    "en-US": "1. dining table (slightly-up and slightly-left), approximately 2.21 meters away"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What is the item located on my right side?",
+                    "zh-CN": "我右边的物品是什么？",
+                    "zh-HK": "我右邊嘅物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "2nd chair, slightly-right, approximately 2.12 meters"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Which item is nearest to me?",
+                    "zh-CN": "哪个项目离我最近？",
+                    "zh-HK": "邊個項目離我最近？"
+                },
+                "result": {
+                    "en-US": " The chair that is closest to you is (chair, slightly-down, 1.65)."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What object is closest to the middle of the frame?",
+                    "zh-CN": "什么物体最靠近画面中间？",
+                    "zh-HK": "乜嘢物體最靠近畫面中間？"
+                },
+                "result": {
+                    "en-US": " The chair (1.65, [379, 365]) is closest to the middle of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "pantry_417",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": " chair (slightly-right) at approximately 1.71 meters"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "Sink, left, 1.69 meters"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What is the item located on my right side?",
+                    "zh-CN": "我右边的物品是什么？",
+                    "zh-HK": "我右邊嘅物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "Refrigerator"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Which object is the closest to me?",
+                    "zh-CN": "哪个物体离我最近？",
+                    "zh-HK": "邊個物體離我最近？"
+                },
+                "result": {
+                    "en-US": " The cell phone is the closest to you."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Which item is closest to the center of the frame?",
+                    "zh-CN": "哪个项目最接近画面中心？",
+                    "zh-HK": "邊個項目最接近畫面中心？"
+                },
+                "result": {
+                    "en-US": " Cell phone is the closest item to the center of the frame."
+                }
+            }
+        ]
+    }
+]

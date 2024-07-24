@@ -1,0 +1,410 @@
+[
+    {
+        "scene_id": "coffee_shop_120",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Which way should I go from bench to reach dining table?",
+                    "zh-CN": "从长椅到餐桌的路是哪条？",
+                    "zh-HK": "由長椅到餐桌嘅路係邊條？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How is potted plant situated compared to dining table?",
+                    "zh-CN": "与餐桌相比，盆栽的位置如何？",
+                    "zh-HK": "與餐桌相比，盆栽的位置如何？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "In which direction should I head from bench to locate chair?",
+                    "zh-CN": "我应该从长椅朝哪个方向移动才能找到椅子？",
+                    "zh-HK": "我應該從長椅朝哪個方向移動才能找到椅子？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_122",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards potted plant from where bottle is?",
+                    "zh-CN": "你能否指引我怎样从瓶子到盆栽?",
+                    "zh-HK": "你可以指俾我睇，由瓶子點樣揾到盆栽?"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "When looking at potted plant, where is toaster?",
+                    "zh-CN": "当看着盆栽时，烤面包机在哪里？",
+                    "zh-HK": "當睇住盆栽時，多士爐在哪裡？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "en-US": " down and right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Which way should I go from bench to reach dining table?",
+                    "zh-CN": "从长椅到餐桌的路是哪条？",
+                    "zh-HK": "由長椅到餐桌嘅路係邊條？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "en-US": " down and right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_123",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards potted plant from where bottle is?",
+                    "zh-CN": "你能否指引我怎样从瓶子到盆栽?",
+                    "zh-HK": "你可以指俾我睇，由瓶子點樣揾到盆栽?"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you direct me to toaster from potted plant's location?",
+                    "zh-CN": "你能把我从盆栽的位置引导到烤面包机吗？",
+                    "zh-HK": "你能把我從盆栽的位置引導到多士爐嗎？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "en-US": " up and right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Facing person, which way is potted plant?",
+                    "zh-CN": "面对人，盆栽是哪个方向？",
+                    "zh-HK": "面對人，盆栽係邊個方向？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_223",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find couch?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到沙发?",
+                    "zh-HK": "我由椅子要行邊個方向去揾梳化?"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What direction should I take from couch to get to dining table?",
+                    "zh-CN": "我应该从沙发往什么方向走才能到达餐桌？",
+                    "zh-HK": "我应该从梳化往什么方向走才能到达餐桌？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "en-US": " up and right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_225",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is person located relative to couch?",
+                    "zh-CN": "人是在沙发的哪边?",
+                    "zh-HK": "人喺在梳化的邊度?"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you guide me to dining table starting from couch?",
+                    "zh-CN": "你能引导我从沙发到餐桌吗？",
+                    "zh-HK": "你能引導我從梳化到餐桌嗎？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If dining table is directly ahead, where is cup located?",
+                    "zh-CN": "如果餐桌在正前方，那么杯子在哪里？",
+                    "zh-HK": "如果餐桌在正前方，咁杯喺邊度？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": " right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_228",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "When looking at potted plant, where is toaster?",
+                    "zh-CN": "当看着盆栽时，烤面包机在哪里？",
+                    "zh-HK": "當睇住盆栽時，多士爐在哪裡？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What direction should I take from couch to get to dining table?",
+                    "zh-CN": "我应该从沙发往什么方向走才能到达餐桌？",
+                    "zh-HK": "我应该从梳化往什么方向走才能到达餐桌？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you direct me to toaster from potted plant's location?",
+                    "zh-CN": "你能把我从盆栽的位置引导到烤面包机吗？",
+                    "zh-HK": "你能把我從盆栽的位置引導到多士爐嗎？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_238",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can chair be found in relation to dining table?",
+                    "zh-CN": "在哪里可以找到与餐桌相关的 椅子？",
+                    "zh-HK": "喺邊度可以搵到與餐桌相關嘅椅子？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "en-US": " up and right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the position of bowl in relation to dining table?",
+                    "zh-CN": "碗相对于餐桌的位置是什么？",
+                    "zh-HK": "碗相對于餐桌嘅位置係乜嘢？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From chair, which direction should I move to find couch?",
+                    "zh-CN": "我从椅子开始往哪个方向移动可以到沙发?",
+                    "zh-HK": "我由椅子要行邊個方向去揾梳化?"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "en-US": " right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_244",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If dining table is directly ahead, where is cup located?",
+                    "zh-CN": "如果餐桌在正前方，那么杯子在哪里？",
+                    "zh-HK": "如果餐桌在正前方，咁杯喺邊度？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "en-US": " right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you guide me to dining table starting from couch?",
+                    "zh-CN": "你能引导我从沙发到餐桌吗？",
+                    "zh-HK": "你能引導我從梳化到餐桌嗎？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If couch is ahead of me, where can I find dining table?",
+                    "zh-CN": "如果沙发在我前面，我在哪里可以找到餐桌？",
+                    "zh-HK": "如果梳化喺我前面，我喺邊度可以搵到餐桌？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            }
+        ]
+    }
+]

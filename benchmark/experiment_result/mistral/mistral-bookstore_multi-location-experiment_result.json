@@ -1,0 +1,187 @@
+[
+    {
+        "scene_id": "bookstore_88",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you direct me to clock from book's location?",
+                    "zh-CN": "你能把我从书的位置引导到时钟吗？",
+                    "zh-HK": "你能把我從書的位置引導到時鐘嗎？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_89",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach bottle from book?",
+                    "zh-CN": "我怎样可以从书摸到瓶子?",
+                    "zh-HK": "我點樣可以由書揾到瓶子?"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_91",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you direct me to clock from book's location?",
+                    "zh-CN": "你能把我从书的位置引导到时钟吗？",
+                    "zh-HK": "你能把我從書的位置引導到時鐘嗎？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Which way should I go from backpack to reach person?",
+                    "zh-CN": "从背包到人的路是哪条？",
+                    "zh-HK": "由背囊到人嘅路係邊條？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "en-US": " up and right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_112",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If book is in front of me, where is laptop located?",
+                    "zh-CN": "如果书在我面前，笔记本电脑在哪里？",
+                    "zh-HK": "如果書在我面前，筆記本電腦喺邊度？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "en-US": " up and right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "With book in front, where should I search for tv?",
+                    "zh-CN": "前面有书，我应该在哪里搜索电视？",
+                    "zh-HK": "前面有書，我應該喺邊度搜索電視？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "en-US": " up and right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is mouse located relative to keyboard?",
+                    "zh-CN": "鼠标是在键盘的哪边?",
+                    "zh-HK": "鼠標喺在鍵盤的邊度?"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                },
+                "result": {
+                    "en-US": " up and right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_119",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How is chair situated compared to book?",
+                    "zh-CN": "与书相比，椅子的位置如何？",
+                    "zh-HK": "與書相比，椅子的位置如何？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If chair is ahead of me, where can I find dining table?",
+                    "zh-CN": "如果椅子在我前面，我在哪里可以找到餐桌？",
+                    "zh-HK": "如果椅子喺我前面，我喺邊度可以搵到餐桌？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": " down and right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From dining table, which direction should I move to find book?",
+                    "zh-CN": "我从餐桌开始往哪个方向移动可以到书?",
+                    "zh-HK": "我由餐桌要行邊個方向去揾書?"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "en-US": " right"
+                }
+            }
+        ]
+    }
+]

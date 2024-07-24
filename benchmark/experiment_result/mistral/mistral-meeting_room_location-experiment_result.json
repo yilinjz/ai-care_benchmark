@@ -1,0 +1,182 @@
+[
+    {
+        "scene_id": "meeting_room_5",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is the closest dining table in relation to me?",
+                    "zh-CN": "离我最近的餐桌在哪里?",
+                    "zh-HK": "離我最近嘅餐桌喺邊度？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "en-US": " down and slightly-left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Is the chair visible in the scene?",
+                    "zh-CN": "椅子在场景中是否可见？",
+                    "zh-HK": "椅子在場景中是否可見？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": " down and right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_27",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you locate the chair in the scene?",
+                    "zh-CN": "你能在场景中找到椅子吗？",
+                    "zh-HK": "你可以喺房入面搵到椅子嗎?"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you please locate the dining table?",
+                    "zh-CN": "你能找到餐桌吗？",
+                    "zh-HK": "你可唔可以搵到餐桌啊？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "en-US": " down and slightly-right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you find the bottle in the scene?",
+                    "zh-CN": "你能在场景中找到瓶子吗？",
+                    "zh-HK": "你可唔可以喺場景中搵到瓶子啊？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "en-US": " down and right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_39",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Please find the location of the chair.",
+                    "zh-CN": "请找到椅子的位置。",
+                    "zh-HK": "請搵到椅子嘅位置。"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "en-US": " down and right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you show me where the dining table is?",
+                    "zh-CN": "你能告诉我餐桌在哪里吗？",
+                    "zh-HK": "你可唔可以話我餐桌喺邊度啊？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "en-US": " down and slightly-left"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_341",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you guide me to where the potted plant is located?",
+                    "zh-CN": "你能引导我到盆栽的位置吗？",
+                    "zh-HK": "你能引導我到盆栽的位置嗎？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "en-US": " Right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the chair in relation to my current position?",
+                    "zh-CN": "相对于我当前位置，椅子在哪里？",
+                    "zh-HK": "相對于我當前位置，椅子喺邊度？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "en-US": " down and slightly-left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where is the nearest dining table to me?",
+                    "zh-CN": "离我最近的餐桌在哪里？",
+                    "zh-HK": "離我最近嘅餐桌喺邊度？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "en-US": " down and slightly-right"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "scene_id": "computer_lab_272",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
+                },
+                "result": {
+                    "en-US": "(chair, slightly-down and slightly-left, 2.22)"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What object is positioned to my left?",
+                    "zh-CN": "什么物体位于我的左边？",
+                    "zh-HK": "乜嘢物體位於我嘅左邊？"
+                },
+                "result": {
+                    "en-US": " The object positioned to your left is a chair, slightly down and slightly left at a distance of approximately 2.22 meters."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you identify the item on my right side?",
+                    "zh-CN": "你能否识别我右边是什么物体？",
+                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                },
+                "result": {
+                    "en-US": "4th item on your right side: (chair, slightly-down and slightly-right, 4.47, [501, 315, 90, 108])"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
+                    "zh-HK": "乜嘢物品離我最近？"
+                },
+                "result": {
+                    "en-US": " The item closest to you is the keyboard, slightly left, at a distance of 2.46 units."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What object is closest to the middle of the frame?",
+                    "zh-CN": "什么物体最靠近画面中间？",
+                    "zh-HK": "乜嘢物體最靠近畫面中間？"
+                },
+                "result": {
+                    "en-US": " The keyboard slightly left is closest to the middle of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_279",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
+                },
+                "result": {
+                    "en-US": "1 chair, slightly-down and slightly-right (distance: 2.73)"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you see what is on my left side?",
+                    "zh-CN": "你能看到我左边是什么吗？",
+                    "zh-HK": "你能看到我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "2nd chair from the left, slightly down and slightly left, 2.71 meters away."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you tell me what item is on my right side?",
+                    "zh-CN": "你能告诉我我右边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我右邊嘅係乜嘢項目啊？"
+                },
+                "result": {
+                    "en-US": "The object on your right side is a television (slightly-right, 5.99 meters away)."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Which object is the closest to me?",
+                    "zh-CN": "哪个物体离我最近？",
+                    "zh-HK": "邊個物體離我最近？"
+                },
+                "result": {
+                    "en-US": " The chair that is slightly-right and closest to you is at a distance of 1.94 meters."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Which item is closest to the center of the frame?",
+                    "zh-CN": "哪个项目最接近画面中心？",
+                    "zh-HK": "邊個項目最接近畫面中心？"
+                },
+                "result": {
+                    "en-US": " The item closest to the center of the frame is (chair, down and right, 1.94, [571, 426, 121, 91])."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_333",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
+                },
+                "result": {
+                    "en-US": "'TV slightly-right at 2.09 meters distance directly in front of you.'"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the item located on my left side?",
+                    "zh-CN": "我左边的物品是什么？",
+                    "zh-HK": "我左邊嘅物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": " Item on your left side is a television (slightly-left and 5.56 meters away)."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "2nd keyboard, slightly-right, 1.87 meters."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What is the nearest item to me?",
+                    "zh-CN": "离我最近的项目是什么？",
+                    "zh-HK": "離我最近嘅項目係乜嘢？"
+                },
+                "result": {
+                    "en-US": " The nearest item to you is the keyboard slightly-left with a distance of 3.37 meters."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What object is closest to the middle of the frame?",
+                    "zh-CN": "什么物体最靠近画面中间？",
+                    "zh-HK": "乜嘢物體最靠近畫面中間？"
+                },
+                "result": {
+                    "en-US": " Keyboard slightly left, closest to the middle of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_335",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
+                },
+                "result": {
+                    "en-US": "tv, slightly-right, approximately 3 meters"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
+                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                },
+                "result": {
+                    "en-US": "tv, slightly-right, 3.91 (distance is approximately 3.91 meters from the user)"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you identify the item on my right side?",
+                    "zh-CN": "你能否识别我右边是什么物体？",
+                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                },
+                "result": {
+                    "en-US": " Television, slightly right, 3.88 meters away."
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What is the closest item to me?",
+                    "zh-CN": "离我最近的项目是什么？",
+                    "zh-HK": "離我最近嘅項目係乜嘢？"
+                },
+                "result": {
+                    "en-US": " Keyboard, slightly left, 2.78 (distance in meters)."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Which item is closest to the center of the frame?",
+                    "zh-CN": "哪个项目最接近画面中心？",
+                    "zh-HK": "邊個項目最接近畫面中心？"
+                },
+                "result": {
+                    "en-US": " The closest item to the center of the frame is (keyboard, slightly-left, 2.78, [138, 271, 59, 25])."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_337",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the thing located right in front of me?",
+                    "zh-CN": "我面前的东西是什么？",
+                    "zh-HK": "我面前嘅嘢係乜嘢？"
+                },
+                "result": {
+                    "en-US": " The object located right in front of you is the keyboard (slightly right, 1.81)."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the item located on my left side?",
+                    "zh-CN": "我左边的物品是什么？",
+                    "zh-HK": "我左邊嘅物品係乜嘢？"
+                },
+                "result": {
+                    "en-US": "The item slightly to your left is a chair, approximately 2 meters away."
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "1. Laptop (right, 1.93)"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you tell me which item is the closest to me?",
+                    "zh-CN": "你能告诉我哪个项目离我最近吗？",
+                    "zh-HK": "你可唔可以話我邊個項目離我最近啊？"
+                },
+                "result": {
+                    "en-US": " The item closest to you is the (keyboard, right, 1.81, [583, 252, 96, 40])."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
+                },
+                "result": {
+                    "en-US": " The keyboard slightly-right and at a distance of 1.81 is closest to the center of the frame."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_338",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
+                },
+                "result": {
+                    "en-US": " You see the TV slightly to your right at a distance of approximately 2.06 meters."
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "en-US": "1. chair (slightly-down), 2 meters to your left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What object is positioned to my right?",
+                    "zh-CN": "什么物体位于我的右边？",
+                    "zh-HK": "乜嘢物體位於我嘅右邊？"
+                },
+                "result": {
+                    "en-US": "2nd keyboard, slightly right"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
+                    "zh-HK": "乜嘢物品離我最近？"
+                },
+                "result": {
+                    "en-US": "The keyboard is the closest to you."
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Which object is nearest to the center of the frame?",
+                    "zh-CN": "哪个物体最靠近画面中心？",
+                    "zh-HK": "邊個物體最靠近畫面中心？"
+                },
+                "result": {
+                    "en-US": "The keyboard is nearest to the center of the frame (keyboard, right, 1.63)."
+                }
+            }
+        ]
+    }
+]
