@@ -15,8 +15,9 @@ def process_context(context_json, language):
         else:
             oritentation = translate_word(obj['ORIENTATION'], language)
         depth = obj['DEPTH']
-        position = obj['POSITION']
-        context.append(f"({text}, {oritentation}, {depth}, {position})")
+        # position = obj['POSITION']
+        # context.append(f"({text}, {oritentation}, {depth}, {position})")
+        context.append(f"({text}, {oritentation}, {depth})")
     return context
 
 # match benchmark to json
