@@ -1,0 +1,522 @@
+[
+    {
+        "scene_id": "bedroom_70",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me what object is directly ahead of me?",
+                    "zh-CN": "你能告诉我我正前方是什么物体吗？",
+                    "zh-HK": "你可唔可以話我我正前方係乜嘢物體啊？"
+                },
+                "result": {
+                    "zh-CN": "床在你正前方，距离你大约1.08米。",
+                    "zh-HK": "正前方嘅物體係床，距離你約1.08米。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the item located on my left side?",
+                    "zh-CN": "我左边的物品是什么？",
+                    "zh-HK": "我左邊嘅物品係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "盆栽在你左边，距离是2.79米。",
+                    "zh-HK": "你左邊嘅物品係一個花瓶，距離你大約2.84米。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What object is positioned to my right?",
+                    "zh-CN": "什么物体位于我的右边？",
+                    "zh-HK": "乜嘢物體位於我嘅右邊？"
+                },
+                "result": {
+                    "zh-CN": "狗在你的右边，距离你1.45米。",
+                    "zh-HK": "(狗, 中間偏右, 1.45)"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What item is the closest to me?",
+                    "zh-CN": "离我最近的物体是什么？",
+                    "zh-HK": "乜嘢物品離我最近？"
+                },
+                "result": {
+                    "zh-CN": "床在中间偏下，距离你1.08米。",
+                    "zh-HK": "床係離你最近嘅物品，距離大約1.08米。"
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Which object is nearest to the center of the frame?",
+                    "zh-CN": "哪个物体最靠近画面中心？",
+                    "zh-HK": "邊個物體最靠近畫面中心？"
+                },
+                "result": {
+                    "zh-CN": "床在中间偏下，距离你1.08米。",
+                    "zh-HK": "床係最靠近畫面中心嘅物體，佢位於中間偏下位置，距離你1.08米。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_176",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "床在你正前方中间偏下和中间偏右，距离你1.45米。",
+                    "zh-HK": "係你正前方嘅物品係床，距離你大約1.45米。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What object is positioned to my left?",
+                    "zh-CN": "什么物体位于我的左边？",
+                    "zh-HK": "乜嘢物體位於我嘅左邊？"
+                },
+                "result": {
+                    "zh-CN": "背包在你的左边，距离你1.7米。",
+                    "zh-HK": "背囊位於你嘅左邊，距離你大約1.7米。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you identify the item on my right side?",
+                    "zh-CN": "你能否识别我右边是什么物体？",
+                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                },
+                "result": {
+                    "zh-CN": "手袋在你的右边，距离你约1.05米。",
+                    "zh-HK": "你右邊嘅物品係手袋，距離你大約1.05米。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you tell me which item is the closest to me?",
+                    "zh-CN": "你能告诉我哪个项目离我最近吗？",
+                    "zh-HK": "你可唔可以話我邊個項目離我最近啊？"
+                },
+                "result": {
+                    "zh-CN": "手袋在你的右下方，距离你1.05米。",
+                    "zh-HK": "手袋在你右邊下方，距離你1.05米。"
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the item nearest to the center of the frame?",
+                    "zh-CN": "最靠近画面中心的物品是什么？",
+                    "zh-HK": "最靠近畫面中心嘅物品係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "床在中间偏下和中间偏右位置距离你1.45米。",
+                    "zh-HK": "床係中間偏下和中間偏右嘅位置，距離你1.45米。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_178",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "床，中间偏下和中间偏左，距离你1.59米。",
+                    "zh-HK": "你正前方嘅物品係床，距離你大約1.59米。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
+                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                },
+                "result": {
+                    "zh-CN": "(床, 中间偏下 和 中间偏左, 1.59)",
+                    "zh-HK": "你左邊嘅物品係床，距離你大約1.59米。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you tell me what item is on my right side?",
+                    "zh-CN": "你能告诉我我右边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我右邊嘅係乜嘢項目啊？"
+                },
+                "result": {
+                    "zh-CN": "椅子在你右边，距离你大约1.85米。",
+                    "zh-HK": "你右邊嘅係椅子，距離你大約1.85米。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you tell me which item is the closest to me?",
+                    "zh-CN": "你能告诉我哪个项目离我最近吗？",
+                    "zh-HK": "你可唔可以話我邊個項目離我最近啊？"
+                },
+                "result": {
+                    "zh-CN": "背包在下方，距离你1.35米。",
+                    "zh-HK": "離你最近嘅係背囊，喺你下方，距離大約1.35米。"
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
+                },
+                "result": {
+                    "zh-CN": "床在中间偏下和中间偏左方向，距离你1.59米。",
+                    "zh-HK": "最靠近畫面中心嘅物體係床，位於中間偏下和中間偏左，距離你1.59米。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_181",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me what object is directly ahead of me?",
+                    "zh-CN": "你能告诉我我正前方是什么物体吗？",
+                    "zh-HK": "你可唔可以話我我正前方係乜嘢物體啊？"
+                },
+                "result": {
+                    "zh-CN": "电视，中间偏左，距离你2.25米。",
+                    "zh-HK": "係你正前方嘅物體係一部電視，距離你大約2.25米。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the item located on my left side?",
+                    "zh-CN": "我左边的物品是什么？",
+                    "zh-HK": "我左邊嘅物品係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "遥控器, 左边, 距离你1.56米。",
+                    "zh-HK": "你左邊嘅物品係遙控器，距離你大約1.56米。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you identify what is to my right?",
+                    "zh-CN": "你能确定我的右边是什么吗？",
+                    "zh-HK": "你可唔可以確定我嘅右邊係乜嘢啊？"
+                },
+                "result": {
+                    "zh-CN": "书在你的右边，距离你大约2.54米。",
+                    "zh-HK": "你嘅右邊係鍵盤，距離你大約1.87米。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What is the nearest item to me?",
+                    "zh-CN": "离我最近的项目是什么？",
+                    "zh-HK": "離我最近嘅項目係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "遥控器在你的左边，距离你1.56米。",
+                    "zh-HK": "離你最近嘅係床，喺你下方，距離大約1.0米。"
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Which item is closest to the center of the frame?",
+                    "zh-CN": "哪个项目最接近画面中心？",
+                    "zh-HK": "邊個項目最接近畫面中心？"
+                },
+                "result": {
+                    "zh-CN": "(电视, 中间偏左, 2.25)",
+                    "zh-HK": "鍵盤喺右邊，距離你1.87米。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_281",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "床在你正前方，距离你2.1米。",
+                    "zh-HK": "你正前方嘅物品係床，距離你大約2.1米。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify the item on my left side?",
+                    "zh-CN": "你能否识别我左边是什么物体？",
+                    "zh-HK": "你可唔可以認出我左邊嘅物品啊？"
+                },
+                "result": {
+                    "zh-CN": "(床, 左, 2.1)",
+                    "zh-HK": "你左邊嘅物品係一張床，距離你約2.1米。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you see what is on my right side?",
+                    "zh-CN": "你能看到我右边是什么吗？",
+                    "zh-HK": "你可唔可以睇到我右邊係乜嘢啊？"
+                },
+                "result": {
+                    "zh-CN": "杯子在你的右边，距离你2.94米。",
+                    "zh-HK": "你右邊有一張椅子，距離你約2.67米。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What is the closest item to me?",
+                    "zh-CN": "离我最近的项目是什么？",
+                    "zh-HK": "離我最近嘅項目係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "床在中间偏下，距离你2.1米。",
+                    "zh-HK": "離你最近嘅係椅子，喺你右手邊，距離大約2.67米。"
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the object closest to the center of the frame?",
+                    "zh-CN": "离画面中心最近的物体是什么？",
+                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "床在中间偏下距离你2.1米。",
+                    "zh-HK": "係床，位於中間偏下位置，距離你2.1米。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_401",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the item positioned directly in front of me?",
+                    "zh-CN": "我正前方的物品是什么？",
+                    "zh-HK": "我正前方的物品係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "椅子在你正前方偏左一点，距离你大约1.58米。",
+                    "zh-HK": "你正前方嘅物品係椅子，位於中間偏下位置，距離你大約1.58米。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What object is positioned to my left?",
+                    "zh-CN": "什么物体位于我的左边？",
+                    "zh-HK": "乜嘢物體位於我嘅左邊？"
+                },
+                "result": {
+                    "zh-CN": "泰迪熊在你的左边，距离你约1.4米。",
+                    "zh-HK": "啤啤熊係你嘅左邊，距離你約1.4米。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you identify the item on my right side?",
+                    "zh-CN": "你能否识别我右边是什么物体？",
+                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                },
+                "result": {
+                    "zh-CN": "床在你的右边，距离你2.38米。",
+                    "zh-HK": "你右邊嘅物品係床，距離你大約2.38米。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What is the closest item to me?",
+                    "zh-CN": "离我最近的项目是什么？",
+                    "zh-HK": "離我最近嘅項目係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "泰迪熊在你的左下方，距离你1.4米。",
+                    "zh-HK": "離你最近嘅係啤乒熊，位於左下，距離你1.4米。"
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "Can you identify the object closest to the center of the frame?",
+                    "zh-CN": "你能识别出最靠近画面中心的物体吗？",
+                    "zh-HK": "你可唔可以識別出最靠近畫面中心嘅物體啊？"
+                },
+                "result": {
+                    "zh-CN": "椅子在中间偏下和中间偏左方向，距离你1.58米。",
+                    "zh-HK": "椅子位於中間偏下和中間偏左，距離你1.58米。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_525",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "你前方有笔记本电脑在右边约1.9米处，床在下方和中间偏左约1.92米处，背包在下部约2.11米处，餐桌在中部偏下和中部偏右约2.07米处。",
+                    "zh-HK": "你眼前有筆記本電腦喺右邊，距離約1.9米；床喺下和中間偏左，距離約1.92米；背囊喺下面，距離大約2.11米；餐桌喺中間偏下和中間偏右，距離約2.07米。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me what item is on my left side?",
+                    "zh-CN": "你能告诉我我左边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我左邊嘅係乜嘢項目啊？"
+                },
+                "result": {
+                    "zh-CN": "床在你的左边，距离你大约1.92米。",
+                    "zh-HK": "左邊嘅係床，距離你大約1.92米。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you identify the item on my right side?",
+                    "zh-CN": "你能否识别我右边是什么物体？",
+                    "zh-HK": "你可唔可以認出我右邊嘅物品啊？"
+                },
+                "result": {
+                    "zh-CN": "笔记本电脑在你右边，距离你约1.9米。",
+                    "zh-HK": "你右邊嘅物品係筆記本電腦，距離你大約1.9米。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you tell me which item is the closest to me?",
+                    "zh-CN": "你能告诉我哪个项目离我最近吗？",
+                    "zh-HK": "你可唔可以話我邊個項目離我最近啊？"
+                },
+                "result": {
+                    "zh-CN": "笔记本电脑在你的右边，距离你大约1.9米。",
+                    "zh-HK": "筆記本電腦係你右手邊，離你大約1.9米。"
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the item nearest to the center of the frame?",
+                    "zh-CN": "最靠近画面中心的物品是什么？",
+                    "zh-HK": "最靠近畫面中心嘅物品係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "笔记本电脑在你的右边，距离你约1.9米。",
+                    "zh-HK": "筆記本電腦，喺右邊，距離你1.9公尺。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_946",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What do I see directly in front of me?",
+                    "zh-CN": "我眼前能看到什么？",
+                    "zh-HK": "我眼前能看到乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "你前方中间偏上和中间偏左2米处有一把椅子，中间偏左1.8米处有一张床，中间偏上和中间偏右2.66米处有一台电视，中间偏上和中间偏右2.66米处有一个鼠标，中间偏右2.07米处有一本书。",
+                    "zh-HK": "你前方有張椅子喺中間偏上同中間偏左位置，距離你2米；一張床喺中間偏左位置，距離你1.8米；一部電視喺中間偏上同中間偏右位置，距離你2.66米；一個鼠標喺中間偏上同中間偏右位置，距離你2.66米；以及一本書喺中間偏右位置，距離你2.07米。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you identify what is to my left?",
+                    "zh-CN": "你能认出我左边是什么吗？",
+                    "zh-HK": "你可唔可以認出我左邊係乜嘢啊？"
+                },
+                "result": {
+                    "zh-CN": "床在你左边，距离你1.8米。",
+                    "zh-HK": "你左邊係床，距離你大約1.8米。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you tell me what item is on my right side?",
+                    "zh-CN": "你能告诉我我右边的是什么项目吗？",
+                    "zh-HK": "你可唔可以話我我右邊嘅係乜嘢項目啊？"
+                },
+                "result": {
+                    "zh-CN": "电视，中间偏上和中间偏右，距离你2.66米。",
+                    "zh-HK": "你右邊嘅係電視，距離你約2.66米。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "What is the nearest item to me?",
+                    "zh-CN": "离我最近的项目是什么？",
+                    "zh-HK": "離我最近嘅項目係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "床在中间偏左方向，距离你1.8米。",
+                    "zh-HK": "床係你左邊，距離你大約1.8米。"
+                }
+            },
+            {
+                "qid": "4",
+                "question": {
+                    "en-US": "What is the object closest to the center of the frame?",
+                    "zh-CN": "离画面中心最近的物体是什么？",
+                    "zh-HK": "離畫面中心最近嘅物體係乜嘢？"
+                },
+                "result": {
+                    "zh-CN": "鼠标在中间偏上和中间偏右方向，距离用户2.66米。",
+                    "zh-HK": "床係離你最近嘅物體，喺你左邊，距離你大約1.8米。"
+                }
+            }
+        ]
+    }
+]

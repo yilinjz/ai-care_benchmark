@@ -1,0 +1,562 @@
+[
+    {
+        "scene_id": "living_room_50",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is potted plant located relative to couch?",
+                    "zh-CN": "盆栽是在沙发的哪边?",
+                    "zh-HK": "盆栽喺在梳化的邊度?"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What direction should I take from couch to get to book?",
+                    "zh-CN": "我应该从沙发往什么方向走才能到达书？",
+                    "zh-HK": "我应该从梳化往什么方向走才能到达書？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If potted plant is directly ahead, where is book located?",
+                    "zh-CN": "如果盆栽在正前方，那么书在哪里？",
+                    "zh-HK": "如果盆栽在正前方，咁書喺邊度？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_156",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the position of tv in relation to couch?",
+                    "zh-CN": "电视相对于沙发的位置是什么？",
+                    "zh-HK": "電視相對于梳化嘅位置係乜嘢？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "上左"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Facing couch, which way is remote?",
+                    "zh-CN": "面对沙发，遥控器是哪个方向？",
+                    "zh-HK": "面對梳化，遙控器係邊個方向？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you show me the way to remote from tv?",
+                    "zh-CN": "你能告诉我从电视到遥控器的方法吗？",
+                    "zh-HK": "你可唔可以話我由電視到遙控器嘅方法啊？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_166",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If dining table is in front of me, where should I look for vase?",
+                    "zh-CN": "如果餐桌在我正前方，我应该往哪边找花瓶?",
+                    "zh-HK": "餐桌喺在我面前，我應該望邊度搵花瓶?"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How is dining table situated compared to couch?",
+                    "zh-CN": "与沙发相比，餐桌的位置如何？",
+                    "zh-HK": "與梳化相比，餐桌的位置如何？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What is the way to get to chair from couch?",
+                    "zh-CN": "从沙发到达椅子的方法是什么？",
+                    "zh-HK": "從梳化到達椅子的方法是什麼？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_200",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can bottle be found in relation to dining table?",
+                    "zh-CN": "在哪里可以找到与餐桌相关的 瓶子？",
+                    "zh-HK": "喺邊度可以搵到與餐桌相關嘅瓶子？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From dining table, which direction should I move to find chair?",
+                    "zh-CN": "我从餐桌开始往哪个方向移动可以到椅子?",
+                    "zh-HK": "我由餐桌要行邊個方向去揾椅子?"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What route should I take to go from dining table to tv?",
+                    "zh-CN": "我应该走什么路线从餐桌到电视？",
+                    "zh-HK": "我應該走乜嘢路線由餐桌到電視？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右上"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_201",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If dining table is ahead of me, where can I find tv?",
+                    "zh-CN": "如果餐桌在我前面，我在哪里可以找到电视？",
+                    "zh-HK": "如果餐桌喺我前面，我喺邊度可以搵到電視？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is potted plant located relative to couch?",
+                    "zh-CN": "盆栽是在沙发的哪边?",
+                    "zh-HK": "盆栽喺在梳化的邊度?"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "上左",
+                    "zh-HK": "上"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "How can I get to dining table starting from chair?",
+                    "zh-CN": "如何从椅子开始到达餐桌？",
+                    "zh-HK": "如何由椅子開始到達餐桌？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_261",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "In which direction should I head from couch to locate laptop?",
+                    "zh-CN": "我应该从沙发朝哪个方向移动才能找到笔记本电脑？",
+                    "zh-HK": "我應該從梳化朝哪個方向移動才能找到筆記本電腦？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What is the way to get to chair from couch?",
+                    "zh-CN": "从沙发到达椅子的方法是什么？",
+                    "zh-HK": "從梳化到達椅子的方法是什麼？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "上右",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is bowl?",
+                    "zh-CN": "我现在正面对笔记本电脑, 碗在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 碗喺邊個方向？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_350",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How can I get to dining table starting from chair?",
+                    "zh-CN": "如何从椅子开始到达餐桌？",
+                    "zh-HK": "如何由椅子開始到達餐桌？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "上左",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you show me the way to remote from tv?",
+                    "zh-CN": "你能告诉我从电视到遥控器的方法吗？",
+                    "zh-HK": "你可唔可以話我由電視到遙控器嘅方法啊？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "zh-CN": "无法确定电视和遥控器的位置，提供的上下文中没有这些物品的信息。请提供包含所需物品的上下文。在当前描述中，没有提到电视或遥控器的方向。我只能基于给定信息回答。请提供更多详细信息以便我能更准确地帮助你。但根据你的问题，你应该是在寻找从一个物品到另一个物品的方向指示。如果电视和遥控器都在视野范围内，通常遥控器会在电视的下方或者旁边。\n\n但是基于以上给出的物体列表无法回答这个问题，因为列表中没有提到电视和遥控器的位置信息。所以请提供包含电视和遥控器位置信息的上下文描述以便我能够更准确地回答你的问题。如果可能的话，请重新描述包含电视和遥控器在内的场景情况以及它们相对于摄像头的方向和距离等详细信息。\n\n不过根据一般家庭布置，遥控器通常会放在电视下方或者旁边的桌子上，也有可能在沙发上的某个位置。如果你需要更具体的指示，可以尝试使用语音控制功能来寻找遥控器，例如通过智能音箱或者其他智能家居设备发出指令让其帮助你定位遥控器的位置。\n上",
+                    "zh-HK": "無法確定遙控器的位置。"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is bowl?",
+                    "zh-CN": "我现在正面对笔记本电脑, 碗在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 碗喺邊個方向？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "无法确定碗的位置。上下文中没有提供关于碗的信息。请提供更多上下文或检查您的问题是否准确。如果您确认场景中存在碗，请尝试重新描述场景或询问位置。如果碗不在场景中，您可能需要去其他地方寻找它。\n\n但是根据您的问题和提供的物品列表, 碗并不在其中. 所以我无法回答您的问题.\n\n但如果你是在问我关于'上下文:'中的物品, 那么我可以告诉你笔记本电脑的位置相对于其它物体的方向.\n(如果这是你想要的答案的话) :\n\n(自行车, 中间偏左, 2.62, [131, 332, 161, 232]) -> 在您的左边\n(椅子, 中间偏下 和 中间偏右, 1.55, [478, 378, 306, 183]) -> 在您的右边下方\n(盆栽, 中间偏上 和 中间偏左, 3.04, [254, 180, 96, 139]) -> 在您的左边上方\n(键盘, 中间偏下, 2.7, [336, 280, 204, 26]) -> 在您的正下方\n\n但是没有提到'碗', 所以我无法回答您关于'碗'的问题.\n请再次确认你的问题是否正确或者场景中是否有'碗'.\n如果你是在问其他物体的位置, 那么我已经给出了答案.\n\n请根据自己的需求选择合适的回答方式. 如果有其他问题或需要更详细的解释, 欢迎随时提出!",
+                    "zh-HK": "'上'"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_356",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "When looking at potted plant, where is tv?",
+                    "zh-CN": "当看着盆栽时，电视在哪里？",
+                    "zh-HK": "當睇住盆栽時，電視在哪裡？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction should I head from couch to locate laptop?",
+                    "zh-CN": "我应该从沙发朝哪个方向移动才能找到笔记本电脑？",
+                    "zh-HK": "我應該從梳化朝哪個方向移動才能找到筆記本電腦？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you show me the way to remote from tv?",
+                    "zh-CN": "你能告诉我从电视到遥控器的方法吗？",
+                    "zh-HK": "你可唔可以話我由電視到遙控器嘅方法啊？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "zh-CN": "下\n左",
+                    "zh-HK": "下\n右"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_583",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can bottle be found in relation to dining table?",
+                    "zh-CN": "在哪里可以找到与餐桌相关的 瓶子？",
+                    "zh-HK": "喺邊度可以搵到與餐桌相關嘅瓶子？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "zh-CN": "不在场景中",
+                    "zh-HK": "無相關物品"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How is dining table situated compared to couch?",
+                    "zh-CN": "与沙发相比，餐桌的位置如何？",
+                    "zh-HK": "與梳化相比，餐桌的位置如何？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "With backpack in front, where should I search for remote?",
+                    "zh-CN": "前面有背包，我应该在哪里搜索遥控器？",
+                    "zh-HK": "前面有背囊，我應該喺邊度搜索遙控器？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                },
+                "result": {
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_1304",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing laptop, in which direction is bowl?",
+                    "zh-CN": "我现在正面对笔记本电脑, 碗在哪个方向?",
+                    "zh-HK": "我對住筆記本電腦, 碗喺邊個方向？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "With backpack in front, where should I search for remote?",
+                    "zh-CN": "前面有背包，我应该在哪里搜索遥控器？",
+                    "zh-HK": "前面有背囊，我應該喺邊度搜索遙控器？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you direct me to book from vase's location?",
+                    "zh-CN": "你能把我从花瓶的位置引导到书吗？",
+                    "zh-HK": "你能把我從花瓶的位置引導到書嗎？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            }
+        ]
+    }
+]

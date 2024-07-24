@@ -1,0 +1,450 @@
+[
+    {
+        "scene_id": "playroom_425",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you direct me to sports ball from chair's location?",
+                    "zh-CN": "你能把我从椅子的位置引导到运动用球吗？",
+                    "zh-HK": "你能把我從椅子的位置引導到運動波嗎？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If sports ball is in front of me, where is backpack located?",
+                    "zh-CN": "如果运动用球在我面前，背包在哪里？",
+                    "zh-HK": "如果運動波在我面前，背囊喺邊度？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "zh-CN": "上左",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What route should I take to go from dining table to backpack?",
+                    "zh-CN": "我应该走什么路线从餐桌到背包？",
+                    "zh-HK": "我應該走乜嘢路線由餐桌到背囊？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_426",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where is tv located relative to couch?",
+                    "zh-CN": "电视是在沙发的哪边?",
+                    "zh-HK": "電視喺在梳化的邊度?"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How can I get to couch starting from chair?",
+                    "zh-CN": "如何从椅子开始到达沙发？",
+                    "zh-HK": "如何由椅子開始到達梳化？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If tv is directly ahead, where is sports ball located?",
+                    "zh-CN": "如果电视在正前方，那么运动用球在哪里？",
+                    "zh-HK": "如果電視在正前方，咁運動波喺邊度？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_428",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can suitcase be found in relation to couch?",
+                    "zh-CN": "在哪里可以找到与沙发相关的 行李箱？",
+                    "zh-HK": "喺邊度可以搵到與梳化相關嘅行李箱？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you direct me to sports ball from chair's location?",
+                    "zh-CN": "你能把我从椅子的位置引导到运动用球吗？",
+                    "zh-HK": "你能把我從椅子的位置引導到運動波嗎？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If tv is directly ahead, where is sports ball located?",
+                    "zh-CN": "如果电视在正前方，那么运动用球在哪里？",
+                    "zh-HK": "如果電視在正前方，咁運動波喺邊度？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "zh-CN": "不在场景中",
+                    "zh-HK": "左下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_437",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the way to get to tv from chair?",
+                    "zh-CN": "从椅子到达电视的方法是什么？",
+                    "zh-HK": "從椅子到達電視的方法是什麼？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "zh-CN": "上 左",
+                    "zh-HK": "上 左"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How is teddy bear situated compared to tv?",
+                    "zh-CN": "与电视相比，泰迪熊的位置如何？",
+                    "zh-HK": "與電視相比，啤啤熊的位置如何？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If tv is directly ahead, where is sports ball located?",
+                    "zh-CN": "如果电视在正前方，那么运动用球在哪里？",
+                    "zh-HK": "如果電視在正前方，咁運動波喺邊度？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1081",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How do I reach chair from bed?",
+                    "zh-CN": "我怎样可以从床摸到椅子?",
+                    "zh-HK": "我點樣可以由床揾到椅子?"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From bed, which direction should I move to find book?",
+                    "zh-CN": "我从床开始往哪个方向移动可以到书?",
+                    "zh-HK": "我由床要行邊個方向去揾書?"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "When looking at chair, where is book?",
+                    "zh-CN": "当看着椅子时，书在哪里？",
+                    "zh-HK": "當睇住椅子時，書在哪裡？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1084",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What direction should I take from chair to get to tv?",
+                    "zh-CN": "我应该从椅子往什么方向走才能到达电视？",
+                    "zh-HK": "我应该从椅子往什么方向走才能到达電視？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "zh-CN": "上左",
+                    "zh-HK": "上左"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "With book in front, where should I search for chair?",
+                    "zh-CN": "前面有书，我应该在哪里搜索椅子？",
+                    "zh-HK": "前面有書，我應該喺邊度搜索椅子？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you direct me to sports ball from chair's location?",
+                    "zh-CN": "你能把我从椅子的位置引导到运动用球吗？",
+                    "zh-HK": "你能把我從椅子的位置引導到運動波嗎？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "上\n\n左右\n\n左下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1157",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can suitcase be found in relation to couch?",
+                    "zh-CN": "在哪里可以找到与沙发相关的 行李箱？",
+                    "zh-HK": "喺邊度可以搵到與梳化相關嘅行李箱？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "不在场景中",
+                    "zh-HK": "無行李箱喺場景入面。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How can I get to couch starting from chair?",
+                    "zh-CN": "如何从椅子开始到达沙发？",
+                    "zh-HK": "如何由椅子開始到達梳化？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "From bed, which direction should I move to find book?",
+                    "zh-CN": "我从床开始往哪个方向移动可以到书?",
+                    "zh-HK": "我由床要行邊個方向去揾書?"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "playroom_1203",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you guide me to backpack starting from couch?",
+                    "zh-CN": "你能引导我从沙发到背包吗？",
+                    "zh-HK": "你能引導我從梳化到背囊嗎？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "上左",
+                    "zh-HK": "上左"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "In which direction should I head from couch to locate suitcase?",
+                    "zh-CN": "我应该从沙发朝哪个方向移动才能找到行李箱？",
+                    "zh-HK": "我應該從梳化朝哪個方向移動才能找到行李箱？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you direct me to sports ball from chair's location?",
+                    "zh-CN": "你能把我从椅子的位置引导到运动用球吗？",
+                    "zh-HK": "你能把我從椅子的位置引導到運動波嗎？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右上"
+                }
+            }
+        ]
+    }
+]

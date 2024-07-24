@@ -1,0 +1,506 @@
+[
+    {
+        "scene_id": "dining_room_54",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If dining table is directly ahead, where is laptop located?",
+                    "zh-CN": "如果餐桌在正前方，那么笔记本电脑在哪里？",
+                    "zh-HK": "如果餐桌在正前方，咁筆記本電腦喺邊度？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Facing laptop, which way is bottle?",
+                    "zh-CN": "面对笔记本电脑，瓶子是哪个方向？",
+                    "zh-HK": "面對筆記本電腦，瓶子係邊個方向？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If bowl is in front of me, where is microwave located?",
+                    "zh-CN": "如果碗在我面前，微波炉在哪里？",
+                    "zh-HK": "如果碗在我面前，微波爐喺邊度？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "上",
+                    "zh-HK": "右上"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_746",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If I'm facing chair, in which direction is microwave?",
+                    "zh-CN": "我现在正面对椅子, 微波炉在哪个方向?",
+                    "zh-HK": "我對住椅子, 微波爐喺邊個方向？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you point me towards toaster from where microwave is?",
+                    "zh-CN": "你能否指引我怎样从微波炉到烤面包机?",
+                    "zh-HK": "你可以指俾我睇，由微波爐點樣揾到多士爐?"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What is the way to get to bottle from toaster?",
+                    "zh-CN": "从烤面包机到达瓶子的方法是什么？",
+                    "zh-HK": "從多士爐到達瓶子的方法是什麼？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_757",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "How can I get to dining table starting from sink?",
+                    "zh-CN": "如何从水槽开始到达餐桌？",
+                    "zh-HK": "如何由水槽開始到達餐桌？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "What direction should I take from tv to get to sink?",
+                    "zh-CN": "我应该从电视往什么方向走才能到达水槽？",
+                    "zh-HK": "我应该从電視往什么方向走才能到达水槽？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If bowl is in front of me, where is microwave located?",
+                    "zh-CN": "如果碗在我面前，微波炉在哪里？",
+                    "zh-HK": "如果碗在我面前，微波爐喺邊度？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "zh-CN": "上",
+                    "zh-HK": "左上"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_783",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you point me towards toaster from where microwave is?",
+                    "zh-CN": "你能否指引我怎样从微波炉到烤面包机?",
+                    "zh-HK": "你可以指俾我睇，由微波爐點樣揾到多士爐?"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "zh-CN": "无法确定微波炉和烤面包机的位置。请提供包含这两个物品的上下文信息。",
+                    "zh-HK": "無足夠資訊提供方向。"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can cup be found in relation to backpack?",
+                    "zh-CN": "在哪里可以找到与背包相关的 杯子？",
+                    "zh-HK": "喺邊度可以搵到與背囊相關嘅杯？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you show me the way to bottle from bowl?",
+                    "zh-CN": "你能告诉我从碗到瓶子的方法吗？",
+                    "zh-HK": "你可唔可以話我由碗到瓶子嘅方法啊？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "右",
+                    "zh-HK": "左上"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_824",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can cup be found in relation to backpack?",
+                    "zh-CN": "在哪里可以找到与背包相关的 杯子？",
+                    "zh-HK": "喺邊度可以搵到與背囊相關嘅杯？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "中间偏下",
+                    "zh-HK": "無相關物品"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If dining table is directly ahead, where is laptop located?",
+                    "zh-CN": "如果餐桌在正前方，那么笔记本电脑在哪里？",
+                    "zh-HK": "如果餐桌在正前方，咁筆記本電腦喺邊度？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "zh-CN": "下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you direct me to bowl from potted plant's location?",
+                    "zh-CN": "你能把我从盆栽的位置引导到碗吗？",
+                    "zh-HK": "你能把我從盆栽的位置引導到碗嗎？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_852",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you direct me to bowl from potted plant's location?",
+                    "zh-CN": "你能把我从盆栽的位置引导到碗吗？",
+                    "zh-HK": "你能把我從盆栽的位置引導到碗嗎？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If bowl is in front of me, where is microwave located?",
+                    "zh-CN": "如果碗在我面前，微波炉在哪里？",
+                    "zh-HK": "如果碗在我面前，微波爐喺邊度？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can cup be found in relation to backpack?",
+                    "zh-CN": "在哪里可以找到与背包相关的 杯子？",
+                    "zh-HK": "喺邊度可以搵到與背囊相關嘅杯？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "zh-CN": "不在场景中",
+                    "zh-HK": "無相關資訊"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_879",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "What is the way to get to bottle from toaster?",
+                    "zh-CN": "从烤面包机到达瓶子的方法是什么？",
+                    "zh-HK": "從多士爐到達瓶子的方法是什麼？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "How is potted plant situated compared to dining table?",
+                    "zh-CN": "与餐桌相比，盆栽的位置如何？",
+                    "zh-HK": "與餐桌相比，盆栽的位置如何？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "What route should I take to go from chair to tv?",
+                    "zh-CN": "我应该走什么路线从椅子到电视？",
+                    "zh-HK": "我應該走乜嘢路線由椅子到電視？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右上"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_880",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If dining table is directly ahead, where is laptop located?",
+                    "zh-CN": "如果餐桌在正前方，那么笔记本电脑在哪里？",
+                    "zh-HK": "如果餐桌在正前方，咁筆記本電腦喺邊度？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "With dining table in front, where should I search for oven?",
+                    "zh-CN": "前面有餐桌，我应该在哪里搜索烤箱？",
+                    "zh-HK": "前面有餐桌，我應該喺邊度搜索焗爐？"
+                },
+                "answer": {
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Which way should I go from dining table to reach chair?",
+                    "zh-CN": "从餐桌到椅子的路是哪条？",
+                    "zh-HK": "由餐桌到椅子嘅路係邊條？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dining_room_1436",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "If dining table is ahead of me, where can I find vase?",
+                    "zh-CN": "如果餐桌在我前面，我在哪里可以找到花瓶？",
+                    "zh-HK": "如果餐桌喺我前面，我喺邊度可以搵到花瓶？"
+                },
+                "answer": {
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "If I'm facing chair, in which direction is microwave?",
+                    "zh-CN": "我现在正面对椅子, 微波炉在哪个方向?",
+                    "zh-HK": "我對住椅子, 微波爐喺邊個方向？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "If dining table is directly ahead, where is laptop located?",
+                    "zh-CN": "如果餐桌在正前方，那么笔记本电脑在哪里？",
+                    "zh-HK": "如果餐桌在正前方，咁筆記本電腦喺邊度？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "上",
+                    "zh-HK": "右上"
+                }
+            }
+        ]
+    }
+]
