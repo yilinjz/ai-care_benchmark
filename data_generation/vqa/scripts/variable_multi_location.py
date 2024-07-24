@@ -511,7 +511,7 @@ question_pool = [
 # ]
 
 # ========== computer lab ========== #
-# scene_tag = "computer lab" # change
+# scene_tag = "computer_lab" # change
 # frame_num = [272, 279, 333, 335, 337, 338] # change
 # scene_ids = [f"{scene_tag}_{x}" for x in frame_num]
 

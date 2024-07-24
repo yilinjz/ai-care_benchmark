@@ -21,7 +21,8 @@ def ai_agent_remote(question, context, system_prompt, language):
 
     client = ollama.Client(host = "http://127.0.0.1:11434")
     response = client.chat(model=model_id, messages=messages)
-    print(response)
+    # print(response)
+    print(response['message']['content'])
     return response['message']['content']
 
 
@@ -50,6 +51,7 @@ def cmd_agent():
                     path_to_instruction = f"benchmark/prompt/{get_instruction_type(benchmark_name)}.json"
                     system_prompt = json.load(open(path_to_instruction, encoding="utf8"))[language.value]
                     # run inferance
+                    print(benchmark_name)
                     data[i]['qa_pairs'][j]['result'][language.value] = ai_agent_remote(
                         question=question,
                         context=context,
