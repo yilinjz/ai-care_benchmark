@@ -1,0 +1,440 @@
+[
+    {
+        "scene_id": "dorm_128",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me the location of the closest spoon to me?",
+                    "zh-CN": "你能告诉我离我最近的勺子的位置吗？",
+                    "zh-HK": "你可唔可以話我离我最近嘅勺嘅位置啊？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "zh-CN": "中间偏下",
+                    "zh-HK": "中間偏下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you find the bottle in the scene?",
+                    "zh-CN": "你能在场景中找到瓶子吗？",
+                    "zh-HK": "你可唔可以喺場景中搵到瓶子啊？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Please tell me where the cup is.",
+                    "zh-CN": "请告诉我杯子在哪里。",
+                    "zh-HK": "請告訴我杯喺邊度。"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Which way should I look to find the oven from here?",
+                    "zh-CN": "我应该从这里往哪个方向寻找烤箱？",
+                    "zh-HK": "我應該從這裡往哪個方向尋找焗爐？"
+                },
+                "answer": {
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_130",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you show me where the bottle is?",
+                    "zh-CN": "你能告诉我瓶子在哪里吗？",
+                    "zh-HK": "你可唔可以話我瓶子喺邊度啊？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "中間偏右"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Which direction is the sink located from where I am now?",
+                    "zh-CN": "水槽位于我现在所在的哪个方向？",
+                    "zh-HK": "水槽位於我而家所在嘅邊個方向？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Can you please locate the oven?",
+                    "zh-CN": "你能找到烤箱吗？",
+                    "zh-HK": "你可唔可以搵到焗爐啊？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you find the bottle in the scene?",
+                    "zh-CN": "你能在场景中找到瓶子吗？",
+                    "zh-HK": "你可唔可以喺場景中搵到瓶子啊？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "zh-CN": "中间偏右",
+                    "zh-HK": "中間偏右"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_131",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Which direction is the sink located from where I am now?",
+                    "zh-CN": "水槽位于我现在所在的哪个方向？",
+                    "zh-HK": "水槽位於我而家所在嘅邊個方向？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "zh-CN": "中间偏上 和 右",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "From my current position, which way is the cup?",
+                    "zh-CN": "从我目前的位置来看，杯子是哪个方向？",
+                    "zh-HK": "從我目前的位置來看，杯是邊個方向？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "zh-CN": "中间偏下",
+                    "zh-HK": "中間偏下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I find the closest knife to me?",
+                    "zh-CN": "在哪里可以找到离我最近的刀？",
+                    "zh-HK": "喺邊度可以搵到離我最近嘅刀？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "zh-CN": "中间偏下",
+                    "zh-HK": "中間偏下"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you guide me to where the oven is located?",
+                    "zh-CN": "你能引导我到烤箱的位置吗？",
+                    "zh-HK": "你能引導我到焗爐的位置嗎？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_143",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Please tell me where the cup is.",
+                    "zh-CN": "请告诉我杯子在哪里。",
+                    "zh-HK": "請告訴我杯喺邊度。"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you guide me to where the oven is located?",
+                    "zh-CN": "你能引导我到烤箱的位置吗？",
+                    "zh-HK": "你能引導我到焗爐的位置嗎？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Please find the location of the sink.",
+                    "zh-CN": "请找到水槽的位置。",
+                    "zh-HK": "請搵到水槽嘅位置。"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Could you show me where the spoon is?",
+                    "zh-CN": "你能告诉我勺子在哪里吗？",
+                    "zh-HK": "你可唔可以話我勺喺邊度啊？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_267",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is the person visible in the scene?",
+                    "zh-CN": "人在场景中是否可见？",
+                    "zh-HK": "人在場景中是否可見？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "zh-CN": "中间偏上 和 中间偏右",
+                    "zh-HK": "中間偏上 和 中間偏右"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the refrigerator that is closest to me?",
+                    "zh-CN": "离我最近的电冰箱在哪里？",
+                    "zh-HK": "離我最近嘅電冰箱喺邊度？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Could you show me where the spoon is?",
+                    "zh-CN": "你能告诉我勺子在哪里吗？",
+                    "zh-HK": "你可唔可以話我勺喺邊度啊？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "zh-CN": "中间偏右",
+                    "zh-HK": "勺並不在你周圍的物體列表中。但我會將你的查詢視為要求我指出九宮格中的哪個位置通常會找到勺。基於常識，勺很可能在「右下」的位置，因為這通常是廚房裡餐具所在的區域。然而，這種假設不一定總是正確的，因為每個場景和環境都可能有所不同。但根據你提供的信息，這是最好的猜測。請注意，這個答案是基於通常的情況，而實際情況可能會有所不同。如果你需要更精確的答案，建議你使用具有物體識別功能的設備或應用程序來確定勺子的具體位置。在這種情況下，我只能根據常見的物品擺放方式來給出建議。希望這能幫到你！但我會遵守規則只回答一次，所以我的最終答案是：右下。"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you guide me to where the oven is located?",
+                    "zh-CN": "你能引导我到烤箱的位置吗？",
+                    "zh-HK": "你能引導我到焗爐的位置嗎？"
+                },
+                "answer": {
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_569",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me the direction of the banana from my current location?",
+                    "zh-CN": "你能告诉我香蕉相对于我当前位置的方向吗？",
+                    "zh-HK": "你能告訴我香蕉相對于我當前位置的方向嗎？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "zh-CN": "中间偏左",
+                    "zh-HK": "中間偏左"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell me the location of the closest spoon to me?",
+                    "zh-CN": "你能告诉我离我最近的勺子的位置吗？",
+                    "zh-HK": "你可唔可以話我离我最近嘅勺嘅位置啊？"
+                },
+                "answer": {
+                    "en-US": "center",
+                    "zh-CN": "中间",
+                    "zh-HK": "中間"
+                },
+                "result": {
+                    "zh-CN": "中间偏左",
+                    "zh-HK": "中間偏左"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "In which direction is the chair from my current position?",
+                    "zh-CN": "椅子在我当前位置的什么方向?",
+                    "zh-HK": "椅子由我而家嘅位置喺邊個方向？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Can you guide me to where the oven is located?",
+                    "zh-CN": "你能引导我到烤箱的位置吗？",
+                    "zh-HK": "你能引導我到焗爐的位置嗎？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    }
+]
