@@ -55,6 +55,7 @@ tested_languages = MODEL_TO_TESTED_LANGUAGES[model_id]
 
 ### list of benchmarks to run ###
 benchmark_list = [
+    test_location
     # # bathroom
     # 'bathroom_existence',
     # 'bathroom_identification',
@@ -63,7 +64,7 @@ benchmark_list = [
     # # bedroom
     # 'bedroom_existence',
     # 'bedroom_identification',
-    'bedroom_location',
+    # 'bedroom_location',
     # 'bedroom_multi-location',
     # # dining_room
     # 'dining_room_existence',
