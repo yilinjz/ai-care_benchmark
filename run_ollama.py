@@ -35,10 +35,8 @@ def calculate_score(result_path):
                 total_count += 1
                 answers = json.loads(qa_pair['answer'][language.value])
                 for i, answer in enumerate(answers):
-                    answers[i].replace(" ", "")
+                    answers[i] = answer.replace(" ", "")
                 result = qa_pair['result'][language.value].replace(" ", "")
-                print(result)
-                print(answers)
                 if result in answers:
                     correct_count += 1
         print(f"LANGUAGE: {language.value} | CORRECT: {correct_count} | TOTAL: {total_count} | SCORE: {correct_count/total_count}")    
