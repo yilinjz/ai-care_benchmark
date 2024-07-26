@@ -25,6 +25,19 @@ def ai_agent_remote(question, context, system_prompt, language):
     print(response['message']['content'])
     return response['message']['content']
 
+def calculate_score(result_path):
+     data = json.load(open(result_path, encoding="utf8"))
+     for language in tested_languages:
+        total_count = 0
+        correct_count = 0
+        for scene in data:
+            for qa_pair in scene['qa_pairs']:
+                total_count += 1
+                answer = qa_pair['answer'][language.value].replace(" ", "")
+                result = qa_pair['result'][language.value].replace(" ", "")
+                if answer == result:
+                    correct_count += 1
+        print(f"LANGUAGE: {language.value} | CORRECT: {correct_count} | TOTAL: {total_count} | SCORE: {correct_count/total_count}")    
 
 def cmd_agent():
     '''
@@ -65,28 +78,15 @@ def cmd_agent():
         model_name = model_id.replace(':', '_')
         result_path = f'benchmark/experiment_result/{model_name}/{model_name}-{benchmark_name}-experiment_result.json'
         with open(result_path, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=4)                 
+                json.dump(data, f, ensure_ascii=False, indent=4)   
+        calculate_score(result_path)              
 
     log.info("SYSTEM: cmd agent end <<<<<")
     return result_path
 
-def calculate_score(result_path):
-     data = json.load(open(result_path, encoding="utf8"))
-     for language in tested_languages:
-        total_count = 0
-        correct_count = 0
-        for scene in data:
-            for qa_pair in scene['qa_pairs']:
-                total_count += 1
-                answer = qa_pair['answer'][language.value].replace(" ", "")
-                result = qa_pair['result'][language.value].replace(" ", "")
-                if answer == result:
-                    correct_count += 1
-        print(f"LANGUAGE: {language.value} | CORRECT: {correct_count} | TOTAL: {total_count} | SCORE: {correct_count/total_count}")    
 
 if __name__ == '__main__':
     log = logging.getLogger()
     # cmd agent init
-    result_path = cmd_agent()
-    calculate_score(result_path)
+    cmd_agent()
     

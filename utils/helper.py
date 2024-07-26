@@ -70,13 +70,13 @@ def generate_location_answers(context, item):
 
     for obj in context:
         if obj['TEXT'] == item:
-            candidate_pool.append(obj['ORIENTATION'].replace('slightly-', ''))
+            candidate = obj['ORIENTATION'].replace('slightly-', '')
+            if candidate not in candidate_pool:
+                candidate_pool.append(candidate)
     if not candidate_pool:
         print(context)
         print(item)
         raise ValueError("Item Not Found In Context!")
     
-    counts = Counter(candidate_pool)
-    answer = max(counts, key=counts.get)
-    return WORD_DICTIONARY[answer]
+    return candidate_pool
     

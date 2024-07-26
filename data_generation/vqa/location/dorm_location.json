@@ -10,9 +10,9 @@
                     "zh-HK": "喺邊度可以搵到飲湯嘅嘢？"
                 },
                 "answer": {
-                    "en-US": "down",
-                    "zh-CN": "下",
-                    "zh-HK": "下"
+                    "en-US": "[\"down\", \"right\", \"down and right\"]",
+                    "zh-CN": "[\"\\u4e0b\", \"\\u53f3\", \"\\u53f3\\u4e0b\"]",
+                    "zh-HK": "[\"\\u4e0b\", \"\\u53f3\", \"\\u53f3\\u4e0b\"]"
                 }
             },
             {
@@ -23,9 +23,9 @@
                     "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             },
             {
@@ -36,9 +36,9 @@
                     "zh-HK": "我可以將咖啡或茶倒喺邊度？"
                 },
                 "answer": {
-                    "en-US": "down",
-                    "zh-CN": "下",
-                    "zh-HK": "下"
+                    "en-US": "[\"down\", \"down and right\"]",
+                    "zh-CN": "[\"\\u4e0b\", \"\\u53f3\\u4e0b\"]",
+                    "zh-HK": "[\"\\u4e0b\", \"\\u53f3\\u4e0b\"]"
                 }
             },
             {
@@ -49,9 +49,9 @@
                     "zh-HK": "邊度可以烤蛋糕或烤雞？"
                 },
                 "answer": {
-                    "en-US": "down and left",
-                    "zh-CN": "左下",
-                    "zh-HK": "左下"
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"\\u5de6\\u4e0b\"]",
+                    "zh-HK": "[\"\\u5de6\\u4e0b\"]"
                 }
             }
         ]
@@ -67,9 +67,9 @@
                     "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             },
             {
@@ -80,9 +80,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             },
             {
@@ -93,9 +93,9 @@
                     "zh-HK": "邊度可以烤蛋糕或烤雞？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"left\", \"down and left\"]",
+                    "zh-CN": "[\"\\u5de6\", \"\\u5de6\\u4e0b\"]",
+                    "zh-HK": "[\"\\u5de6\", \"\\u5de6\\u4e0b\"]"
                 }
             },
             {
@@ -106,9 +106,9 @@
                     "zh-HK": "易腐食品可以存放喺邊度？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             }
         ]
@@ -124,9 +124,9 @@
                     "zh-HK": "邊度可以快速加熱食物？"
                 },
                 "answer": {
-                    "en-US": "up and right",
-                    "zh-CN": "右上",
-                    "zh-HK": "右上"
+                    "en-US": "[\"up and right\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0a\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0a\"]"
                 }
             },
             {
@@ -137,9 +137,9 @@
                     "zh-HK": "我可以將咖啡或茶倒喺邊度？"
                 },
                 "answer": {
-                    "en-US": "down",
-                    "zh-CN": "下",
-                    "zh-HK": "下"
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"\\u4e0b\"]",
+                    "zh-HK": "[\"\\u4e0b\"]"
                 }
             },
             {
@@ -150,9 +150,9 @@
                     "zh-HK": "邊度可以搵到切食物嘅工具？"
                 },
                 "answer": {
-                    "en-US": "down",
-                    "zh-CN": "下",
-                    "zh-HK": "下"
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"\\u4e0b\"]",
+                    "zh-HK": "[\"\\u4e0b\"]"
                 }
             },
             {
@@ -163,9 +163,9 @@
                     "zh-HK": "邊度可以烤蛋糕或烤雞？"
                 },
                 "answer": {
-                    "en-US": "down and right",
-                    "zh-CN": "右下",
-                    "zh-HK": "右下"
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0b\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0b\"]"
                 }
             }
         ]
@@ -181,9 +181,9 @@
                     "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"\\u5de6\"]",
+                    "zh-HK": "[\"\\u5de6\"]"
                 }
             },
             {
@@ -194,9 +194,9 @@
                     "zh-HK": "我可以將麥片或湯放喺邊度？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             },
             {
@@ -207,9 +207,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "down",
-                    "zh-CN": "下",
-                    "zh-HK": "下"
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"\\u4e0b\"]",
+                    "zh-HK": "[\"\\u4e0b\"]"
                 }
             },
             {
@@ -220,9 +220,9 @@
                     "zh-HK": "喺邊度可以搵到飲湯嘅嘢？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"\\u5de6\"]",
+                    "zh-HK": "[\"\\u5de6\"]"
                 }
             }
         ]
@@ -233,27 +233,27 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Is there someone nearby?",
-                    "zh-CN": "附近有人吗？",
-                    "zh-HK": "附近有人嗎？"
+                    "en-US": "Is someone standing near me?",
+                    "zh-CN": "有人站在我附近吗？",
+                    "zh-HK": "有人企喺我附近啊？"
                 },
                 "answer": {
-                    "en-US": "up and right",
-                    "zh-CN": "右上",
-                    "zh-HK": "右上"
+                    "en-US": "[\"up and right\", \"right\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0a\", \"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0a\", \"\\u53f3\"]"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where can I store my perishable food items?",
-                    "zh-CN": "易腐食品可以存放在哪里？",
-                    "zh-HK": "易腐食品可以存放喺邊度？"
+                    "en-US": "Where can I get iced coke?",
+                    "zh-CN": "我在哪里可以拿到冰镇可乐？",
+                    "zh-HK": "我喺邊度可以拿到雪藏可樂？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"left\", \"down\"]",
+                    "zh-CN": "[\"\\u5de6\", \"\\u4e0b\"]",
+                    "zh-HK": "[\"\\u5de6\", \"\\u4e0b\"]"
                 }
             },
             {
@@ -264,9 +264,9 @@
                     "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"\\u5de6\"]",
+                    "zh-HK": "[\"\\u5de6\"]"
                 }
             },
             {
@@ -277,9 +277,9 @@
                     "zh-HK": "邊度可以烤蛋糕或烤雞？"
                 },
                 "answer": {
-                    "en-US": "down and right",
-                    "zh-CN": "右下",
-                    "zh-HK": "右下"
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0b\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0b\"]"
                 }
             }
         ]
@@ -295,22 +295,22 @@
                     "zh-HK": "喺邊度可以搵到快速、健康嘅零食？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"\\u5de6\"]",
+                    "zh-HK": "[\"\\u5de6\"]"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where can I get iced coke?",
-                    "zh-CN": "我在哪里可以拿到冰镇可乐？",
-                    "zh-HK": "我喺邊度可以拿到雪藏可樂？"
+                    "en-US": "Where can I store my perishable food items?",
+                    "zh-CN": "易腐食品可以存放在哪里？",
+                    "zh-HK": "易腐食品可以存放喺邊度？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"\\u5de6\"]",
+                    "zh-HK": "[\"\\u5de6\"]"
                 }
             },
             {
@@ -321,9 +321,9 @@
                     "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
-                    "en-US": "down",
-                    "zh-CN": "下",
-                    "zh-HK": "下"
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"\\u4e0b\"]",
+                    "zh-HK": "[\"\\u4e0b\"]"
                 }
             },
             {
@@ -334,9 +334,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             }
         ]

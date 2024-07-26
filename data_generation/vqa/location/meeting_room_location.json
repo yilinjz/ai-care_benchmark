@@ -10,9 +10,9 @@
                     "zh-HK": "我可以坐喺邊度用餐？"
                 },
                 "answer": {
-                    "en-US": "down",
-                    "zh-CN": "下",
-                    "zh-HK": "下"
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"\\u4e0b\"]",
+                    "zh-HK": "[\"\\u4e0b\"]"
                 }
             },
             {
@@ -23,9 +23,9 @@
                     "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
                 },
                 "answer": {
-                    "en-US": "down",
-                    "zh-CN": "下",
-                    "zh-HK": "下"
+                    "en-US": "[\"down\", \"down and left\", \"left\"]",
+                    "zh-CN": "[\"\\u4e0b\", \"\\u5de6\\u4e0b\", \"\\u5de6\"]",
+                    "zh-HK": "[\"\\u4e0b\", \"\\u5de6\\u4e0b\", \"\\u5de6\"]"
                 }
             }
         ]
@@ -36,14 +36,14 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where can I sit down comfortably?",
-                    "zh-CN": "我可以在哪里舒服地坐下来？",
-                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
-                    "en-US": "down and left",
-                    "zh-CN": "左下",
-                    "zh-HK": "左下"
+                    "en-US": "[\"right\", \"down and right\", \"down and left\", \"down\"]",
+                    "zh-CN": "[\"\\u53f3\", \"\\u53f3\\u4e0b\", \"\\u5de6\\u4e0b\", \"\\u4e0b\"]",
+                    "zh-HK": "[\"\\u53f3\", \"\\u53f3\\u4e0b\", \"\\u5de6\\u4e0b\", \"\\u4e0b\"]"
                 }
             },
             {
@@ -54,9 +54,9 @@
                     "zh-HK": "我可以坐喺邊度用餐？"
                 },
                 "answer": {
-                    "en-US": "down and right",
-                    "zh-CN": "右下",
-                    "zh-HK": "右下"
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0b\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0b\"]"
                 }
             },
             {
@@ -67,9 +67,9 @@
                     "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
-                    "en-US": "down",
-                    "zh-CN": "下",
-                    "zh-HK": "下"
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"\\u4e0b\"]",
+                    "zh-HK": "[\"\\u4e0b\"]"
                 }
             }
         ]
@@ -80,14 +80,14 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where can I sit down comfortably?",
-                    "zh-CN": "我可以在哪里舒服地坐下来？",
-                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
-                    "en-US": "down",
-                    "zh-CN": "下",
-                    "zh-HK": "下"
+                    "en-US": "[\"down and right\", \"down\", \"left\", \"down and left\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0b\", \"\\u4e0b\", \"\\u5de6\", \"\\u5de6\\u4e0b\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0b\", \"\\u4e0b\", \"\\u5de6\", \"\\u5de6\\u4e0b\"]"
                 }
             },
             {
@@ -98,9 +98,9 @@
                     "zh-HK": "我可以坐喺邊度用餐？"
                 },
                 "answer": {
-                    "en-US": "down and left",
-                    "zh-CN": "左下",
-                    "zh-HK": "左下"
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"\\u5de6\\u4e0b\"]",
+                    "zh-HK": "[\"\\u5de6\\u4e0b\"]"
                 }
             }
         ]
@@ -116,22 +116,22 @@
                     "zh-HK": "喺室內邊度可以搵到綠色植物？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where can I sit down comfortably?",
-                    "zh-CN": "我可以在哪里舒服地坐下来？",
-                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\", \"down and left\"]",
+                    "zh-CN": "[\"\\u53f3\", \"\\u5de6\\u4e0b\"]",
+                    "zh-HK": "[\"\\u53f3\", \"\\u5de6\\u4e0b\"]"
                 }
             },
             {
@@ -142,9 +142,9 @@
                     "zh-HK": "我可以坐喺邊度用餐？"
                 },
                 "answer": {
-                    "en-US": "down and right",
-                    "zh-CN": "右下",
-                    "zh-HK": "右下"
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0b\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0b\"]"
                 }
             }
         ]

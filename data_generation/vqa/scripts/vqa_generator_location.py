@@ -11,7 +11,7 @@ import json
 
 from variable_location import category_tag, question_pool, scene_tags, frame_nums_by_scene, item_lists_by_scene
 from utils.const import language_list
-from utils.helper import generate_questions, generate_location_answers
+from utils.helper import generate_questions, generate_location_answers, translate_word
 
 
 for scene_tag in scene_tags:
@@ -42,10 +42,11 @@ for scene_tag in scene_tags:
 
             ### ANSWER ###
             context = json.load(open(f'benchmark/context/{scene_id}.json', encoding="utf8"))
-            answers = generate_location_answers(context, item)
+            candidate_pool = generate_location_answers(context, item)
             qa_object['answer'] = {}
             for language in language_list:
-                qa_object['answer'][language.value] = answers[language]
+                answers = [translate_word(candidate, language) for candidate in candidate_pool]
+                qa_object['answer'][language.value] = json.dumps(answers)
             
             qa_pairs.append(qa_object)
 

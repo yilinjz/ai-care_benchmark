@@ -10,9 +10,9 @@
                     "zh-HK": "邊度可以快速加熱食物？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"\\u5de6\"]",
+                    "zh-HK": "[\"\\u5de6\"]"
                 }
             },
             {
@@ -23,9 +23,9 @@
                     "zh-HK": "我可以將酒倒喺邊度？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             },
             {
@@ -36,9 +36,9 @@
                     "zh-HK": "我喺邊度可以搵到啲讀物？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"left\", \"down and left\", \"right\", \"up and right\"]",
+                    "zh-CN": "[\"\\u5de6\", \"\\u5de6\\u4e0b\", \"\\u53f3\", \"\\u53f3\\u4e0a\"]",
+                    "zh-HK": "[\"\\u5de6\", \"\\u5de6\\u4e0b\", \"\\u53f3\", \"\\u53f3\\u4e0a\"]"
                 }
             },
             {
@@ -49,9 +49,9 @@
                     "zh-HK": "我可以將麥片或湯放喺邊度？"
                 },
                 "answer": {
-                    "en-US": "down and right",
-                    "zh-CN": "右下",
-                    "zh-HK": "右下"
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0b\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0b\"]"
                 }
             }
         ]
@@ -62,14 +62,14 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where can I get iced coke?",
-                    "zh-CN": "我在哪里可以拿到冰镇可乐？",
-                    "zh-HK": "我喺邊度可以拿到雪藏可樂？"
+                    "en-US": "Where can I store my perishable food items?",
+                    "zh-CN": "易腐食品可以存放在哪里？",
+                    "zh-HK": "易腐食品可以存放喺邊度？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             },
             {
@@ -80,9 +80,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"\\u5de6\"]",
+                    "zh-HK": "[\"\\u5de6\"]"
                 }
             },
             {
@@ -93,9 +93,9 @@
                     "zh-HK": "邊度可以烤蛋糕或烤雞？"
                 },
                 "answer": {
-                    "en-US": "down and right",
-                    "zh-CN": "右下",
-                    "zh-HK": "右下"
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0b\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0b\"]"
                 }
             },
             {
@@ -106,9 +106,9 @@
                     "zh-HK": "我可以喺邊度休息同睇电视？"
                 },
                 "answer": {
-                    "en-US": "down and left",
-                    "zh-CN": "左下",
-                    "zh-HK": "左下"
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"\\u5de6\\u4e0b\"]",
+                    "zh-HK": "[\"\\u5de6\\u4e0b\"]"
                 }
             }
         ]
@@ -124,9 +124,9 @@
                     "zh-HK": "我買咗啲玫瑰。 我可以將佢放喺邊度？"
                 },
                 "answer": {
-                    "en-US": "down",
-                    "zh-CN": "下",
-                    "zh-HK": "下"
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"\\u4e0b\"]",
+                    "zh-HK": "[\"\\u4e0b\"]"
                 }
             },
             {
@@ -137,9 +137,9 @@
                     "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             },
             {
@@ -150,22 +150,22 @@
                     "zh-HK": "我喺邊度可以搵到啲讀物？"
                 },
                 "answer": {
-                    "en-US": "down and right",
-                    "zh-CN": "右下",
-                    "zh-HK": "右下"
+                    "en-US": "[\"down and right\", \"right\", \"up and right\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0b\", \"\\u53f3\", \"\\u53f3\\u4e0a\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0b\", \"\\u53f3\", \"\\u53f3\\u4e0a\"]"
                 }
             },
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "I need to water my flowers. Where are they?",
-                    "zh-CN": "我需要给我的花浇水。他们在哪？",
-                    "zh-HK": "我需要畀我嘅花澆水。 佢哋喺邊?"
+                    "en-US": "Where can I find some greenery indoors?",
+                    "zh-CN": "在室内哪里可以找到绿色植物？",
+                    "zh-HK": "喺室內邊度可以搵到綠色植物？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             }
         ]
@@ -181,9 +181,9 @@
                     "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"down\", \"down and right\", \"left\"]",
+                    "zh-CN": "[\"\\u4e0b\", \"\\u53f3\\u4e0b\", \"\\u5de6\"]",
+                    "zh-HK": "[\"\\u4e0b\", \"\\u53f3\\u4e0b\", \"\\u5de6\"]"
                 }
             },
             {
@@ -194,9 +194,9 @@
                     "zh-HK": "邊度可以快速加熱食物？"
                 },
                 "answer": {
-                    "en-US": "up and right",
-                    "zh-CN": "右上",
-                    "zh-HK": "右上"
+                    "en-US": "[\"up and right\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0a\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0a\"]"
                 }
             },
             {
@@ -207,9 +207,9 @@
                     "zh-HK": "我喺邊度可以拿到雪藏可樂？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"\\u5de6\"]",
+                    "zh-HK": "[\"\\u5de6\"]"
                 }
             },
             {
@@ -220,9 +220,9 @@
                     "zh-HK": "我可以將咖啡或茶倒喺邊度？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             }
         ]
@@ -238,66 +238,9 @@
                     "zh-HK": "喺室內邊度可以搵到綠色植物？"
                 },
                 "answer": {
-                    "en-US": "up",
-                    "zh-CN": "上",
-                    "zh-HK": "上"
-                }
-            },
-            {
-                "qid": "1",
-                "question": {
-                    "en-US": "Where can I sit down comfortably?",
-                    "zh-CN": "我可以在哪里舒服地坐下来？",
-                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
-                },
-                "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
-                }
-            },
-            {
-                "qid": "2",
-                "question": {
-                    "en-US": "Where can I watch my favorite shows?",
-                    "zh-CN": "在哪里可以观看我喜爱的节目？",
-                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
-                },
-                "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
-                }
-            },
-            {
-                "qid": "3",
-                "question": {
-                    "en-US": "Where can I sit and eat my meals?",
-                    "zh-CN": "我可以坐在哪里用餐？",
-                    "zh-HK": "我可以坐喺邊度用餐？"
-                },
-                "answer": {
-                    "en-US": "down and left",
-                    "zh-CN": "左下",
-                    "zh-HK": "左下"
-                }
-            }
-        ]
-    },
-    {
-        "scene_id": "doorway_460",
-        "qa_pairs": [
-            {
-                "qid": "0",
-                "question": {
-                    "en-US": "Where can I find some greenery indoors?",
-                    "zh-CN": "在室内哪里可以找到绿色植物？",
-                    "zh-HK": "喺室內邊度可以搵到綠色植物？"
-                },
-                "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"up\", \"left\"]",
+                    "zh-CN": "[\"\\u4e0a\", \"\\u5de6\"]",
+                    "zh-HK": "[\"\\u4e0a\", \"\\u5de6\"]"
                 }
             },
             {
@@ -308,22 +251,79 @@
                     "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"down and right\", \"left\", \"down\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0b\", \"\\u5de6\", \"\\u4e0b\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0b\", \"\\u5de6\", \"\\u4e0b\"]"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where can I put these flowers?",
-                    "zh-CN": "我可以把这些花放在哪里？",
-                    "zh-HK": "我可以將呢啲花放喺邊度？"
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"\\u5de6\"]",
+                    "zh-HK": "[\"\\u5de6\"]"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\", \"down and right\"]",
+                    "zh-CN": "[\"\\u5de6\\u4e0b\", \"\\u53f3\\u4e0b\"]",
+                    "zh-HK": "[\"\\u5de6\\u4e0b\", \"\\u53f3\\u4e0b\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_460",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I need to water my flowers. Where are they?",
+                    "zh-CN": "我需要给我的花浇水。他们在哪？",
+                    "zh-HK": "我需要畀我嘅花澆水。 佢哋喺邊?"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"up and left\", \"up\"]",
+                    "zh-CN": "[\"\\u5de6\", \"\\u5de6\\u4e0a\", \"\\u4e0a\"]",
+                    "zh-HK": "[\"\\u5de6\", \"\\u5de6\\u4e0a\", \"\\u4e0a\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I sit down comfortably?",
+                    "zh-CN": "我可以在哪里舒服地坐下来？",
+                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"\\u5de6\"]",
+                    "zh-HK": "[\"\\u5de6\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "I bought some rose. Where can I put it?",
+                    "zh-CN": "我买了一些玫瑰。我可以把它放在哪里？",
+                    "zh-HK": "我買咗啲玫瑰。 我可以將佢放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"up and left\"]",
+                    "zh-CN": "[\"\\u5de6\", \"\\u5de6\\u4e0a\"]",
+                    "zh-HK": "[\"\\u5de6\", \"\\u5de6\\u4e0a\"]"
                 }
             }
         ]
@@ -339,9 +339,9 @@
                     "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\", \"left\"]",
+                    "zh-CN": "[\"\\u53f3\", \"\\u5de6\"]",
+                    "zh-HK": "[\"\\u53f3\", \"\\u5de6\"]"
                 }
             },
             {
@@ -352,9 +352,9 @@
                     "zh-HK": "我可以喺邊度休息同睇电视？"
                 },
                 "answer": {
-                    "en-US": "down and right",
-                    "zh-CN": "右下",
-                    "zh-HK": "右下"
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0b\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0b\"]"
                 }
             },
             {
@@ -365,9 +365,9 @@
                     "zh-HK": "我可以喺邊度輸入文件？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             },
             {
@@ -378,9 +378,9 @@
                     "zh-HK": "我喺邊度可以搵到啲讀物？"
                 },
                 "answer": {
-                    "en-US": "down and right",
-                    "zh-CN": "右下",
-                    "zh-HK": "右下"
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"\\u53f3\\u4e0b\"]",
+                    "zh-HK": "[\"\\u53f3\\u4e0b\"]"
                 }
             }
         ]
@@ -391,14 +391,14 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Is there someone nearby?",
-                    "zh-CN": "附近有人吗？",
-                    "zh-HK": "附近有人嗎？"
+                    "en-US": "Is someone standing near me?",
+                    "zh-CN": "有人站在我附近吗？",
+                    "zh-HK": "有人企喺我附近啊？"
                 },
                 "answer": {
-                    "en-US": "up",
-                    "zh-CN": "上",
-                    "zh-HK": "上"
+                    "en-US": "[\"up\"]",
+                    "zh-CN": "[\"\\u4e0a\"]",
+                    "zh-HK": "[\"\\u4e0a\"]"
                 }
             },
             {
@@ -409,9 +409,9 @@
                     "zh-HK": "邊度可以快速加熱食物？"
                 },
                 "answer": {
-                    "en-US": "up and left",
-                    "zh-CN": "左上",
-                    "zh-HK": "左上"
+                    "en-US": "[\"up and left\"]",
+                    "zh-CN": "[\"\\u5de6\\u4e0a\"]",
+                    "zh-HK": "[\"\\u5de6\\u4e0a\"]"
                 }
             },
             {
@@ -422,9 +422,9 @@
                     "zh-HK": "邊度可以烤蛋糕或烤雞？"
                 },
                 "answer": {
-                    "en-US": "down and left",
-                    "zh-CN": "左下",
-                    "zh-HK": "左下"
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"\\u5de6\\u4e0b\"]",
+                    "zh-HK": "[\"\\u5de6\\u4e0b\"]"
                 }
             },
             {
@@ -435,9 +435,9 @@
                     "zh-HK": "易腐食品可以存放喺邊度？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             }
         ]
@@ -453,9 +453,9 @@
                     "zh-HK": "附近有人嗎？"
                 },
                 "answer": {
-                    "en-US": "up and left",
-                    "zh-CN": "左上",
-                    "zh-HK": "左上"
+                    "en-US": "[\"up and left\"]",
+                    "zh-CN": "[\"\\u5de6\\u4e0a\"]",
+                    "zh-HK": "[\"\\u5de6\\u4e0a\"]"
                 }
             },
             {
@@ -466,9 +466,9 @@
                     "zh-HK": "吠叫係由邊度嚟嘅？"
                 },
                 "answer": {
-                    "en-US": "down and left",
-                    "zh-CN": "左下",
-                    "zh-HK": "左下"
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"\\u5de6\\u4e0b\"]",
+                    "zh-HK": "[\"\\u5de6\\u4e0b\"]"
                 }
             },
             {
@@ -479,9 +479,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             },
             {
@@ -492,9 +492,9 @@
                     "zh-HK": "我可以將麥片或湯放喺邊度？"
                 },
                 "answer": {
-                    "en-US": "right",
-                    "zh-CN": "右",
-                    "zh-HK": "右"
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"\\u53f3\"]",
+                    "zh-HK": "[\"\\u53f3\"]"
                 }
             }
         ]
