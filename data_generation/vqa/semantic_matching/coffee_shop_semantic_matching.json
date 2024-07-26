@@ -1,0 +1,406 @@
+[
+    {
+        "scene_id": "coffee_shop_120",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I find some greenery indoors?",
+                    "zh-CN": "在室内哪里可以找到绿色植物？",
+                    "zh-HK": "喺室內邊度可以搵到綠色植物？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I sit down comfortably?",
+                    "zh-CN": "我可以在哪里舒服地坐下来？",
+                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can our basketball team sit and relax for a moment?",
+                    "zh-CN": "我们的篮球队可以在哪里坐下来放松片刻？",
+                    "zh-HK": "我哋嘅籃球隊可以喺邊度坐低放鬆片刻？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_122",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I put these flowers?",
+                    "zh-CN": "我可以把这些花放在哪里？",
+                    "zh-HK": "我可以將呢啲花放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I make my bread crispy?",
+                    "zh-CN": "怎样才能让面包变脆？",
+                    "zh-HK": "怎樣才能令麵包變脆？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "I need to water my flowers. Where are they?",
+                    "zh-CN": "我需要给我的花浇水。他们在哪？",
+                    "zh-HK": "我需要畀我嘅花澆水。 佢哋喺邊?"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_123",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is there someone nearby?",
+                    "zh-CN": "附近有人吗？",
+                    "zh-HK": "附近有人嗎？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I cook toasted bread?",
+                    "zh-CN": "我在哪里可以做烤面包？",
+                    "zh-HK": "我喺邊度可以做多士？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_223",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I sit down comfortably?",
+                    "zh-CN": "我可以在哪里舒服地坐下来？",
+                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\", \"down and right\"]",
+                    "zh-CN": "[\"左下\", \"右下\"]",
+                    "zh-HK": "[\"左下\", \"右下\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I lounge and watch TV?",
+                    "zh-CN": "我可以在哪里休息和看电视？",
+                    "zh-HK": "我可以喺邊度休息同睇电视？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_225",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is there someone nearby?",
+                    "zh-CN": "附近有人吗？",
+                    "zh-HK": "附近有人嗎？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I pour my coffee or tea? ",
+                    "zh-CN": "我可以把咖啡或茶倒在哪里？",
+                    "zh-HK": "我可以將咖啡或茶倒喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_228",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I put my cereal or soup? ",
+                    "zh-CN": "我可以把麦片或汤放在哪里？",
+                    "zh-HK": "我可以將麥片或湯放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"down\"]",
+                    "zh-CN": "[\"左\", \"下\"]",
+                    "zh-HK": "[\"左\", \"下\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I sit down comfortably?",
+                    "zh-CN": "我可以在哪里舒服地坐下来？",
+                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"down and left\"]",
+                    "zh-CN": "[\"左\", \"左下\"]",
+                    "zh-HK": "[\"左\", \"左下\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_238",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "[\"down\", \"down and right\"]",
+                    "zh-CN": "[\"下\", \"右下\"]",
+                    "zh-HK": "[\"下\", \"右下\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I put my cereal or soup? ",
+                    "zh-CN": "我可以把麦片或汤放在哪里？",
+                    "zh-HK": "我可以將麥片或湯放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Is someone standing near me?",
+                    "zh-CN": "有人站在我附近吗？",
+                    "zh-HK": "有人企喺我附近啊？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"right\"]",
+                    "zh-CN": "[\"左\", \"右\"]",
+                    "zh-HK": "[\"左\", \"右\"]"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_244",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I lounge and watch TV?",
+                    "zh-CN": "我可以在哪里休息和看电视？",
+                    "zh-HK": "我可以喺邊度休息同睇电视？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I work on my computer while on the go?",
+                    "zh-CN": "在旅途中，我可以在哪里使用电脑？",
+                    "zh-HK": "在旅途中，我可以喺邊度使用電腦？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Is there someone nearby?",
+                    "zh-CN": "附近有人吗？",
+                    "zh-HK": "附近有人嗎？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                }
+            }
+        ]
+    }
+]

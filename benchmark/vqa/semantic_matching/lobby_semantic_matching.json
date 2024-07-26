@@ -1,0 +1,305 @@
+[
+    {
+        "scene_id": "lobby_9",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I get iced coke?",
+                    "zh-CN": "我在哪里可以拿到冰镇可乐？",
+                    "zh-HK": "我喺邊度可以拿到雪藏可樂？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "lobby_36",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I lounge and watch TV?",
+                    "zh-CN": "我可以在哪里休息和看电视？",
+                    "zh-HK": "我可以喺邊度休息同睇电视？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I check the time right now?",
+                    "zh-CN": "我现在在哪里可以查看时间？",
+                    "zh-HK": "我而家喺邊度可以查看時間？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\", \"down and right\"]",
+                    "zh-CN": "[\"左下\", \"右下\"]",
+                    "zh-HK": "[\"左下\", \"右下\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "lobby_619",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I need to water my flowers. Where are they?",
+                    "zh-CN": "我需要给我的花浇水。他们在哪？",
+                    "zh-HK": "我需要畀我嘅花澆水。 佢哋喺邊?"
+                },
+                "answer": {
+                    "en-US": "[\"up and left\"]",
+                    "zh-CN": "[\"左上\"]",
+                    "zh-HK": "[\"左上\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I lounge and watch TV?",
+                    "zh-CN": "我可以在哪里休息和看电视？",
+                    "zh-HK": "我可以喺邊度休息同睇电视？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "I bought some rose. Where can I put it?",
+                    "zh-CN": "我买了一些玫瑰。我可以把它放在哪里？",
+                    "zh-HK": "我買咗啲玫瑰。 我可以將佢放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"up and left\"]",
+                    "zh-CN": "[\"左上\"]",
+                    "zh-HK": "[\"左上\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "lobby_625",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\", \"left\"]",
+                    "zh-CN": "[\"右下\", \"左\"]",
+                    "zh-HK": "[\"右下\", \"左\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I put my things and carry them while walking around?",
+                    "zh-CN": "我可以把我的东西放在哪里，并在走动时携带它们？",
+                    "zh-HK": "我可以將我嘅嘢放喺邊度，並喺走動時攜帶它們？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I quickly heat up my food? ",
+                    "zh-CN": "哪里可以快速加热食物？",
+                    "zh-HK": "邊度可以快速加熱食物？"
+                },
+                "answer": {
+                    "en-US": "[\"up and right\"]",
+                    "zh-CN": "[\"右上\"]",
+                    "zh-HK": "[\"右上\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "lobby_1251",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I lounge and watch TV?",
+                    "zh-CN": "我可以在哪里休息和看电视？",
+                    "zh-HK": "我可以喺邊度休息同睇电视？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I find something to read?",
+                    "zh-CN": "我在哪里可以找到一些读物？",
+                    "zh-HK": "我喺邊度可以搵到啲讀物？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\", \"left\", \"up and right\"]",
+                    "zh-CN": "[\"左下\", \"左\", \"右上\"]",
+                    "zh-HK": "[\"左下\", \"左\", \"右上\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "lobby_1253",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I need to water my flowers. Where are they?",
+                    "zh-CN": "我需要给我的花浇水。他们在哪？",
+                    "zh-HK": "我需要畀我嘅花澆水。 佢哋喺邊?"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I find something to read?",
+                    "zh-CN": "我在哪里可以找到一些读物？",
+                    "zh-HK": "我喺邊度可以搵到啲讀物？"
+                },
+                "answer": {
+                    "en-US": "[\"up and left\"]",
+                    "zh-CN": "[\"左上\"]",
+                    "zh-HK": "[\"左上\"]"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I lounge and watch TV?",
+                    "zh-CN": "我可以在哪里休息和看电视？",
+                    "zh-HK": "我可以喺邊度休息同睇电视？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\", \"down\"]",
+                    "zh-CN": "[\"右下\", \"下\"]",
+                    "zh-HK": "[\"右下\", \"下\"]"
+                }
+            }
+        ]
+    }
+]

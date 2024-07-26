@@ -21,7 +21,7 @@ WORD_DICTIONARY = {
     "No": {
         LANGUAGE.EN_US: "No",
         LANGUAGE.ZH_CN: "不是/没有",
-        LANGUAGE.ZH_HK: "唔係/冇",
+        LANGUAGE.ZH_HK: "唔係/冇有",
     },
     "and": {
         LANGUAGE.EN_US: "and",
@@ -74,7 +74,7 @@ WORD_DICTIONARY = {
         LANGUAGE.ZH_CN: "中间",
         LANGUAGE.ZH_HK: "中間",
     },
-    # ORENTATION (PRE-PROCESSING) #
+    # ===== ORENTATION (PRE-PROCESSING) ===== #
     "slightly-up": {
         LANGUAGE.EN_US: "slightly-up",
         LANGUAGE.ZH_CN: "稍微偏上",
@@ -426,7 +426,7 @@ WORD_DICTIONARY = {
         LANGUAGE.ZH_CN: "牙刷",
         LANGUAGE.ZH_HK: "牙刷",
     },
-    # ===== Addtional Class IDs =====
+    # ===== Addtional Class IDs ===== #
     "toothpaste": {
         LANGUAGE.EN_US: "toothpaste",
         LANGUAGE.ZH_CN: "牙膏",

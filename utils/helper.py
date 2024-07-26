@@ -1,10 +1,15 @@
 import random
 import copy
-from collections import Counter
+import json
 
+from utils.const import SUBTASK
 from utils.dictionary import WORD_DICTIONARY
 
-# pre-processing json data
+# translate #
+def translate_word(word, language):
+    return WORD_DICTIONARY[word][language]
+
+# pre-processing context data #
 def process_context(context_json, language):
     context = []
     for obj in context_json:
@@ -22,52 +27,37 @@ def process_context(context_json, language):
         context.append(f"({text}, {oritentation}, {depth})")
     return context
 
-# match benchmark to json
-def get_instruction_type(benchmark_name):
-    instruction_type = ""
-    if "existence" in benchmark_name:
-        instruction_type = "existence"
-    elif "identification" in benchmark_name:
-        instruction_type = "identification"
-    elif "multi-location" in benchmark_name:
-        instruction_type = "multi-location"
-    elif "location" in benchmark_name:
-        instruction_type = "location"
-    elif "hand_guidance" in benchmark_name:
-        instruction_type = "hand_guidance"
+# match benchmark -> instruction prompt #
+def get_instruction_prompt_type(benchmark_name):
+    instruction_prompt_type = ""
+    if SUBTASK.OBJECT_DETECTION.value in benchmark_name:
+        instruction_prompt_type = SUBTASK.OBJECT_DETECTION.value
+    elif SUBTASK.SEMANTIC_MATCHING.value in benchmark_name:
+        instruction_prompt_type = SUBTASK.SEMANTIC_MATCHING.value
+    elif SUBTASK.QUESTION_GENERATION.value in benchmark_name:
+        instruction_prompt_type = SUBTASK.QUESTION_GENERATION.value
     else:
-        raise ValueError("Unknown Instruction Type")
-    return f"{instruction_type}_instruction"
+        raise ValueError("Unknown Instruction Prompt Type!")
+    return f"{instruction_prompt_type}_instruction_prompt"
 
-# translate
-def translate_word(word, language):
-    return WORD_DICTIONARY[word][language]
+# pick question from pool #
+def generate_questions(category_tag, question_pool, item, language_list):
+    if category_tag == SUBTASK.OBJECT_DETECTION:
+        question = copy.deepcopy(random.choice(question_pool))
+        for language in language_list:
+            question[language] = question[language].replace('[dt]', translate_word(item, language))
+        return question
+    elif category_tag == SUBTASK.SEMANTIC_MATCHING:
+        return random.choice(question_pool[item])
+    elif category_tag == SUBTASK.QUESTION_GENERATION:
+        pass
+    else:
+        print(category_tag)
+        raise ValueError("Unknown Subtask!")
 
-def generate_open_questions(question_pool):
-    return [
-        random.choice(question_pool[0:5]),
-        random.choice(question_pool[5:11]),
-        random.choice(question_pool[11:17]),
-        random.choice(question_pool[17:23]),
-        random.choice(question_pool[23:29])
-    ]
-
-# pick question from pool
-def generate_questions(question_pool, item):
-    return random.choice(question_pool[item])
-    
-def generate_questions_with_item_pair(question_pool, item_pair, language_list):
-    question = copy.deepcopy(random.choice(question_pool))
-    for language in language_list:
-        # target
-        question[language] = question[language].replace('[dt]', translate_word(item_pair[0], language))
-        # reference
-        question[language] = question[language].replace('[rf]', translate_word(item_pair[1], language))
-    return question
-
-def generate_location_answers(context, item):
+# generate answer for semantic matching #
+def generate_semantic_matching_answers(context, item):
     candidate_pool = []
-
     for obj in context:
         if obj['TEXT'] == item:
             candidate = obj['ORIENTATION'].replace('slightly-', '')
@@ -77,6 +67,29 @@ def generate_location_answers(context, item):
         print(context)
         print(item)
         raise ValueError("Item Not Found In Context!")
-    
     return candidate_pool
-    
+
+# evaluate #
+def calculate_score(result_path, category_tag, tested_languages):
+     data = json.load(open(result_path, encoding="utf8"))
+     for language in tested_languages:
+        total_count, correct_count = 0, 0
+        for scene in data:
+            for qa_pair in scene['qa_pairs']:
+                total_count += 1
+                if category_tag == SUBTASK.OBJECT_DETECTION:
+                    answer = qa_pair['answer'][language.value].replace(" ", "")
+                    result = qa_pair['result'][language.value].replace(" ", "")
+                    if result == answer:
+                        correct_count += 1
+                elif category_tag == SUBTASK.QUESTION_GENERATION:
+                    answers = json.loads(qa_pair['answer'][language.value])
+                    for i, answer in enumerate(answers):
+                        answers[i] = answer.replace(" ", "")
+                    result = qa_pair['result'][language.value].replace(" ", "")
+                    if result in answers:
+                        correct_count += 1
+                else:
+                    raise ValueError("Unknown Subtask!")
+
+        print(f"LANGUAGE: {language.value} | CORRECT: {correct_count} | TOTAL: {total_count} | SCORE: {correct_count/total_count}")  

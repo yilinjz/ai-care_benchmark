@@ -4,8 +4,8 @@ import json
 
 import ollama
 
-from utils.const import model_id, tested_languages, benchmark_list
-from utils.helper import process_context, get_instruction_type, translate_word
+from utils.const import model_id, tested_languages, benchmark_list, SUBTASK
+from utils.helper import translate_word, process_context, get_instruction_prompt_type, calculate_score
 
 
 def ai_agent_remote(question, context, system_prompt, language):
@@ -20,26 +20,10 @@ def ai_agent_remote(question, context, system_prompt, language):
     ]
 
     client = ollama.Client(host = "http://127.0.0.1:11434")
-    response = client.chat(model=model_id, messages=messages)
+    response = client.chat(model=model_id.value, messages=messages)
     # print(response)
     print(response['message']['content'])
     return response['message']['content']
-
-def calculate_score(result_path):
-     data = json.load(open(result_path, encoding="utf8"))
-     for language in tested_languages:
-        total_count = 0
-        correct_count = 0
-        for scene in data:
-            for qa_pair in scene['qa_pairs']:
-                total_count += 1
-                answers = json.loads(qa_pair['answer'][language.value])
-                for i, answer in enumerate(answers):
-                    answers[i] = answer.replace(" ", "")
-                result = qa_pair['result'][language.value].replace(" ", "")
-                if result in answers:
-                    correct_count += 1
-        print(f"LANGUAGE: {language.value} | CORRECT: {correct_count} | TOTAL: {total_count} | SCORE: {correct_count/total_count}")    
 
 def cmd_agent():
     '''
@@ -49,7 +33,15 @@ def cmd_agent():
 
     ### loops through list of benchmark files
     for benchmark_name in benchmark_list:
-        data = json.load(open(f'benchmark/vqa/{benchmark_name}.json', encoding="utf8"))
+
+        if SUBTASK.OBJECT_DETECTION.value in benchmark_list:
+             category_tag = SUBTASK.OBJECT_DETECTION
+        elif SUBTASK.SEMANTIC_MATCHING.value in benchmark_list:
+             category_tag = SUBTASK.SEMANTIC_MATCHING
+        else:
+            raise ValueError("Unknown Subtask!")
+
+        data = json.load(open(f'benchmark/vqa/{category_tag.value}/{benchmark_name}.json', encoding="utf8"))
 
         ### loops through each image
         for i, scene in enumerate(data):
@@ -63,7 +55,7 @@ def cmd_agent():
                 for language in tested_languages:
                     question = qa_pair['question'][language.value]
                     context = process_context(context_json, language)
-                    path_to_instruction = f"benchmark/prompt/{get_instruction_type(benchmark_name)}.json"
+                    path_to_instruction = f"benchmark/prompt/{get_instruction_prompt_type(benchmark_name)}.json"
                     system_prompt = json.load(open(path_to_instruction, encoding="utf8"))[language.value]
                     # run inferance
                     print(benchmark_name)
@@ -74,14 +66,11 @@ def cmd_agent():
                         language=language,
                     )   
 
-        # print(benchmark_name)
-        # print(path_to_instruction)
-
-        model_name = model_id.replace(':', '_')
+        model_name = model_id.value.replace(':', '_')
         result_path = f'benchmark/experiment_result/{model_name}/{model_name}-{benchmark_name}-experiment_result.json'
         with open(result_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=4)   
-        calculate_score(result_path)              
+        calculate_score(result_path, category_tag, tested_languages)              
 
     log.info("SYSTEM: cmd agent end <<<<<")
     return result_path
