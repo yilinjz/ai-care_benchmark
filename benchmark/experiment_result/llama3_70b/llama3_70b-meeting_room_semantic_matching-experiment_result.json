@@ -1,0 +1,182 @@
+[
+    {
+        "scene_id": "meeting_room_5",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                },
+                "result": {
+                    "en-US": "down"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I sit down comfortably?",
+                    "zh-CN": "我可以在哪里舒服地坐下来？",
+                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                },
+                "answer": {
+                    "en-US": "[\"down\", \"down and left\", \"left\"]",
+                    "zh-CN": "[\"下\", \"左下\", \"左\"]",
+                    "zh-HK": "[\"下\", \"左下\", \"左\"]"
+                },
+                "result": {
+                    "en-US": "down"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_27",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "[\"right\", \"down and right\", \"down and left\", \"down\"]",
+                    "zh-CN": "[\"右\", \"右下\", \"左下\", \"下\"]",
+                    "zh-HK": "[\"右\", \"右下\", \"左下\", \"下\"]"
+                },
+                "result": {
+                    "en-US": "down"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "en-US": "down and slightly-right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                },
+                "result": {
+                    "en-US": "down and slightly-right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_39",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I sit down comfortably?",
+                    "zh-CN": "我可以在哪里舒服地坐下来？",
+                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\", \"down\", \"left\", \"down and left\"]",
+                    "zh-CN": "[\"右下\", \"下\", \"左\", \"左下\"]",
+                    "zh-HK": "[\"右下\", \"下\", \"左\", \"左下\"]"
+                },
+                "result": {
+                    "en-US": "down and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "en-US": "down and left"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "meeting_room_341",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I need to water my flowers. Where are they?",
+                    "zh-CN": "我需要给我的花浇水。他们在哪？",
+                    "zh-HK": "我需要畀我嘅花澆水。 佢哋喺邊?"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "[\"right\", \"down and left\"]",
+                    "zh-CN": "[\"右\", \"左下\"]",
+                    "zh-HK": "[\"右\", \"左下\"]"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "en-US": "down and slightly-right"
+                }
+            }
+        ]
+    }
+]

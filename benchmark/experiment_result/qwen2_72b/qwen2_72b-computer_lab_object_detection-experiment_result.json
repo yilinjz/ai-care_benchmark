@@ -1,0 +1,440 @@
+[
+    {
+        "scene_id": "computer_lab_272",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Based on the scene captured, am I close to a chair?",
+                    "zh-CN": "根据拍摄的场景，我是否接近椅子？",
+                    "zh-HK": "根據拍攝的場景，我是否接近椅子？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Is there a keyboard in the view that you can tell me about?",
+                    "zh-CN": "可以告诉我视图中有键盘吗？",
+                    "zh-HK": "可唔可以話我视圖中有冇鍵盤啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "有",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Based on the scene captured, am I close to a tv?",
+                    "zh-CN": "根据拍摄的场景，我是否接近电视？",
+                    "zh-HK": "根據拍攝的場景，我是否接近電視？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is a mouse visible in the scene?",
+                    "zh-CN": "场景中是否可见鼠标？",
+                    "zh-HK": "場景中是否可見鼠標？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "是/有",
+                    "zh-HK": "係"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_279",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Am I near a tv, according to the scene captured?",
+                    "zh-CN": "根据拍摄到的场景，我是在电视附近吗？",
+                    "zh-HK": "根據攝到嘅畫面，我係咪喺電視附近？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you see if a keyboard is in the view?",
+                    "zh-CN": "你能看到视图中是否有键盘吗？",
+                    "zh-HK": "你能看到视圖中是否有鍵盤啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Is there a mouse in the scene?",
+                    "zh-CN": "场景中有鼠标吗？",
+                    "zh-HK": "場景中有冇鼠標啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇有"
+                },
+                "result": {
+                    "zh-CN": "没有",
+                    "zh-HK": "唔係/冇有"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is there a remote in the view that you can tell me about?",
+                    "zh-CN": "可以告诉我视图中有遥控器吗？",
+                    "zh-HK": "可唔可以話我视圖中有冇遙控器啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇有"
+                },
+                "result": {
+                    "zh-CN": "没有",
+                    "zh-HK": "唔係/冇有"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_333",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me if a keyboard is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有键盘？",
+                    "zh-HK": "你可唔可以話我畫面中有冇鍵盤啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Do you sense a mouse in the scene?",
+                    "zh-CN": "你感觉到场景中有鼠标吗？",
+                    "zh-HK": "你感覺到場景中有鼠標嗎？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Is a tv visible in the scene?",
+                    "zh-CN": "场景中是否可见电视？",
+                    "zh-HK": "場景中是否可見電視？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "是/有",
+                    "zh-HK": "係"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Do you notice a person in the view?",
+                    "zh-CN": "你是否注意到视图中的人？",
+                    "zh-HK": "你是否注意到視圖中嘅人？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇有"
+                },
+                "result": {
+                    "zh-CN": "否/没有",
+                    "zh-HK": "唔係/冇有"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_335",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Do you detect a keyboard in the surroundings?",
+                    "zh-CN": "你能否感应到在周围环境中有无键盘？",
+                    "zh-HK": "你感唔感應到周圍環境有冇鍵盤?"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Can you tell from the scene if I am near a chair?",
+                    "zh-CN": "你能从场景看出我是否在椅子附近吗？",
+                    "zh-HK": "你能從場景看出我是否在椅子附近嗎？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Does the scene captured show that I am near a tv?",
+                    "zh-CN": "拍摄到的场景是否表明我在电视附近？",
+                    "zh-HK": "拍攝到嘅場景是否表明我喺電視附近？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is there a shoe in the view that you can tell me about?",
+                    "zh-CN": "可以告诉我视图中有鞋吗？",
+                    "zh-HK": "可唔可以話我视圖中有冇鞋啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇有"
+                },
+                "result": {
+                    "zh-CN": "没有",
+                    "zh-HK": "唔係/冇有"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_337",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Does the scene captured show that I am near a tv?",
+                    "zh-CN": "拍摄到的场景是否表明我在电视附近？",
+                    "zh-HK": "拍攝到嘅場景是否表明我喺電視附近？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Is there a keyboard in the scene?",
+                    "zh-CN": "场景中有键盘吗？",
+                    "zh-HK": "場景中有冇鍵盤啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "有",
+                    "zh-HK": "係"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Is a book visible in the current scene?",
+                    "zh-CN": "当前场景中能不能看到书啊？",
+                    "zh-HK": "呢個場景入面有無見到書啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇有"
+                },
+                "result": {
+                    "zh-CN": "没有",
+                    "zh-HK": "唔係/冇"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is there a backpack in the view that you can tell me about?",
+                    "zh-CN": "可以告诉我视图中有背包吗？",
+                    "zh-HK": "可唔可以話我视圖中有冇背囊啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇有"
+                },
+                "result": {
+                    "zh-CN": "否/没有",
+                    "zh-HK": "唔係/冇"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_338",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Can you tell me if a book is present in the view?",
+                    "zh-CN": "能不能告诉我画面中是否有书？",
+                    "zh-HK": "你可唔可以話我畫面中有冇書啊？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "有",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Do you sense a keyboard in the scene?",
+                    "zh-CN": "你感觉到场景中有键盘吗？",
+                    "zh-HK": "你感覺到場景中有鍵盤嗎？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "有",
+                    "zh-HK": "有"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Is a mouse visible in the scene?",
+                    "zh-CN": "场景中是否可见鼠标？",
+                    "zh-HK": "場景中是否可見鼠標？"
+                },
+                "answer": {
+                    "en-US": "Yes",
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                },
+                "result": {
+                    "zh-CN": "是/有",
+                    "zh-HK": "係/有"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is there a cell phone in the view that you can tell me about?",
+                    "zh-CN": "可以告诉我视图中有手机吗？",
+                    "zh-HK": "可唔可以話我视圖中有冇手機啊？"
+                },
+                "answer": {
+                    "en-US": "No",
+                    "zh-CN": "不是/没有",
+                    "zh-HK": "唔係/冇有"
+                },
+                "result": {
+                    "zh-CN": "没有",
+                    "zh-HK": "唔係/冇有"
+                }
+            }
+        ]
+    }
+]

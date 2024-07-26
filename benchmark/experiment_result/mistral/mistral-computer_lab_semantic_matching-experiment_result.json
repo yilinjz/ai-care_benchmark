@@ -1,0 +1,336 @@
+[
+    {
+        "scene_id": "computer_lab_272",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I sit down comfortably?",
+                    "zh-CN": "我可以在哪里舒服地坐下来？",
+                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\", \"down and left\", \"right\"]",
+                    "zh-CN": "[\"右下\", \"左下\", \"右\"]",
+                    "zh-HK": "[\"右下\", \"左下\", \"右\"]"
+                },
+                "result": {
+                    "en-US": " down and left (2.22)"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I type my documents?",
+                    "zh-CN": "我可以在哪里输入文件？",
+                    "zh-HK": "我可以喺邊度輸入文件？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "en-US": " up and left (keyboard)"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"right\"]",
+                    "zh-CN": "[\"左\", \"右\"]",
+                    "zh-HK": "[\"左\", \"右\"]"
+                },
+                "result": {
+                    "en-US": "left"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I find a device to navigate my computer screen?",
+                    "zh-CN": "在哪里可以找到操作电脑屏幕的设备？",
+                    "zh-HK": "喺邊度可以搵到操作電腦屏幕嘅設備？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "en-US": " up and left (keyboard)"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_279",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\", \"left\", \"right\", \"down and left\", \"down\"]",
+                    "zh-CN": "[\"右下\", \"左\", \"右\", \"左下\", \"下\"]",
+                    "zh-HK": "[\"右下\", \"左\", \"右\", \"左下\", \"下\"]"
+                },
+                "result": {
+                    "en-US": "right (4.52 or 9.91)"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "I need to type something. Where is my tool?",
+                    "zh-CN": "我需要输入一些东西。我的工具在哪里？",
+                    "zh-HK": "我需要輸入一些嘢。 我嘅工具喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": " Keyboard, slightly-right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "[\"down\", \"down and left\", \"down and right\", \"right\"]",
+                    "zh-CN": "[\"下\", \"左下\", \"右下\", \"右\"]",
+                    "zh-HK": "[\"下\", \"左下\", \"右下\", \"右\"]"
+                },
+                "result": {
+                    "en-US": " down and right (1.94)"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_333",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I type my documents?",
+                    "zh-CN": "我可以在哪里输入文件？",
+                    "zh-HK": "我可以喺邊度輸入文件？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\", \"right\", \"left\"]",
+                    "zh-CN": "[\"左下\", \"右\", \"左\"]",
+                    "zh-HK": "[\"左下\", \"右\", \"左\"]"
+                },
+                "result": {
+                    "en-US": " Keyboard, slightly-right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I find a device to navigate my computer screen?",
+                    "zh-CN": "在哪里可以找到操作电脑屏幕的设备？",
+                    "zh-HK": "喺邊度可以搵到操作電腦屏幕嘅設備？"
+                },
+                "answer": {
+                    "en-US": "[\"right\", \"down\"]",
+                    "zh-CN": "[\"右\", \"下\"]",
+                    "zh-HK": "[\"右\", \"下\"]"
+                },
+                "result": {
+                    "en-US": "'Keyboard, slightly-left'"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"right\", \"up and left\", \"up\", \"up and right\"]",
+                    "zh-CN": "[\"左\", \"右\", \"左上\", \"上\", \"右上\"]",
+                    "zh-HK": "[\"左\", \"右\", \"左上\", \"上\", \"右上\"]"
+                },
+                "result": {
+                    "en-US": "left"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_335",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I need to type something. Where is my tool?",
+                    "zh-CN": "我需要输入一些东西。我的工具在哪里？",
+                    "zh-HK": "我需要輸入一些嘢。 我嘅工具喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"right\", \"left\", \"up\"]",
+                    "zh-CN": "[\"右\", \"左\", \"上\"]",
+                    "zh-HK": "[\"右\", \"左\", \"上\"]"
+                },
+                "result": {
+                    "en-US": " Right, slightly-right (keyboard)"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "[\"right\", \"down and left\", \"down\", \"left\"]",
+                    "zh-CN": "[\"右\", \"左下\", \"下\", \"左\"]",
+                    "zh-HK": "[\"右\", \"左下\", \"下\", \"左\"]"
+                },
+                "result": {
+                    "en-US": " 'down and right'"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"right\", \"up and left\", \"up\"]",
+                    "zh-CN": "[\"左\", \"右\", \"左上\", \"上\"]",
+                    "zh-HK": "[\"左\", \"右\", \"左上\", \"上\"]"
+                },
+                "result": {
+                    "en-US": "'slightly-left'"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_337",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
+                },
+                "answer": {
+                    "en-US": "[\"up and right\", \"up\"]",
+                    "zh-CN": "[\"右上\", \"上\"]",
+                    "zh-HK": "[\"右上\", \"上\"]"
+                },
+                "result": {
+                    "en-US": " Up and slightly right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "I need to type something. Where is my tool?",
+                    "zh-CN": "我需要输入一些东西。我的工具在哪里？",
+                    "zh-HK": "我需要輸入一些嘢。 我嘅工具喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"right\", \"up and left\"]",
+                    "zh-CN": "[\"右\", \"左上\"]",
+                    "zh-HK": "[\"右\", \"左上\"]"
+                },
+                "result": {
+                    "en-US": "Right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\", \"left\", \"down and right\"]",
+                    "zh-CN": "[\"左下\", \"左\", \"右下\"]",
+                    "zh-HK": "[\"左下\", \"左\", \"右下\"]"
+                },
+                "result": {
+                    "en-US": " down and slightly-left"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "computer_lab_338",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I find something to read?",
+                    "zh-CN": "我在哪里可以找到一些读物？",
+                    "zh-HK": "我喺邊度可以搵到啲讀物？"
+                },
+                "answer": {
+                    "en-US": "[\"up and left\"]",
+                    "zh-CN": "[\"左上\"]",
+                    "zh-HK": "[\"左上\"]"
+                },
+                "result": {
+                    "en-US": " Up and slightly left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "I need to type something. Where is my tool?",
+                    "zh-CN": "我需要输入一些东西。我的工具在哪里？",
+                    "zh-HK": "我需要輸入一些嘢。 我嘅工具喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": " Right, keyboard"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I find a device to navigate my computer screen?",
+                    "zh-CN": "在哪里可以找到操作电脑屏幕的设备？",
+                    "zh-HK": "喺邊度可以搵到操作電腦屏幕嘅設備？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": " Up and right"
+                }
+            }
+        ]
+    }
+]

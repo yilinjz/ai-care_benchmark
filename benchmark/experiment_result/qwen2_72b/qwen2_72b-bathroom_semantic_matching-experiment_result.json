@@ -1,0 +1,513 @@
+[
+    {
+        "scene_id": "bathroom_44",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I clean my teeth?",
+                    "zh-CN": "我在哪里可以清洁牙齿？",
+                    "zh-HK": "我喺邊度可以清潔牙齒？"
+                },
+                "answer": {
+                    "en-US": "[\"up and right\", \"up\"]",
+                    "zh-CN": "[\"右上\", \"上\"]",
+                    "zh-HK": "[\"右上\", \"上\"]"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I go to relieve myself?",
+                    "zh-CN": "我可以去哪里解手？",
+                    "zh-HK": "我可以去邊度解手？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I pour my coffee or tea? ",
+                    "zh-CN": "我可以把咖啡或茶倒在哪里？",
+                    "zh-HK": "我可以將咖啡或茶倒喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_49",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I clean my teeth?",
+                    "zh-CN": "我在哪里可以清洁牙齿？",
+                    "zh-HK": "我喺邊度可以清潔牙齒？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"down and left\"]",
+                    "zh-CN": "[\"左\", \"左下\"]",
+                    "zh-HK": "[\"左\", \"左下\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I go to relieve myself?",
+                    "zh-CN": "我可以去哪里解手？",
+                    "zh-HK": "我可以去邊度解手？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_170",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I go to relieve myself?",
+                    "zh-CN": "我可以去哪里解手？",
+                    "zh-HK": "我可以去邊度解手？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\", \"down\"]",
+                    "zh-CN": "[\"右下\", \"下\"]",
+                    "zh-HK": "[\"右下\", \"下\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Is someone standing near me?",
+                    "zh-CN": "有人站在我附近吗？",
+                    "zh-HK": "有人企喺我附近啊？"
+                },
+                "answer": {
+                    "en-US": "[\"up and right\"]",
+                    "zh-CN": "[\"右上\"]",
+                    "zh-HK": "[\"右上\"]"
+                },
+                "result": {
+                    "zh-CN": "右上\n上下文中的物体描述中，只有'(人, 稍微偏上 且 稍微偏右, 1.42)'与问题相关。按照给定的格式和方向规则，'稍微偏上 且 稍微偏右'转换为八个指定方向之一，即为'右上'。",
+                    "zh-HK": "右上"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_500",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"up and right\"]",
+                    "zh-CN": "[\"左\", \"右上\"]",
+                    "zh-HK": "[\"左\", \"右上\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I clean my teeth?",
+                    "zh-CN": "我在哪里可以清洁牙齿？",
+                    "zh-HK": "我喺邊度可以清潔牙齒？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "左"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I go to relieve myself?",
+                    "zh-CN": "我可以去哪里解手？",
+                    "zh-HK": "我可以去邊度解手？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_505",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I go to relieve myself?",
+                    "zh-CN": "我可以去哪里解手？",
+                    "zh-HK": "我可以去邊度解手？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I clean my teeth?",
+                    "zh-CN": "我在哪里可以清洁牙齿？",
+                    "zh-HK": "我喺邊度可以清潔牙齒？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_509",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I pour my coffee or tea? ",
+                    "zh-CN": "我可以把咖啡或茶倒在哪里？",
+                    "zh-HK": "我可以將咖啡或茶倒喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I clean my teeth?",
+                    "zh-CN": "我在哪里可以清洁牙齿？",
+                    "zh-HK": "我喺邊度可以清潔牙齒？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "稍微偏下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"down\", \"right\"]",
+                    "zh-CN": "[\"下\", \"右\"]",
+                    "zh-HK": "[\"下\", \"右\"]"
+                },
+                "result": {
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bathroom_656",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I pour my coffee or tea? ",
+                    "zh-CN": "我可以把咖啡或茶倒在哪里？",
+                    "zh-HK": "我可以將咖啡或茶倒喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左下\n右上\n左上\n右下\n\n(在提供的上下文中，没有明确的物体可以用于倒咖啡或茶。但是，根据常见的家庭布局，水槽可能是最合理的选择。因此，考虑到用户的请求和可用选项，“左下”是最接近描述水槽位置的方向之一。然而，在这个具体情况下，给出所有方向作为可能的答案，因为没有一个物体是完全符合用户需求的。)",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\", \"down\"]",
+                    "zh-CN": "[\"左下\", \"下\"]",
+                    "zh-HK": "[\"左下\", \"下\"]"
+                },
+                "result": {
+                    "zh-CN": "左下\n右上\n左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I go to relieve myself?",
+                    "zh-CN": "我可以去哪里解手？",
+                    "zh-HK": "我可以去邊度解手？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            }
+        ]
+    }
+]

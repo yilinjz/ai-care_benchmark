@@ -1,0 +1,265 @@
+[
+    {
+        "scene_id": "bookstore_88",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I check the time right now?",
+                    "zh-CN": "我现在在哪里可以查看时间？",
+                    "zh-HK": "我而家喺邊度可以查看時間？"
+                },
+                "answer": {
+                    "en-US": "[\"up and left\"]",
+                    "zh-CN": "[\"左上\"]",
+                    "zh-HK": "[\"左上\"]"
+                },
+                "result": {
+                    "zh-CN": "上左",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I find something to read?",
+                    "zh-CN": "我在哪里可以找到一些读物？",
+                    "zh-HK": "我喺邊度可以搵到啲讀物？"
+                },
+                "answer": {
+                    "en-US": "[\"down\", \"left\"]",
+                    "zh-CN": "[\"下\", \"左\"]",
+                    "zh-HK": "[\"下\", \"左\"]"
+                },
+                "result": {
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_89",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I find something to read?",
+                    "zh-CN": "我在哪里可以找到一些读物？",
+                    "zh-HK": "我喺邊度可以搵到啲讀物？"
+                },
+                "answer": {
+                    "en-US": "[\"right\", \"left\"]",
+                    "zh-CN": "[\"右\", \"左\"]",
+                    "zh-HK": "[\"右\", \"左\"]"
+                },
+                "result": {
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                },
+                "result": {
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_91",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can find something to pack my clothes for a trip?",
+                    "zh-CN": "在哪里可以找到为旅行打包衣服的东西？",
+                    "zh-HK": "喺邊度可以搵到為旅行打包衫嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I put my things and carry them while walking around?",
+                    "zh-CN": "我可以把我的东西放在哪里，并在走动时携带它们？",
+                    "zh-HK": "我可以將我嘅嘢放喺邊度，並喺走動時攜帶它們？"
+                },
+                "answer": {
+                    "en-US": "[\"down\", \"left\", \"down and right\"]",
+                    "zh-CN": "[\"下\", \"左\", \"右下\"]",
+                    "zh-HK": "[\"下\", \"左\", \"右下\"]"
+                },
+                "result": {
+                    "zh-CN": "下",
+                    "zh-HK": "左下\n下\n右下\n下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Is someone standing near me?",
+                    "zh-CN": "有人站在我附近吗？",
+                    "zh-HK": "有人企喺我附近啊？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_112",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I need to check my email. Where is my device?",
+                    "zh-CN": "我需要查看电子邮件。我的设备在哪里？",
+                    "zh-HK": "我需要查看電子郵件。 我嘅設備喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                },
+                "result": {
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I find a device to navigate my computer screen?",
+                    "zh-CN": "在哪里可以找到操作电脑屏幕的设备？",
+                    "zh-HK": "喺邊度可以搵到操作電腦屏幕嘅設備？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                },
+                "result": {
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                },
+                "result": {
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I find something to read?",
+                    "zh-CN": "我在哪里可以找到一些读物？",
+                    "zh-HK": "我喺邊度可以搵到啲讀物？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bookstore_119",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I sit down comfortably?",
+                    "zh-CN": "我可以在哪里舒服地坐下来？",
+                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                },
+                "answer": {
+                    "en-US": "[\"down\", \"down and left\", \"left\"]",
+                    "zh-CN": "[\"下\", \"左下\", \"左\"]",
+                    "zh-HK": "[\"下\", \"左下\", \"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I find something to read?",
+                    "zh-CN": "我在哪里可以找到一些读物？",
+                    "zh-HK": "我喺邊度可以搵到啲讀物？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    }
+]

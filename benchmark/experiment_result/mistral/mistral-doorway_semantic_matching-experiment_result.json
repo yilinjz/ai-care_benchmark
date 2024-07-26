@@ -1,0 +1,607 @@
+[
+    {
+        "scene_id": "doorway_53",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I quickly heat up my food? ",
+                    "zh-CN": "哪里可以快速加热食物？",
+                    "zh-HK": "邊度可以快速加熱食物？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "en-US": " up and right (microwave)"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I pour my wine?",
+                    "zh-CN": "我可以把酒倒在哪里？",
+                    "zh-HK": "我可以將酒倒喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": " down and right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I find something to read?",
+                    "zh-CN": "我在哪里可以找到一些读物？",
+                    "zh-HK": "我喺邊度可以搵到啲讀物？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"down and left\", \"right\", \"up and right\"]",
+                    "zh-CN": "[\"左\", \"左下\", \"右\", \"右上\"]",
+                    "zh-HK": "[\"左\", \"左下\", \"右\", \"右上\"]"
+                },
+                "result": {
+                    "en-US": " up and right"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I put my cereal or soup? ",
+                    "zh-CN": "我可以把麦片或汤放在哪里？",
+                    "zh-HK": "我可以將麥片或湯放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "en-US": " Down and right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_251",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I store my perishable food items?",
+                    "zh-CN": "易腐食品可以存放在哪里？",
+                    "zh-HK": "易腐食品可以存放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": " Up and slightly-left (refrigerator)"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "en-US": " Left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I bake a cake or roast a chicken? ",
+                    "zh-CN": "哪里可以烤蛋糕或烤鸡？",
+                    "zh-HK": "邊度可以烤蛋糕或烤雞？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "en-US": " Down and slightly right"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I lounge and watch TV?",
+                    "zh-CN": "我可以在哪里休息和看电视？",
+                    "zh-HK": "我可以喺邊度休息同睇电视？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "en-US": " Down and slightly-left"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_262",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I put these flowers?",
+                    "zh-CN": "我可以把这些花放在哪里？",
+                    "zh-HK": "我可以將呢啲花放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                },
+                "result": {
+                    "en-US": " up and right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": "Right (1.8)"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I find something to read?",
+                    "zh-CN": "我在哪里可以找到一些读物？",
+                    "zh-HK": "我喺邊度可以搵到啲讀物？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\", \"right\", \"up and right\"]",
+                    "zh-CN": "[\"右下\", \"右\", \"右上\"]",
+                    "zh-HK": "[\"右下\", \"右\", \"右上\"]"
+                },
+                "result": {
+                    "en-US": " Up and slightly-right"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I find some greenery indoors?",
+                    "zh-CN": "在室内哪里可以找到绿色植物？",
+                    "zh-HK": "喺室內邊度可以搵到綠色植物？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": "Right, 2.82"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_263",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "[\"down\", \"down and right\", \"left\"]",
+                    "zh-CN": "[\"下\", \"右下\", \"左\"]",
+                    "zh-HK": "[\"下\", \"右下\", \"左\"]"
+                },
+                "result": {
+                    "en-US": "down and right (approximately)"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I quickly heat up my food? ",
+                    "zh-CN": "哪里可以快速加热食物？",
+                    "zh-HK": "邊度可以快速加熱食物？"
+                },
+                "answer": {
+                    "en-US": "[\"up and right\"]",
+                    "zh-CN": "[\"右上\"]",
+                    "zh-HK": "[\"右上\"]"
+                },
+                "result": {
+                    "en-US": " Up and right (microwave)"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I store my perishable food items?",
+                    "zh-CN": "易腐食品可以存放在哪里？",
+                    "zh-HK": "易腐食品可以存放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "en-US": " Refrigerator, slightly-left"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I pour my coffee or tea? ",
+                    "zh-CN": "我可以把咖啡或茶倒在哪里？",
+                    "zh-HK": "我可以將咖啡或茶倒喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": "up and left (dining table)"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_459",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I need to water my flowers. Where are they?",
+                    "zh-CN": "我需要给我的花浇水。他们在哪？",
+                    "zh-HK": "我需要畀我嘅花澆水。 佢哋喺邊?"
+                },
+                "answer": {
+                    "en-US": "[\"up\", \"left\"]",
+                    "zh-CN": "[\"上\", \"左\"]",
+                    "zh-HK": "[\"上\", \"左\"]"
+                },
+                "result": {
+                    "en-US": " Up and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\", \"left\", \"down\"]",
+                    "zh-CN": "[\"右下\", \"左\", \"下\"]",
+                    "zh-HK": "[\"右下\", \"左\", \"下\"]"
+                },
+                "result": {
+                    "en-US": "Down and left (2.99)"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "en-US": "'Left'"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\", \"down and right\"]",
+                    "zh-CN": "[\"左下\", \"右下\"]",
+                    "zh-HK": "[\"左下\", \"右下\"]"
+                },
+                "result": {
+                    "en-US": " down and left (dining table, slightly-down and slightly-left, 3.07)"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_460",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I find some greenery indoors?",
+                    "zh-CN": "在室内哪里可以找到绿色植物？",
+                    "zh-HK": "喺室內邊度可以搵到綠色植物？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"up and left\", \"up\"]",
+                    "zh-CN": "[\"左\", \"左上\", \"上\"]",
+                    "zh-HK": "[\"左\", \"左上\", \"上\"]"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I sit down comfortably?",
+                    "zh-CN": "我可以在哪里舒服地坐下来？",
+                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "en-US": "down and left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "I bought some rose. Where can I put it?",
+                    "zh-CN": "我买了一些玫瑰。我可以把它放在哪里？",
+                    "zh-HK": "我買咗啲玫瑰。 我可以將佢放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"up and left\"]",
+                    "zh-CN": "[\"左\", \"左上\"]",
+                    "zh-HK": "[\"左\", \"左上\"]"
+                },
+                "result": {
+                    "en-US": " up and left (vase, 4.17)"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_485",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
+                },
+                "answer": {
+                    "en-US": "[\"right\", \"left\"]",
+                    "zh-CN": "[\"右\", \"左\"]",
+                    "zh-HK": "[\"右\", \"左\"]"
+                },
+                "result": {
+                    "en-US": " Up and right (tv, 1.96)"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I lounge and watch TV?",
+                    "zh-CN": "我可以在哪里休息和看电视？",
+                    "zh-HK": "我可以喺邊度休息同睇电视？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "en-US": " down and right"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "I need to type something. Where is my tool?",
+                    "zh-CN": "我需要输入一些东西。我的工具在哪里？",
+                    "zh-HK": "我需要輸入一些嘢。 我嘅工具喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": "right, 2.12"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I find something to read?",
+                    "zh-CN": "我在哪里可以找到一些读物？",
+                    "zh-HK": "我喺邊度可以搵到啲讀物？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "en-US": " down and right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_562",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is there someone nearby?",
+                    "zh-CN": "附近有人吗？",
+                    "zh-HK": "附近有人嗎？"
+                },
+                "answer": {
+                    "en-US": "[\"up\"]",
+                    "zh-CN": "[\"上\"]",
+                    "zh-HK": "[\"上\"]"
+                },
+                "result": {
+                    "en-US": " up"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I quickly heat up my food? ",
+                    "zh-CN": "哪里可以快速加热食物？",
+                    "zh-HK": "邊度可以快速加熱食物？"
+                },
+                "answer": {
+                    "en-US": "[\"up and left\"]",
+                    "zh-CN": "[\"左上\"]",
+                    "zh-HK": "[\"左上\"]"
+                },
+                "result": {
+                    "en-US": " Up and left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I bake a cake or roast a chicken? ",
+                    "zh-CN": "哪里可以烤蛋糕或烤鸡？",
+                    "zh-HK": "邊度可以烤蛋糕或烤雞？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "en-US": "Down and left (oven)"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I store my perishable food items?",
+                    "zh-CN": "易腐食品可以存放在哪里？",
+                    "zh-HK": "易腐食品可以存放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": "Right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "doorway_564",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Is there someone nearby?",
+                    "zh-CN": "附近有人吗？",
+                    "zh-HK": "附近有人嗎？"
+                },
+                "answer": {
+                    "en-US": "[\"up and left\"]",
+                    "zh-CN": "[\"左上\"]",
+                    "zh-HK": "[\"左上\"]"
+                },
+                "result": {
+                    "en-US": " Up and slightly left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where is the barking coming from?",
+                    "zh-CN": "吠叫是从哪里来的？",
+                    "zh-HK": "吠叫係由邊度嚟嘅？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "en-US": "Down and left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": "Right (1.3)"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I put my cereal or soup? ",
+                    "zh-CN": "我可以把麦片或汤放在哪里？",
+                    "zh-HK": "我可以將麥片或湯放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "en-US": " up and left (at the dining table)"
+                }
+            }
+        ]
+    }
+]

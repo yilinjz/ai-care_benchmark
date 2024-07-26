@@ -1,0 +1,187 @@
+[
+    {
+        "scene_id": "pantry_412",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I get iced coke?",
+                    "zh-CN": "我在哪里可以拿到冰镇可乐？",
+                    "zh-HK": "我喺邊度可以拿到雪藏可樂？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": " up and slightly-left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I cook toasted bread?",
+                    "zh-CN": "我在哪里可以做烤面包？",
+                    "zh-HK": "我喺邊度可以做多士？"
+                },
+                "answer": {
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_4",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_23",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I check the time right now?",
+                    "zh-CN": "我现在在哪里可以查看时间？",
+                    "zh-HK": "我而家喺邊度可以查看時間？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "I need to check my email. Where is my device?",
+                    "zh-CN": "我需要查看电子邮件。我的设备在哪里？",
+                    "zh-HK": "我需要查看電子郵件。 我嘅設備喺邊度？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "en-US": " up and right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "workstation_371",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I need to type something. Where is my tool?",
+                    "zh-CN": "我需要输入一些东西。我的工具在哪里？",
+                    "zh-HK": "我需要輸入一些嘢。 我嘅工具喺邊度？"
+                },
+                "answer": {
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                },
+                "result": {
+                    "en-US": "right"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "bedroom_70",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I sleep?",
+                    "zh-CN": "我可以在哪里睡觉？",
+                    "zh-HK": "我可以喺邊度瞓覺？"
+                },
+                "answer": {
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "I bought some flower. Where can I put it?",
+                    "zh-CN": "离我最近的花瓶在哪里？",
+                    "zh-HK": "離我最近嘅花瓶喺邊度？"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": " up and left"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "I need to water my flowers. Where are they?",
+                    "zh-CN": "我需要给我的花浇水。他们在哪？",
+                    "zh-HK": "我需要畀我嘅花澆水。 佢哋喺邊?"
+                },
+                "answer": {
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                },
+                "result": {
+                    "en-US": " down and left"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where is the barking coming from?",
+                    "zh-CN": "吠叫是从哪里来的？",
+                    "zh-HK": "吠叫係由邊度嚟嘅？"
+                },
+                "answer": {
+                    "en-US": "右",
+                    "zh-CN": "right",
+                    "zh-HK": "right"
+                },
+                "result": {
+                    "en-US": " right"
+                }
+            }
+        ]
+    }
+]

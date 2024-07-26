@@ -1,0 +1,569 @@
+[
+    {
+        "scene_id": "kitchen_138",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I put my cereal or soup? ",
+                    "zh-CN": "我可以把麦片或汤放在哪里？",
+                    "zh-HK": "我可以將麥片或湯放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I quickly heat up my food? ",
+                    "zh-CN": "哪里可以快速加热食物？",
+                    "zh-HK": "邊度可以快速加熱食物？"
+                },
+                "answer": {
+                    "en-US": "[\"up and right\", \"right\"]",
+                    "zh-CN": "[\"右上\", \"右\"]",
+                    "zh-HK": "[\"右上\", \"右\"]"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I bake a cake or roast a chicken? ",
+                    "zh-CN": "哪里可以烤蛋糕或烤鸡？",
+                    "zh-HK": "邊度可以烤蛋糕或烤雞？"
+                },
+                "answer": {
+                    "en-US": "[\"right\", \"down\", \"left\"]",
+                    "zh-CN": "[\"右\", \"下\", \"左\"]",
+                    "zh-HK": "[\"右\", \"下\", \"左\"]"
+                },
+                "result": {
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_139",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I quickly heat up my food? ",
+                    "zh-CN": "哪里可以快速加热食物？",
+                    "zh-HK": "邊度可以快速加熱食物？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "左"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I find something to cut my food with?",
+                    "zh-CN": "哪里可以找到切食物的工具？",
+                    "zh-HK": "邊度可以搵到切食物嘅工具？"
+                },
+                "answer": {
+                    "en-US": "[\"up\"]",
+                    "zh-CN": "[\"上\"]",
+                    "zh-HK": "[\"上\"]"
+                },
+                "result": {
+                    "zh-CN": "上",
+                    "zh-HK": "上"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I put my cereal or soup? ",
+                    "zh-CN": "我可以把麦片或汤放在哪里？",
+                    "zh-HK": "我可以將麥片或湯放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "zh-CN": "右",
+                    "zh-HK": "左"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_199",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I pour my coffee or tea? ",
+                    "zh-CN": "我可以把咖啡或茶倒在哪里？",
+                    "zh-HK": "我可以將咖啡或茶倒喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I put my cereal or soup? ",
+                    "zh-CN": "我可以把麦片或汤放在哪里？",
+                    "zh-HK": "我可以將麥片或湯放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I bake a cake or roast a chicken? ",
+                    "zh-CN": "哪里可以烤蛋糕或烤鸡？",
+                    "zh-HK": "邊度可以烤蛋糕或烤雞？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\"]",
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I find something to cut my food with?",
+                    "zh-CN": "哪里可以找到切食物的工具？",
+                    "zh-HK": "邊度可以搵到切食物嘅工具？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_203",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I quickly heat up my food? ",
+                    "zh-CN": "哪里可以快速加热食物？",
+                    "zh-HK": "邊度可以快速加熱食物？"
+                },
+                "answer": {
+                    "en-US": "[\"up\"]",
+                    "zh-CN": "[\"上\"]",
+                    "zh-HK": "[\"上\"]"
+                },
+                "result": {
+                    "zh-CN": "右上\n上下文: ['(烤箱, 下右, 1.48)', '(微波炉, 上, 1.72)', '(水槽, 左, 1.87)', '(杯子, 左, 1.98)']",
+                    "zh-HK": "右上"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I bake a cake or roast a chicken? ",
+                    "zh-CN": "哪里可以烤蛋糕或烤鸡？",
+                    "zh-HK": "邊度可以烤蛋糕或烤雞？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I pour my coffee or tea? ",
+                    "zh-CN": "我可以把咖啡或茶倒在哪里？",
+                    "zh-HK": "我可以將咖啡或茶倒喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "左下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_204",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I get iced coke?",
+                    "zh-CN": "我在哪里可以拿到冰镇可乐？",
+                    "zh-HK": "我喺邊度可以拿到雪藏可樂？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "zh-CN": "右",
+                    "zh-HK": "右"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I put my cereal or soup? ",
+                    "zh-CN": "我可以把麦片或汤放在哪里？",
+                    "zh-HK": "我可以將麥片或湯放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\", \"down\"]",
+                    "zh-CN": "[\"左\", \"下\"]",
+                    "zh-HK": "[\"左\", \"下\"]"
+                },
+                "result": {
+                    "zh-CN": "下左",
+                    "zh-HK": "下左"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I pour my wine?",
+                    "zh-CN": "我可以把酒倒在哪里？",
+                    "zh-HK": "我可以將酒倒喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I clean my teeth?",
+                    "zh-CN": "我在哪里可以清洁牙齿？",
+                    "zh-HK": "我喺邊度可以清潔牙齒？"
+                },
+                "answer": {
+                    "en-US": "[\"right\"]",
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_253",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I store my perishable food items?",
+                    "zh-CN": "易腐食品可以存放在哪里？",
+                    "zh-HK": "易腐食品可以存放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左",
+                    "zh-HK": "左上"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"down and left\", \"down\"]",
+                    "zh-CN": "[\"左下\", \"下\"]",
+                    "zh-HK": "[\"左下\", \"下\"]"
+                },
+                "result": {
+                    "zh-CN": "左上",
+                    "zh-HK": "左下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I quickly heat up my food? ",
+                    "zh-CN": "哪里可以快速加热食物？",
+                    "zh-HK": "邊度可以快速加熱食物？"
+                },
+                "answer": {
+                    "en-US": "[\"right\", \"down\"]",
+                    "zh-CN": "[\"右\", \"下\"]",
+                    "zh-HK": "[\"右\", \"下\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_560",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I quickly heat up my food? ",
+                    "zh-CN": "哪里可以快速加热食物？",
+                    "zh-HK": "邊度可以快速加熱食物？"
+                },
+                "answer": {
+                    "en-US": "[\"down\"]",
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
+                },
+                "result": {
+                    "zh-CN": "下",
+                    "zh-HK": "下"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\"]",
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
+                },
+                "answer": {
+                    "en-US": "[\"down and right\", \"right\"]",
+                    "zh-CN": "[\"右下\", \"右\"]",
+                    "zh-HK": "[\"右下\", \"右\"]"
+                },
+                "result": {
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_849",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "Where can I cook toasted bread?",
+                    "zh-CN": "我在哪里可以做烤面包？",
+                    "zh-HK": "我喺邊度可以做多士？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                }
+            },
+            {
+                "qid": "1",
+                "question": {
+                    "en-US": "Where can I put my cereal or soup? ",
+                    "zh-CN": "我可以把麦片或汤放在哪里？",
+                    "zh-HK": "我可以將麥片或湯放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左下",
+                    "zh-HK": "左"
+                }
+            },
+            {
+                "qid": "2",
+                "question": {
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                }
+            },
+            {
+                "qid": "3",
+                "question": {
+                    "en-US": "Where can I put my cereal or soup? ",
+                    "zh-CN": "我可以把麦片或汤放在哪里？",
+                    "zh-HK": "我可以將麥片或湯放喺邊度？"
+                },
+                "answer": {
+                    "en-US": "[\"left\"]",
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
+                },
+                "result": {
+                    "zh-CN": "左",
+                    "zh-HK": "左"
+                }
+            }
+        ]
+    }
+]

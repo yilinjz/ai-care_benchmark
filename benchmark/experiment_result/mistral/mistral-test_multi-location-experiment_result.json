@@ -1,0 +1,86 @@
+[
+    {
+        "scene_id": "bathroom_44",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I have just finished eating and getting ready to go to bed, what should I do?",
+                    "zh-CN": "刚吃完东西准备上床睡觉，我该做什么?",
+                    "zh-HK": "啱啱食完嘢準備上床瞓覺，我該做什麼？"
+                },
+                "answer": {
+                    "en-US": "First pickup toothbrush which locates slightly-up in the frame, 1.79 meters away from you, then brush your teeth and rinse your mouth at the sink which locates slightly-right in the frame, 1.77 meters away from you.",
+                    "zh-CN": "先拿起位于框架稍上方、距您1.79米的牙刷，然后到位于框架稍右、距您1.77米的水槽刷牙、漱口。",
+                    "zh-HK": "拿起位於框架稍上方、距你1.79米嘅牙刷先，然後到位於框架稍右、距你1.77米嘅水槽刷牙、漱口。"
+                },
+                "result": {
+                    "en-US": "1. Toilet (slightly-down and slightly-left, 1.46): You might want to use the toilet before going to bed.\n   Actions: Walk towards the slightly left direction for about 1.46 meters, then slightly down.\n\n2. Toothbrush (slightly-up and slightly-right, 1.76), (slightly-up, 1.79): You can find two toothbrushes near you. It's a good habit to brush your teeth before going to bed.\n   Actions: Reach towards the slightly right direction for about 1.76 meters or 1.79 meters to grab one of the toothbrushes.\n\n3. Sink (slightly-right, 1.77): The sink is near the toothbrush and could be useful for rinsing your mouth after brushing.\n   Actions: With the toothbrush in hand, move slightly to the right direction for about 1.77 meters.\n\n4. Cup (slightly-right, 1.97): There seems to be a cup nearby as well. You might want to fill it with water before going to bed if needed.\n   Actions: Walk towards the slightly right direction for about 1.97 meters to get the cup.\n\n5. Bottle (slightly-left, 1.62): There's also a bottle near you on the left side. It could be water or something else.\n   Actions: Reach towards the slightly left direction for about 1.62 meters to grab the bottle if needed."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_203",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I am hungry but my food is cold, what should I do?",
+                    "zh-CN": "我饿了，但我的食物已经冷了，我该怎么办？",
+                    "zh-HK": "我餓了，但我嘅食物有凍，我點算好？"
+                },
+                "answer": {
+                    "en-US": "Use the microwave, which locates slightly-up, 1.72 meters from you, to heat up your food. Or use the oven, which locates slightly-down and slightly-right, 1.48 meters from you, to heat up your food.",
+                    "zh-CN": "使用位于稍上方、距离您 1.72 米的微波炉来加热食物。或者使用烤箱（位于距您稍下和稍右的位置，距离您 1.48 米）来加热食物。",
+                    "zh-HK": "使用位於稍上方、距離你1.72米嘅微波爐嚟加熱食物。 或者使用焗爐（位於距你稍下同稍右嘅位置，距離你1.48米）嚟加熱食物。"
+                },
+                "result": {
+                    "en-US": "1. There are a microwave slightly above you at a distance of 1.72 units and an oven slightly down and to your right at a distance of 1.48 units.\n2. To heat your food, consider using the microwave since it is more conveniently located for you at this moment.\n3. Actions: Reach out towards the microwave, open it, place your cold food inside, set the appropriate cooking time and press start. Enjoy your warm meal!"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_356",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I want to comfortably watch a game. what should I do?",
+                    "zh-CN": "我想舒服地收看一场球赛。我该怎么做？",
+                    "zh-HK": "我想舒服咁收看一場球賽。 我該點樣做法？"
+                },
+                "answer": {
+                    "en-US": "First go turn on the tv locating slightly-up and right in the view, 5.06 meters from you. Then go sit on the couch locating slightly-left in the view, 2.1 ,meters from you.",
+                    "zh-CN": "首先打开电视，电视位于视野中稍上方和右侧，距您5.06 米。然后坐在视野稍偏左的沙发上，距离您2.1 米。",
+                    "zh-HK": "首先打開電視，電視位於視野中稍上方同右側，距你5.06米。 然後坐視野稍偏左緊嘅梳化上，距離你2.1米。"
+                },
+                "result": {
+                    "en-US": "1. The objects that may help you comfortably watch a game are the TV (slightly up and right, 5.06 feet away) and the couch (slightly left, 2.1 feet away).\n2. To watch the game comfortably, you could move towards the couch and position yourself such that your body is facing the TV.\n3. The distance from your current location to the couch is approximately 2.1 feet, while the TV is around 5.06 feet away."
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "dorm_569",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I'll be travelling for the next few months, what should I do before leaving?",
+                    "zh-CN": "我将在接下来的几个月里旅行，出发前我应该做什么？",
+                    "zh-HK": "我將在接下來的幾個月里旅行，出發前我應該做乜嘢"
+                },
+                "answer": {
+                    "en-US": "",
+                    "zh-CN": "",
+                    "zh-HK": ""
+                },
+                "result": {
+                    "en-US": "1. Before leaving, it is recommended to:\n    - Secure your refrigerator (slightly-left, 2.82) contents by moving perishable items to a cooler or asking someone to check on them regularly.\n    - Unplug appliances like the microwave (left, 2.15), oven (slightly-down and slightly-right, 2.67), and ensure they are turned off completely.\n    - Clear non-perishable food items from the dining table (slightly-down and slightly-left, 1.31) and either consume or store them properly.\n    - Gather any personal belongings on chairs (down, 1.3) and place them in a designated spot for packing.\n    - Empty and clean the sink (right, 2.52) to avoid odors and potential mold growth while you're away.\n    - If there are any fruits like bananas (slightly-left, 1.72) that might spoil quickly, consider giving them away or throwing them out."
+                }
+            }
+        ]
+    }
+]
