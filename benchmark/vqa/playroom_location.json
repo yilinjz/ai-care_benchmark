@@ -5,9 +5,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you tell me the location of the closest sports ball to me?",
-                    "zh-CN": "你能告诉我离我最近的运动用球的位置吗？",
-                    "zh-HK": "你可唔可以話我离我最近嘅運動波嘅位置啊？"
+                    "en-US": "Where can I find something to play a sport game with children?",
+                    "zh-CN": "在哪里可以找到与孩子们一起玩体育游戏的东西？",
+                    "zh-HK": "喺邊度可以搵到與仔們一起玩體育遊戲嘅嘢？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -18,9 +18,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "What is the position of the nearest backpack relative to me?",
-                    "zh-CN": "离我最近的背包的位置是什么？",
-                    "zh-HK": "離我最近嘅背囊嘅位置係乜嘢？"
+                    "en-US": "Where can I put my things and carry them while walking around?",
+                    "zh-CN": "我可以把我的东西放在哪里，并在走动时携带它们？",
+                    "zh-HK": "我可以將我嘅嘢放喺邊度，並喺走動時攜帶它們？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -31,9 +31,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you tell me the direction of the chair from my current location?",
-                    "zh-CN": "你能告诉我椅子相对于我当前位置的方向吗？",
-                    "zh-HK": "你能告訴我椅子相對于我當前位置的方向嗎？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -49,9 +49,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you find the couch in the scene?",
-                    "zh-CN": "你能在场景中找到沙发吗？",
-                    "zh-HK": "你可唔可以喺場景中搵到梳化啊？"
+                    "en-US": "Where can I lounge and watch TV?",
+                    "zh-CN": "我可以在哪里休息和看电视？",
+                    "zh-HK": "我可以喺邊度休息同睇电视？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -62,9 +62,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Which direction is the tv located from where I am now?",
-                    "zh-CN": "电视位于我现在所在的哪个方向？",
-                    "zh-HK": "電視位於我而家所在嘅邊個方向？"
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -75,9 +75,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you show me where the sports ball is?",
-                    "zh-CN": "你能告诉我运动用球在哪里吗？",
-                    "zh-HK": "你可唔可以話我運動波喺邊度啊？"
+                    "en-US": "Where can I find something to play a sport game with children?",
+                    "zh-CN": "在哪里可以找到与孩子们一起玩体育游戏的东西？",
+                    "zh-HK": "喺邊度可以搵到與仔們一起玩體育遊戲嘅嘢？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -88,9 +88,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Can you tell me the location of the closest chair to me?",
-                    "zh-CN": "你能告诉我离我最近的椅子的位置吗？",
-                    "zh-HK": "你可唔可以話我离我最近嘅椅子嘅位置啊？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -106,9 +106,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Please tell me where the suitcase is.",
-                    "zh-CN": "请告诉我行李箱在哪里。",
-                    "zh-HK": "請告訴我行李箱喺邊度。"
+                    "en-US": "Where can find something to pack my clothes for a trip?",
+                    "zh-CN": "在哪里可以找到为旅行打包衣服的东西？",
+                    "zh-HK": "喺邊度可以搵到為旅行打包衫嘅嘢？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -119,9 +119,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you please locate the dining table?",
-                    "zh-CN": "你能找到餐桌吗？",
-                    "zh-HK": "你可唔可以搵到餐桌啊？"
+                    "en-US": "Where can I sit and eat my meals?",
+                    "zh-CN": "我可以坐在哪里用餐？",
+                    "zh-HK": "我可以坐喺邊度用餐？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -132,9 +132,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is the closest couch in relation to me?",
-                    "zh-CN": "离我最近的沙发在哪里?",
-                    "zh-HK": "離我最近嘅梳化喺邊度？"
+                    "en-US": "Where can I lounge and watch TV?",
+                    "zh-CN": "我可以在哪里休息和看电视？",
+                    "zh-HK": "我可以喺邊度休息同睇电视？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -145,9 +145,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Find where the chair is, please.",
-                    "zh-CN": "请帮我找下椅子在哪里。",
-                    "zh-HK": "請幫我搵吓椅子喺邊。"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -163,9 +163,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you help me find the position of the teddy bear?",
-                    "zh-CN": "你能帮我找到泰迪熊的位置吗？",
-                    "zh-HK": "你可唔可以帮我搵到啤啤熊的位置吗？"
+                    "en-US": "Where can I find a cuddly toy? ",
+                    "zh-CN": "在哪里可以找到可爱的玩具？",
+                    "zh-HK": "喺邊度可以搵到得意嘅玩具？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -176,9 +176,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Could you point out the location of the tv to me?",
-                    "zh-CN": "你能给我指出电视的位置吗？",
-                    "zh-HK": "你可唔可以畀我指出電視嘅位置啊？"
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -189,9 +189,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Please tell me where the chair is.",
-                    "zh-CN": "请告诉我椅子在哪里。",
-                    "zh-HK": "請告訴我椅子喺邊度。"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -207,9 +207,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Please find the location of the bed.",
-                    "zh-CN": "请找到床的位置。",
-                    "zh-HK": "請搵到床嘅位置。"
+                    "en-US": "Where can I sleep?",
+                    "zh-CN": "我可以在哪里睡觉？",
+                    "zh-HK": "我可以喺邊度瞓覺？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -220,9 +220,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where is the closest book in relation to me?",
-                    "zh-CN": "离我最近的书在哪里?",
-                    "zh-HK": "離我最近嘅書喺邊度？"
+                    "en-US": "Where can I find something to read?",
+                    "zh-CN": "我在哪里可以找到一些读物？",
+                    "zh-HK": "我喺邊度可以搵到啲讀物？"
                 },
                 "answer": {
                     "en-US": "down",
@@ -233,9 +233,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you show me where the chair is?",
-                    "zh-CN": "你能告诉我椅子在哪里吗？",
-                    "zh-HK": "你可唔可以話我椅子喺邊度啊？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -251,9 +251,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you help me find the position of the chair?",
-                    "zh-CN": "你能帮我找到椅子的位置吗？",
-                    "zh-HK": "你可唔可以帮我搵到椅子的位置吗？"
+                    "en-US": "Where can I sit down comfortably?",
+                    "zh-CN": "我可以在哪里舒服地坐下来？",
+                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -264,9 +264,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Could you show me where the book is?",
-                    "zh-CN": "你能告诉我书在哪里吗？",
-                    "zh-HK": "你可唔可以話我書喺邊度啊？"
+                    "en-US": "Where can I find something to read?",
+                    "zh-CN": "我在哪里可以找到一些读物？",
+                    "zh-HK": "我喺邊度可以搵到啲讀物？"
                 },
                 "answer": {
                     "en-US": "up and left",
@@ -277,9 +277,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where is the closest remote in relation to me?",
-                    "zh-CN": "离我最近的遥控器在哪里?",
-                    "zh-HK": "離我最近嘅遙控器喺邊度？"
+                    "en-US": "Where can I find the device to change the channel?",
+                    "zh-CN": "在哪里可以找到转换频道的设备？",
+                    "zh-HK": "喺邊度可以搵到轉換頻道嘅設備？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -290,9 +290,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Where is the tv in relation to my current position?",
-                    "zh-CN": "相对于我当前位置，电视在哪里？",
-                    "zh-HK": "相對于我當前位置，電視喺邊度？"
+                    "en-US": "Where can I watch my favorite shows?",
+                    "zh-CN": "在哪里可以观看我喜爱的节目？",
+                    "zh-HK": "喺邊度可以觀看我喜愛嘅節目？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -308,9 +308,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you guide me to where the chair is located?",
-                    "zh-CN": "你能引导我到椅子的位置吗？",
-                    "zh-HK": "你能引導我到椅子的位置嗎？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -321,9 +321,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you guide me to where the backpack is located?",
-                    "zh-CN": "你能引导我到背包的位置吗？",
-                    "zh-HK": "你能引導我到背囊的位置嗎？"
+                    "en-US": "Where can I put my things and carry them while walking around?",
+                    "zh-CN": "我可以把我的东西放在哪里，并在走动时携带它们？",
+                    "zh-HK": "我可以將我嘅嘢放喺邊度，並喺走動時攜帶它們？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -334,9 +334,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Which direction is the teddy bear located from where I am now?",
-                    "zh-CN": "泰迪熊位于我现在所在的哪个方向？",
-                    "zh-HK": "啤啤熊位於我而家所在嘅邊個方向？"
+                    "en-US": "Where can I find a cuddly toy? ",
+                    "zh-CN": "在哪里可以找到可爱的玩具？",
+                    "zh-HK": "喺邊度可以搵到得意嘅玩具？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -347,9 +347,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Find where the bed is, please.",
-                    "zh-CN": "请帮我找下床在哪里。",
-                    "zh-HK": "請幫我搵吓床喺邊。"
+                    "en-US": "Where can I sleep?",
+                    "zh-CN": "我可以在哪里睡觉？",
+                    "zh-HK": "我可以喺邊度瞓覺？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -365,9 +365,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where is the suitcase in relation to my current position?",
-                    "zh-CN": "相对于我当前位置，行李箱在哪里？",
-                    "zh-HK": "相對于我當前位置，行李箱喺邊度？"
+                    "en-US": "Where can find something to pack my clothes for a trip?",
+                    "zh-CN": "在哪里可以找到为旅行打包衣服的东西？",
+                    "zh-HK": "喺邊度可以搵到為旅行打包衫嘅嘢？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -378,9 +378,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you find the backpack in the scene?",
-                    "zh-CN": "你能在场景中找到背包吗？",
-                    "zh-HK": "你可唔可以喺場景中搵到背囊啊？"
+                    "en-US": "Where can I put my things and carry them while walking around?",
+                    "zh-CN": "我可以把我的东西放在哪里，并在走动时携带它们？",
+                    "zh-HK": "我可以將我嘅嘢放喺邊度，並喺走動時攜帶它們？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -391,9 +391,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Please find the location of the couch.",
-                    "zh-CN": "请找到沙发的位置。",
-                    "zh-HK": "請搵到梳化嘅位置。"
+                    "en-US": "Where can I lounge and watch TV?",
+                    "zh-CN": "我可以在哪里休息和看电视？",
+                    "zh-HK": "我可以喺邊度休息同睇电视？"
                 },
                 "answer": {
                     "en-US": "center",

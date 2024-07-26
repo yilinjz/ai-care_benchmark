@@ -5,9 +5,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you locate the spoon in the scene?",
-                    "zh-CN": "你能在场景中找到勺子吗？",
-                    "zh-HK": "你可以喺房入面搵到勺嗎?"
+                    "en-US": "Where can I find something to eat my soup with?",
+                    "zh-CN": "在哪里可以找到喝汤的东西？",
+                    "zh-HK": "喺邊度可以搵到飲湯嘅嘢？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -18,9 +18,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you please locate the bottle?",
-                    "zh-CN": "你能找到瓶子吗？",
-                    "zh-HK": "你可唔可以搵到瓶子啊？"
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -31,9 +31,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you direct me to the location of the cup?",
-                    "zh-CN": "你能把我引向杯子的位置吗？",
-                    "zh-HK": "你能把我引向杯的位置嗎？"
+                    "en-US": "Where can I pour my coffee or tea? ",
+                    "zh-CN": "我可以把咖啡或茶倒在哪里？",
+                    "zh-HK": "我可以將咖啡或茶倒喺邊度？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -44,9 +44,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Where is the oven in relation to my current position?",
-                    "zh-CN": "相对于我当前位置，烤箱在哪里？",
-                    "zh-HK": "相對于我當前位置，焗爐喺邊度？"
+                    "en-US": "Where can I bake a cake or roast a chicken? ",
+                    "zh-CN": "哪里可以烤蛋糕或烤鸡？",
+                    "zh-HK": "邊度可以烤蛋糕或烤雞？"
                 },
                 "answer": {
                     "en-US": "down and left",
@@ -62,9 +62,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Could you point out the location of the bottle to me?",
-                    "zh-CN": "你能给我指出瓶子的位置吗？",
-                    "zh-HK": "你可唔可以畀我指出瓶子嘅位置啊？"
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -75,9 +75,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you find the sink in the scene?",
-                    "zh-CN": "你能在场景中找到水槽吗？",
-                    "zh-HK": "你可唔可以喺場景中搵到水槽啊？"
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -88,9 +88,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "In which direction is the oven from my current position?",
-                    "zh-CN": "烤箱在我当前位置的什么方向?",
-                    "zh-HK": "焗爐由我而家嘅位置喺邊個方向？"
+                    "en-US": "Where can I bake a cake or roast a chicken? ",
+                    "zh-CN": "哪里可以烤蛋糕或烤鸡？",
+                    "zh-HK": "邊度可以烤蛋糕或烤雞？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -101,9 +101,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Could you identify where the refrigerator is?",
-                    "zh-CN": "你能确定电冰箱在哪里吗？",
-                    "zh-HK": "你能肯定電冰箱喺邊度呀？"
+                    "en-US": "Where can I store my perishable food items?",
+                    "zh-CN": "易腐食品可以存放在哪里？",
+                    "zh-HK": "易腐食品可以存放喺邊度？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -119,9 +119,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Could you identify where the microwave is?",
-                    "zh-CN": "你能确定微波炉在哪里吗？",
-                    "zh-HK": "你能肯定微波爐喺邊度呀？"
+                    "en-US": "Where can I quickly heat up my food? ",
+                    "zh-CN": "哪里可以快速加热食物？",
+                    "zh-HK": "邊度可以快速加熱食物？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -132,9 +132,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From my current position, which way is the cup?",
-                    "zh-CN": "从我目前的位置来看，杯子是哪个方向？",
-                    "zh-HK": "從我目前的位置來看，杯是邊個方向？"
+                    "en-US": "Where can I pour my coffee or tea? ",
+                    "zh-CN": "我可以把咖啡或茶倒在哪里？",
+                    "zh-HK": "我可以將咖啡或茶倒喺邊度？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -145,9 +145,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "What is the position of the nearest knife relative to me?",
-                    "zh-CN": "离我最近的刀的位置是什么？",
-                    "zh-HK": "離我最近嘅刀嘅位置係乜嘢？"
+                    "en-US": "Where can I find something to cut my food with?",
+                    "zh-CN": "哪里可以找到切食物的工具？",
+                    "zh-HK": "邊度可以搵到切食物嘅工具？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -158,9 +158,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Where is the oven in relation to my current position?",
-                    "zh-CN": "相对于我当前位置，烤箱在哪里？",
-                    "zh-HK": "相對于我當前位置，焗爐喺邊度？"
+                    "en-US": "Where can I bake a cake or roast a chicken? ",
+                    "zh-CN": "哪里可以烤蛋糕或烤鸡？",
+                    "zh-HK": "邊度可以烤蛋糕或烤雞？"
                 },
                 "answer": {
                     "en-US": "down",
@@ -176,9 +176,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "From my current position, which way is the bottle?",
-                    "zh-CN": "从我目前的位置来看，瓶子是哪个方向？",
-                    "zh-HK": "從我目前的位置來看，瓶子是邊個方向？"
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -189,9 +189,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where is the bowl that is closest to me?",
-                    "zh-CN": "离我最近的碗在哪里？",
-                    "zh-HK": "離我最近嘅碗喺邊度？"
+                    "en-US": "Where can I put my cereal or soup? ",
+                    "zh-CN": "我可以把麦片或汤放在哪里？",
+                    "zh-HK": "我可以將麥片或湯放喺邊度？"
                 },
                 "answer": {
                     "en-US": "right",
@@ -202,9 +202,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Could you show me where the sink is?",
-                    "zh-CN": "你能告诉我水槽在哪里吗？",
-                    "zh-HK": "你可唔可以話我水槽喺邊度啊？"
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -215,9 +215,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Where is the spoon in relation to my current position?",
-                    "zh-CN": "相对于我当前位置，勺子在哪里？",
-                    "zh-HK": "相對于我當前位置，勺喺邊度？"
+                    "en-US": "Where can I find something to eat my soup with?",
+                    "zh-CN": "在哪里可以找到喝汤的东西？",
+                    "zh-HK": "喺邊度可以搵到飲湯嘅嘢？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -233,9 +233,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Could you point out the location of the person to me?",
-                    "zh-CN": "你能给我指出人的位置吗？",
-                    "zh-HK": "你可唔可以畀我指出人嘅位置啊？"
+                    "en-US": "Is there someone nearby?",
+                    "zh-CN": "附近有人吗？",
+                    "zh-HK": "附近有人嗎？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -246,9 +246,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Please find the location of the refrigerator.",
-                    "zh-CN": "请找到电冰箱的位置。",
-                    "zh-HK": "請搵到電冰箱嘅位置。"
+                    "en-US": "Where can I store my perishable food items?",
+                    "zh-CN": "易腐食品可以存放在哪里？",
+                    "zh-HK": "易腐食品可以存放喺邊度？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -259,9 +259,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you direct me to the location of the bottle?",
-                    "zh-CN": "你能把我引向瓶子的位置吗？",
-                    "zh-HK": "你能把我引向瓶子的位置嗎？"
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -272,9 +272,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "In which direction is the oven from my current position?",
-                    "zh-CN": "烤箱在我当前位置的什么方向?",
-                    "zh-HK": "焗爐由我而家嘅位置喺邊個方向？"
+                    "en-US": "Where can I bake a cake or roast a chicken? ",
+                    "zh-CN": "哪里可以烤蛋糕或烤鸡？",
+                    "zh-HK": "邊度可以烤蛋糕或烤雞？"
                 },
                 "answer": {
                     "en-US": "down and right",
@@ -290,9 +290,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you find the banana in the scene?",
-                    "zh-CN": "你能在场景中找到香蕉吗？",
-                    "zh-HK": "你可唔可以喺場景中搵到香蕉啊？"
+                    "en-US": "Where can I find a quick, healthy snack?",
+                    "zh-CN": "在哪里可以找到快速、健康的零食？",
+                    "zh-HK": "喺邊度可以搵到快速、健康嘅零食？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -303,9 +303,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Are you able to locate the refrigerator in the scene?",
-                    "zh-CN": "你能在场景中找到电冰箱吗？",
-                    "zh-HK": "你可唔可以喺場景中搵到電冰箱啊？"
+                    "en-US": "Where can I get iced coke?",
+                    "zh-CN": "我在哪里可以拿到冰镇可乐？",
+                    "zh-HK": "我喺邊度可以拿到雪藏可樂？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -316,9 +316,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Are you able to locate the chair in the scene?",
-                    "zh-CN": "你能在场景中找到椅子吗？",
-                    "zh-HK": "你可唔可以喺場景中搵到椅子啊？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
                     "en-US": "down",
@@ -329,9 +329,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Are you able to locate the sink in the scene?",
-                    "zh-CN": "你能在场景中找到水槽吗？",
-                    "zh-HK": "你可唔可以喺場景中搵到水槽啊？"
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
                     "en-US": "right",

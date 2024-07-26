@@ -5,9 +5,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where is the toothbrush in relation to my current position?",
-                    "zh-CN": "相对于我当前位置，牙刷在哪里？",
-                    "zh-HK": "相對于我當前位置，牙刷喺邊度？"
+                    "en-US": "Where can I clean my teeth?",
+                    "zh-CN": "我在哪里可以清洁牙齿？",
+                    "zh-HK": "我喺邊度可以清潔牙齒？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -18,9 +18,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From my current position, which way is the toilet?",
-                    "zh-CN": "从我目前的位置来看，马桶是哪个方向？",
-                    "zh-HK": "從我目前的位置來看，馬桶是邊個方向？"
+                    "en-US": "Where can I go to relieve myself?",
+                    "zh-CN": "我可以去哪里解手？",
+                    "zh-HK": "我可以去邊度解手？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -31,9 +31,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you tell me the direction of the sink from my current location?",
-                    "zh-CN": "你能告诉我水槽相对于我当前位置的方向吗？",
-                    "zh-HK": "你能告訴我水槽相對于我當前位置的方向嗎？"
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -44,9 +44,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Can you point out the cup in the scene?",
-                    "zh-CN": "你能指出场景中的杯子吗？",
-                    "zh-HK": "你可唔可以指出場景中嘅杯啊？"
+                    "en-US": "Where can I pour my coffee or tea? ",
+                    "zh-CN": "我可以把咖啡或茶倒在哪里？",
+                    "zh-HK": "我可以將咖啡或茶倒喺邊度？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -62,9 +62,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you show me where the toothbrush is?",
-                    "zh-CN": "你能告诉我牙刷在哪里吗？",
-                    "zh-HK": "你可唔可以話我牙刷喺邊度啊？"
+                    "en-US": "Where can I clean my teeth?",
+                    "zh-CN": "我在哪里可以清洁牙齿？",
+                    "zh-HK": "我喺邊度可以清潔牙齒？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -75,9 +75,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Can you direct me to the location of the sink?",
-                    "zh-CN": "你能把我引向水槽的位置吗？",
-                    "zh-HK": "你能把我引向水槽的位置嗎？"
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -88,9 +88,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you direct me to the location of the toilet?",
-                    "zh-CN": "你能把我引向马桶的位置吗？",
-                    "zh-HK": "你能把我引向馬桶的位置嗎？"
+                    "en-US": "Where can I go to relieve myself?",
+                    "zh-CN": "我可以去哪里解手？",
+                    "zh-HK": "我可以去邊度解手？"
                 },
                 "answer": {
                     "en-US": "down and left",
@@ -101,9 +101,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Can you direct me to the location of the bottle?",
-                    "zh-CN": "你能把我引向瓶子的位置吗？",
-                    "zh-HK": "你能把我引向瓶子的位置嗎？"
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -119,9 +119,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you guide me to where the toilet is located?",
-                    "zh-CN": "你能引导我到马桶的位置吗？",
-                    "zh-HK": "你能引導我到馬桶的位置嗎？"
+                    "en-US": "Where can I go to relieve myself?",
+                    "zh-CN": "我可以去哪里解手？",
+                    "zh-HK": "我可以去邊度解手？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -132,9 +132,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "What is the position of the nearest sink relative to me?",
-                    "zh-CN": "离我最近的水槽的位置是什么？",
-                    "zh-HK": "離我最近嘅水槽嘅位置係乜嘢？"
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -145,9 +145,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Could you guide me to the position of the bottle?",
-                    "zh-CN": "你可以引导我去到瓶子的位置嗎?",
-                    "zh-HK": "你可以引導我去到瓶子嘅位置嗎？"
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -158,9 +158,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Is the person visible in the scene?",
-                    "zh-CN": "人在场景中是否可见？",
-                    "zh-HK": "人在場景中是否可見？"
+                    "en-US": "Is there someone nearby?",
+                    "zh-CN": "附近有人吗？",
+                    "zh-HK": "附近有人嗎？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -176,9 +176,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you please locate the bottle?",
-                    "zh-CN": "你能找到瓶子吗？",
-                    "zh-HK": "你可唔可以搵到瓶子啊？"
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -189,9 +189,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Please find the location of the toothbrush.",
-                    "zh-CN": "请找到牙刷的位置。",
-                    "zh-HK": "請搵到牙刷嘅位置。"
+                    "en-US": "Where can I clean my teeth?",
+                    "zh-CN": "我在哪里可以清洁牙齿？",
+                    "zh-HK": "我喺邊度可以清潔牙齒？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -202,9 +202,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Could you point out the location of the sink to me?",
-                    "zh-CN": "你能给我指出水槽的位置吗？",
-                    "zh-HK": "你可唔可以畀我指出水槽嘅位置啊？"
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -215,9 +215,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Please tell me where the toilet is.",
-                    "zh-CN": "请告诉我马桶在哪里。",
-                    "zh-HK": "請告訴我馬桶喺邊度。"
+                    "en-US": "Where can I go to relieve myself?",
+                    "zh-CN": "我可以去哪里解手？",
+                    "zh-HK": "我可以去邊度解手？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -233,9 +233,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Can you tell me the location of the closest toilet to me?",
-                    "zh-CN": "你能告诉我离我最近的马桶的位置吗？",
-                    "zh-HK": "你可唔可以話我离我最近嘅馬桶嘅位置啊？"
+                    "en-US": "Where can I go to relieve myself?",
+                    "zh-CN": "我可以去哪里解手？",
+                    "zh-HK": "我可以去邊度解手？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -246,9 +246,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "From my current position, which way is the bottle?",
-                    "zh-CN": "从我目前的位置来看，瓶子是哪个方向？",
-                    "zh-HK": "從我目前的位置來看，瓶子是邊個方向？"
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -259,9 +259,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you tell me the direction of the sink from my current location?",
-                    "zh-CN": "你能告诉我水槽相对于我当前位置的方向吗？",
-                    "zh-HK": "你能告訴我水槽相對于我當前位置的方向嗎？"
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -272,9 +272,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Where is the toothbrush in relation to my current position?",
-                    "zh-CN": "相对于我当前位置，牙刷在哪里？",
-                    "zh-HK": "相對于我當前位置，牙刷喺邊度？"
+                    "en-US": "Where can I clean my teeth?",
+                    "zh-CN": "我在哪里可以清洁牙齿？",
+                    "zh-HK": "我喺邊度可以清潔牙齒？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -290,9 +290,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Please find the location of the cup.",
-                    "zh-CN": "请找到杯子的位置。",
-                    "zh-HK": "請搵到杯嘅位置。"
+                    "en-US": "Where can I pour my coffee or tea? ",
+                    "zh-CN": "我可以把咖啡或茶倒在哪里？",
+                    "zh-HK": "我可以將咖啡或茶倒喺邊度？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -303,9 +303,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Are you able to locate the toothbrush in the scene?",
-                    "zh-CN": "你能在场景中找到牙刷吗？",
-                    "zh-HK": "你可唔可以喺場景中搵到牙刷啊？"
+                    "en-US": "Where can I clean my teeth?",
+                    "zh-CN": "我在哪里可以清洁牙齿？",
+                    "zh-HK": "我喺邊度可以清潔牙齒？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -316,9 +316,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Could you point out the location of the sink to me?",
-                    "zh-CN": "你能给我指出水槽的位置吗？",
-                    "zh-HK": "你可唔可以畀我指出水槽嘅位置啊？"
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -329,9 +329,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Can you please locate the bottle?",
-                    "zh-CN": "你能找到瓶子吗？",
-                    "zh-HK": "你可唔可以搵到瓶子啊？"
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -347,9 +347,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "What is the position of the nearest cup relative to me?",
-                    "zh-CN": "离我最近的杯子的位置是什么？",
-                    "zh-HK": "離我最近嘅杯嘅位置係乜嘢？"
+                    "en-US": "Where can I pour my coffee or tea? ",
+                    "zh-CN": "我可以把咖啡或茶倒在哪里？",
+                    "zh-HK": "我可以將咖啡或茶倒喺邊度？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -360,9 +360,9 @@
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Which way should I look to find the sink from here?",
-                    "zh-CN": "我应该从这里往哪个方向寻找水槽？",
-                    "zh-HK": "我應該從這裡往哪個方向尋找水槽？"
+                    "en-US": "Where can I wash my hands or dishes? ",
+                    "zh-CN": "我可以在哪里洗手或洗碗？",
+                    "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
                     "en-US": "center",
@@ -373,9 +373,9 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Can you guide me to where the bottle is located?",
-                    "zh-CN": "你能引导我到瓶子的位置吗？",
-                    "zh-HK": "你能引導我到瓶子的位置嗎？"
+                    "en-US": "Where can I get something to hold my drink?",
+                    "zh-CN": "在哪里可以买到盛饮料的东西？",
+                    "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
                     "en-US": "left",
@@ -386,9 +386,9 @@
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Where is the closest toilet in relation to me?",
-                    "zh-CN": "离我最近的马桶在哪里?",
-                    "zh-HK": "離我最近嘅馬桶喺邊度？"
+                    "en-US": "Where can I go to relieve myself?",
+                    "zh-CN": "我可以去哪里解手？",
+                    "zh-HK": "我可以去邊度解手？"
                 },
                 "answer": {
                     "en-US": "down and left",
