@@ -30,7 +30,7 @@ for i, scene_id in enumerate(scene_ids):
         ### QUESTION ###
         qa_object['qid'] = str(j)
         qa_object['question'] = {}
-        question = generate_questions(question_pool, item, language_list)
+        question = generate_questions(question_pool, item)
         for language in language_list:
             qa_object['question'][language.value] = question[language]
 

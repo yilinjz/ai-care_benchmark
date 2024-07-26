@@ -52,11 +52,8 @@ def generate_open_questions(question_pool):
     ]
 
 # pick question from pool
-def generate_questions(question_pool, item, language_list):
-    question = copy.deepcopy(random.choice(question_pool))
-    for language in language_list:
-        question[language] = question[language].replace('[dt]', translate_word(item, language))
-    return question
+def generate_questions(question_pool, item):
+    return random.choice(question_pool[item])
     
 def generate_questions_with_item_pair(question_pool, item_pair, language_list):
     question = copy.deepcopy(random.choice(question_pool))

@@ -95,7 +95,7 @@ WORD_DICTIONARY = {
         LANGUAGE.ZH_CN: "稍微偏右",
         LANGUAGE.ZH_HK: "稍微偏右",
     },
-    # ===== YoloV8 Class IDs =====
+    # ===== YoloV8 Class IDs ===== #
     "person": {
         LANGUAGE.EN_US: "person",
         LANGUAGE.ZH_CN: "人",
