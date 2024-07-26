@@ -34,7 +34,7 @@ def calculate_score(result_path):
             for qa_pair in scene['qa_pairs']:
                 total_count += 1
                 answers = json.loads(qa_pair['answer'][language.value])
-                for i, answer in answers:
+                for i, answer in enumerate(answers):
                     answers[i].replace(" ", "")
                 result = qa_pair['result'][language.value].replace(" ", "")
                 print(result)
