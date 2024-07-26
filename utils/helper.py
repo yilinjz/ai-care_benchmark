@@ -82,7 +82,7 @@ def calculate_score(result_path, category_tag, tested_languages):
                     result = qa_pair['result'][language.value].replace(" ", "")
                     if result == answer:
                         correct_count += 1
-                elif category_tag == SUBTASK.QUESTION_GENERATION:
+                elif category_tag == SUBTASK.SEMANTIC_MATCHING:
                     answers = json.loads(qa_pair['answer'][language.value])
                     for i, answer in enumerate(answers):
                         answers[i] = answer.replace(" ", "")

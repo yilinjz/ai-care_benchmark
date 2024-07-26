@@ -33,7 +33,7 @@ def cmd_agent():
 
     ### loops through list of benchmark files
     for benchmark_name in benchmark_list:
-
+        print(benchmark_name)
         if SUBTASK.OBJECT_DETECTION.value in benchmark_name:
              category_tag = SUBTASK.OBJECT_DETECTION
         elif SUBTASK.SEMANTIC_MATCHING.value in benchmark_name:
@@ -58,7 +58,6 @@ def cmd_agent():
                     path_to_instruction = f"benchmark/prompt/{get_instruction_prompt_type(benchmark_name)}.json"
                     system_prompt = json.load(open(path_to_instruction, encoding="utf8"))[language.value]
                     # run inferance
-                    print(benchmark_name)
                     data[i]['qa_pairs'][j]['result'][language.value] = ai_agent_remote(
                         question=question,
                         context=context,
