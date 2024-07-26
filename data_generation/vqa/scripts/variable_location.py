@@ -488,6 +488,191 @@ question_pool = {
 
 ### ========== VARIABLE ========== ###
 
+scene_tags = [
+    "bathroom",
+    "bedroom",
+    "dining_room",
+    "doorway",
+    "kitchen",
+    "living_room",
+    "playroom",
+    "lobby",
+    "meeting_room",
+    "pantry",
+    "workstation",
+    "bookstore",
+    "classroom",
+    "coffee_shop",
+    "computer_lab",
+    "dorm"
+]
+
+frame_nums_by_scene = {
+    "bathroom": [44, 49, 170, 500, 505, 509, 656],
+    "bedroom": [70, 176, 178, 181, 281, 401, 525, 946],
+    "dining_room": [54, 746, 757, 783, 824, 852, 879, 880, 1436],
+    "doorway": [53, 251, 262, 263, 459, 460, 485, 562, 564],
+    "kitchen": [138, 139, 199, 203, 204, 253, 560, 849],
+    "living_room": [50, 156, 166, 200, 201, 261, 350, 356, 583, 1304],
+    "playroom": [425, 426, 428, 437, 1081, 1084, 1157, 1203],
+    "lobby": [9, 36, 619, 625, 1251, 1253],
+    "meeting_room": [5, 27, 39, 341],
+    "pantry": [1, 410, 412, 415, 417],
+    "workstation": [4, 23, 371, 388, 393, 453, 455, 474],
+    "bookstore": [88, 89, 91, 112, 119],
+    "classroom": [297, 301, 323, 325, 326],
+    "coffee_shop": [120, 122, 123, 223, 225, 228, 238, 244],
+    "computer_lab": [272, 279, 333, 335, 337, 338],
+    "dorm": [128, 130, 131, 143, 267, 569],
+}
+
+item_lists_by_scene = {
+    "bathroom": [
+        ['toothbrush', 'toilet', 'sink', 'cup'],
+        ['toothbrush', 'sink', 'toilet', 'bottle'],
+        ['toilet', 'sink', 'bottle', 'person'],
+        ['bottle', 'toothbrush', 'sink', 'toilet'],
+        ['toilet', 'bottle', 'sink', 'toothbrush'],
+        ['cup', 'toothbrush', 'sink', 'bottle'],
+        ['cup', 'sink', 'bottle', 'toilet']
+    ],
+    "bedroom": [
+        ['bed', 'vase', 'potted plant', 'dog'],
+        ['backpack', 'book', 'bed', 'handbag'],
+        ['couch', 'bed', 'chair', 'backpack'],
+        ['keyboard', 'remote', 'tv', 'book'],
+        ['bed', 'teddy bear', 'chair', 'cup'],
+        ['bed', 'teddy bear', 'chair'],
+        ['laptop', 'dining table', 'bed', 'backpack'],
+        ['bed', 'chair', 'tv', 'mouse']
+    ],
+    "dining_room": [
+        ['laptop', 'chair', 'book', 'bottle'], 
+        ['toaster', 'bottle', 'chair', 'microwave'],
+        ['dining table', 'chair', 'tv', 'sink'],
+        ['bottle', 'cup', 'bowl', 'backpack'],
+        ['bowl', 'refrigerator', 'potted plant', 'chair'],
+        ['banana', 'dining table', 'bowl', 'sink'],
+        ['chair', 'vase', 'tv', 'dining table'],
+        ['microwave', 'oven', 'dining table', 'chair'],
+        ['dining table', 'chair', 'vase', 'potted plant']
+    ],
+    "doorway": [
+        ['microwave', 'wine glass', 'book', 'bowl'], 
+        ['refrigerator', 'sink', 'oven', 'couch'],
+        ['vase', 'tv', 'book', 'potted plant'],
+        ['chair', 'microwave', 'refrigerator', 'cup'],
+        ['potted plant', 'chair', 'tv', 'dining table'],
+        ['potted plant', 'chair', 'vase'],
+        ['tv', 'couch', 'keyboard', 'book'],
+        ['person', 'microwave', 'oven', 'refrigerator'],
+        ['person', 'dog', 'sink', 'bowl']
+    ],
+    "kitchen": [
+        ['sink', 'bowl', 'microwave', 'oven'], 
+        ['microwave', 'knife', 'bowl', 'bottle'],
+        ['cup', 'bowl', 'oven', 'knife'],
+        ['sink', 'microwave', 'oven', 'cup'],
+        ['refrigerator', 'bowl', 'wine glass', 'toothbrush'],
+        ['refrigerator', 'bottle', 'microwave', 'sink'],
+        ['microwave', 'sink', 'bottle'],
+        ['toaster', 'bowl', 'sink', 'bowl']
+    ],
+    "living_room": [
+        ['couch', 'potted plant', 'book', 'tv'], 
+        ['tv', 'chair', 'remote', 'couch'],
+        ['dining table', 'vase', 'chair', 'handbag'],
+        ['tv', 'bottle', 'chair', 'cup'],
+        ['couch', 'tv', 'dining table', 'book'],
+        ['laptop', 'clock', 'bowl', 'potted plant'],
+        ['potted plant', 'chair', 'bicycle', 'keyboard'],
+        ['couch', 'book', 'potted plant', 'tv'],
+        ['backpack', 'couch', 'remote', 'tv'],
+        ['couch', 'vase', 'book', 'chair']
+    ],
+    "playroom": [
+        ['sports ball', 'backpack', 'chair'],
+        ['couch', 'tv', 'sports ball', 'chair'],
+        ['suitcase', 'dining table', 'couch', 'chair'],
+        ['teddy bear', 'tv', 'chair'],
+        ['bed', 'book', 'chair'],
+        ['chair', 'book', 'remote', 'tv'],
+        ['chair', 'backpack', 'teddy bear', 'bed'],
+        ['suitcase', 'backpack', 'couch']
+    ],
+    "lobby": [
+        ['refrigerator', 'tv', 'bottle', 'chair'],
+        ['couch', 'clock', 'dining table', 'chair'],
+        ['potted plant', 'couch', 'vase'],
+        ['chair', 'backpack', 'bottle', 'microwave'],
+        ['couch', 'book', 'tv'],
+        ['potted plant', 'book', 'couch']
+    ],
+    "meeting_room": [
+        ['dining table', 'chair'],
+        ['chair', 'dining table', 'bottle'],
+        ['chair', 'dining table'],
+        ['potted plant', 'chair', 'dining table']
+    ],
+    "pantry": [
+        ['refrigerator', 'chair', 'microwave', 'sink'],
+        ['sink', 'bottle', 'cup', 'microwave'],
+        ['dining table', 'toaster', 'clock', 'sink'],
+        ['cup', 'chair', 'refrigerator', 'dining table'],
+        ['cell phone', 'handbag', 'chair', 'sink']
+    ],
+    "workstation": [
+        ['bottle', 'cup', 'laptop', 'chair'],
+        ['clock', 'book', 'chair', 'laptop'],
+        ['laptop', 'book', 'cup', 'keyboard'],
+        ['handbag', 'tv', 'book', 'chair'],
+        ['chair', 'laptop', 'remote', 'backpack'],
+        ['book', 'chair', 'clock'],
+        ['potted plant', 'keyboard', 'tv', 'chair'],
+        ['couch', 'book', 'chair', 'dining table']
+    ],
+    "bookstore": [
+        ['clock', 'book'],
+        ['book', 'bottle'],
+        ['suitcase', 'backpack', 'person'],
+        ['laptop', 'mouse', 'tv', 'book'],
+        ['dining table', 'chair', 'book']
+    ],
+    "classroom": [
+        ['laptop', 'backpack', 'dining table', 'book'],
+        ['chair', 'dining table', 'tv', 'keyboard'],
+        ['chair', 'dining table', 'book', 'teddy bear'],
+        ['chair', 'couch'],
+        ['chair', 'bottle', 'sink', 'dining table']
+    ],
+    "coffee_shop": [
+        ['potted plant', 'dining table', 'chair', 'bench'],
+        ['vase', 'bottle', 'toaster', 'potted plant'],
+        ['person', 'toaster'],
+        ['chair', 'couch', 'dining table'],
+        ['person', 'cup', 'bottle', 'chair'],
+        ['bowl', 'chair', 'dining table'],
+        ['chair', 'bowl', 'person', 'dining table'],
+        ['couch', 'laptop', 'person', 'dining table']
+    ],
+    "computer_lab": [
+        ['chair', 'keyboard', 'tv', 'mouse'],
+        ['tv', 'keyboard', 'chair'],
+        ['keyboard', 'mouse', 'tv'],
+        ['keyboard', 'chair', 'tv'],
+        ['tv', 'keyboard', 'chair'],
+        ['book', 'keyboard', 'mouse']
+    ],
+    "dorm": [
+        ['spoon', 'bottle', 'cup', 'oven'],
+        ['bottle', 'sink', 'oven', 'refrigerator'],
+        ['microwave', 'cup', 'knife', 'oven'],
+        ['bottle', 'bowl', 'sink', 'spoon'],
+        ['person', 'refrigerator', 'bottle', 'oven'],
+        ['banana', 'refrigerator', 'chair', 'sink']
+    ]
+}
+
 # ========== bathroom ========== #
 # scene_tag = "bathroom" # change
 # frame_num = [44, 49, 170, 500, 505, 509, 656] # change

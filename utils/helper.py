@@ -1,5 +1,6 @@
 import random
 import copy
+from collections import Counter
 
 from utils.dictionary import WORD_DICTIONARY
 
@@ -65,59 +66,17 @@ def generate_questions_with_item_pair(question_pool, item_pair, language_list):
     return question
 
 def generate_location_answers(context, item):
-    orientation = None
+    candidate_pool = []
+
     for obj in context:
         if obj['TEXT'] == item:
-            orientation = obj['ORIENTATION']
-    if not orientation:
+            candidate_pool.append(obj['ORIENTATION'].replace('slightly-', ''))
+    if not candidate_pool:
         print(context)
         print(item)
         raise ValueError("Item Not Found In Context!")
     
-    orientation = orientation.split()
-    x_axis, y_axis = None, None
-    for direction in orientation:
-        if direction == 'up':
-            y_axis = 1
-        elif direction == 'down':
-            y_axis = -1
-        elif direction == 'slightly-up' or direction == 'slightly-down':
-            y_axis = 0
-        elif direction == 'left':
-            x_axis = -1
-        elif direction == 'right':
-            x_axis = 1
-        elif direction == 'slightly-left' or direction == 'slightly-right':
-            x_axis = 0
-        else:
-            continue
-
-    if x_axis == None and y_axis == None:
-        print(orientation)
-        raise ValueError("Cannot Decide Direction!")
-    elif x_axis == None:
-        x_axis = 0
-    elif y_axis == None:
-        y_axis = 0
-    
-    if x_axis == -1 and y_axis == -1:
-        return WORD_DICTIONARY['down and left']
-    elif x_axis == -1 and y_axis == 0:
-        return WORD_DICTIONARY['left']
-    elif x_axis == -1 and y_axis == 1:
-        return WORD_DICTIONARY['up and left']
-    elif x_axis == 0 and y_axis == -1:
-        return WORD_DICTIONARY['down']
-    elif x_axis == 0 and y_axis == 0:
-        return WORD_DICTIONARY['center']
-    elif x_axis == 0 and y_axis == 1:
-        return WORD_DICTIONARY['up']
-    elif x_axis == 1 and y_axis == -1:
-        return WORD_DICTIONARY['down and right']
-    elif x_axis == 1 and y_axis == 0:
-        return WORD_DICTIONARY['right']
-    elif x_axis == 1 and y_axis == 1:
-        return WORD_DICTIONARY['up and right']
-    else:
-        return ValueError("Cannot Decide Quadrant!")
+    counts = Counter(candidate_pool)
+    answer = max(counts, key=counts.get)
+    return WORD_DICTIONARY[answer]
     

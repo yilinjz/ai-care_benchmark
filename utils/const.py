@@ -1,7 +1,7 @@
 ##### MODEL ID #####
 
-# model_id = 'llama3'
-model_id = 'llama3:70b'
+model_id = 'llama3'
+# model_id = 'llama3:70b'
 # model_id = 'mistral'
 # model_id = 'gemma2'
 

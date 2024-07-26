@@ -10,22 +10,22 @@
                     "zh-HK": "我喺邊度可以拿到雪藏可樂？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
                 }
             },
             {
                 "qid": "1",
                 "question": {
-                    "en-US": "Where can I sit down comfortably?",
-                    "zh-CN": "我可以在哪里舒服地坐下来？",
-                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
-                    "en-US": "down",
-                    "zh-CN": "下",
-                    "zh-HK": "下"
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
                 }
             },
             {
@@ -36,9 +36,9 @@
                     "zh-HK": "邊度可以快速加熱食物？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
                 }
             },
             {
@@ -49,9 +49,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
                 }
             }
         ]
@@ -67,9 +67,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
                 }
             },
             {
@@ -93,9 +93,9 @@
                     "zh-HK": "我可以將咖啡或茶倒喺邊度？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
                 }
             },
             {
@@ -106,9 +106,9 @@
                     "zh-HK": "邊度可以快速加熱食物？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
                 }
             }
         ]
@@ -124,9 +124,9 @@
                     "zh-HK": "我可以坐喺邊度用餐？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
                 }
             },
             {
@@ -137,9 +137,9 @@
                     "zh-HK": "怎樣才能令麵包變脆？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "up",
+                    "zh-CN": "上",
+                    "zh-HK": "上"
                 }
             },
             {
@@ -163,9 +163,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
                 }
             }
         ]
@@ -181,9 +181,9 @@
                     "zh-HK": "我可以將咖啡或茶倒喺邊度？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
                 }
             },
             {
@@ -194,9 +194,9 @@
                     "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
                 }
             },
             {
@@ -207,9 +207,9 @@
                     "zh-HK": "我喺邊度可以拿到雪藏可樂？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
                 }
             },
             {
@@ -220,9 +220,9 @@
                     "zh-HK": "我可以坐喺邊度用餐？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "up and left",
+                    "zh-CN": "左上",
+                    "zh-HK": "左上"
                 }
             }
         ]
@@ -259,14 +259,14 @@
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where can I sit down comfortably?",
-                    "zh-CN": "我可以在哪里舒服地坐下来？",
-                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
                 }
             },
             {

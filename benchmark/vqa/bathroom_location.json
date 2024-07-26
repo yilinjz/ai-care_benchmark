@@ -10,9 +10,9 @@
                     "zh-HK": "我喺邊度可以清潔牙齒？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
                 }
             },
             {
@@ -23,9 +23,9 @@
                     "zh-HK": "我可以去邊度解手？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
                 }
             },
             {
@@ -36,9 +36,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
                 }
             },
             {
@@ -49,9 +49,9 @@
                     "zh-HK": "我可以將咖啡或茶倒喺邊度？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
                 }
             }
         ]
@@ -67,9 +67,9 @@
                     "zh-HK": "我喺邊度可以清潔牙齒？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
                 }
             },
             {
@@ -80,9 +80,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
                 }
             },
             {
@@ -106,9 +106,9 @@
                     "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
                 }
             }
         ]
@@ -124,9 +124,9 @@
                     "zh-HK": "我可以去邊度解手？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
                 }
             },
             {
@@ -137,9 +137,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
                 }
             },
             {
@@ -150,22 +150,22 @@
                     "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
                 }
             },
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Is there someone nearby?",
-                    "zh-CN": "附近有人吗？",
-                    "zh-HK": "附近有人嗎？"
+                    "en-US": "Is someone standing near me?",
+                    "zh-CN": "有人站在我附近吗？",
+                    "zh-HK": "有人企喺我附近啊？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "up and right",
+                    "zh-CN": "右上",
+                    "zh-HK": "右上"
                 }
             }
         ]
@@ -181,9 +181,9 @@
                     "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
                 }
             },
             {
@@ -194,9 +194,9 @@
                     "zh-HK": "我喺邊度可以清潔牙齒？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
                 }
             },
             {
@@ -207,9 +207,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
                 }
             },
             {
@@ -220,9 +220,9 @@
                     "zh-HK": "我可以去邊度解手？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "right",
+                    "zh-CN": "右",
+                    "zh-HK": "右"
                 }
             }
         ]
@@ -238,9 +238,9 @@
                     "zh-HK": "我可以去邊度解手？"
                 },
                 "answer": {
-                    "en-US": "left",
-                    "zh-CN": "左",
-                    "zh-HK": "左"
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
                 }
             },
             {
@@ -251,9 +251,9 @@
                     "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
                 }
             },
             {
@@ -264,9 +264,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "down and right",
+                    "zh-CN": "右下",
+                    "zh-HK": "右下"
                 }
             },
             {
@@ -277,9 +277,9 @@
                     "zh-HK": "我喺邊度可以清潔牙齒？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
                 }
             }
         ]
@@ -308,9 +308,9 @@
                     "zh-HK": "我喺邊度可以清潔牙齒？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
                 }
             },
             {
@@ -321,9 +321,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "down",
+                    "zh-CN": "下",
+                    "zh-HK": "下"
                 }
             },
             {
@@ -334,9 +334,9 @@
                     "zh-HK": "喺邊度可以買到盛飲料嘅嘢？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
                 }
             }
         ]
@@ -352,9 +352,9 @@
                     "zh-HK": "我可以將咖啡或茶倒喺邊度？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "left",
+                    "zh-CN": "左",
+                    "zh-HK": "左"
                 }
             },
             {
@@ -365,9 +365,9 @@
                     "zh-HK": "我可以喺邊度洗手或洗碗？"
                 },
                 "answer": {
-                    "en-US": "center",
-                    "zh-CN": "中间",
-                    "zh-HK": "中間"
+                    "en-US": "down and left",
+                    "zh-CN": "左下",
+                    "zh-HK": "左下"
                 }
             },
             {
