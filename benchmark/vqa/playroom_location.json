@@ -11,8 +11,8 @@
                 },
                 "answer": {
                     "en-US": "[\"right\"]",
-                    "zh-CN": "[\"\\u53f3\"]",
-                    "zh-HK": "[\"\\u53f3\"]"
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
                 }
             },
             {
@@ -24,21 +24,21 @@
                 },
                 "answer": {
                     "en-US": "[\"up and left\"]",
-                    "zh-CN": "[\"\\u5de6\\u4e0a\"]",
-                    "zh-HK": "[\"\\u5de6\\u4e0a\"]"
+                    "zh-CN": "[\"左上\"]",
+                    "zh-HK": "[\"左上\"]"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "I'm tired. Where can I sit down?",
-                    "zh-CN": "我累了。我可以在哪里坐下？",
-                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                    "en-US": "Where can I sit down comfortably?",
+                    "zh-CN": "我可以在哪里舒服地坐下来？",
+                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
                 },
                 "answer": {
                     "en-US": "[\"right\"]",
-                    "zh-CN": "[\"\\u53f3\"]",
-                    "zh-HK": "[\"\\u53f3\"]"
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
                 }
             }
         ]
@@ -55,8 +55,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down and right\"]",
-                    "zh-CN": "[\"\\u53f3\\u4e0b\"]",
-                    "zh-HK": "[\"\\u53f3\\u4e0b\"]"
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
                 }
             },
             {
@@ -68,8 +68,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -81,8 +81,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down and left\"]",
-                    "zh-CN": "[\"\\u5de6\\u4e0b\"]",
-                    "zh-HK": "[\"\\u5de6\\u4e0b\"]"
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
                 }
             },
             {
@@ -94,8 +94,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down\"]",
-                    "zh-CN": "[\"\\u4e0b\"]",
-                    "zh-HK": "[\"\\u4e0b\"]"
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
                 }
             }
         ]
@@ -112,8 +112,8 @@
                 },
                 "answer": {
                     "en-US": "[\"right\"]",
-                    "zh-CN": "[\"\\u53f3\"]",
-                    "zh-HK": "[\"\\u53f3\"]"
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
                 }
             },
             {
@@ -125,8 +125,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -138,8 +138,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\", \"down\"]",
-                    "zh-CN": "[\"\\u5de6\", \"\\u4e0b\"]",
-                    "zh-HK": "[\"\\u5de6\", \"\\u4e0b\"]"
+                    "zh-CN": "[\"左\", \"下\"]",
+                    "zh-HK": "[\"左\", \"下\"]"
                 }
             },
             {
@@ -151,8 +151,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down and left\", \"right\", \"left\", \"down\"]",
-                    "zh-CN": "[\"\\u5de6\\u4e0b\", \"\\u53f3\", \"\\u5de6\", \"\\u4e0b\"]",
-                    "zh-HK": "[\"\\u5de6\\u4e0b\", \"\\u53f3\", \"\\u5de6\", \"\\u4e0b\"]"
+                    "zh-CN": "[\"左下\", \"右\", \"左\", \"下\"]",
+                    "zh-HK": "[\"左下\", \"右\", \"左\", \"下\"]"
                 }
             }
         ]
@@ -169,8 +169,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down and left\"]",
-                    "zh-CN": "[\"\\u5de6\\u4e0b\"]",
-                    "zh-HK": "[\"\\u5de6\\u4e0b\"]"
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
                 }
             },
             {
@@ -182,21 +182,21 @@
                 },
                 "answer": {
                     "en-US": "[\"up and left\"]",
-                    "zh-CN": "[\"\\u5de6\\u4e0a\"]",
-                    "zh-HK": "[\"\\u5de6\\u4e0a\"]"
+                    "zh-CN": "[\"左上\"]",
+                    "zh-HK": "[\"左上\"]"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where can I sit down comfortably?",
-                    "zh-CN": "我可以在哪里舒服地坐下来？",
-                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
                     "en-US": "[\"down\"]",
-                    "zh-CN": "[\"\\u4e0b\"]",
-                    "zh-HK": "[\"\\u4e0b\"]"
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
                 }
             }
         ]
@@ -207,14 +207,14 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where can I lie down for a while?",
-                    "zh-CN": "我可以在哪里躺一会儿？",
-                    "zh-HK": "我可以喺邊度躺一陣？"
+                    "en-US": "Where can I sleep?",
+                    "zh-CN": "我可以在哪里睡觉？",
+                    "zh-HK": "我可以喺邊度瞓覺？"
                 },
                 "answer": {
                     "en-US": "[\"right\"]",
-                    "zh-CN": "[\"\\u53f3\"]",
-                    "zh-HK": "[\"\\u53f3\"]"
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
                 }
             },
             {
@@ -226,8 +226,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down\"]",
-                    "zh-CN": "[\"\\u4e0b\"]",
-                    "zh-HK": "[\"\\u4e0b\"]"
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
                 }
             },
             {
@@ -239,8 +239,8 @@
                 },
                 "answer": {
                     "en-US": "[\"right\", \"left\"]",
-                    "zh-CN": "[\"\\u53f3\", \"\\u5de6\"]",
-                    "zh-HK": "[\"\\u53f3\", \"\\u5de6\"]"
+                    "zh-CN": "[\"右\", \"左\"]",
+                    "zh-HK": "[\"右\", \"左\"]"
                 }
             }
         ]
@@ -251,14 +251,14 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where can I sit down comfortably?",
-                    "zh-CN": "我可以在哪里舒服地坐下来？",
-                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
                     "en-US": "[\"down and left\"]",
-                    "zh-CN": "[\"\\u5de6\\u4e0b\"]",
-                    "zh-HK": "[\"\\u5de6\\u4e0b\"]"
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
                 }
             },
             {
@@ -270,8 +270,8 @@
                 },
                 "answer": {
                     "en-US": "[\"up and left\"]",
-                    "zh-CN": "[\"\\u5de6\\u4e0a\"]",
-                    "zh-HK": "[\"\\u5de6\\u4e0a\"]"
+                    "zh-CN": "[\"左上\"]",
+                    "zh-HK": "[\"左上\"]"
                 }
             },
             {
@@ -283,8 +283,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -296,8 +296,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             }
         ]
@@ -308,14 +308,14 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where can I sit down comfortably?",
-                    "zh-CN": "我可以在哪里舒服地坐下来？",
-                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
+                    "en-US": "I'm tired. Where can I sit down?",
+                    "zh-CN": "我累了。我可以在哪里坐下？",
+                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -327,8 +327,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -340,21 +340,21 @@
                 },
                 "answer": {
                     "en-US": "[\"right\"]",
-                    "zh-CN": "[\"\\u53f3\"]",
-                    "zh-HK": "[\"\\u53f3\"]"
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
                 }
             },
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "Where can I sleep?",
-                    "zh-CN": "我可以在哪里睡觉？",
-                    "zh-HK": "我可以喺邊度瞓覺？"
+                    "en-US": "Where can I lie down for a while?",
+                    "zh-CN": "我可以在哪里躺一会儿？",
+                    "zh-HK": "我可以喺邊度躺一陣？"
                 },
                 "answer": {
                     "en-US": "[\"right\"]",
-                    "zh-CN": "[\"\\u53f3\"]",
-                    "zh-HK": "[\"\\u53f3\"]"
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
                 }
             }
         ]
@@ -371,8 +371,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -384,8 +384,8 @@
                 },
                 "answer": {
                     "en-US": "[\"right\"]",
-                    "zh-CN": "[\"\\u53f3\"]",
-                    "zh-HK": "[\"\\u53f3\"]"
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
                 }
             },
             {
@@ -397,8 +397,8 @@
                 },
                 "answer": {
                     "en-US": "[\"right\"]",
-                    "zh-CN": "[\"\\u53f3\"]",
-                    "zh-HK": "[\"\\u53f3\"]"
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
                 }
             }
         ]

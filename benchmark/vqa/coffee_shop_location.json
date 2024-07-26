@@ -5,14 +5,14 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Where can I find some greenery indoors?",
-                    "zh-CN": "在室内哪里可以找到绿色植物？",
-                    "zh-HK": "喺室內邊度可以搵到綠色植物？"
+                    "en-US": "I need to water my flowers. Where are they?",
+                    "zh-CN": "我需要给我的花浇水。他们在哪？",
+                    "zh-HK": "我需要畀我嘅花澆水。 佢哋喺邊?"
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -24,8 +24,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -37,8 +37,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down and left\"]",
-                    "zh-CN": "[\"\\u5de6\\u4e0b\"]",
-                    "zh-HK": "[\"\\u5de6\\u4e0b\"]"
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
                 }
             },
             {
@@ -50,8 +50,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down\"]",
-                    "zh-CN": "[\"\\u4e0b\"]",
-                    "zh-HK": "[\"\\u4e0b\"]"
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
                 }
             }
         ]
@@ -68,8 +68,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down and right\"]",
-                    "zh-CN": "[\"\\u53f3\\u4e0b\"]",
-                    "zh-HK": "[\"\\u53f3\\u4e0b\"]"
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
                 }
             },
             {
@@ -81,21 +81,21 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
                 "qid": "2",
                 "question": {
-                    "en-US": "Where can I make my bread crispy?",
-                    "zh-CN": "怎样才能让面包变脆？",
-                    "zh-HK": "怎樣才能令麵包變脆？"
+                    "en-US": "Where can I cook toasted bread?",
+                    "zh-CN": "我在哪里可以做烤面包？",
+                    "zh-HK": "我喺邊度可以做多士？"
                 },
                 "answer": {
                     "en-US": "[\"down and right\"]",
-                    "zh-CN": "[\"\\u53f3\\u4e0b\"]",
-                    "zh-HK": "[\"\\u53f3\\u4e0b\"]"
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
                 }
             },
             {
@@ -107,8 +107,8 @@
                 },
                 "answer": {
                     "en-US": "[\"right\"]",
-                    "zh-CN": "[\"\\u53f3\"]",
-                    "zh-HK": "[\"\\u53f3\"]"
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
                 }
             }
         ]
@@ -119,14 +119,14 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Is there someone nearby?",
-                    "zh-CN": "附近有人吗？",
-                    "zh-HK": "附近有人嗎？"
+                    "en-US": "Is someone standing near me?",
+                    "zh-CN": "有人站在我附近吗？",
+                    "zh-HK": "有人企喺我附近啊？"
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -138,8 +138,8 @@
                 },
                 "answer": {
                     "en-US": "[\"right\"]",
-                    "zh-CN": "[\"\\u53f3\"]",
-                    "zh-HK": "[\"\\u53f3\"]"
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
                 }
             }
         ]
@@ -156,8 +156,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down and left\", \"down and right\"]",
-                    "zh-CN": "[\"\\u5de6\\u4e0b\", \"\\u53f3\\u4e0b\"]",
-                    "zh-HK": "[\"\\u5de6\\u4e0b\", \"\\u53f3\\u4e0b\"]"
+                    "zh-CN": "[\"左下\", \"右下\"]",
+                    "zh-HK": "[\"左下\", \"右下\"]"
                 }
             },
             {
@@ -169,8 +169,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down\"]",
-                    "zh-CN": "[\"\\u4e0b\"]",
-                    "zh-HK": "[\"\\u4e0b\"]"
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
                 }
             },
             {
@@ -182,8 +182,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down\"]",
-                    "zh-CN": "[\"\\u4e0b\"]",
-                    "zh-HK": "[\"\\u4e0b\"]"
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
                 }
             }
         ]
@@ -194,14 +194,14 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "Is someone standing near me?",
-                    "zh-CN": "有人站在我附近吗？",
-                    "zh-HK": "有人企喺我附近啊？"
+                    "en-US": "Is there someone nearby?",
+                    "zh-CN": "附近有人吗？",
+                    "zh-HK": "附近有人嗎？"
                 },
                 "answer": {
                     "en-US": "[\"right\"]",
-                    "zh-CN": "[\"\\u53f3\"]",
-                    "zh-HK": "[\"\\u53f3\"]"
+                    "zh-CN": "[\"右\"]",
+                    "zh-HK": "[\"右\"]"
                 }
             },
             {
@@ -213,8 +213,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -226,21 +226,21 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
                 "qid": "3",
                 "question": {
-                    "en-US": "I'm tired. Where can I sit down?",
-                    "zh-CN": "我累了。我可以在哪里坐下？",
-                    "zh-HK": "我攰喇. 我可以喺邊度坐低？"
+                    "en-US": "Where can I sit down comfortably?",
+                    "zh-CN": "我可以在哪里舒服地坐下来？",
+                    "zh-HK": "我可以喺邊度舒服咁坐落嚟？"
                 },
                 "answer": {
                     "en-US": "[\"down and left\"]",
-                    "zh-CN": "[\"\\u5de6\\u4e0b\"]",
-                    "zh-HK": "[\"\\u5de6\\u4e0b\"]"
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
                 }
             }
         ]
@@ -257,8 +257,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\", \"down\"]",
-                    "zh-CN": "[\"\\u5de6\", \"\\u4e0b\"]",
-                    "zh-HK": "[\"\\u5de6\", \"\\u4e0b\"]"
+                    "zh-CN": "[\"左\", \"下\"]",
+                    "zh-HK": "[\"左\", \"下\"]"
                 }
             },
             {
@@ -270,8 +270,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -283,8 +283,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\", \"down and left\"]",
-                    "zh-CN": "[\"\\u5de6\", \"\\u5de6\\u4e0b\"]",
-                    "zh-HK": "[\"\\u5de6\", \"\\u5de6\\u4e0b\"]"
+                    "zh-CN": "[\"左\", \"左下\"]",
+                    "zh-HK": "[\"左\", \"左下\"]"
                 }
             }
         ]
@@ -301,8 +301,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down\", \"down and right\"]",
-                    "zh-CN": "[\"\\u4e0b\", \"\\u53f3\\u4e0b\"]",
-                    "zh-HK": "[\"\\u4e0b\", \"\\u53f3\\u4e0b\"]"
+                    "zh-CN": "[\"下\", \"右下\"]",
+                    "zh-HK": "[\"下\", \"右下\"]"
                 }
             },
             {
@@ -314,8 +314,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down and left\"]",
-                    "zh-CN": "[\"\\u5de6\\u4e0b\"]",
-                    "zh-HK": "[\"\\u5de6\\u4e0b\"]"
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
                 }
             },
             {
@@ -327,8 +327,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\", \"right\"]",
-                    "zh-CN": "[\"\\u5de6\", \"\\u53f3\"]",
-                    "zh-HK": "[\"\\u5de6\", \"\\u53f3\"]"
+                    "zh-CN": "[\"左\", \"右\"]",
+                    "zh-HK": "[\"左\", \"右\"]"
                 }
             },
             {
@@ -340,8 +340,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down\"]",
-                    "zh-CN": "[\"\\u4e0b\"]",
-                    "zh-HK": "[\"\\u4e0b\"]"
+                    "zh-CN": "[\"下\"]",
+                    "zh-HK": "[\"下\"]"
                 }
             }
         ]
@@ -358,8 +358,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down and right\"]",
-                    "zh-CN": "[\"\\u53f3\\u4e0b\"]",
-                    "zh-HK": "[\"\\u53f3\\u4e0b\"]"
+                    "zh-CN": "[\"右下\"]",
+                    "zh-HK": "[\"右下\"]"
                 }
             },
             {
@@ -371,8 +371,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -384,8 +384,8 @@
                 },
                 "answer": {
                     "en-US": "[\"left\"]",
-                    "zh-CN": "[\"\\u5de6\"]",
-                    "zh-HK": "[\"\\u5de6\"]"
+                    "zh-CN": "[\"左\"]",
+                    "zh-HK": "[\"左\"]"
                 }
             },
             {
@@ -397,8 +397,8 @@
                 },
                 "answer": {
                     "en-US": "[\"down and left\"]",
-                    "zh-CN": "[\"\\u5de6\\u4e0b\"]",
-                    "zh-HK": "[\"\\u5de6\\u4e0b\"]"
+                    "zh-CN": "[\"左下\"]",
+                    "zh-HK": "[\"左下\"]"
                 }
             }
         ]

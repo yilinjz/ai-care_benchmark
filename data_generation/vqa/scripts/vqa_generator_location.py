@@ -46,7 +46,7 @@ for scene_tag in scene_tags:
             qa_object['answer'] = {}
             for language in language_list:
                 answers = [translate_word(candidate, language) for candidate in candidate_pool]
-                qa_object['answer'][language.value] = json.dumps(answers)
+                qa_object['answer'][language.value] = json.dumps(answers, ensure_ascii=False)
             
             qa_pairs.append(qa_object)
 
