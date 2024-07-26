@@ -33,9 +33,13 @@ def calculate_score(result_path):
         for scene in data:
             for qa_pair in scene['qa_pairs']:
                 total_count += 1
-                answer = qa_pair['answer'][language.value].replace(" ", "")
+                answers = json.loads(qa_pair['answer'][language.value])
+                for i, answer in answers:
+                    answers[i].replace(" ", "")
                 result = qa_pair['result'][language.value].replace(" ", "")
-                if answer == result:
+                print(result)
+                print(answers)
+                if result in answers:
                     correct_count += 1
         print(f"LANGUAGE: {language.value} | CORRECT: {correct_count} | TOTAL: {total_count} | SCORE: {correct_count/total_count}")    
 
