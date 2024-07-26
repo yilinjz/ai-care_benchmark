@@ -5,9 +5,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "I want to brush my teeth and rinse my mouth, please guide me through this.",
-                    "zh-CN": "我想要刷牙漱口，请指导我完成这件事。",
-                    "zh-HK": "我想要刷牙漱口，請指導我完成呢件事。"
+                    "en-US": "I have just finished eating and getting ready to go to bed, what should I do?",
+                    "zh-CN": "刚吃完东西准备上床睡觉，我该做什么?",
+                    "zh-HK": "啱啱食完嘢準備上床瞓覺，我該做什麼？"
                 },
                 "answer": {
                     "en-US": "First pickup toothbrush which locates slightly-up in the frame, 1.79 meters away from you, then brush your teeth and rinse your mouth at the sink which locates slightly-right in the frame, 1.77 meters away from you.",
@@ -41,9 +41,9 @@
             {
                 "qid": "0",
                 "question": {
-                    "en-US": "The TV is off. I want to sit comfortably and watch a two-hour game. what should I do?",
-                    "zh-CN": "电视机是关着的。我想舒服地坐着收看一场两小时的球赛。我该怎么做？",
-                    "zh-HK": "電視機係关住嘅。 我想舒服咁坐住收看一場两小时嘅球賽。 我該點樣做法？"
+                    "en-US": "I want to sit comfortably and watch a two-hour game. what should I do?",
+                    "zh-CN": "我想舒服地坐着收看一场两小时的球赛。我该怎么做？",
+                    "zh-HK": "我想舒服咁坐住收看一場两小时嘅球賽。 我該點樣做法？"
                 },
                 "answer": {
                     "en-US": "First go turn on the tv locating slightly-up and right in the view, 5.06 meters from you. Then go sit on the couch locating slightly-left in the view, 2.1 ,meters from you.",
