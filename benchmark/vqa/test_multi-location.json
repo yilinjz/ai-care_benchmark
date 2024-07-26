@@ -43,11 +43,11 @@
                 "question": {
                     "en-US": "The TV is off. I want to sit comfortably and watch a two-hour game. what should I do?",
                     "zh-CN": "电视机是关着的。我想舒服地坐着收看一场两小时的球赛。我该怎么做？",
-                    "zh-HK": "電視機係关住嘅。 我想舒服咁坐住收看一場两小时嘅波。 我該點樣做法？"
+                    "zh-HK": "電視機係关住嘅。 我想舒服咁坐住收看一場两小时嘅球賽。 我該點樣做法？"
                 },
                 "answer": {
                     "en-US": "First go turn on the tv locating slightly-up and right in the view, 5.06 meters from you. Then go sit on the couch locating slightly-left in the view, 2.1 ,meters from you.",
-                    "zh-CN": "首先打开电视，电视位于视野中稍上方和右侧，距您 5.06 米。然后坐在视野稍偏左的沙发上，距离您 2.1 米。",
+                    "zh-CN": "首先打开电视，电视位于视野中稍上方和右侧，距您5.06 米。然后坐在视野稍偏左的沙发上，距离您2.1 米。",
                     "zh-HK": "首先打開電視，電視位於視野中稍上方同右側，距你5.06米。 然後坐視野稍偏左緊嘅梳化上，距離你2.1米。"
                 }
             }
