@@ -34,9 +34,9 @@ def cmd_agent():
     ### loops through list of benchmark files
     for benchmark_name in benchmark_list:
 
-        if SUBTASK.OBJECT_DETECTION.value in benchmark_list:
+        if SUBTASK.OBJECT_DETECTION.value in benchmark_name:
              category_tag = SUBTASK.OBJECT_DETECTION
-        elif SUBTASK.SEMANTIC_MATCHING.value in benchmark_list:
+        elif SUBTASK.SEMANTIC_MATCHING.value in benchmark_name:
              category_tag = SUBTASK.SEMANTIC_MATCHING
         else:
             raise ValueError("Unknown Subtask!")
