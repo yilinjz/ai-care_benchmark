@@ -1,0 +1,56 @@
+[
+    {
+        "scene_id": "bathroom_44",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I want to brush my teeth and rinse my mouth, please guide me through this.",
+                    "zh-CN": "我想要刷牙漱口，请指导我完成这件事。",
+                    "zh-HK": "我想要刷牙漱口，請指導我完成呢件事。"
+                },
+                "answer": {
+                    "en-US": "First pickup toothbrush which locates slightly-up in the frame, 1.79 meters away from you, then brush your teeth and rinse your mouth at the sink which locates slightly-right in the frame, 1.77 meters away from you.",
+                    "zh-CN": "先拿起位于框架稍上方、距您1.79米的牙刷，然后到位于框架稍右、距您1.77米的水槽刷牙、漱口。",
+                    "zh-HK": "拿起位於框架稍上方、距你1.79米嘅牙刷先，然後到位於框架稍右、距你1.77米嘅水槽刷牙、漱口。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_203",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "I am hungry but my food is cold, what should I do?",
+                    "zh-CN": "我饿了，但我的食物已经冷了，我该怎么办？",
+                    "zh-HK": "我餓了，但我嘅食物有凍，我點算好？"
+                },
+                "answer": {
+                    "en-US": "Use the microwave, which locates slightly-up, 1.72 meters from you, to heat up your food. Or use the oven, which locates slightly-down and slightly-right, 1.48 meters from you, to heat up your food.",
+                    "zh-CN": "使用位于稍上方、距离您 1.72 米的微波炉来加热食物。或者使用烤箱（位于距您稍下和稍右的位置，距离您 1.48 米）来加热食物。",
+                    "zh-HK": "使用位於稍上方、距離你1.72米嘅微波爐嚟加熱食物。 或者使用焗爐（位於距你稍下同稍右嘅位置，距離你1.48米）嚟加熱食物。"
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_356",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "The TV is off. I want to sit comfortably and watch a two-hour game. what should I do?",
+                    "zh-CN": "电视机是关着的。我想舒服地坐着收看一场两小时的球赛。我该怎么做？",
+                    "zh-HK": "電視機係关住嘅。 我想舒服咁坐住收看一場两小时嘅波。 我該點樣做法？"
+                },
+                "answer": {
+                    "en-US": "First go turn on the tv locating slightly-up and right in the view, 5.06 meters from you. Then go sit on the couch locating slightly-left in the view, 2.1 ,meters from you.",
+                    "zh-CN": "首先打开电视，电视位于视野中稍上方和右侧，距您 5.06 米。然后坐在视野稍偏左的沙发上，距离您 2.1 米。",
+                    "zh-HK": "首先打開電視，電視位於視野中稍上方同右側，距你5.06米。 然後坐視野稍偏左緊嘅梳化上，距離你2.1米。"
+                }
+            }
+        ]
+    }
+]
