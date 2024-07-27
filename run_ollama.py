@@ -38,6 +38,8 @@ def cmd_agent():
              category_tag = SUBTASK.OBJECT_DETECTION
         elif SUBTASK.SEMANTIC_MATCHING.value in benchmark_name:
              category_tag = SUBTASK.SEMANTIC_MATCHING
+        elif SUBTASK.QUESTION_GENERATION.value in benchmark_name:
+             category_tag = SUBTASK.QUESTION_GENERATION
         else:
             raise ValueError("Unknown Subtask!")
 

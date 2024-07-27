@@ -1,0 +1,74 @@
+[
+    {
+        "scene_id": "bathroom_44",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "",
+                    "zh-CN": "",
+                    "zh-HK": ""
+                },
+                "answer": {
+                    "en-US": "brush teeth & rinse",
+                    "zh-CN": "",
+                    "zh-HK": ""
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "kitchen_139",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "",
+                    "zh-CN": "",
+                    "zh-HK": ""
+                },
+                "answer": {
+                    "en-US": "microwave",
+                    "zh-CN": "",
+                    "zh-HK": ""
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "living_room_166",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "",
+                    "zh-CN": "",
+                    "zh-HK": ""
+                },
+                "answer": {
+                    "en-US": "potted plant, vase, handbag",
+                    "zh-CN": "",
+                    "zh-HK": ""
+                }
+            }
+        ]
+    },
+    {
+        "scene_id": "coffee_shop_122",
+        "qa_pairs": [
+            {
+                "qid": "0",
+                "question": {
+                    "en-US": "",
+                    "zh-CN": "",
+                    "zh-HK": ""
+                },
+                "answer": {
+                    "en-US": "toaster",
+                    "zh-CN": "",
+                    "zh-HK": ""
+                }
+            }
+        ]
+    }
+]
